@@ -17,10 +17,12 @@ Enter command line and run: <div>
 `` git clone https://github.com/M-Iwan/CARBIDE ``
 
 ## Installing virtual environments
-The main environment can be installed using: <div>
+The base environment can be installed using: <div>
 `` conda env create -f environment.yml ``
+To install an environment with all required dependencies: <div>
+`` conda env create -f environment-full.yml ``
 
-and activated using: <div>
+And activated using: <div>
 `` conda activate carbide ``
 
 ## Optional dependencies
@@ -30,14 +32,14 @@ The following require additional packages / setup:
 * Calculating CDDD embeddings requires creating a separate environment. The setup files are provided in src/cddd.
 
 ## Associated files
-The raw data, files required its processing, and raw results can be currently downloaded from DropBox via:
+The raw data, raw results, and other associated files can be currently downloaded from DropBox via:
 ``https://www.dropbox.com/scl/fo/6q7ckogb2hla4dsyzco5o/AIBBKYuioZQV11IRtnl_Z1M?rlkey=bcy185om4bejf99helkm9szd7&st=ku1nhuxj&dl=0``
 
 ## Running the code
-With environment set-up, start your preferred IDE (VS code, PyCharm, JupyterLab) and move to notebooks directory, which contains the following:
-* 1_Mapping.ipynb - Preparation of mapping from drug descriptions to lists of active ingredients
-* 2_Datasets.ipynb - Processing of FAERS data and Disproportionality Analysis
-* 3_Calculations.ipynb - Model training and prediction differences calculation
+We provide notebooks that allow to recreate the results of this study:
+* 1_Mapping.ipynb - Preparation of mapping from raw drug descriptions to active ingredients
+* 2_Datasets.ipynb - Preparation of CARBIDE variants: processing of FAERS data and Disproportionality Analysis
+* 3_Calculations.ipynb - Model training and prediction differences
 * 4_Analysis.ipynb - Aggregation and analysis of obtained data
 * 5_Figures.ipynb - Plotting of figures
 
