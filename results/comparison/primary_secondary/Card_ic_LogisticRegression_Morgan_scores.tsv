@@ -1,0 +1,101 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Primary	IC	Card	0	LogisticRegression	Morgan	Balanced Accuracy	0.578
+Primary	IC	Card	1	LogisticRegression	Morgan	Balanced Accuracy	0.57982
+Primary	IC	Card	2	LogisticRegression	Morgan	Balanced Accuracy	0.60935
+Primary	IC	Card	3	LogisticRegression	Morgan	Balanced Accuracy	0.50247
+Primary	IC	Card	4	LogisticRegression	Morgan	Balanced Accuracy	0.60183
+Secondary	IC	Card	0	LogisticRegression	Morgan	Balanced Accuracy	0.49631
+Secondary	IC	Card	1	LogisticRegression	Morgan	Balanced Accuracy	0.57148
+Secondary	IC	Card	2	LogisticRegression	Morgan	Balanced Accuracy	0.57617
+Secondary	IC	Card	3	LogisticRegression	Morgan	Balanced Accuracy	0.50069
+Secondary	IC	Card	4	LogisticRegression	Morgan	Balanced Accuracy	0.54255
+Primary	IC	Card	0	LogisticRegression	Morgan	GeomRS	0.5546
+Primary	IC	Card	1	LogisticRegression	Morgan	GeomRS	0.57976
+Primary	IC	Card	2	LogisticRegression	Morgan	GeomRS	0.60498
+Primary	IC	Card	3	LogisticRegression	Morgan	GeomRS	0.47917
+Primary	IC	Card	4	LogisticRegression	Morgan	GeomRS	0.58066
+Secondary	IC	Card	0	LogisticRegression	Morgan	GeomRS	0.47885
+Secondary	IC	Card	1	LogisticRegression	Morgan	GeomRS	0.56549
+Secondary	IC	Card	2	LogisticRegression	Morgan	GeomRS	0.56782
+Secondary	IC	Card	3	LogisticRegression	Morgan	GeomRS	0.47399
+Secondary	IC	Card	4	LogisticRegression	Morgan	GeomRS	0.49721
+Primary	IC	Card	0	LogisticRegression	Morgan	HarmRS	0.53214
+Primary	IC	Card	1	LogisticRegression	Morgan	HarmRS	0.57971
+Primary	IC	Card	2	LogisticRegression	Morgan	HarmRS	0.60064
+Primary	IC	Card	3	LogisticRegression	Morgan	HarmRS	0.45695
+Primary	IC	Card	4	LogisticRegression	Morgan	HarmRS	0.56023
+Secondary	IC	Card	0	LogisticRegression	Morgan	HarmRS	0.462
+Secondary	IC	Card	1	LogisticRegression	Morgan	HarmRS	0.55956
+Secondary	IC	Card	2	LogisticRegression	Morgan	HarmRS	0.55959
+Secondary	IC	Card	3	LogisticRegression	Morgan	HarmRS	0.44871
+Secondary	IC	Card	4	LogisticRegression	Morgan	HarmRS	0.45565
+Primary	IC	Card	0	LogisticRegression	Morgan	F1 Score	0.66572
+Primary	IC	Card	1	LogisticRegression	Morgan	F1 Score	0.62786
+Primary	IC	Card	2	LogisticRegression	Morgan	F1 Score	0.70365
+Primary	IC	Card	3	LogisticRegression	Morgan	F1 Score	0.62634
+Primary	IC	Card	4	LogisticRegression	Morgan	F1 Score	0.70532
+Secondary	IC	Card	0	LogisticRegression	Morgan	F1 Score	0.58239
+Secondary	IC	Card	1	LogisticRegression	Morgan	F1 Score	0.66616
+Secondary	IC	Card	2	LogisticRegression	Morgan	F1 Score	0.68665
+Secondary	IC	Card	3	LogisticRegression	Morgan	F1 Score	0.6294
+Secondary	IC	Card	4	LogisticRegression	Morgan	F1 Score	0.67865
+Primary	IC	Card	0	LogisticRegression	Morgan	ROC AUC	0.60018
+Primary	IC	Card	1	LogisticRegression	Morgan	ROC AUC	0.59746
+Primary	IC	Card	2	LogisticRegression	Morgan	ROC AUC	0.6644
+Primary	IC	Card	3	LogisticRegression	Morgan	ROC AUC	0.52386
+Primary	IC	Card	4	LogisticRegression	Morgan	ROC AUC	0.62623
+Secondary	IC	Card	0	LogisticRegression	Morgan	ROC AUC	0.52257
+Secondary	IC	Card	1	LogisticRegression	Morgan	ROC AUC	0.58996
+Secondary	IC	Card	2	LogisticRegression	Morgan	ROC AUC	0.59919
+Secondary	IC	Card	3	LogisticRegression	Morgan	ROC AUC	0.498
+Secondary	IC	Card	4	LogisticRegression	Morgan	ROC AUC	0.58443
+Primary	IC	Card	0	LogisticRegression	Morgan	MCC	0.16518
+Primary	IC	Card	1	LogisticRegression	Morgan	MCC	0.15479
+Primary	IC	Card	2	LogisticRegression	Morgan	MCC	0.21421
+Primary	IC	Card	3	LogisticRegression	Morgan	MCC	0.00507
+Primary	IC	Card	4	LogisticRegression	Morgan	MCC	0.21436
+Secondary	IC	Card	0	LogisticRegression	Morgan	MCC	-0.00761
+Secondary	IC	Card	1	LogisticRegression	Morgan	MCC	0.14145
+Secondary	IC	Card	2	LogisticRegression	Morgan	MCC	0.15031
+Secondary	IC	Card	3	LogisticRegression	Morgan	MCC	0.00142
+Secondary	IC	Card	4	LogisticRegression	Morgan	MCC	0.09384
+Primary	IC	Card	0	LogisticRegression	Morgan	Accuracy	0.59323
+Primary	IC	Card	1	LogisticRegression	Morgan	Accuracy	0.57785
+Primary	IC	Card	2	LogisticRegression	Morgan	Accuracy	0.63025
+Primary	IC	Card	3	LogisticRegression	Morgan	Accuracy	0.53252
+Primary	IC	Card	4	LogisticRegression	Morgan	Accuracy	0.62864
+Secondary	IC	Card	0	LogisticRegression	Morgan	Accuracy	0.50851
+Secondary	IC	Card	1	LogisticRegression	Morgan	Accuracy	0.59175
+Secondary	IC	Card	2	LogisticRegression	Morgan	Accuracy	0.60422
+Secondary	IC	Card	3	LogisticRegression	Morgan	Accuracy	0.53274
+Secondary	IC	Card	4	LogisticRegression	Morgan	Accuracy	0.57934
+Primary	IC	Card	0	LogisticRegression	Morgan	Recall	0.74082
+Primary	IC	Card	1	LogisticRegression	Morgan	Recall	0.5718
+Primary	IC	Card	2	LogisticRegression	Morgan	Recall	0.68219
+Primary	IC	Card	3	LogisticRegression	Morgan	Recall	0.65369
+Primary	IC	Card	4	LogisticRegression	Morgan	Recall	0.76006
+Secondary	IC	Card	0	LogisticRegression	Morgan	Recall	0.62679
+Secondary	IC	Card	1	LogisticRegression	Morgan	Recall	0.65402
+Secondary	IC	Card	2	LogisticRegression	Morgan	Recall	0.67392
+Secondary	IC	Card	3	LogisticRegression	Morgan	Recall	0.662
+Secondary	IC	Card	4	LogisticRegression	Morgan	Recall	0.75968
+Primary	IC	Card	0	LogisticRegression	Morgan	Specificity	0.41519
+Primary	IC	Card	1	LogisticRegression	Morgan	Specificity	0.58784
+Primary	IC	Card	2	LogisticRegression	Morgan	Specificity	0.5365
+Primary	IC	Card	3	LogisticRegression	Morgan	Specificity	0.35124
+Primary	IC	Card	4	LogisticRegression	Morgan	Specificity	0.4436
+Secondary	IC	Card	0	LogisticRegression	Morgan	Specificity	0.36582
+Secondary	IC	Card	1	LogisticRegression	Morgan	Specificity	0.48894
+Secondary	IC	Card	2	LogisticRegression	Morgan	Specificity	0.47843
+Secondary	IC	Card	3	LogisticRegression	Morgan	Specificity	0.33937
+Secondary	IC	Card	4	LogisticRegression	Morgan	Specificity	0.32542
+Primary	IC	Card	0	LogisticRegression	Morgan	Precision	0.60445
+Primary	IC	Card	1	LogisticRegression	Morgan	Precision	0.69611
+Primary	IC	Card	2	LogisticRegression	Morgan	Precision	0.7265
+Primary	IC	Card	3	LogisticRegression	Morgan	Precision	0.60118
+Primary	IC	Card	4	LogisticRegression	Morgan	Precision	0.65793
+Secondary	IC	Card	0	LogisticRegression	Morgan	Precision	0.54385
+Secondary	IC	Card	1	LogisticRegression	Morgan	Precision	0.67876
+Secondary	IC	Card	2	LogisticRegression	Morgan	Precision	0.69987
+Secondary	IC	Card	3	LogisticRegression	Morgan	Precision	0.59986
+Secondary	IC	Card	4	LogisticRegression	Morgan	Precision	0.61324

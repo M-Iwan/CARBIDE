@@ -1,0 +1,151 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Secondary	IC	Cred	0	LogisticRegression	MACCS	Balanced Accuracy	0.54968
+Secondary	IC	Cred	1	LogisticRegression	MACCS	Balanced Accuracy	0.54803
+Secondary	IC	Cred	2	LogisticRegression	MACCS	Balanced Accuracy	0.53135
+Secondary	IC	Cred	3	LogisticRegression	MACCS	Balanced Accuracy	0.56455
+Secondary	IC	Cred	4	LogisticRegression	MACCS	Balanced Accuracy	0.55438
+Secondary	IC	Card	0	LogisticRegression	MACCS	Balanced Accuracy	0.54002
+Secondary	IC	Card	1	LogisticRegression	MACCS	Balanced Accuracy	0.55426
+Secondary	IC	Card	2	LogisticRegression	MACCS	Balanced Accuracy	0.53252
+Secondary	IC	Card	3	LogisticRegression	MACCS	Balanced Accuracy	0.55919
+Secondary	IC	Card	4	LogisticRegression	MACCS	Balanced Accuracy	0.54527
+Secondary	IC	Cvas	0	LogisticRegression	MACCS	Balanced Accuracy	0.55073
+Secondary	IC	Cvas	1	LogisticRegression	MACCS	Balanced Accuracy	0.54757
+Secondary	IC	Cvas	2	LogisticRegression	MACCS	Balanced Accuracy	0.52611
+Secondary	IC	Cvas	3	LogisticRegression	MACCS	Balanced Accuracy	0.57698
+Secondary	IC	Cvas	4	LogisticRegression	MACCS	Balanced Accuracy	0.5409
+Secondary	IC	Cred	0	LogisticRegression	MACCS	GeomRS	0.42293
+Secondary	IC	Cred	1	LogisticRegression	MACCS	GeomRS	0.49951
+Secondary	IC	Cred	2	LogisticRegression	MACCS	GeomRS	0.47154
+Secondary	IC	Cred	3	LogisticRegression	MACCS	GeomRS	0.49809
+Secondary	IC	Cred	4	LogisticRegression	MACCS	GeomRS	0.49022
+Secondary	IC	Card	0	LogisticRegression	MACCS	GeomRS	0.40769
+Secondary	IC	Card	1	LogisticRegression	MACCS	GeomRS	0.50786
+Secondary	IC	Card	2	LogisticRegression	MACCS	GeomRS	0.46808
+Secondary	IC	Card	3	LogisticRegression	MACCS	GeomRS	0.48756
+Secondary	IC	Card	4	LogisticRegression	MACCS	GeomRS	0.4668
+Secondary	IC	Cvas	0	LogisticRegression	MACCS	GeomRS	0.44005
+Secondary	IC	Cvas	1	LogisticRegression	MACCS	GeomRS	0.50231
+Secondary	IC	Cvas	2	LogisticRegression	MACCS	GeomRS	0.49155
+Secondary	IC	Cvas	3	LogisticRegression	MACCS	GeomRS	0.52822
+Secondary	IC	Cvas	4	LogisticRegression	MACCS	GeomRS	0.47055
+Secondary	IC	Cred	0	LogisticRegression	MACCS	HarmRS	0.32541
+Secondary	IC	Cred	1	LogisticRegression	MACCS	HarmRS	0.4553
+Secondary	IC	Cred	2	LogisticRegression	MACCS	HarmRS	0.41847
+Secondary	IC	Cred	3	LogisticRegression	MACCS	HarmRS	0.43946
+Secondary	IC	Cred	4	LogisticRegression	MACCS	HarmRS	0.43349
+Secondary	IC	Card	0	LogisticRegression	MACCS	HarmRS	0.30779
+Secondary	IC	Card	1	LogisticRegression	MACCS	HarmRS	0.46534
+Secondary	IC	Card	2	LogisticRegression	MACCS	HarmRS	0.41144
+Secondary	IC	Card	3	LogisticRegression	MACCS	HarmRS	0.42511
+Secondary	IC	Card	4	LogisticRegression	MACCS	HarmRS	0.39963
+Secondary	IC	Cvas	0	LogisticRegression	MACCS	HarmRS	0.35161
+Secondary	IC	Cvas	1	LogisticRegression	MACCS	HarmRS	0.46079
+Secondary	IC	Cvas	2	LogisticRegression	MACCS	HarmRS	0.45925
+Secondary	IC	Cvas	3	LogisticRegression	MACCS	HarmRS	0.48359
+Secondary	IC	Cvas	4	LogisticRegression	MACCS	HarmRS	0.40934
+Secondary	IC	Cred	0	LogisticRegression	MACCS	F1 Score	0.75149
+Secondary	IC	Cred	1	LogisticRegression	MACCS	F1 Score	0.73862
+Secondary	IC	Cred	2	LogisticRegression	MACCS	F1 Score	0.73533
+Secondary	IC	Cred	3	LogisticRegression	MACCS	F1 Score	0.74558
+Secondary	IC	Cred	4	LogisticRegression	MACCS	F1 Score	0.72794
+Secondary	IC	Card	0	LogisticRegression	MACCS	F1 Score	0.74557
+Secondary	IC	Card	1	LogisticRegression	MACCS	F1 Score	0.74192
+Secondary	IC	Card	2	LogisticRegression	MACCS	F1 Score	0.74011
+Secondary	IC	Card	3	LogisticRegression	MACCS	F1 Score	0.74457
+Secondary	IC	Card	4	LogisticRegression	MACCS	F1 Score	0.72956
+Secondary	IC	Cvas	0	LogisticRegression	MACCS	F1 Score	0.74564
+Secondary	IC	Cvas	1	LogisticRegression	MACCS	F1 Score	0.73502
+Secondary	IC	Cvas	2	LogisticRegression	MACCS	F1 Score	0.70511
+Secondary	IC	Cvas	3	LogisticRegression	MACCS	F1 Score	0.74231
+Secondary	IC	Cvas	4	LogisticRegression	MACCS	F1 Score	0.72063
+Secondary	IC	Cred	0	LogisticRegression	MACCS	ROC AUC	0.64817
+Secondary	IC	Cred	1	LogisticRegression	MACCS	ROC AUC	0.57471
+Secondary	IC	Cred	2	LogisticRegression	MACCS	ROC AUC	0.57564
+Secondary	IC	Cred	3	LogisticRegression	MACCS	ROC AUC	0.59595
+Secondary	IC	Cred	4	LogisticRegression	MACCS	ROC AUC	0.62433
+Secondary	IC	Card	0	LogisticRegression	MACCS	ROC AUC	0.65027
+Secondary	IC	Card	1	LogisticRegression	MACCS	ROC AUC	0.58185
+Secondary	IC	Card	2	LogisticRegression	MACCS	ROC AUC	0.5853
+Secondary	IC	Card	3	LogisticRegression	MACCS	ROC AUC	0.5996
+Secondary	IC	Card	4	LogisticRegression	MACCS	ROC AUC	0.61731
+Secondary	IC	Cvas	0	LogisticRegression	MACCS	ROC AUC	0.64867
+Secondary	IC	Cvas	1	LogisticRegression	MACCS	ROC AUC	0.58368
+Secondary	IC	Cvas	2	LogisticRegression	MACCS	ROC AUC	0.55444
+Secondary	IC	Cvas	3	LogisticRegression	MACCS	ROC AUC	0.62045
+Secondary	IC	Cvas	4	LogisticRegression	MACCS	ROC AUC	0.59691
+Secondary	IC	Cred	0	LogisticRegression	MACCS	MCC	0.14034
+Secondary	IC	Cred	1	LogisticRegression	MACCS	MCC	0.1026
+Secondary	IC	Cred	2	LogisticRegression	MACCS	MCC	0.06809
+Secondary	IC	Cred	3	LogisticRegression	MACCS	MCC	0.15063
+Secondary	IC	Cred	4	LogisticRegression	MACCS	MCC	0.12554
+Secondary	IC	Card	0	LogisticRegression	MACCS	MCC	0.11333
+Secondary	IC	Card	1	LogisticRegression	MACCS	MCC	0.11573
+Secondary	IC	Card	2	LogisticRegression	MACCS	MCC	0.0716
+Secondary	IC	Card	3	LogisticRegression	MACCS	MCC	0.1397
+Secondary	IC	Card	4	LogisticRegression	MACCS	MCC	0.10818
+Secondary	IC	Cvas	0	LogisticRegression	MACCS	MCC	0.13556
+Secondary	IC	Cvas	1	LogisticRegression	MACCS	MCC	0.10069
+Secondary	IC	Cvas	2	LogisticRegression	MACCS	MCC	0.05299
+Secondary	IC	Cvas	3	LogisticRegression	MACCS	MCC	0.17163
+Secondary	IC	Cvas	4	LogisticRegression	MACCS	MCC	0.09511
+Secondary	IC	Cred	0	LogisticRegression	MACCS	Accuracy	0.63215
+Secondary	IC	Cred	1	LogisticRegression	MACCS	Accuracy	0.62854
+Secondary	IC	Cred	2	LogisticRegression	MACCS	Accuracy	0.61975
+Secondary	IC	Cred	3	LogisticRegression	MACCS	Accuracy	0.63818
+Secondary	IC	Cred	4	LogisticRegression	MACCS	Accuracy	0.61955
+Secondary	IC	Card	0	LogisticRegression	MACCS	Accuracy	0.6232
+Secondary	IC	Card	1	LogisticRegression	MACCS	Accuracy	0.63354
+Secondary	IC	Card	2	LogisticRegression	MACCS	Accuracy	0.62417
+Secondary	IC	Card	3	LogisticRegression	MACCS	Accuracy	0.63506
+Secondary	IC	Card	4	LogisticRegression	MACCS	Accuracy	0.61622
+Secondary	IC	Cvas	0	LogisticRegression	MACCS	Accuracy	0.62851
+Secondary	IC	Cvas	1	LogisticRegression	MACCS	Accuracy	0.62543
+Secondary	IC	Cvas	2	LogisticRegression	MACCS	Accuracy	0.59381
+Secondary	IC	Cvas	3	LogisticRegression	MACCS	Accuracy	0.6413
+Secondary	IC	Cvas	4	LogisticRegression	MACCS	Accuracy	0.60806
+Secondary	IC	Cred	0	LogisticRegression	MACCS	Recall	0.90079
+Secondary	IC	Cred	1	LogisticRegression	MACCS	Recall	0.77346
+Secondary	IC	Cred	2	LogisticRegression	MACCS	Recall	0.77626
+Secondary	IC	Cred	3	LogisticRegression	MACCS	Recall	0.8303
+Secondary	IC	Cred	4	LogisticRegression	MACCS	Recall	0.81325
+Secondary	IC	Card	0	LogisticRegression	MACCS	Recall	0.89416
+Secondary	IC	Card	1	LogisticRegression	MACCS	Recall	0.77625
+Secondary	IC	Card	2	LogisticRegression	MACCS	Recall	0.78644
+Secondary	IC	Card	3	LogisticRegression	MACCS	Recall	0.83302
+Secondary	IC	Card	4	LogisticRegression	MACCS	Recall	0.82708
+Secondary	IC	Cvas	0	LogisticRegression	MACCS	Recall	0.88188
+Secondary	IC	Cvas	1	LogisticRegression	MACCS	Recall	0.76557
+Secondary	IC	Cvas	2	LogisticRegression	MACCS	Recall	0.71367
+Secondary	IC	Cvas	3	LogisticRegression	MACCS	Recall	0.80912
+Secondary	IC	Cvas	4	LogisticRegression	MACCS	Recall	0.80766
+Secondary	IC	Cred	0	LogisticRegression	MACCS	Specificity	0.19857
+Secondary	IC	Cred	1	LogisticRegression	MACCS	Specificity	0.3226
+Secondary	IC	Cred	2	LogisticRegression	MACCS	Specificity	0.28644
+Secondary	IC	Cred	3	LogisticRegression	MACCS	Specificity	0.2988
+Secondary	IC	Cred	4	LogisticRegression	MACCS	Specificity	0.29551
+Secondary	IC	Card	0	LogisticRegression	MACCS	Specificity	0.18589
+Secondary	IC	Card	1	LogisticRegression	MACCS	Specificity	0.33226
+Secondary	IC	Card	2	LogisticRegression	MACCS	Specificity	0.2786
+Secondary	IC	Card	3	LogisticRegression	MACCS	Specificity	0.28537
+Secondary	IC	Card	4	LogisticRegression	MACCS	Specificity	0.26346
+Secondary	IC	Cvas	0	LogisticRegression	MACCS	Specificity	0.21958
+Secondary	IC	Cvas	1	LogisticRegression	MACCS	Specificity	0.32958
+Secondary	IC	Cvas	2	LogisticRegression	MACCS	Specificity	0.33856
+Secondary	IC	Cvas	3	LogisticRegression	MACCS	Specificity	0.34484
+Secondary	IC	Cvas	4	LogisticRegression	MACCS	Specificity	0.27414
+Secondary	IC	Cred	0	LogisticRegression	MACCS	Precision	0.64464
+Secondary	IC	Cred	1	LogisticRegression	MACCS	Precision	0.70678
+Secondary	IC	Cred	2	LogisticRegression	MACCS	Precision	0.6985
+Secondary	IC	Cred	3	LogisticRegression	MACCS	Precision	0.67655
+Secondary	IC	Cred	4	LogisticRegression	MACCS	Precision	0.65884
+Secondary	IC	Card	0	LogisticRegression	MACCS	Precision	0.63933
+Secondary	IC	Card	1	LogisticRegression	MACCS	Precision	0.7105
+Secondary	IC	Card	2	LogisticRegression	MACCS	Precision	0.69894
+Secondary	IC	Card	3	LogisticRegression	MACCS	Precision	0.6731
+Secondary	IC	Card	4	LogisticRegression	MACCS	Precision	0.6526
+Secondary	IC	Cvas	0	LogisticRegression	MACCS	Precision	0.64586
+Secondary	IC	Cvas	1	LogisticRegression	MACCS	Precision	0.70681
+Secondary	IC	Cvas	2	LogisticRegression	MACCS	Precision	0.69676
+Secondary	IC	Cvas	3	LogisticRegression	MACCS	Precision	0.68569
+Secondary	IC	Cvas	4	LogisticRegression	MACCS	Precision	0.65052

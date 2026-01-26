@@ -1,0 +1,101 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Primary	ROR	Card	3	XGBClassifier	RDKit	Balanced Accuracy	0.54533
+Primary	ROR	Card	4	XGBClassifier	RDKit	Balanced Accuracy	0.59851
+Primary	ROR	Card	2	XGBClassifier	RDKit	Balanced Accuracy	0.60294
+Primary	ROR	Card	0	XGBClassifier	RDKit	Balanced Accuracy	0.58778
+Primary	ROR	Card	1	XGBClassifier	RDKit	Balanced Accuracy	0.53863
+Secondary	ROR	Card	3	XGBClassifier	RDKit	Balanced Accuracy	0.51886
+Secondary	ROR	Card	4	XGBClassifier	RDKit	Balanced Accuracy	0.59621
+Secondary	ROR	Card	2	XGBClassifier	RDKit	Balanced Accuracy	0.6025
+Secondary	ROR	Card	0	XGBClassifier	RDKit	Balanced Accuracy	0.57508
+Secondary	ROR	Card	1	XGBClassifier	RDKit	Balanced Accuracy	0.54871
+Primary	ROR	Card	3	XGBClassifier	RDKit	GeomRS	0.54377
+Primary	ROR	Card	4	XGBClassifier	RDKit	GeomRS	0.59526
+Primary	ROR	Card	2	XGBClassifier	RDKit	GeomRS	0.60102
+Primary	ROR	Card	0	XGBClassifier	RDKit	GeomRS	0.58777
+Primary	ROR	Card	1	XGBClassifier	RDKit	GeomRS	0.50893
+Secondary	ROR	Card	3	XGBClassifier	RDKit	GeomRS	0.51851
+Secondary	ROR	Card	4	XGBClassifier	RDKit	GeomRS	0.59321
+Secondary	ROR	Card	2	XGBClassifier	RDKit	GeomRS	0.60077
+Secondary	ROR	Card	0	XGBClassifier	RDKit	GeomRS	0.57502
+Secondary	ROR	Card	1	XGBClassifier	RDKit	GeomRS	0.54175
+Primary	ROR	Card	3	XGBClassifier	RDKit	HarmRS	0.54222
+Primary	ROR	Card	4	XGBClassifier	RDKit	HarmRS	0.59203
+Primary	ROR	Card	2	XGBClassifier	RDKit	HarmRS	0.5991
+Primary	ROR	Card	0	XGBClassifier	RDKit	HarmRS	0.58777
+Primary	ROR	Card	1	XGBClassifier	RDKit	HarmRS	0.48088
+Secondary	ROR	Card	3	XGBClassifier	RDKit	HarmRS	0.51817
+Secondary	ROR	Card	4	XGBClassifier	RDKit	HarmRS	0.59023
+Secondary	ROR	Card	2	XGBClassifier	RDKit	HarmRS	0.59906
+Secondary	ROR	Card	0	XGBClassifier	RDKit	HarmRS	0.57496
+Secondary	ROR	Card	1	XGBClassifier	RDKit	HarmRS	0.53488
+Primary	ROR	Card	3	XGBClassifier	RDKit	F1 Score	0.58328
+Primary	ROR	Card	4	XGBClassifier	RDKit	F1 Score	0.58033
+Primary	ROR	Card	2	XGBClassifier	RDKit	F1 Score	0.61578
+Primary	ROR	Card	0	XGBClassifier	RDKit	F1 Score	0.57757
+Primary	ROR	Card	1	XGBClassifier	RDKit	F1 Score	0.45741
+Secondary	ROR	Card	3	XGBClassifier	RDKit	F1 Score	0.54705
+Secondary	ROR	Card	4	XGBClassifier	RDKit	F1 Score	0.63009
+Secondary	ROR	Card	2	XGBClassifier	RDKit	F1 Score	0.61669
+Secondary	ROR	Card	0	XGBClassifier	RDKit	F1 Score	0.56904
+Secondary	ROR	Card	1	XGBClassifier	RDKit	F1 Score	0.52909
+Primary	ROR	Card	3	XGBClassifier	RDKit	ROC AUC	0.57109
+Primary	ROR	Card	4	XGBClassifier	RDKit	ROC AUC	0.63671
+Primary	ROR	Card	2	XGBClassifier	RDKit	ROC AUC	0.64056
+Primary	ROR	Card	0	XGBClassifier	RDKit	ROC AUC	0.62799
+Primary	ROR	Card	1	XGBClassifier	RDKit	ROC AUC	0.55734
+Secondary	ROR	Card	3	XGBClassifier	RDKit	ROC AUC	0.51981
+Secondary	ROR	Card	4	XGBClassifier	RDKit	ROC AUC	0.63795
+Secondary	ROR	Card	2	XGBClassifier	RDKit	ROC AUC	0.64744
+Secondary	ROR	Card	0	XGBClassifier	RDKit	ROC AUC	0.62735
+Secondary	ROR	Card	1	XGBClassifier	RDKit	ROC AUC	0.56679
+Primary	ROR	Card	3	XGBClassifier	RDKit	MCC	0.09075
+Primary	ROR	Card	4	XGBClassifier	RDKit	MCC	0.19818
+Primary	ROR	Card	2	XGBClassifier	RDKit	MCC	0.20323
+Primary	ROR	Card	0	XGBClassifier	RDKit	MCC	0.17545
+Primary	ROR	Card	1	XGBClassifier	RDKit	MCC	0.08161
+Secondary	ROR	Card	3	XGBClassifier	RDKit	MCC	0.03763
+Secondary	ROR	Card	4	XGBClassifier	RDKit	MCC	0.19384
+Secondary	ROR	Card	2	XGBClassifier	RDKit	MCC	0.2023
+Secondary	ROR	Card	0	XGBClassifier	RDKit	MCC	0.15006
+Secondary	ROR	Card	1	XGBClassifier	RDKit	MCC	0.09794
+Primary	ROR	Card	3	XGBClassifier	RDKit	Accuracy	0.54852
+Primary	ROR	Card	4	XGBClassifier	RDKit	Accuracy	0.59589
+Primary	ROR	Card	2	XGBClassifier	RDKit	Accuracy	0.59473
+Primary	ROR	Card	0	XGBClassifier	RDKit	Accuracy	0.58787
+Primary	ROR	Card	1	XGBClassifier	RDKit	Accuracy	0.51659
+Secondary	ROR	Card	3	XGBClassifier	RDKit	Accuracy	0.52032
+Secondary	ROR	Card	4	XGBClassifier	RDKit	Accuracy	0.59872
+Secondary	ROR	Card	2	XGBClassifier	RDKit	Accuracy	0.59473
+Secondary	ROR	Card	0	XGBClassifier	RDKit	Accuracy	0.57477
+Secondary	ROR	Card	1	XGBClassifier	RDKit	Accuracy	0.53782
+Primary	ROR	Card	3	XGBClassifier	RDKit	Recall	0.58651
+Primary	ROR	Card	4	XGBClassifier	RDKit	Recall	0.53626
+Primary	ROR	Card	2	XGBClassifier	RDKit	Recall	0.55484
+Primary	ROR	Card	0	XGBClassifier	RDKit	Recall	0.58543
+Primary	ROR	Card	1	XGBClassifier	RDKit	Recall	0.36226
+Secondary	ROR	Card	3	XGBClassifier	RDKit	Recall	0.53771
+Secondary	ROR	Card	4	XGBClassifier	RDKit	Recall	0.65594
+Secondary	ROR	Card	2	XGBClassifier	RDKit	Recall	0.55698
+Secondary	ROR	Card	0	XGBClassifier	RDKit	Recall	0.58333
+Secondary	ROR	Card	1	XGBClassifier	RDKit	Recall	0.46161
+Primary	ROR	Card	3	XGBClassifier	RDKit	Specificity	0.50415
+Primary	ROR	Card	4	XGBClassifier	RDKit	Specificity	0.66075
+Primary	ROR	Card	2	XGBClassifier	RDKit	Specificity	0.65103
+Primary	ROR	Card	0	XGBClassifier	RDKit	Specificity	0.59013
+Primary	ROR	Card	1	XGBClassifier	RDKit	Specificity	0.715
+Secondary	ROR	Card	3	XGBClassifier	RDKit	Specificity	0.5
+Secondary	ROR	Card	4	XGBClassifier	RDKit	Specificity	0.53649
+Secondary	ROR	Card	2	XGBClassifier	RDKit	Specificity	0.64801
+Secondary	ROR	Card	0	XGBClassifier	RDKit	Specificity	0.56682
+Secondary	ROR	Card	1	XGBClassifier	RDKit	Specificity	0.63581
+Primary	ROR	Card	3	XGBClassifier	RDKit	Precision	0.58008
+Primary	ROR	Card	4	XGBClassifier	RDKit	Precision	0.63228
+Primary	ROR	Card	2	XGBClassifier	RDKit	Precision	0.69176
+Primary	ROR	Card	0	XGBClassifier	RDKit	Precision	0.56991
+Primary	ROR	Card	1	XGBClassifier	RDKit	Precision	0.62036
+Secondary	ROR	Card	3	XGBClassifier	RDKit	Precision	0.55673
+Secondary	ROR	Card	4	XGBClassifier	RDKit	Precision	0.6062
+Secondary	ROR	Card	2	XGBClassifier	RDKit	Precision	0.69074
+Secondary	ROR	Card	0	XGBClassifier	RDKit	Precision	0.55542
+Secondary	ROR	Card	1	XGBClassifier	RDKit	Precision	0.61969

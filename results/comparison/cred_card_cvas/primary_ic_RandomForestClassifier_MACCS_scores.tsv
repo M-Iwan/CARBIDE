@@ -1,0 +1,151 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Primary	IC	Cred	1	RandomForestClassifier	MACCS	Balanced Accuracy	0.55362
+Primary	IC	Cred	0	RandomForestClassifier	MACCS	Balanced Accuracy	0.58248
+Primary	IC	Cred	2	RandomForestClassifier	MACCS	Balanced Accuracy	0.58006
+Primary	IC	Cred	3	RandomForestClassifier	MACCS	Balanced Accuracy	0.54265
+Primary	IC	Cred	4	RandomForestClassifier	MACCS	Balanced Accuracy	0.5917
+Primary	IC	Card	1	RandomForestClassifier	MACCS	Balanced Accuracy	0.54195
+Primary	IC	Card	0	RandomForestClassifier	MACCS	Balanced Accuracy	0.56895
+Primary	IC	Card	2	RandomForestClassifier	MACCS	Balanced Accuracy	0.58055
+Primary	IC	Card	3	RandomForestClassifier	MACCS	Balanced Accuracy	0.53747
+Primary	IC	Card	4	RandomForestClassifier	MACCS	Balanced Accuracy	0.56539
+Primary	IC	Cvas	1	RandomForestClassifier	MACCS	Balanced Accuracy	0.56557
+Primary	IC	Cvas	0	RandomForestClassifier	MACCS	Balanced Accuracy	0.56438
+Primary	IC	Cvas	2	RandomForestClassifier	MACCS	Balanced Accuracy	0.59473
+Primary	IC	Cvas	3	RandomForestClassifier	MACCS	Balanced Accuracy	0.53986
+Primary	IC	Cvas	4	RandomForestClassifier	MACCS	Balanced Accuracy	0.56409
+Primary	IC	Cred	1	RandomForestClassifier	MACCS	GeomRS	0.54503
+Primary	IC	Cred	0	RandomForestClassifier	MACCS	GeomRS	0.54684
+Primary	IC	Cred	2	RandomForestClassifier	MACCS	GeomRS	0.56477
+Primary	IC	Cred	3	RandomForestClassifier	MACCS	GeomRS	0.51276
+Primary	IC	Cred	4	RandomForestClassifier	MACCS	GeomRS	0.58077
+Primary	IC	Card	1	RandomForestClassifier	MACCS	GeomRS	0.53334
+Primary	IC	Card	0	RandomForestClassifier	MACCS	GeomRS	0.52163
+Primary	IC	Card	2	RandomForestClassifier	MACCS	GeomRS	0.55521
+Primary	IC	Card	3	RandomForestClassifier	MACCS	GeomRS	0.51799
+Primary	IC	Card	4	RandomForestClassifier	MACCS	GeomRS	0.51709
+Primary	IC	Cvas	1	RandomForestClassifier	MACCS	GeomRS	0.55807
+Primary	IC	Cvas	0	RandomForestClassifier	MACCS	GeomRS	0.51561
+Primary	IC	Cvas	2	RandomForestClassifier	MACCS	GeomRS	0.57904
+Primary	IC	Cvas	3	RandomForestClassifier	MACCS	GeomRS	0.49052
+Primary	IC	Cvas	4	RandomForestClassifier	MACCS	GeomRS	0.5275
+Primary	IC	Cred	1	RandomForestClassifier	MACCS	HarmRS	0.53658
+Primary	IC	Cred	0	RandomForestClassifier	MACCS	HarmRS	0.51338
+Primary	IC	Cred	2	RandomForestClassifier	MACCS	HarmRS	0.54988
+Primary	IC	Cred	3	RandomForestClassifier	MACCS	HarmRS	0.48452
+Primary	IC	Cred	4	RandomForestClassifier	MACCS	HarmRS	0.57003
+Primary	IC	Card	1	RandomForestClassifier	MACCS	HarmRS	0.52487
+Primary	IC	Card	0	RandomForestClassifier	MACCS	HarmRS	0.47825
+Primary	IC	Card	2	RandomForestClassifier	MACCS	HarmRS	0.53099
+Primary	IC	Card	3	RandomForestClassifier	MACCS	HarmRS	0.49921
+Primary	IC	Card	4	RandomForestClassifier	MACCS	HarmRS	0.47291
+Primary	IC	Cvas	1	RandomForestClassifier	MACCS	HarmRS	0.55067
+Primary	IC	Cvas	0	RandomForestClassifier	MACCS	HarmRS	0.47105
+Primary	IC	Cvas	2	RandomForestClassifier	MACCS	HarmRS	0.56377
+Primary	IC	Cvas	3	RandomForestClassifier	MACCS	HarmRS	0.44569
+Primary	IC	Cvas	4	RandomForestClassifier	MACCS	HarmRS	0.49328
+Primary	IC	Cred	1	RandomForestClassifier	MACCS	F1 Score	0.66841
+Primary	IC	Cred	0	RandomForestClassifier	MACCS	F1 Score	0.68623
+Primary	IC	Cred	2	RandomForestClassifier	MACCS	F1 Score	0.70413
+Primary	IC	Cred	3	RandomForestClassifier	MACCS	F1 Score	0.67388
+Primary	IC	Cred	4	RandomForestClassifier	MACCS	F1 Score	0.68607
+Primary	IC	Card	1	RandomForestClassifier	MACCS	F1 Score	0.65778
+Primary	IC	Card	0	RandomForestClassifier	MACCS	F1 Score	0.68403
+Primary	IC	Card	2	RandomForestClassifier	MACCS	F1 Score	0.72064
+Primary	IC	Card	3	RandomForestClassifier	MACCS	F1 Score	0.65495
+Primary	IC	Card	4	RandomForestClassifier	MACCS	F1 Score	0.70921
+Primary	IC	Cvas	1	RandomForestClassifier	MACCS	F1 Score	0.67621
+Primary	IC	Cvas	0	RandomForestClassifier	MACCS	F1 Score	0.68114
+Primary	IC	Cvas	2	RandomForestClassifier	MACCS	F1 Score	0.71783
+Primary	IC	Cvas	3	RandomForestClassifier	MACCS	F1 Score	0.69073
+Primary	IC	Cvas	4	RandomForestClassifier	MACCS	F1 Score	0.69745
+Primary	IC	Cred	1	RandomForestClassifier	MACCS	ROC AUC	0.58068
+Primary	IC	Cred	0	RandomForestClassifier	MACCS	ROC AUC	0.65624
+Primary	IC	Cred	2	RandomForestClassifier	MACCS	ROC AUC	0.63947
+Primary	IC	Cred	3	RandomForestClassifier	MACCS	ROC AUC	0.56954
+Primary	IC	Cred	4	RandomForestClassifier	MACCS	ROC AUC	0.64847
+Primary	IC	Card	1	RandomForestClassifier	MACCS	ROC AUC	0.58054
+Primary	IC	Card	0	RandomForestClassifier	MACCS	ROC AUC	0.6368
+Primary	IC	Card	2	RandomForestClassifier	MACCS	ROC AUC	0.64857
+Primary	IC	Card	3	RandomForestClassifier	MACCS	ROC AUC	0.55888
+Primary	IC	Card	4	RandomForestClassifier	MACCS	ROC AUC	0.63503
+Primary	IC	Cvas	1	RandomForestClassifier	MACCS	ROC AUC	0.59635
+Primary	IC	Cvas	0	RandomForestClassifier	MACCS	ROC AUC	0.64449
+Primary	IC	Cvas	2	RandomForestClassifier	MACCS	ROC AUC	0.65926
+Primary	IC	Cvas	3	RandomForestClassifier	MACCS	ROC AUC	0.57633
+Primary	IC	Cvas	4	RandomForestClassifier	MACCS	ROC AUC	0.6283
+Primary	IC	Cred	1	RandomForestClassifier	MACCS	MCC	0.1052
+Primary	IC	Cred	0	RandomForestClassifier	MACCS	MCC	0.18063
+Primary	IC	Cred	2	RandomForestClassifier	MACCS	MCC	0.16167
+Primary	IC	Cred	3	RandomForestClassifier	MACCS	MCC	0.08994
+Primary	IC	Cred	4	RandomForestClassifier	MACCS	MCC	0.18636
+Primary	IC	Card	1	RandomForestClassifier	MACCS	MCC	0.08215
+Primary	IC	Card	0	RandomForestClassifier	MACCS	MCC	0.15526
+Primary	IC	Card	2	RandomForestClassifier	MACCS	MCC	0.16754
+Primary	IC	Card	3	RandomForestClassifier	MACCS	MCC	0.07693
+Primary	IC	Card	4	RandomForestClassifier	MACCS	MCC	0.14645
+Primary	IC	Cvas	1	RandomForestClassifier	MACCS	MCC	0.12856
+Primary	IC	Cvas	0	RandomForestClassifier	MACCS	MCC	0.1453
+Primary	IC	Cvas	2	RandomForestClassifier	MACCS	MCC	0.19231
+Primary	IC	Cvas	3	RandomForestClassifier	MACCS	MCC	0.08823
+Primary	IC	Cvas	4	RandomForestClassifier	MACCS	MCC	0.13884
+Primary	IC	Cred	1	RandomForestClassifier	MACCS	Accuracy	0.58219
+Primary	IC	Cred	0	RandomForestClassifier	MACCS	Accuracy	0.60383
+Primary	IC	Cred	2	RandomForestClassifier	MACCS	Accuracy	0.61703
+Primary	IC	Cred	3	RandomForestClassifier	MACCS	Accuracy	0.57937
+Primary	IC	Cred	4	RandomForestClassifier	MACCS	Accuracy	0.61398
+Primary	IC	Card	1	RandomForestClassifier	MACCS	Accuracy	0.57027
+Primary	IC	Card	0	RandomForestClassifier	MACCS	Accuracy	0.59313
+Primary	IC	Card	2	RandomForestClassifier	MACCS	Accuracy	0.62794
+Primary	IC	Card	3	RandomForestClassifier	MACCS	Accuracy	0.56712
+Primary	IC	Card	4	RandomForestClassifier	MACCS	Accuracy	0.61038
+Primary	IC	Cvas	1	RandomForestClassifier	MACCS	Accuracy	0.59259
+Primary	IC	Cvas	0	RandomForestClassifier	MACCS	Accuracy	0.5888
+Primary	IC	Cvas	2	RandomForestClassifier	MACCS	Accuracy	0.63265
+Primary	IC	Cvas	3	RandomForestClassifier	MACCS	Accuracy	0.58648
+Primary	IC	Cvas	4	RandomForestClassifier	MACCS	Accuracy	0.60341
+Primary	IC	Cred	1	RandomForestClassifier	MACCS	Recall	0.65073
+Primary	IC	Cred	0	RandomForestClassifier	MACCS	Recall	0.78311
+Primary	IC	Cred	2	RandomForestClassifier	MACCS	Recall	0.71237
+Primary	IC	Cred	3	RandomForestClassifier	MACCS	Recall	0.72026
+Primary	IC	Cred	4	RandomForestClassifier	MACCS	Recall	0.70494
+Primary	IC	Card	1	RandomForestClassifier	MACCS	Recall	0.63818
+Primary	IC	Card	0	RandomForestClassifier	MACCS	Recall	0.79613
+Primary	IC	Card	2	RandomForestClassifier	MACCS	Recall	0.75017
+Primary	IC	Card	3	RandomForestClassifier	MACCS	Recall	0.68088
+Primary	IC	Card	4	RandomForestClassifier	MACCS	Recall	0.79406
+Primary	IC	Cvas	1	RandomForestClassifier	MACCS	Recall	0.65739
+Primary	IC	Cvas	0	RandomForestClassifier	MACCS	Recall	0.7939
+Primary	IC	Cvas	2	RandomForestClassifier	MACCS	Recall	0.73043
+Primary	IC	Cvas	3	RandomForestClassifier	MACCS	Recall	0.76533
+Primary	IC	Cvas	4	RandomForestClassifier	MACCS	Recall	0.76395
+Primary	IC	Cred	1	RandomForestClassifier	MACCS	Specificity	0.45651
+Primary	IC	Cred	0	RandomForestClassifier	MACCS	Specificity	0.38185
+Primary	IC	Cred	2	RandomForestClassifier	MACCS	Specificity	0.44774
+Primary	IC	Cred	3	RandomForestClassifier	MACCS	Specificity	0.36504
+Primary	IC	Cred	4	RandomForestClassifier	MACCS	Specificity	0.47847
+Primary	IC	Card	1	RandomForestClassifier	MACCS	Specificity	0.44572
+Primary	IC	Card	0	RandomForestClassifier	MACCS	Specificity	0.34178
+Primary	IC	Card	2	RandomForestClassifier	MACCS	Specificity	0.41093
+Primary	IC	Card	3	RandomForestClassifier	MACCS	Specificity	0.39407
+Primary	IC	Card	4	RandomForestClassifier	MACCS	Specificity	0.33672
+Primary	IC	Cvas	1	RandomForestClassifier	MACCS	Specificity	0.47376
+Primary	IC	Cvas	0	RandomForestClassifier	MACCS	Specificity	0.33487
+Primary	IC	Cvas	2	RandomForestClassifier	MACCS	Specificity	0.45903
+Primary	IC	Cvas	3	RandomForestClassifier	MACCS	Specificity	0.31439
+Primary	IC	Cvas	4	RandomForestClassifier	MACCS	Specificity	0.36423
+Primary	IC	Cred	1	RandomForestClassifier	MACCS	Precision	0.68709
+Primary	IC	Cred	0	RandomForestClassifier	MACCS	Precision	0.61068
+Primary	IC	Cred	2	RandomForestClassifier	MACCS	Precision	0.69608
+Primary	IC	Cred	3	RandomForestClassifier	MACCS	Precision	0.63312
+Primary	IC	Cred	4	RandomForestClassifier	MACCS	Precision	0.66819
+Primary	IC	Card	1	RandomForestClassifier	MACCS	Precision	0.67862
+Primary	IC	Card	0	RandomForestClassifier	MACCS	Precision	0.59961
+Primary	IC	Card	2	RandomForestClassifier	MACCS	Precision	0.69335
+Primary	IC	Card	3	RandomForestClassifier	MACCS	Precision	0.63093
+Primary	IC	Card	4	RandomForestClassifier	MACCS	Precision	0.64075
+Primary	IC	Cvas	1	RandomForestClassifier	MACCS	Precision	0.69614
+Primary	IC	Cvas	0	RandomForestClassifier	MACCS	Precision	0.59642
+Primary	IC	Cvas	2	RandomForestClassifier	MACCS	Precision	0.70565
+Primary	IC	Cvas	3	RandomForestClassifier	MACCS	Precision	0.62938
+Primary	IC	Cvas	4	RandomForestClassifier	MACCS	Precision	0.6416

@@ -1,0 +1,101 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Primary	ROR	Cred	0	XGBClassifier	CDDD	Balanced Accuracy	0.56051
+Primary	ROR	Cred	1	XGBClassifier	CDDD	Balanced Accuracy	0.55617
+Primary	ROR	Cred	2	XGBClassifier	CDDD	Balanced Accuracy	0.61971
+Primary	ROR	Cred	3	XGBClassifier	CDDD	Balanced Accuracy	0.55466
+Primary	ROR	Cred	4	XGBClassifier	CDDD	Balanced Accuracy	0.60668
+Secondary	ROR	Cred	0	XGBClassifier	CDDD	Balanced Accuracy	0.55577
+Secondary	ROR	Cred	1	XGBClassifier	CDDD	Balanced Accuracy	0.58318
+Secondary	ROR	Cred	2	XGBClassifier	CDDD	Balanced Accuracy	0.61112
+Secondary	ROR	Cred	3	XGBClassifier	CDDD	Balanced Accuracy	0.56689
+Secondary	ROR	Cred	4	XGBClassifier	CDDD	Balanced Accuracy	0.56882
+Primary	ROR	Cred	0	XGBClassifier	CDDD	GeomRS	0.56048
+Primary	ROR	Cred	1	XGBClassifier	CDDD	GeomRS	0.53232
+Primary	ROR	Cred	2	XGBClassifier	CDDD	GeomRS	0.60367
+Primary	ROR	Cred	3	XGBClassifier	CDDD	GeomRS	0.55415
+Primary	ROR	Cred	4	XGBClassifier	CDDD	GeomRS	0.60638
+Secondary	ROR	Cred	0	XGBClassifier	CDDD	GeomRS	0.55422
+Secondary	ROR	Cred	1	XGBClassifier	CDDD	GeomRS	0.57237
+Secondary	ROR	Cred	2	XGBClassifier	CDDD	GeomRS	0.61062
+Secondary	ROR	Cred	3	XGBClassifier	CDDD	GeomRS	0.56293
+Secondary	ROR	Cred	4	XGBClassifier	CDDD	GeomRS	0.56284
+Primary	ROR	Cred	0	XGBClassifier	CDDD	HarmRS	0.56045
+Primary	ROR	Cred	1	XGBClassifier	CDDD	HarmRS	0.50949
+Primary	ROR	Cred	2	XGBClassifier	CDDD	HarmRS	0.58804
+Primary	ROR	Cred	3	XGBClassifier	CDDD	HarmRS	0.55365
+Primary	ROR	Cred	4	XGBClassifier	CDDD	HarmRS	0.60607
+Secondary	ROR	Cred	0	XGBClassifier	CDDD	HarmRS	0.55267
+Secondary	ROR	Cred	1	XGBClassifier	CDDD	HarmRS	0.56176
+Secondary	ROR	Cred	2	XGBClassifier	CDDD	HarmRS	0.61011
+Secondary	ROR	Cred	3	XGBClassifier	CDDD	HarmRS	0.559
+Secondary	ROR	Cred	4	XGBClassifier	CDDD	HarmRS	0.55693
+Primary	ROR	Cred	0	XGBClassifier	CDDD	F1 Score	0.55002
+Primary	ROR	Cred	1	XGBClassifier	CDDD	F1 Score	0.48771
+Primary	ROR	Cred	2	XGBClassifier	CDDD	F1 Score	0.58007
+Primary	ROR	Cred	3	XGBClassifier	CDDD	F1 Score	0.57788
+Primary	ROR	Cred	4	XGBClassifier	CDDD	F1 Score	0.62172
+Secondary	ROR	Cred	0	XGBClassifier	CDDD	F1 Score	0.52469
+Secondary	ROR	Cred	1	XGBClassifier	CDDD	F1 Score	0.55003
+Secondary	ROR	Cred	2	XGBClassifier	CDDD	F1 Score	0.63379
+Secondary	ROR	Cred	3	XGBClassifier	CDDD	F1 Score	0.60796
+Secondary	ROR	Cred	4	XGBClassifier	CDDD	F1 Score	0.61037
+Primary	ROR	Cred	0	XGBClassifier	CDDD	ROC AUC	0.59076
+Primary	ROR	Cred	1	XGBClassifier	CDDD	ROC AUC	0.59462
+Primary	ROR	Cred	2	XGBClassifier	CDDD	ROC AUC	0.65913
+Primary	ROR	Cred	3	XGBClassifier	CDDD	ROC AUC	0.57822
+Primary	ROR	Cred	4	XGBClassifier	CDDD	ROC AUC	0.63478
+Secondary	ROR	Cred	0	XGBClassifier	CDDD	ROC AUC	0.58702
+Secondary	ROR	Cred	1	XGBClassifier	CDDD	ROC AUC	0.6231
+Secondary	ROR	Cred	2	XGBClassifier	CDDD	ROC AUC	0.65222
+Secondary	ROR	Cred	3	XGBClassifier	CDDD	ROC AUC	0.59076
+Secondary	ROR	Cred	4	XGBClassifier	CDDD	ROC AUC	0.61489
+Primary	ROR	Cred	0	XGBClassifier	CDDD	MCC	0.12087
+Primary	ROR	Cred	1	XGBClassifier	CDDD	MCC	0.11738
+Primary	ROR	Cred	2	XGBClassifier	CDDD	MCC	0.24359
+Primary	ROR	Cred	3	XGBClassifier	CDDD	MCC	0.10932
+Primary	ROR	Cred	4	XGBClassifier	CDDD	MCC	0.21347
+Secondary	ROR	Cred	0	XGBClassifier	CDDD	MCC	0.11183
+Secondary	ROR	Cred	1	XGBClassifier	CDDD	MCC	0.16884
+Secondary	ROR	Cred	2	XGBClassifier	CDDD	MCC	0.21941
+Secondary	ROR	Cred	3	XGBClassifier	CDDD	MCC	0.13494
+Secondary	ROR	Cred	4	XGBClassifier	CDDD	MCC	0.13957
+Primary	ROR	Cred	0	XGBClassifier	CDDD	Accuracy	0.56021
+Primary	ROR	Cred	1	XGBClassifier	CDDD	Accuracy	0.53784
+Primary	ROR	Cred	2	XGBClassifier	CDDD	Accuracy	0.59732
+Primary	ROR	Cred	3	XGBClassifier	CDDD	Accuracy	0.55587
+Primary	ROR	Cred	4	XGBClassifier	CDDD	Accuracy	0.60728
+Secondary	ROR	Cred	0	XGBClassifier	CDDD	Accuracy	0.55788
+Secondary	ROR	Cred	1	XGBClassifier	CDDD	Accuracy	0.57046
+Secondary	ROR	Cred	2	XGBClassifier	CDDD	Accuracy	0.60714
+Secondary	ROR	Cred	3	XGBClassifier	CDDD	Accuracy	0.57032
+Secondary	ROR	Cred	4	XGBClassifier	CDDD	Accuracy	0.57139
+Primary	ROR	Cred	0	XGBClassifier	CDDD	Recall	0.56646
+Primary	ROR	Cred	1	XGBClassifier	CDDD	Recall	0.39503
+Primary	ROR	Cred	2	XGBClassifier	CDDD	Recall	0.4796
+Primary	ROR	Cred	3	XGBClassifier	CDDD	Recall	0.5783
+Primary	ROR	Cred	4	XGBClassifier	CDDD	Recall	0.62586
+Secondary	ROR	Cred	0	XGBClassifier	CDDD	Recall	0.51427
+Secondary	ROR	Cred	1	XGBClassifier	CDDD	Recall	0.47142
+Secondary	ROR	Cred	2	XGBClassifier	CDDD	Recall	0.58622
+Secondary	ROR	Cred	3	XGBClassifier	CDDD	Recall	0.63378
+Secondary	ROR	Cred	4	XGBClassifier	CDDD	Recall	0.65104
+Primary	ROR	Cred	0	XGBClassifier	CDDD	Specificity	0.55457
+Primary	ROR	Cred	1	XGBClassifier	CDDD	Specificity	0.71731
+Primary	ROR	Cred	2	XGBClassifier	CDDD	Specificity	0.75983
+Primary	ROR	Cred	3	XGBClassifier	CDDD	Specificity	0.53101
+Primary	ROR	Cred	4	XGBClassifier	CDDD	Specificity	0.58749
+Secondary	ROR	Cred	0	XGBClassifier	CDDD	Specificity	0.59726
+Secondary	ROR	Cred	1	XGBClassifier	CDDD	Specificity	0.69494
+Secondary	ROR	Cred	2	XGBClassifier	CDDD	Specificity	0.63603
+Secondary	ROR	Cred	3	XGBClassifier	CDDD	Specificity	0.5
+Secondary	ROR	Cred	4	XGBClassifier	CDDD	Specificity	0.4866
+Primary	ROR	Cred	0	XGBClassifier	CDDD	Precision	0.53451
+Primary	ROR	Cred	1	XGBClassifier	CDDD	Precision	0.63719
+Primary	ROR	Cred	2	XGBClassifier	CDDD	Precision	0.7338
+Primary	ROR	Cred	3	XGBClassifier	CDDD	Precision	0.57745
+Primary	ROR	Cred	4	XGBClassifier	CDDD	Precision	0.61763
+Secondary	ROR	Cred	0	XGBClassifier	CDDD	Precision	0.53553
+Secondary	ROR	Cred	1	XGBClassifier	CDDD	Precision	0.6601
+Secondary	ROR	Cred	2	XGBClassifier	CDDD	Precision	0.68976
+Secondary	ROR	Cred	3	XGBClassifier	CDDD	Precision	0.58416
+Secondary	ROR	Cred	4	XGBClassifier	CDDD	Precision	0.57448

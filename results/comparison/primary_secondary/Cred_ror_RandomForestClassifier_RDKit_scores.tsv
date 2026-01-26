@@ -1,0 +1,101 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Primary	ROR	Cred	0	RandomForestClassifier	RDKit	Balanced Accuracy	0.59621
+Primary	ROR	Cred	1	RandomForestClassifier	RDKit	Balanced Accuracy	0.53006
+Primary	ROR	Cred	4	RandomForestClassifier	RDKit	Balanced Accuracy	0.63476
+Primary	ROR	Cred	3	RandomForestClassifier	RDKit	Balanced Accuracy	0.55871
+Primary	ROR	Cred	2	RandomForestClassifier	RDKit	Balanced Accuracy	0.54963
+Secondary	ROR	Cred	0	RandomForestClassifier	RDKit	Balanced Accuracy	0.60054
+Secondary	ROR	Cred	1	RandomForestClassifier	RDKit	Balanced Accuracy	0.58344
+Secondary	ROR	Cred	4	RandomForestClassifier	RDKit	Balanced Accuracy	0.59172
+Secondary	ROR	Cred	3	RandomForestClassifier	RDKit	Balanced Accuracy	0.51388
+Secondary	ROR	Cred	2	RandomForestClassifier	RDKit	Balanced Accuracy	0.55999
+Primary	ROR	Cred	0	RandomForestClassifier	RDKit	GeomRS	0.5962
+Primary	ROR	Cred	1	RandomForestClassifier	RDKit	GeomRS	0.52665
+Primary	ROR	Cred	4	RandomForestClassifier	RDKit	GeomRS	0.6347
+Primary	ROR	Cred	3	RandomForestClassifier	RDKit	GeomRS	0.55835
+Primary	ROR	Cred	2	RandomForestClassifier	RDKit	GeomRS	0.54846
+Secondary	ROR	Cred	0	RandomForestClassifier	RDKit	GeomRS	0.60051
+Secondary	ROR	Cred	1	RandomForestClassifier	RDKit	GeomRS	0.57434
+Secondary	ROR	Cred	4	RandomForestClassifier	RDKit	GeomRS	0.58961
+Secondary	ROR	Cred	3	RandomForestClassifier	RDKit	GeomRS	0.50989
+Secondary	ROR	Cred	2	RandomForestClassifier	RDKit	GeomRS	0.55444
+Primary	ROR	Cred	0	RandomForestClassifier	RDKit	HarmRS	0.59618
+Primary	ROR	Cred	1	RandomForestClassifier	RDKit	HarmRS	0.52326
+Primary	ROR	Cred	4	RandomForestClassifier	RDKit	HarmRS	0.63465
+Primary	ROR	Cred	3	RandomForestClassifier	RDKit	HarmRS	0.55799
+Primary	ROR	Cred	2	RandomForestClassifier	RDKit	HarmRS	0.5473
+Secondary	ROR	Cred	0	RandomForestClassifier	RDKit	HarmRS	0.60047
+Secondary	ROR	Cred	1	RandomForestClassifier	RDKit	HarmRS	0.56538
+Secondary	ROR	Cred	4	RandomForestClassifier	RDKit	HarmRS	0.5875
+Secondary	ROR	Cred	3	RandomForestClassifier	RDKit	HarmRS	0.50592
+Secondary	ROR	Cred	2	RandomForestClassifier	RDKit	HarmRS	0.54896
+Primary	ROR	Cred	0	RandomForestClassifier	RDKit	F1 Score	0.58527
+Primary	ROR	Cred	1	RandomForestClassifier	RDKit	F1 Score	0.52335
+Primary	ROR	Cred	4	RandomForestClassifier	RDKit	F1 Score	0.64505
+Primary	ROR	Cred	3	RandomForestClassifier	RDKit	F1 Score	0.58022
+Primary	ROR	Cred	2	RandomForestClassifier	RDKit	F1 Score	0.60429
+Secondary	ROR	Cred	0	RandomForestClassifier	RDKit	F1 Score	0.59033
+Secondary	ROR	Cred	1	RandomForestClassifier	RDKit	F1 Score	0.55565
+Secondary	ROR	Cred	4	RandomForestClassifier	RDKit	F1 Score	0.61934
+Secondary	ROR	Cred	3	RandomForestClassifier	RDKit	F1 Score	0.55716
+Secondary	ROR	Cred	2	RandomForestClassifier	RDKit	F1 Score	0.63405
+Primary	ROR	Cred	0	RandomForestClassifier	RDKit	ROC AUC	0.63825
+Primary	ROR	Cred	1	RandomForestClassifier	RDKit	ROC AUC	0.56742
+Primary	ROR	Cred	4	RandomForestClassifier	RDKit	ROC AUC	0.6828
+Primary	ROR	Cred	3	RandomForestClassifier	RDKit	ROC AUC	0.59022
+Primary	ROR	Cred	2	RandomForestClassifier	RDKit	ROC AUC	0.58382
+Secondary	ROR	Cred	0	RandomForestClassifier	RDKit	ROC AUC	0.65458
+Secondary	ROR	Cred	1	RandomForestClassifier	RDKit	ROC AUC	0.58229
+Secondary	ROR	Cred	4	RandomForestClassifier	RDKit	ROC AUC	0.64373
+Secondary	ROR	Cred	3	RandomForestClassifier	RDKit	ROC AUC	0.52998
+Secondary	ROR	Cred	2	RandomForestClassifier	RDKit	ROC AUC	0.60339
+Primary	ROR	Cred	0	RandomForestClassifier	RDKit	MCC	0.19218
+Primary	ROR	Cred	1	RandomForestClassifier	RDKit	MCC	0.06011
+Primary	ROR	Cred	4	RandomForestClassifier	RDKit	MCC	0.26947
+Primary	ROR	Cred	3	RandomForestClassifier	RDKit	MCC	0.11739
+Primary	ROR	Cred	2	RandomForestClassifier	RDKit	MCC	0.09837
+Secondary	ROR	Cred	0	RandomForestClassifier	RDKit	MCC	0.20083
+Secondary	ROR	Cred	1	RandomForestClassifier	RDKit	MCC	0.16876
+Secondary	ROR	Cred	4	RandomForestClassifier	RDKit	MCC	0.18438
+Secondary	ROR	Cred	3	RandomForestClassifier	RDKit	MCC	0.02795
+Secondary	ROR	Cred	2	RandomForestClassifier	RDKit	MCC	0.12031
+Primary	ROR	Cred	0	RandomForestClassifier	RDKit	Accuracy	0.59598
+Primary	ROR	Cred	1	RandomForestClassifier	RDKit	Accuracy	0.52323
+Primary	ROR	Cred	4	RandomForestClassifier	RDKit	Accuracy	0.63502
+Primary	ROR	Cred	3	RandomForestClassifier	RDKit	Accuracy	0.55974
+Primary	ROR	Cred	2	RandomForestClassifier	RDKit	Accuracy	0.55536
+Secondary	ROR	Cred	0	RandomForestClassifier	RDKit	Accuracy	0.60021
+Secondary	ROR	Cred	1	RandomForestClassifier	RDKit	Accuracy	0.57176
+Secondary	ROR	Cred	4	RandomForestClassifier	RDKit	Accuracy	0.59328
+Secondary	ROR	Cred	3	RandomForestClassifier	RDKit	Accuracy	0.51716
+Secondary	ROR	Cred	2	RandomForestClassifier	RDKit	Accuracy	0.57254
+Primary	ROR	Cred	0	RandomForestClassifier	RDKit	Recall	0.6008
+Primary	ROR	Cred	1	RandomForestClassifier	RDKit	Recall	0.47001
+Primary	ROR	Cred	4	RandomForestClassifier	RDKit	Recall	0.64314
+Primary	ROR	Cred	3	RandomForestClassifier	RDKit	Recall	0.57879
+Primary	ROR	Cred	2	RandomForestClassifier	RDKit	Recall	0.58545
+Secondary	ROR	Cred	0	RandomForestClassifier	RDKit	Recall	0.60705
+Secondary	ROR	Cred	1	RandomForestClassifier	RDKit	Recall	0.48079
+Secondary	ROR	Cred	4	RandomForestClassifier	RDKit	Recall	0.64166
+Secondary	ROR	Cred	3	RandomForestClassifier	RDKit	Recall	0.57781
+Secondary	ROR	Cred	2	RandomForestClassifier	RDKit	Recall	0.63857
+Primary	ROR	Cred	0	RandomForestClassifier	RDKit	Specificity	0.59162
+Primary	ROR	Cred	1	RandomForestClassifier	RDKit	Specificity	0.59011
+Primary	ROR	Cred	4	RandomForestClassifier	RDKit	Specificity	0.62638
+Primary	ROR	Cred	3	RandomForestClassifier	RDKit	Specificity	0.53863
+Primary	ROR	Cred	2	RandomForestClassifier	RDKit	Specificity	0.51382
+Secondary	ROR	Cred	0	RandomForestClassifier	RDKit	Specificity	0.59404
+Secondary	ROR	Cred	1	RandomForestClassifier	RDKit	Specificity	0.6861
+Secondary	ROR	Cred	4	RandomForestClassifier	RDKit	Specificity	0.54178
+Secondary	ROR	Cred	3	RandomForestClassifier	RDKit	Specificity	0.44995
+Secondary	ROR	Cred	2	RandomForestClassifier	RDKit	Specificity	0.4814
+Primary	ROR	Cred	0	RandomForestClassifier	RDKit	Precision	0.57052
+Primary	ROR	Cred	1	RandomForestClassifier	RDKit	Precision	0.59035
+Primary	ROR	Cred	4	RandomForestClassifier	RDKit	Precision	0.64697
+Primary	ROR	Cred	3	RandomForestClassifier	RDKit	Precision	0.58165
+Primary	ROR	Cred	2	RandomForestClassifier	RDKit	Precision	0.62438
+Secondary	ROR	Cred	0	RandomForestClassifier	RDKit	Precision	0.5745
+Secondary	ROR	Cred	1	RandomForestClassifier	RDKit	Precision	0.65811
+Secondary	ROR	Cred	4	RandomForestClassifier	RDKit	Precision	0.59853
+Secondary	ROR	Cred	3	RandomForestClassifier	RDKit	Precision	0.53793
+Secondary	ROR	Cred	2	RandomForestClassifier	RDKit	Precision	0.6296

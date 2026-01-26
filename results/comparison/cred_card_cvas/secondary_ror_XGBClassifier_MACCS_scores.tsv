@@ -1,0 +1,151 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Secondary	ROR	Cred	0	XGBClassifier	MACCS	Balanced Accuracy	0.58206
+Secondary	ROR	Cred	1	XGBClassifier	MACCS	Balanced Accuracy	0.56455
+Secondary	ROR	Cred	2	XGBClassifier	MACCS	Balanced Accuracy	0.56575
+Secondary	ROR	Cred	3	XGBClassifier	MACCS	Balanced Accuracy	0.53817
+Secondary	ROR	Cred	4	XGBClassifier	MACCS	Balanced Accuracy	0.56611
+Secondary	ROR	Card	0	XGBClassifier	MACCS	Balanced Accuracy	0.57779
+Secondary	ROR	Card	1	XGBClassifier	MACCS	Balanced Accuracy	0.56683
+Secondary	ROR	Card	2	XGBClassifier	MACCS	Balanced Accuracy	0.57198
+Secondary	ROR	Card	3	XGBClassifier	MACCS	Balanced Accuracy	0.54731
+Secondary	ROR	Card	4	XGBClassifier	MACCS	Balanced Accuracy	0.57161
+Secondary	ROR	Cvas	0	XGBClassifier	MACCS	Balanced Accuracy	0.58904
+Secondary	ROR	Cvas	1	XGBClassifier	MACCS	Balanced Accuracy	0.57843
+Secondary	ROR	Cvas	2	XGBClassifier	MACCS	Balanced Accuracy	0.53896
+Secondary	ROR	Cvas	3	XGBClassifier	MACCS	Balanced Accuracy	0.54092
+Secondary	ROR	Cvas	4	XGBClassifier	MACCS	Balanced Accuracy	0.55593
+Secondary	ROR	Cred	0	XGBClassifier	MACCS	GeomRS	0.57682
+Secondary	ROR	Cred	1	XGBClassifier	MACCS	GeomRS	0.56092
+Secondary	ROR	Cred	2	XGBClassifier	MACCS	GeomRS	0.56305
+Secondary	ROR	Cred	3	XGBClassifier	MACCS	GeomRS	0.53585
+Secondary	ROR	Cred	4	XGBClassifier	MACCS	GeomRS	0.55976
+Secondary	ROR	Card	0	XGBClassifier	MACCS	GeomRS	0.57112
+Secondary	ROR	Card	1	XGBClassifier	MACCS	GeomRS	0.56404
+Secondary	ROR	Card	2	XGBClassifier	MACCS	GeomRS	0.5639
+Secondary	ROR	Card	3	XGBClassifier	MACCS	GeomRS	0.52873
+Secondary	ROR	Card	4	XGBClassifier	MACCS	GeomRS	0.56646
+Secondary	ROR	Cvas	0	XGBClassifier	MACCS	GeomRS	0.5805
+Secondary	ROR	Cvas	1	XGBClassifier	MACCS	GeomRS	0.56563
+Secondary	ROR	Cvas	2	XGBClassifier	MACCS	GeomRS	0.49505
+Secondary	ROR	Cvas	3	XGBClassifier	MACCS	GeomRS	0.52719
+Secondary	ROR	Cvas	4	XGBClassifier	MACCS	GeomRS	0.51761
+Secondary	ROR	Cred	0	XGBClassifier	MACCS	HarmRS	0.57163
+Secondary	ROR	Cred	1	XGBClassifier	MACCS	HarmRS	0.55731
+Secondary	ROR	Cred	2	XGBClassifier	MACCS	HarmRS	0.56036
+Secondary	ROR	Cred	3	XGBClassifier	MACCS	HarmRS	0.53354
+Secondary	ROR	Cred	4	XGBClassifier	MACCS	HarmRS	0.55348
+Secondary	ROR	Card	0	XGBClassifier	MACCS	HarmRS	0.56453
+Secondary	ROR	Card	1	XGBClassifier	MACCS	HarmRS	0.56126
+Secondary	ROR	Card	2	XGBClassifier	MACCS	HarmRS	0.55593
+Secondary	ROR	Card	3	XGBClassifier	MACCS	HarmRS	0.51078
+Secondary	ROR	Card	4	XGBClassifier	MACCS	HarmRS	0.56136
+Secondary	ROR	Cvas	0	XGBClassifier	MACCS	HarmRS	0.57208
+Secondary	ROR	Cvas	1	XGBClassifier	MACCS	HarmRS	0.55312
+Secondary	ROR	Cvas	2	XGBClassifier	MACCS	HarmRS	0.45471
+Secondary	ROR	Cvas	3	XGBClassifier	MACCS	HarmRS	0.51382
+Secondary	ROR	Cvas	4	XGBClassifier	MACCS	HarmRS	0.48193
+Secondary	ROR	Cred	0	XGBClassifier	MACCS	F1 Score	0.63668
+Secondary	ROR	Cred	1	XGBClassifier	MACCS	F1 Score	0.5771
+Secondary	ROR	Cred	2	XGBClassifier	MACCS	F1 Score	0.58495
+Secondary	ROR	Cred	3	XGBClassifier	MACCS	F1 Score	0.54552
+Secondary	ROR	Cred	4	XGBClassifier	MACCS	F1 Score	0.54808
+Secondary	ROR	Card	0	XGBClassifier	MACCS	F1 Score	0.63662
+Secondary	ROR	Card	1	XGBClassifier	MACCS	F1 Score	0.58411
+Secondary	ROR	Card	2	XGBClassifier	MACCS	F1 Score	0.56613
+Secondary	ROR	Card	3	XGBClassifier	MACCS	F1 Score	0.49685
+Secondary	ROR	Card	4	XGBClassifier	MACCS	F1 Score	0.55853
+Secondary	ROR	Cvas	0	XGBClassifier	MACCS	F1 Score	0.5595
+Secondary	ROR	Cvas	1	XGBClassifier	MACCS	F1 Score	0.55547
+Secondary	ROR	Cvas	2	XGBClassifier	MACCS	F1 Score	0.44048
+Secondary	ROR	Cvas	3	XGBClassifier	MACCS	F1 Score	0.50358
+Secondary	ROR	Cvas	4	XGBClassifier	MACCS	F1 Score	0.45753
+Secondary	ROR	Cred	0	XGBClassifier	MACCS	ROC AUC	0.61564
+Secondary	ROR	Cred	1	XGBClassifier	MACCS	ROC AUC	0.57419
+Secondary	ROR	Cred	2	XGBClassifier	MACCS	ROC AUC	0.58136
+Secondary	ROR	Cred	3	XGBClassifier	MACCS	ROC AUC	0.55048
+Secondary	ROR	Cred	4	XGBClassifier	MACCS	ROC AUC	0.58649
+Secondary	ROR	Card	0	XGBClassifier	MACCS	ROC AUC	0.61932
+Secondary	ROR	Card	1	XGBClassifier	MACCS	ROC AUC	0.57449
+Secondary	ROR	Card	2	XGBClassifier	MACCS	ROC AUC	0.59451
+Secondary	ROR	Card	3	XGBClassifier	MACCS	ROC AUC	0.57688
+Secondary	ROR	Card	4	XGBClassifier	MACCS	ROC AUC	0.59825
+Secondary	ROR	Cvas	0	XGBClassifier	MACCS	ROC AUC	0.62222
+Secondary	ROR	Cvas	1	XGBClassifier	MACCS	ROC AUC	0.5967
+Secondary	ROR	Cvas	2	XGBClassifier	MACCS	ROC AUC	0.55052
+Secondary	ROR	Cvas	3	XGBClassifier	MACCS	ROC AUC	0.56459
+Secondary	ROR	Cvas	4	XGBClassifier	MACCS	ROC AUC	0.59878
+Secondary	ROR	Cred	0	XGBClassifier	MACCS	MCC	0.16589
+Secondary	ROR	Cred	1	XGBClassifier	MACCS	MCC	0.12636
+Secondary	ROR	Cred	2	XGBClassifier	MACCS	MCC	0.12824
+Secondary	ROR	Cred	3	XGBClassifier	MACCS	MCC	0.07573
+Secondary	ROR	Cred	4	XGBClassifier	MACCS	MCC	0.13288
+Secondary	ROR	Card	0	XGBClassifier	MACCS	MCC	0.15779
+Secondary	ROR	Card	1	XGBClassifier	MACCS	MCC	0.13062
+Secondary	ROR	Card	2	XGBClassifier	MACCS	MCC	0.14173
+Secondary	ROR	Card	3	XGBClassifier	MACCS	MCC	0.09705
+Secondary	ROR	Card	4	XGBClassifier	MACCS	MCC	0.14356
+Secondary	ROR	Cvas	0	XGBClassifier	MACCS	MCC	0.18042
+Secondary	ROR	Cvas	1	XGBClassifier	MACCS	MCC	0.15614
+Secondary	ROR	Cvas	2	XGBClassifier	MACCS	MCC	0.08296
+Secondary	ROR	Cvas	3	XGBClassifier	MACCS	MCC	0.08307
+Secondary	ROR	Cvas	4	XGBClassifier	MACCS	MCC	0.12077
+Secondary	ROR	Cred	0	XGBClassifier	MACCS	Accuracy	0.58915
+Secondary	ROR	Cred	1	XGBClassifier	MACCS	Accuracy	0.55008
+Secondary	ROR	Cred	2	XGBClassifier	MACCS	Accuracy	0.5528
+Secondary	ROR	Cred	3	XGBClassifier	MACCS	Accuracy	0.53046
+Secondary	ROR	Cred	4	XGBClassifier	MACCS	Accuracy	0.55615
+Secondary	ROR	Card	0	XGBClassifier	MACCS	Accuracy	0.58574
+Secondary	ROR	Card	1	XGBClassifier	MACCS	Accuracy	0.55411
+Secondary	ROR	Card	2	XGBClassifier	MACCS	Accuracy	0.54951
+Secondary	ROR	Card	3	XGBClassifier	MACCS	Accuracy	0.52548
+Secondary	ROR	Card	4	XGBClassifier	MACCS	Accuracy	0.56259
+Secondary	ROR	Cvas	0	XGBClassifier	MACCS	Accuracy	0.57996
+Secondary	ROR	Cvas	1	XGBClassifier	MACCS	Accuracy	0.55104
+Secondary	ROR	Cvas	2	XGBClassifier	MACCS	Accuracy	0.48898
+Secondary	ROR	Cvas	3	XGBClassifier	MACCS	Accuracy	0.52222
+Secondary	ROR	Cvas	4	XGBClassifier	MACCS	Accuracy	0.53203
+Secondary	ROR	Cred	0	XGBClassifier	MACCS	Recall	0.66001
+Secondary	ROR	Cred	1	XGBClassifier	MACCS	Recall	0.50063
+Secondary	ROR	Cred	2	XGBClassifier	MACCS	Recall	0.51052
+Secondary	ROR	Cred	3	XGBClassifier	MACCS	Recall	0.48822
+Secondary	ROR	Cred	4	XGBClassifier	MACCS	Recall	0.48155
+Secondary	ROR	Card	0	XGBClassifier	MACCS	Recall	0.66532
+Secondary	ROR	Card	1	XGBClassifier	MACCS	Recall	0.51064
+Secondary	ROR	Card	2	XGBClassifier	MACCS	Recall	0.47615
+Secondary	ROR	Card	3	XGBClassifier	MACCS	Recall	0.40591
+Secondary	ROR	Card	4	XGBClassifier	MACCS	Recall	0.49506
+Secondary	ROR	Cvas	0	XGBClassifier	MACCS	Recall	0.48908
+Secondary	ROR	Cvas	1	XGBClassifier	MACCS	Recall	0.45745
+Secondary	ROR	Cvas	2	XGBClassifier	MACCS	Recall	0.32587
+Secondary	ROR	Cvas	3	XGBClassifier	MACCS	Recall	0.41985
+Secondary	ROR	Cvas	4	XGBClassifier	MACCS	Recall	0.3531
+Secondary	ROR	Cred	0	XGBClassifier	MACCS	Specificity	0.50412
+Secondary	ROR	Cred	1	XGBClassifier	MACCS	Specificity	0.62847
+Secondary	ROR	Cred	2	XGBClassifier	MACCS	Specificity	0.62097
+Secondary	ROR	Cred	3	XGBClassifier	MACCS	Specificity	0.58813
+Secondary	ROR	Cred	4	XGBClassifier	MACCS	Specificity	0.65067
+Secondary	ROR	Card	0	XGBClassifier	MACCS	Specificity	0.49027
+Secondary	ROR	Card	1	XGBClassifier	MACCS	Specificity	0.62302
+Secondary	ROR	Card	2	XGBClassifier	MACCS	Specificity	0.66781
+Secondary	ROR	Card	3	XGBClassifier	MACCS	Specificity	0.68872
+Secondary	ROR	Card	4	XGBClassifier	MACCS	Specificity	0.64816
+Secondary	ROR	Cvas	0	XGBClassifier	MACCS	Specificity	0.689
+Secondary	ROR	Cvas	1	XGBClassifier	MACCS	Specificity	0.6994
+Secondary	ROR	Cvas	2	XGBClassifier	MACCS	Specificity	0.75204
+Secondary	ROR	Cvas	3	XGBClassifier	MACCS	Specificity	0.66198
+Secondary	ROR	Cvas	4	XGBClassifier	MACCS	Specificity	0.75876
+Secondary	ROR	Cred	0	XGBClassifier	MACCS	Precision	0.61494
+Secondary	ROR	Cred	1	XGBClassifier	MACCS	Precision	0.68114
+Secondary	ROR	Cred	2	XGBClassifier	MACCS	Precision	0.68477
+Secondary	ROR	Cred	3	XGBClassifier	MACCS	Precision	0.61807
+Secondary	ROR	Cred	4	XGBClassifier	MACCS	Precision	0.63593
+Secondary	ROR	Card	0	XGBClassifier	MACCS	Precision	0.6103
+Secondary	ROR	Card	1	XGBClassifier	MACCS	Precision	0.68227
+Secondary	ROR	Card	2	XGBClassifier	MACCS	Precision	0.69805
+Secondary	ROR	Card	3	XGBClassifier	MACCS	Precision	0.64031
+Secondary	ROR	Card	4	XGBClassifier	MACCS	Precision	0.64066
+Secondary	ROR	Cvas	0	XGBClassifier	MACCS	Precision	0.65361
+Secondary	ROR	Cvas	1	XGBClassifier	MACCS	Precision	0.70696
+Secondary	ROR	Cvas	2	XGBClassifier	MACCS	Precision	0.67944
+Secondary	ROR	Cvas	3	XGBClassifier	MACCS	Precision	0.62904
+Secondary	ROR	Cvas	4	XGBClassifier	MACCS	Precision	0.6497

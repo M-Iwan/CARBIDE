@@ -1,0 +1,101 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Primary	IC	Card	0	XGBClassifier	Morgan	Balanced Accuracy	0.58831
+Primary	IC	Card	1	XGBClassifier	Morgan	Balanced Accuracy	0.57381
+Primary	IC	Card	2	XGBClassifier	Morgan	Balanced Accuracy	0.60553
+Primary	IC	Card	3	XGBClassifier	Morgan	Balanced Accuracy	0.56021
+Primary	IC	Card	4	XGBClassifier	Morgan	Balanced Accuracy	0.58301
+Secondary	IC	Card	0	XGBClassifier	Morgan	Balanced Accuracy	0.55584
+Secondary	IC	Card	1	XGBClassifier	Morgan	Balanced Accuracy	0.56486
+Secondary	IC	Card	2	XGBClassifier	Morgan	Balanced Accuracy	0.57607
+Secondary	IC	Card	3	XGBClassifier	Morgan	Balanced Accuracy	0.52588
+Secondary	IC	Card	4	XGBClassifier	Morgan	Balanced Accuracy	0.56512
+Primary	IC	Card	0	XGBClassifier	Morgan	GeomRS	0.54127
+Primary	IC	Card	1	XGBClassifier	Morgan	GeomRS	0.56838
+Primary	IC	Card	2	XGBClassifier	Morgan	GeomRS	0.59566
+Primary	IC	Card	3	XGBClassifier	Morgan	GeomRS	0.52001
+Primary	IC	Card	4	XGBClassifier	Morgan	GeomRS	0.54446
+Secondary	IC	Card	0	XGBClassifier	Morgan	GeomRS	0.43118
+Secondary	IC	Card	1	XGBClassifier	Morgan	GeomRS	0.5242
+Secondary	IC	Card	2	XGBClassifier	Morgan	GeomRS	0.53901
+Secondary	IC	Card	3	XGBClassifier	Morgan	GeomRS	0.43565
+Secondary	IC	Card	4	XGBClassifier	Morgan	GeomRS	0.48954
+Primary	IC	Card	0	XGBClassifier	Morgan	HarmRS	0.498
+Primary	IC	Card	1	XGBClassifier	Morgan	HarmRS	0.56301
+Primary	IC	Card	2	XGBClassifier	Morgan	HarmRS	0.58596
+Primary	IC	Card	3	XGBClassifier	Morgan	HarmRS	0.48269
+Primary	IC	Card	4	XGBClassifier	Morgan	HarmRS	0.50846
+Secondary	IC	Card	0	XGBClassifier	Morgan	HarmRS	0.33447
+Secondary	IC	Card	1	XGBClassifier	Morgan	HarmRS	0.48646
+Secondary	IC	Card	2	XGBClassifier	Morgan	HarmRS	0.50433
+Secondary	IC	Card	3	XGBClassifier	Morgan	HarmRS	0.3609
+Secondary	IC	Card	4	XGBClassifier	Morgan	HarmRS	0.42406
+Primary	IC	Card	0	XGBClassifier	Morgan	F1 Score	0.69652
+Primary	IC	Card	1	XGBClassifier	Morgan	F1 Score	0.66641
+Primary	IC	Card	2	XGBClassifier	Morgan	F1 Score	0.71679
+Primary	IC	Card	3	XGBClassifier	Morgan	F1 Score	0.69815
+Primary	IC	Card	4	XGBClassifier	Morgan	F1 Score	0.70804
+Secondary	IC	Card	0	XGBClassifier	Morgan	F1 Score	0.70675
+Secondary	IC	Card	1	XGBClassifier	Morgan	F1 Score	0.71578
+Secondary	IC	Card	2	XGBClassifier	Morgan	F1 Score	0.73285
+Secondary	IC	Card	3	XGBClassifier	Morgan	F1 Score	0.70295
+Secondary	IC	Card	4	XGBClassifier	Morgan	F1 Score	0.71914
+Primary	IC	Card	0	XGBClassifier	Morgan	ROC AUC	0.65171
+Primary	IC	Card	1	XGBClassifier	Morgan	ROC AUC	0.62717
+Primary	IC	Card	2	XGBClassifier	Morgan	ROC AUC	0.66471
+Primary	IC	Card	3	XGBClassifier	Morgan	ROC AUC	0.62265
+Primary	IC	Card	4	XGBClassifier	Morgan	ROC AUC	0.63939
+Secondary	IC	Card	0	XGBClassifier	Morgan	ROC AUC	0.65299
+Secondary	IC	Card	1	XGBClassifier	Morgan	ROC AUC	0.64017
+Secondary	IC	Card	2	XGBClassifier	Morgan	ROC AUC	0.6508
+Secondary	IC	Card	3	XGBClassifier	Morgan	ROC AUC	0.59894
+Secondary	IC	Card	4	XGBClassifier	Morgan	ROC AUC	0.64348
+Primary	IC	Card	0	XGBClassifier	Morgan	MCC	0.20014
+Primary	IC	Card	1	XGBClassifier	Morgan	MCC	0.14586
+Primary	IC	Card	2	XGBClassifier	Morgan	MCC	0.21049
+Primary	IC	Card	3	XGBClassifier	Morgan	MCC	0.13149
+Primary	IC	Card	4	XGBClassifier	Morgan	MCC	0.18271
+Secondary	IC	Card	0	XGBClassifier	Morgan	MCC	0.15834
+Secondary	IC	Card	1	XGBClassifier	Morgan	MCC	0.14103
+Secondary	IC	Card	2	XGBClassifier	Morgan	MCC	0.16321
+Secondary	IC	Card	3	XGBClassifier	Morgan	MCC	0.06336
+Secondary	IC	Card	4	XGBClassifier	Morgan	MCC	0.1585
+Primary	IC	Card	0	XGBClassifier	Morgan	Accuracy	0.60987
+Primary	IC	Card	1	XGBClassifier	Morgan	Accuracy	0.59314
+Primary	IC	Card	2	XGBClassifier	Morgan	Accuracy	0.63676
+Primary	IC	Card	3	XGBClassifier	Morgan	Accuracy	0.60163
+Primary	IC	Card	4	XGBClassifier	Morgan	Accuracy	0.61833
+Secondary	IC	Card	0	XGBClassifier	Morgan	Accuracy	0.58864
+Secondary	IC	Card	1	XGBClassifier	Morgan	Accuracy	0.61654
+Secondary	IC	Card	2	XGBClassifier	Morgan	Accuracy	0.63439
+Secondary	IC	Card	3	XGBClassifier	Morgan	Accuracy	0.58441
+Secondary	IC	Card	4	XGBClassifier	Morgan	Accuracy	0.61295
+Primary	IC	Card	0	XGBClassifier	Morgan	Recall	0.81882
+Primary	IC	Card	1	XGBClassifier	Morgan	Recall	0.65253
+Primary	IC	Card	2	XGBClassifier	Morgan	Recall	0.71437
+Primary	IC	Card	3	XGBClassifier	Morgan	Recall	0.76862
+Primary	IC	Card	4	XGBClassifier	Morgan	Recall	0.79149
+Secondary	IC	Card	0	XGBClassifier	Morgan	Recall	0.90661
+Secondary	IC	Card	1	XGBClassifier	Morgan	Recall	0.7753
+Secondary	IC	Card	2	XGBClassifier	Morgan	Recall	0.77934
+Secondary	IC	Card	3	XGBClassifier	Morgan	Recall	0.82042
+Secondary	IC	Card	4	XGBClassifier	Morgan	Recall	0.84745
+Primary	IC	Card	0	XGBClassifier	Morgan	Specificity	0.35781
+Primary	IC	Card	1	XGBClassifier	Morgan	Specificity	0.49509
+Primary	IC	Card	2	XGBClassifier	Morgan	Specificity	0.49668
+Primary	IC	Card	3	XGBClassifier	Morgan	Specificity	0.35181
+Primary	IC	Card	4	XGBClassifier	Morgan	Specificity	0.37453
+Secondary	IC	Card	0	XGBClassifier	Morgan	Specificity	0.20506
+Secondary	IC	Card	1	XGBClassifier	Morgan	Specificity	0.35442
+Secondary	IC	Card	2	XGBClassifier	Morgan	Specificity	0.37279
+Secondary	IC	Card	3	XGBClassifier	Morgan	Specificity	0.23133
+Secondary	IC	Card	4	XGBClassifier	Morgan	Specificity	0.28278
+Primary	IC	Card	0	XGBClassifier	Morgan	Precision	0.60601
+Primary	IC	Card	1	XGBClassifier	Morgan	Precision	0.6809
+Primary	IC	Card	2	XGBClassifier	Morgan	Precision	0.71922
+Primary	IC	Card	3	XGBClassifier	Morgan	Precision	0.63951
+Primary	IC	Card	4	XGBClassifier	Morgan	Precision	0.64051
+Secondary	IC	Card	0	XGBClassifier	Morgan	Precision	0.57909
+Secondary	IC	Card	1	XGBClassifier	Morgan	Precision	0.66475
+Secondary	IC	Card	2	XGBClassifier	Morgan	Precision	0.6916
+Secondary	IC	Card	3	XGBClassifier	Morgan	Precision	0.61491
+Secondary	IC	Card	4	XGBClassifier	Morgan	Precision	0.62458

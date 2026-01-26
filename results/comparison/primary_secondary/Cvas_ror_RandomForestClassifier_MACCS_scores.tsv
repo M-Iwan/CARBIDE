@@ -1,0 +1,101 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Primary	ROR	Cvas	0	RandomForestClassifier	MACCS	Balanced Accuracy	0.56269
+Primary	ROR	Cvas	1	RandomForestClassifier	MACCS	Balanced Accuracy	0.56734
+Primary	ROR	Cvas	2	RandomForestClassifier	MACCS	Balanced Accuracy	0.60842
+Primary	ROR	Cvas	3	RandomForestClassifier	MACCS	Balanced Accuracy	0.55931
+Primary	ROR	Cvas	4	RandomForestClassifier	MACCS	Balanced Accuracy	0.55227
+Secondary	ROR	Cvas	0	RandomForestClassifier	MACCS	Balanced Accuracy	0.58842
+Secondary	ROR	Cvas	1	RandomForestClassifier	MACCS	Balanced Accuracy	0.54579
+Secondary	ROR	Cvas	2	RandomForestClassifier	MACCS	Balanced Accuracy	0.59076
+Secondary	ROR	Cvas	3	RandomForestClassifier	MACCS	Balanced Accuracy	0.54162
+Secondary	ROR	Cvas	4	RandomForestClassifier	MACCS	Balanced Accuracy	0.5476
+Primary	ROR	Cvas	0	RandomForestClassifier	MACCS	GeomRS	0.55514
+Primary	ROR	Cvas	1	RandomForestClassifier	MACCS	GeomRS	0.56424
+Primary	ROR	Cvas	2	RandomForestClassifier	MACCS	GeomRS	0.60613
+Primary	ROR	Cvas	3	RandomForestClassifier	MACCS	GeomRS	0.55905
+Primary	ROR	Cvas	4	RandomForestClassifier	MACCS	GeomRS	0.55028
+Secondary	ROR	Cvas	0	RandomForestClassifier	MACCS	GeomRS	0.56557
+Secondary	ROR	Cvas	1	RandomForestClassifier	MACCS	GeomRS	0.54256
+Secondary	ROR	Cvas	2	RandomForestClassifier	MACCS	GeomRS	0.59048
+Secondary	ROR	Cvas	3	RandomForestClassifier	MACCS	GeomRS	0.54159
+Secondary	ROR	Cvas	4	RandomForestClassifier	MACCS	GeomRS	0.54744
+Primary	ROR	Cvas	0	RandomForestClassifier	MACCS	HarmRS	0.54769
+Primary	ROR	Cvas	1	RandomForestClassifier	MACCS	HarmRS	0.56117
+Primary	ROR	Cvas	2	RandomForestClassifier	MACCS	HarmRS	0.60384
+Primary	ROR	Cvas	3	RandomForestClassifier	MACCS	HarmRS	0.5588
+Primary	ROR	Cvas	4	RandomForestClassifier	MACCS	HarmRS	0.54829
+Secondary	ROR	Cvas	0	RandomForestClassifier	MACCS	HarmRS	0.54361
+Secondary	ROR	Cvas	1	RandomForestClassifier	MACCS	HarmRS	0.53935
+Secondary	ROR	Cvas	2	RandomForestClassifier	MACCS	HarmRS	0.59019
+Secondary	ROR	Cvas	3	RandomForestClassifier	MACCS	HarmRS	0.54156
+Secondary	ROR	Cvas	4	RandomForestClassifier	MACCS	HarmRS	0.54728
+Primary	ROR	Cvas	0	RandomForestClassifier	MACCS	F1 Score	0.59562
+Primary	ROR	Cvas	1	RandomForestClassifier	MACCS	F1 Score	0.5667
+Primary	ROR	Cvas	2	RandomForestClassifier	MACCS	F1 Score	0.64976
+Primary	ROR	Cvas	3	RandomForestClassifier	MACCS	F1 Score	0.56041
+Primary	ROR	Cvas	4	RandomForestClassifier	MACCS	F1 Score	0.53136
+Secondary	ROR	Cvas	0	RandomForestClassifier	MACCS	F1 Score	0.64168
+Secondary	ROR	Cvas	1	RandomForestClassifier	MACCS	F1 Score	0.54414
+Secondary	ROR	Cvas	2	RandomForestClassifier	MACCS	F1 Score	0.61875
+Secondary	ROR	Cvas	3	RandomForestClassifier	MACCS	F1 Score	0.54799
+Secondary	ROR	Cvas	4	RandomForestClassifier	MACCS	F1 Score	0.5548
+Primary	ROR	Cvas	0	RandomForestClassifier	MACCS	ROC AUC	0.5956
+Primary	ROR	Cvas	1	RandomForestClassifier	MACCS	ROC AUC	0.59068
+Primary	ROR	Cvas	2	RandomForestClassifier	MACCS	ROC AUC	0.66715
+Primary	ROR	Cvas	3	RandomForestClassifier	MACCS	ROC AUC	0.56369
+Primary	ROR	Cvas	4	RandomForestClassifier	MACCS	ROC AUC	0.60561
+Secondary	ROR	Cvas	0	RandomForestClassifier	MACCS	ROC AUC	0.63852
+Secondary	ROR	Cvas	1	RandomForestClassifier	MACCS	ROC AUC	0.56452
+Secondary	ROR	Cvas	2	RandomForestClassifier	MACCS	ROC AUC	0.63288
+Secondary	ROR	Cvas	3	RandomForestClassifier	MACCS	ROC AUC	0.55198
+Secondary	ROR	Cvas	4	RandomForestClassifier	MACCS	ROC AUC	0.58246
+Primary	ROR	Cvas	0	RandomForestClassifier	MACCS	MCC	0.1275
+Primary	ROR	Cvas	1	RandomForestClassifier	MACCS	MCC	0.13414
+Primary	ROR	Cvas	2	RandomForestClassifier	MACCS	MCC	0.21773
+Primary	ROR	Cvas	3	RandomForestClassifier	MACCS	MCC	0.11859
+Primary	ROR	Cvas	4	RandomForestClassifier	MACCS	MCC	0.105
+Secondary	ROR	Cvas	0	RandomForestClassifier	MACCS	MCC	0.1868
+Secondary	ROR	Cvas	1	RandomForestClassifier	MACCS	MCC	0.09127
+Secondary	ROR	Cvas	2	RandomForestClassifier	MACCS	MCC	0.18111
+Secondary	ROR	Cvas	3	RandomForestClassifier	MACCS	MCC	0.08319
+Secondary	ROR	Cvas	4	RandomForestClassifier	MACCS	MCC	0.09524
+Primary	ROR	Cvas	0	RandomForestClassifier	MACCS	Accuracy	0.56148
+Primary	ROR	Cvas	1	RandomForestClassifier	MACCS	Accuracy	0.55941
+Primary	ROR	Cvas	2	RandomForestClassifier	MACCS	Accuracy	0.61296
+Primary	ROR	Cvas	3	RandomForestClassifier	MACCS	Accuracy	0.55868
+Primary	ROR	Cvas	4	RandomForestClassifier	MACCS	Accuracy	0.55204
+Secondary	ROR	Cvas	0	RandomForestClassifier	MACCS	Accuracy	0.58628
+Secondary	ROR	Cvas	1	RandomForestClassifier	MACCS	Accuracy	0.53785
+Secondary	ROR	Cvas	2	RandomForestClassifier	MACCS	Accuracy	0.59235
+Secondary	ROR	Cvas	3	RandomForestClassifier	MACCS	Accuracy	0.54141
+Secondary	ROR	Cvas	4	RandomForestClassifier	MACCS	Accuracy	0.54767
+Primary	ROR	Cvas	0	RandomForestClassifier	MACCS	Recall	0.65455
+Primary	ROR	Cvas	1	RandomForestClassifier	MACCS	Recall	0.50818
+Primary	ROR	Cvas	2	RandomForestClassifier	MACCS	Recall	0.6612
+Primary	ROR	Cvas	3	RandomForestClassifier	MACCS	Recall	0.54232
+Primary	ROR	Cvas	4	RandomForestClassifier	MACCS	Recall	0.50539
+Secondary	ROR	Cvas	0	RandomForestClassifier	MACCS	Recall	0.7508
+Secondary	ROR	Cvas	1	RandomForestClassifier	MACCS	Recall	0.4865
+Secondary	ROR	Cvas	2	RandomForestClassifier	MACCS	Recall	0.60923
+Secondary	ROR	Cvas	3	RandomForestClassifier	MACCS	Recall	0.5359
+Secondary	ROR	Cvas	4	RandomForestClassifier	MACCS	Recall	0.56089
+Primary	ROR	Cvas	0	RandomForestClassifier	MACCS	Specificity	0.47083
+Primary	ROR	Cvas	1	RandomForestClassifier	MACCS	Specificity	0.62649
+Primary	ROR	Cvas	2	RandomForestClassifier	MACCS	Specificity	0.55565
+Primary	ROR	Cvas	3	RandomForestClassifier	MACCS	Specificity	0.57631
+Primary	ROR	Cvas	4	RandomForestClassifier	MACCS	Specificity	0.59916
+Secondary	ROR	Cvas	0	RandomForestClassifier	MACCS	Specificity	0.42604
+Secondary	ROR	Cvas	1	RandomForestClassifier	MACCS	Specificity	0.60508
+Secondary	ROR	Cvas	2	RandomForestClassifier	MACCS	Specificity	0.5723
+Secondary	ROR	Cvas	3	RandomForestClassifier	MACCS	Specificity	0.54734
+Secondary	ROR	Cvas	4	RandomForestClassifier	MACCS	Specificity	0.53431
+Primary	ROR	Cvas	0	RandomForestClassifier	MACCS	Precision	0.54643
+Primary	ROR	Cvas	1	RandomForestClassifier	MACCS	Precision	0.64046
+Primary	ROR	Cvas	2	RandomForestClassifier	MACCS	Precision	0.63871
+Primary	ROR	Cvas	3	RandomForestClassifier	MACCS	Precision	0.57976
+Primary	ROR	Cvas	4	RandomForestClassifier	MACCS	Precision	0.56015
+Secondary	ROR	Cvas	0	RandomForestClassifier	MACCS	Precision	0.56026
+Secondary	ROR	Cvas	1	RandomForestClassifier	MACCS	Precision	0.61728
+Secondary	ROR	Cvas	2	RandomForestClassifier	MACCS	Precision	0.62857
+Secondary	ROR	Cvas	3	RandomForestClassifier	MACCS	Precision	0.56064
+Secondary	ROR	Cvas	4	RandomForestClassifier	MACCS	Precision	0.54884

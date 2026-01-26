@@ -1,0 +1,101 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Primary	IC	Card	1	LogisticRegression	ChemBERTa	Balanced Accuracy	0.506
+Primary	IC	Card	3	LogisticRegression	ChemBERTa	Balanced Accuracy	0.49025
+Primary	IC	Card	4	LogisticRegression	ChemBERTa	Balanced Accuracy	0.52418
+Primary	IC	Card	2	LogisticRegression	ChemBERTa	Balanced Accuracy	0.49925
+Primary	IC	Card	0	LogisticRegression	ChemBERTa	Balanced Accuracy	0.53714
+Secondary	IC	Card	1	LogisticRegression	ChemBERTa	Balanced Accuracy	0.52865
+Secondary	IC	Card	3	LogisticRegression	ChemBERTa	Balanced Accuracy	0.52572
+Secondary	IC	Card	4	LogisticRegression	ChemBERTa	Balanced Accuracy	0.50648
+Secondary	IC	Card	2	LogisticRegression	ChemBERTa	Balanced Accuracy	0.49991
+Secondary	IC	Card	0	LogisticRegression	ChemBERTa	Balanced Accuracy	0.50121
+Primary	IC	Card	1	LogisticRegression	ChemBERTa	GeomRS	0.50572
+Primary	IC	Card	3	LogisticRegression	ChemBERTa	GeomRS	0.47553
+Primary	IC	Card	4	LogisticRegression	ChemBERTa	GeomRS	0.51567
+Primary	IC	Card	2	LogisticRegression	ChemBERTa	GeomRS	0.48664
+Primary	IC	Card	0	LogisticRegression	ChemBERTa	GeomRS	0.51458
+Secondary	IC	Card	1	LogisticRegression	ChemBERTa	GeomRS	0.52558
+Secondary	IC	Card	3	LogisticRegression	ChemBERTa	GeomRS	0.51515
+Secondary	IC	Card	4	LogisticRegression	ChemBERTa	GeomRS	0.4932
+Secondary	IC	Card	2	LogisticRegression	ChemBERTa	GeomRS	0.48274
+Secondary	IC	Card	0	LogisticRegression	ChemBERTa	GeomRS	0.49968
+Primary	IC	Card	1	LogisticRegression	ChemBERTa	HarmRS	0.50543
+Primary	IC	Card	3	LogisticRegression	ChemBERTa	HarmRS	0.46126
+Primary	IC	Card	4	LogisticRegression	ChemBERTa	HarmRS	0.5073
+Primary	IC	Card	2	LogisticRegression	ChemBERTa	HarmRS	0.47434
+Primary	IC	Card	0	LogisticRegression	ChemBERTa	HarmRS	0.49298
+Secondary	IC	Card	1	LogisticRegression	ChemBERTa	HarmRS	0.52253
+Secondary	IC	Card	3	LogisticRegression	ChemBERTa	HarmRS	0.50479
+Secondary	IC	Card	4	LogisticRegression	ChemBERTa	HarmRS	0.48026
+Secondary	IC	Card	2	LogisticRegression	ChemBERTa	HarmRS	0.46616
+Secondary	IC	Card	0	LogisticRegression	ChemBERTa	HarmRS	0.49815
+Primary	IC	Card	1	LogisticRegression	ChemBERTa	F1 Score	0.57085
+Primary	IC	Card	3	LogisticRegression	ChemBERTa	F1 Score	0.60048
+Primary	IC	Card	4	LogisticRegression	ChemBERTa	F1 Score	0.61122
+Primary	IC	Card	2	LogisticRegression	ChemBERTa	F1 Score	0.62643
+Primary	IC	Card	0	LogisticRegression	ChemBERTa	F1 Score	0.6276
+Secondary	IC	Card	1	LogisticRegression	ChemBERTa	F1 Score	0.6146
+Secondary	IC	Card	3	LogisticRegression	ChemBERTa	F1 Score	0.62507
+Secondary	IC	Card	4	LogisticRegression	ChemBERTa	F1 Score	0.60534
+Secondary	IC	Card	2	LogisticRegression	ChemBERTa	F1 Score	0.63652
+Secondary	IC	Card	0	LogisticRegression	ChemBERTa	F1 Score	0.54411
+Primary	IC	Card	1	LogisticRegression	ChemBERTa	ROC AUC	0.49539
+Primary	IC	Card	3	LogisticRegression	ChemBERTa	ROC AUC	0.4696
+Primary	IC	Card	4	LogisticRegression	ChemBERTa	ROC AUC	0.54418
+Primary	IC	Card	2	LogisticRegression	ChemBERTa	ROC AUC	0.49923
+Primary	IC	Card	0	LogisticRegression	ChemBERTa	ROC AUC	0.55341
+Secondary	IC	Card	1	LogisticRegression	ChemBERTa	ROC AUC	0.50242
+Secondary	IC	Card	3	LogisticRegression	ChemBERTa	ROC AUC	0.52388
+Secondary	IC	Card	4	LogisticRegression	ChemBERTa	ROC AUC	0.51809
+Secondary	IC	Card	2	LogisticRegression	ChemBERTa	ROC AUC	0.50734
+Secondary	IC	Card	0	LogisticRegression	ChemBERTa	ROC AUC	0.47967
+Primary	IC	Card	1	LogisticRegression	ChemBERTa	MCC	0.01165
+Primary	IC	Card	3	LogisticRegression	ChemBERTa	MCC	-0.01967
+Primary	IC	Card	4	LogisticRegression	ChemBERTa	MCC	0.0486
+Primary	IC	Card	2	LogisticRegression	ChemBERTa	MCC	-0.00147
+Primary	IC	Card	0	LogisticRegression	ChemBERTa	MCC	0.07791
+Secondary	IC	Card	1	LogisticRegression	ChemBERTa	MCC	0.05601
+Secondary	IC	Card	3	LogisticRegression	ChemBERTa	MCC	0.05168
+Secondary	IC	Card	4	LogisticRegression	ChemBERTa	MCC	0.01312
+Secondary	IC	Card	2	LogisticRegression	ChemBERTa	MCC	-0.00019
+Secondary	IC	Card	0	LogisticRegression	ChemBERTa	MCC	0.00242
+Primary	IC	Card	1	LogisticRegression	ChemBERTa	Accuracy	0.51019
+Primary	IC	Card	3	LogisticRegression	ChemBERTa	Accuracy	0.51394
+Primary	IC	Card	4	LogisticRegression	ChemBERTa	Accuracy	0.54012
+Primary	IC	Card	2	LogisticRegression	ChemBERTa	Accuracy	0.53126
+Primary	IC	Card	0	LogisticRegression	ChemBERTa	Accuracy	0.55154
+Secondary	IC	Card	1	LogisticRegression	ChemBERTa	Accuracy	0.54263
+Secondary	IC	Card	3	LogisticRegression	ChemBERTa	Accuracy	0.54657
+Secondary	IC	Card	4	LogisticRegression	ChemBERTa	Accuracy	0.526
+Secondary	IC	Card	2	LogisticRegression	ChemBERTa	Accuracy	0.53717
+Secondary	IC	Card	0	LogisticRegression	ChemBERTa	Accuracy	0.50488
+Primary	IC	Card	1	LogisticRegression	ChemBERTa	Recall	0.52307
+Primary	IC	Card	3	LogisticRegression	ChemBERTa	Recall	0.60945
+Primary	IC	Card	4	LogisticRegression	ChemBERTa	Recall	0.61824
+Primary	IC	Card	2	LogisticRegression	ChemBERTa	Recall	0.61079
+Primary	IC	Card	0	LogisticRegression	ChemBERTa	Recall	0.69115
+Secondary	IC	Card	1	LogisticRegression	ChemBERTa	Recall	0.58557
+Secondary	IC	Card	3	LogisticRegression	ChemBERTa	Recall	0.63062
+Secondary	IC	Card	4	LogisticRegression	ChemBERTa	Recall	0.62169
+Secondary	IC	Card	2	LogisticRegression	ChemBERTa	Recall	0.62979
+Secondary	IC	Card	0	LogisticRegression	ChemBERTa	Recall	0.5404
+Primary	IC	Card	1	LogisticRegression	ChemBERTa	Specificity	0.48894
+Primary	IC	Card	3	LogisticRegression	ChemBERTa	Specificity	0.37104
+Primary	IC	Card	4	LogisticRegression	ChemBERTa	Specificity	0.43011
+Primary	IC	Card	2	LogisticRegression	ChemBERTa	Specificity	0.38772
+Primary	IC	Card	0	LogisticRegression	ChemBERTa	Specificity	0.38312
+Secondary	IC	Card	1	LogisticRegression	ChemBERTa	Specificity	0.47174
+Secondary	IC	Card	3	LogisticRegression	ChemBERTa	Specificity	0.42081
+Secondary	IC	Card	4	LogisticRegression	ChemBERTa	Specificity	0.39126
+Secondary	IC	Card	2	LogisticRegression	ChemBERTa	Specificity	0.37002
+Secondary	IC	Card	0	LogisticRegression	ChemBERTa	Specificity	0.46203
+Primary	IC	Card	1	LogisticRegression	ChemBERTa	Precision	0.62824
+Primary	IC	Card	3	LogisticRegression	ChemBERTa	Precision	0.59178
+Primary	IC	Card	4	LogisticRegression	ChemBERTa	Precision	0.60435
+Primary	IC	Card	2	LogisticRegression	ChemBERTa	Precision	0.6429
+Primary	IC	Card	0	LogisticRegression	ChemBERTa	Precision	0.57475
+Secondary	IC	Card	1	LogisticRegression	ChemBERTa	Precision	0.64667
+Secondary	IC	Card	3	LogisticRegression	ChemBERTa	Precision	0.61961
+Secondary	IC	Card	4	LogisticRegression	ChemBERTa	Precision	0.58982
+Secondary	IC	Card	2	LogisticRegression	ChemBERTa	Precision	0.64339
+Secondary	IC	Card	0	LogisticRegression	ChemBERTa	Precision	0.54787

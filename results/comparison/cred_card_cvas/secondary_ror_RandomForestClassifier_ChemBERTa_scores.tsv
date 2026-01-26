@@ -1,0 +1,151 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Secondary	ROR	Cred	0	RandomForestClassifier	ChemBERTa	Balanced Accuracy	0.54639
+Secondary	ROR	Cred	3	RandomForestClassifier	ChemBERTa	Balanced Accuracy	0.50435
+Secondary	ROR	Cred	1	RandomForestClassifier	ChemBERTa	Balanced Accuracy	0.54816
+Secondary	ROR	Cred	2	RandomForestClassifier	ChemBERTa	Balanced Accuracy	0.50878
+Secondary	ROR	Cred	4	RandomForestClassifier	ChemBERTa	Balanced Accuracy	0.52692
+Secondary	ROR	Card	0	RandomForestClassifier	ChemBERTa	Balanced Accuracy	0.5631
+Secondary	ROR	Card	3	RandomForestClassifier	ChemBERTa	Balanced Accuracy	0.49387
+Secondary	ROR	Card	1	RandomForestClassifier	ChemBERTa	Balanced Accuracy	0.53727
+Secondary	ROR	Card	2	RandomForestClassifier	ChemBERTa	Balanced Accuracy	0.51413
+Secondary	ROR	Card	4	RandomForestClassifier	ChemBERTa	Balanced Accuracy	0.53183
+Secondary	ROR	Cvas	0	RandomForestClassifier	ChemBERTa	Balanced Accuracy	0.49854
+Secondary	ROR	Cvas	3	RandomForestClassifier	ChemBERTa	Balanced Accuracy	0.47808
+Secondary	ROR	Cvas	1	RandomForestClassifier	ChemBERTa	Balanced Accuracy	0.5586
+Secondary	ROR	Cvas	2	RandomForestClassifier	ChemBERTa	Balanced Accuracy	0.52363
+Secondary	ROR	Cvas	4	RandomForestClassifier	ChemBERTa	Balanced Accuracy	0.53253
+Secondary	ROR	Cred	0	RandomForestClassifier	ChemBERTa	GeomRS	0.52786
+Secondary	ROR	Cred	3	RandomForestClassifier	ChemBERTa	GeomRS	0.49563
+Secondary	ROR	Cred	1	RandomForestClassifier	ChemBERTa	GeomRS	0.54436
+Secondary	ROR	Cred	2	RandomForestClassifier	ChemBERTa	GeomRS	0.50794
+Secondary	ROR	Cred	4	RandomForestClassifier	ChemBERTa	GeomRS	0.50877
+Secondary	ROR	Card	0	RandomForestClassifier	ChemBERTa	GeomRS	0.55947
+Secondary	ROR	Card	3	RandomForestClassifier	ChemBERTa	GeomRS	0.48381
+Secondary	ROR	Card	1	RandomForestClassifier	ChemBERTa	GeomRS	0.52599
+Secondary	ROR	Card	2	RandomForestClassifier	ChemBERTa	GeomRS	0.51336
+Secondary	ROR	Card	4	RandomForestClassifier	ChemBERTa	GeomRS	0.5318
+Secondary	ROR	Cvas	0	RandomForestClassifier	ChemBERTa	GeomRS	0.49431
+Secondary	ROR	Cvas	3	RandomForestClassifier	ChemBERTa	GeomRS	0.47518
+Secondary	ROR	Cvas	1	RandomForestClassifier	ChemBERTa	GeomRS	0.5564
+Secondary	ROR	Cvas	2	RandomForestClassifier	ChemBERTa	GeomRS	0.52033
+Secondary	ROR	Cvas	4	RandomForestClassifier	ChemBERTa	GeomRS	0.52074
+Secondary	ROR	Cred	0	RandomForestClassifier	ChemBERTa	HarmRS	0.50996
+Secondary	ROR	Cred	3	RandomForestClassifier	ChemBERTa	HarmRS	0.48706
+Secondary	ROR	Cred	1	RandomForestClassifier	ChemBERTa	HarmRS	0.54059
+Secondary	ROR	Cred	2	RandomForestClassifier	ChemBERTa	HarmRS	0.5071
+Secondary	ROR	Cred	4	RandomForestClassifier	ChemBERTa	HarmRS	0.49125
+Secondary	ROR	Card	0	RandomForestClassifier	ChemBERTa	HarmRS	0.55586
+Secondary	ROR	Card	3	RandomForestClassifier	ChemBERTa	HarmRS	0.47394
+Secondary	ROR	Card	1	RandomForestClassifier	ChemBERTa	HarmRS	0.51494
+Secondary	ROR	Card	2	RandomForestClassifier	ChemBERTa	HarmRS	0.5126
+Secondary	ROR	Card	4	RandomForestClassifier	ChemBERTa	HarmRS	0.53176
+Secondary	ROR	Cvas	0	RandomForestClassifier	ChemBERTa	HarmRS	0.49012
+Secondary	ROR	Cvas	3	RandomForestClassifier	ChemBERTa	HarmRS	0.47229
+Secondary	ROR	Cvas	1	RandomForestClassifier	ChemBERTa	HarmRS	0.55421
+Secondary	ROR	Cvas	2	RandomForestClassifier	ChemBERTa	HarmRS	0.51706
+Secondary	ROR	Cvas	4	RandomForestClassifier	ChemBERTa	HarmRS	0.50922
+Secondary	ROR	Cred	0	RandomForestClassifier	ChemBERTa	F1 Score	0.6298
+Secondary	ROR	Cred	3	RandomForestClassifier	ChemBERTa	F1 Score	0.58914
+Secondary	ROR	Cred	1	RandomForestClassifier	ChemBERTa	F1 Score	0.55984
+Secondary	ROR	Cred	2	RandomForestClassifier	ChemBERTa	F1 Score	0.57826
+Secondary	ROR	Cred	4	RandomForestClassifier	ChemBERTa	F1 Score	0.61897
+Secondary	ROR	Card	0	RandomForestClassifier	ChemBERTa	F1 Score	0.61337
+Secondary	ROR	Card	3	RandomForestClassifier	ChemBERTa	F1 Score	0.58246
+Secondary	ROR	Card	1	RandomForestClassifier	ChemBERTa	F1 Score	0.51829
+Secondary	ROR	Card	2	RandomForestClassifier	ChemBERTa	F1 Score	0.58276
+Secondary	ROR	Card	4	RandomForestClassifier	ChemBERTa	F1 Score	0.56277
+Secondary	ROR	Cvas	0	RandomForestClassifier	ChemBERTa	F1 Score	0.55356
+Secondary	ROR	Cvas	3	RandomForestClassifier	ChemBERTa	F1 Score	0.54388
+Secondary	ROR	Cvas	1	RandomForestClassifier	ChemBERTa	F1 Score	0.57973
+Secondary	ROR	Cvas	2	RandomForestClassifier	ChemBERTa	F1 Score	0.53941
+Secondary	ROR	Cvas	4	RandomForestClassifier	ChemBERTa	F1 Score	0.61304
+Secondary	ROR	Cred	0	RandomForestClassifier	ChemBERTa	ROC AUC	0.55639
+Secondary	ROR	Cred	3	RandomForestClassifier	ChemBERTa	ROC AUC	0.48431
+Secondary	ROR	Cred	1	RandomForestClassifier	ChemBERTa	ROC AUC	0.55834
+Secondary	ROR	Cred	2	RandomForestClassifier	ChemBERTa	ROC AUC	0.53331
+Secondary	ROR	Cred	4	RandomForestClassifier	ChemBERTa	ROC AUC	0.53914
+Secondary	ROR	Card	0	RandomForestClassifier	ChemBERTa	ROC AUC	0.56195
+Secondary	ROR	Card	3	RandomForestClassifier	ChemBERTa	ROC AUC	0.47561
+Secondary	ROR	Card	1	RandomForestClassifier	ChemBERTa	ROC AUC	0.55557
+Secondary	ROR	Card	2	RandomForestClassifier	ChemBERTa	ROC AUC	0.53574
+Secondary	ROR	Card	4	RandomForestClassifier	ChemBERTa	ROC AUC	0.55393
+Secondary	ROR	Cvas	0	RandomForestClassifier	ChemBERTa	ROC AUC	0.49358
+Secondary	ROR	Cvas	3	RandomForestClassifier	ChemBERTa	ROC AUC	0.48325
+Secondary	ROR	Cvas	1	RandomForestClassifier	ChemBERTa	ROC AUC	0.56765
+Secondary	ROR	Cvas	2	RandomForestClassifier	ChemBERTa	ROC AUC	0.53476
+Secondary	ROR	Cvas	4	RandomForestClassifier	ChemBERTa	ROC AUC	0.55262
+Secondary	ROR	Cred	0	RandomForestClassifier	ChemBERTa	MCC	0.09656
+Secondary	ROR	Cred	3	RandomForestClassifier	ChemBERTa	MCC	0.00876
+Secondary	ROR	Cred	1	RandomForestClassifier	ChemBERTa	MCC	0.09437
+Secondary	ROR	Cred	2	RandomForestClassifier	ChemBERTa	MCC	0.0171
+Secondary	ROR	Cred	4	RandomForestClassifier	ChemBERTa	MCC	0.05571
+Secondary	ROR	Card	0	RandomForestClassifier	ChemBERTa	MCC	0.12691
+Secondary	ROR	Card	3	RandomForestClassifier	ChemBERTa	MCC	-0.01234
+Secondary	ROR	Card	1	RandomForestClassifier	ChemBERTa	MCC	0.07414
+Secondary	ROR	Card	2	RandomForestClassifier	ChemBERTa	MCC	0.02753
+Secondary	ROR	Card	4	RandomForestClassifier	ChemBERTa	MCC	0.06324
+Secondary	ROR	Cvas	0	RandomForestClassifier	ChemBERTa	MCC	-0.00294
+Secondary	ROR	Cvas	3	RandomForestClassifier	ChemBERTa	MCC	-0.04352
+Secondary	ROR	Cvas	1	RandomForestClassifier	ChemBERTa	MCC	0.11447
+Secondary	ROR	Cvas	2	RandomForestClassifier	ChemBERTa	MCC	0.0462
+Secondary	ROR	Cvas	4	RandomForestClassifier	ChemBERTa	MCC	0.06639
+Secondary	ROR	Cred	0	RandomForestClassifier	ChemBERTa	Accuracy	0.5592
+Secondary	ROR	Cred	3	RandomForestClassifier	ChemBERTa	Accuracy	0.51877
+Secondary	ROR	Cred	1	RandomForestClassifier	ChemBERTa	Accuracy	0.53358
+Secondary	ROR	Cred	2	RandomForestClassifier	ChemBERTa	Accuracy	0.51562
+Secondary	ROR	Cred	4	RandomForestClassifier	ChemBERTa	Accuracy	0.54308
+Secondary	ROR	Card	0	RandomForestClassifier	ChemBERTa	Accuracy	0.5689
+Secondary	ROR	Card	3	RandomForestClassifier	ChemBERTa	Accuracy	0.5092
+Secondary	ROR	Card	1	RandomForestClassifier	ChemBERTa	Accuracy	0.51247
+Secondary	ROR	Card	2	RandomForestClassifier	ChemBERTa	Accuracy	0.52072
+Secondary	ROR	Card	4	RandomForestClassifier	ChemBERTa	Accuracy	0.53258
+Secondary	ROR	Cvas	0	RandomForestClassifier	ChemBERTa	Accuracy	0.50442
+Secondary	ROR	Cvas	3	RandomForestClassifier	ChemBERTa	Accuracy	0.48621
+Secondary	ROR	Cvas	1	RandomForestClassifier	ChemBERTa	Accuracy	0.54739
+Secondary	ROR	Cvas	2	RandomForestClassifier	ChemBERTa	Accuracy	0.50987
+Secondary	ROR	Cvas	4	RandomForestClassifier	ChemBERTa	Accuracy	0.54566
+Secondary	ROR	Cred	0	RandomForestClassifier	ChemBERTa	Recall	0.68746
+Secondary	ROR	Cred	3	RandomForestClassifier	ChemBERTa	Recall	0.59774
+Secondary	ROR	Cred	1	RandomForestClassifier	ChemBERTa	Recall	0.48373
+Secondary	ROR	Cred	2	RandomForestClassifier	ChemBERTa	Recall	0.53797
+Secondary	ROR	Cred	4	RandomForestClassifier	ChemBERTa	Recall	0.66403
+Secondary	ROR	Card	0	RandomForestClassifier	ChemBERTa	Recall	0.62695
+Secondary	ROR	Card	3	RandomForestClassifier	ChemBERTa	Recall	0.5931
+Secondary	ROR	Card	1	RandomForestClassifier	ChemBERTa	Recall	0.42772
+Secondary	ROR	Card	2	RandomForestClassifier	ChemBERTa	Recall	0.54223
+Secondary	ROR	Card	4	RandomForestClassifier	ChemBERTa	Recall	0.53821
+Secondary	ROR	Cvas	0	RandomForestClassifier	ChemBERTa	Recall	0.56332
+Secondary	ROR	Cvas	3	RandomForestClassifier	ChemBERTa	Recall	0.5307
+Secondary	ROR	Cvas	1	RandomForestClassifier	ChemBERTa	Recall	0.50907
+Secondary	ROR	Cvas	2	RandomForestClassifier	ChemBERTa	Recall	0.46496
+Secondary	ROR	Cvas	4	RandomForestClassifier	ChemBERTa	Recall	0.64394
+Secondary	ROR	Cred	0	RandomForestClassifier	ChemBERTa	Specificity	0.40531
+Secondary	ROR	Cred	3	RandomForestClassifier	ChemBERTa	Specificity	0.41097
+Secondary	ROR	Cred	1	RandomForestClassifier	ChemBERTa	Specificity	0.6126
+Secondary	ROR	Cred	2	RandomForestClassifier	ChemBERTa	Specificity	0.47959
+Secondary	ROR	Cred	4	RandomForestClassifier	ChemBERTa	Specificity	0.38982
+Secondary	ROR	Card	0	RandomForestClassifier	ChemBERTa	Specificity	0.49925
+Secondary	ROR	Card	3	RandomForestClassifier	ChemBERTa	Specificity	0.39465
+Secondary	ROR	Card	1	RandomForestClassifier	ChemBERTa	Specificity	0.64683
+Secondary	ROR	Card	2	RandomForestClassifier	ChemBERTa	Specificity	0.48603
+Secondary	ROR	Card	4	RandomForestClassifier	ChemBERTa	Specificity	0.52546
+Secondary	ROR	Cvas	0	RandomForestClassifier	ChemBERTa	Specificity	0.43376
+Secondary	ROR	Cvas	3	RandomForestClassifier	ChemBERTa	Specificity	0.42546
+Secondary	ROR	Cvas	1	RandomForestClassifier	ChemBERTa	Specificity	0.60813
+Secondary	ROR	Cvas	2	RandomForestClassifier	ChemBERTa	Specificity	0.58229
+Secondary	ROR	Cvas	4	RandomForestClassifier	ChemBERTa	Specificity	0.42112
+Secondary	ROR	Cred	0	RandomForestClassifier	ChemBERTa	Precision	0.58107
+Secondary	ROR	Cred	3	RandomForestClassifier	ChemBERTa	Precision	0.58078
+Secondary	ROR	Cred	1	RandomForestClassifier	ChemBERTa	Precision	0.66437
+Secondary	ROR	Cred	2	RandomForestClassifier	ChemBERTa	Precision	0.62508
+Secondary	ROR	Cred	4	RandomForestClassifier	ChemBERTa	Precision	0.57964
+Secondary	ROR	Card	0	RandomForestClassifier	ChemBERTa	Precision	0.60036
+Secondary	ROR	Card	3	RandomForestClassifier	ChemBERTa	Precision	0.57221
+Secondary	ROR	Card	1	RandomForestClassifier	ChemBERTa	Precision	0.65753
+Secondary	ROR	Card	2	RandomForestClassifier	ChemBERTa	Precision	0.62984
+Secondary	ROR	Card	4	RandomForestClassifier	ChemBERTa	Precision	0.58968
+Secondary	ROR	Cvas	0	RandomForestClassifier	ChemBERTa	Precision	0.54414
+Secondary	ROR	Cvas	3	RandomForestClassifier	ChemBERTa	Precision	0.55773
+Secondary	ROR	Cvas	1	RandomForestClassifier	ChemBERTa	Precision	0.67315
+Secondary	ROR	Cvas	2	RandomForestClassifier	ChemBERTa	Precision	0.64225
+Secondary	ROR	Cvas	4	RandomForestClassifier	ChemBERTa	Precision	0.58498

@@ -1,0 +1,151 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Secondary	IC	Cred	2	RandomForestClassifier	RDKit	Balanced Accuracy	0.58449
+Secondary	IC	Cred	1	RandomForestClassifier	RDKit	Balanced Accuracy	0.54776
+Secondary	IC	Cred	0	RandomForestClassifier	RDKit	Balanced Accuracy	0.55493
+Secondary	IC	Cred	3	RandomForestClassifier	RDKit	Balanced Accuracy	0.53651
+Secondary	IC	Cred	4	RandomForestClassifier	RDKit	Balanced Accuracy	0.56632
+Secondary	IC	Card	2	RandomForestClassifier	RDKit	Balanced Accuracy	0.54294
+Secondary	IC	Card	1	RandomForestClassifier	RDKit	Balanced Accuracy	0.55996
+Secondary	IC	Card	0	RandomForestClassifier	RDKit	Balanced Accuracy	0.55917
+Secondary	IC	Card	3	RandomForestClassifier	RDKit	Balanced Accuracy	0.54616
+Secondary	IC	Card	4	RandomForestClassifier	RDKit	Balanced Accuracy	0.55059
+Secondary	IC	Cvas	2	RandomForestClassifier	RDKit	Balanced Accuracy	0.56664
+Secondary	IC	Cvas	1	RandomForestClassifier	RDKit	Balanced Accuracy	0.57574
+Secondary	IC	Cvas	0	RandomForestClassifier	RDKit	Balanced Accuracy	0.56308
+Secondary	IC	Cvas	3	RandomForestClassifier	RDKit	Balanced Accuracy	0.55634
+Secondary	IC	Cvas	4	RandomForestClassifier	RDKit	Balanced Accuracy	0.55143
+Secondary	IC	Cred	2	RandomForestClassifier	RDKit	GeomRS	0.52175
+Secondary	IC	Cred	1	RandomForestClassifier	RDKit	GeomRS	0.49689
+Secondary	IC	Cred	0	RandomForestClassifier	RDKit	GeomRS	0.429
+Secondary	IC	Cred	3	RandomForestClassifier	RDKit	GeomRS	0.46031
+Secondary	IC	Cred	4	RandomForestClassifier	RDKit	GeomRS	0.47569
+Secondary	IC	Card	2	RandomForestClassifier	RDKit	GeomRS	0.40036
+Secondary	IC	Card	1	RandomForestClassifier	RDKit	GeomRS	0.51134
+Secondary	IC	Card	0	RandomForestClassifier	RDKit	GeomRS	0.40308
+Secondary	IC	Card	3	RandomForestClassifier	RDKit	GeomRS	0.47177
+Secondary	IC	Card	4	RandomForestClassifier	RDKit	GeomRS	0.39357
+Secondary	IC	Cvas	2	RandomForestClassifier	RDKit	GeomRS	0.4748
+Secondary	IC	Cvas	1	RandomForestClassifier	RDKit	GeomRS	0.53989
+Secondary	IC	Cvas	0	RandomForestClassifier	RDKit	GeomRS	0.45421
+Secondary	IC	Cvas	3	RandomForestClassifier	RDKit	GeomRS	0.47759
+Secondary	IC	Cvas	4	RandomForestClassifier	RDKit	GeomRS	0.43411
+Secondary	IC	Cred	2	RandomForestClassifier	RDKit	HarmRS	0.46574
+Secondary	IC	Cred	1	RandomForestClassifier	RDKit	HarmRS	0.45074
+Secondary	IC	Cred	0	RandomForestClassifier	RDKit	HarmRS	0.33166
+Secondary	IC	Cred	3	RandomForestClassifier	RDKit	HarmRS	0.39494
+Secondary	IC	Cred	4	RandomForestClassifier	RDKit	HarmRS	0.39956
+Secondary	IC	Card	2	RandomForestClassifier	RDKit	HarmRS	0.29522
+Secondary	IC	Card	1	RandomForestClassifier	RDKit	HarmRS	0.46693
+Secondary	IC	Card	0	RandomForestClassifier	RDKit	HarmRS	0.29057
+Secondary	IC	Card	3	RandomForestClassifier	RDKit	HarmRS	0.40752
+Secondary	IC	Card	4	RandomForestClassifier	RDKit	HarmRS	0.28133
+Secondary	IC	Cvas	2	RandomForestClassifier	RDKit	HarmRS	0.39785
+Secondary	IC	Cvas	1	RandomForestClassifier	RDKit	HarmRS	0.50626
+Secondary	IC	Cvas	0	RandomForestClassifier	RDKit	HarmRS	0.36638
+Secondary	IC	Cvas	3	RandomForestClassifier	RDKit	HarmRS	0.40998
+Secondary	IC	Cvas	4	RandomForestClassifier	RDKit	HarmRS	0.34175
+Secondary	IC	Cred	2	RandomForestClassifier	RDKit	F1 Score	0.78269
+Secondary	IC	Cred	1	RandomForestClassifier	RDKit	F1 Score	0.74062
+Secondary	IC	Cred	0	RandomForestClassifier	RDKit	F1 Score	0.75552
+Secondary	IC	Cred	3	RandomForestClassifier	RDKit	F1 Score	0.72818
+Secondary	IC	Cred	4	RandomForestClassifier	RDKit	F1 Score	0.75425
+Secondary	IC	Card	2	RandomForestClassifier	RDKit	F1 Score	0.79223
+Secondary	IC	Card	1	RandomForestClassifier	RDKit	F1 Score	0.74897
+Secondary	IC	Card	0	RandomForestClassifier	RDKit	F1 Score	0.76969
+Secondary	IC	Card	3	RandomForestClassifier	RDKit	F1 Score	0.73529
+Secondary	IC	Card	4	RandomForestClassifier	RDKit	F1 Score	0.76866
+Secondary	IC	Cvas	2	RandomForestClassifier	RDKit	F1 Score	0.78746
+Secondary	IC	Cvas	1	RandomForestClassifier	RDKit	F1 Score	0.74899
+Secondary	IC	Cvas	0	RandomForestClassifier	RDKit	F1 Score	0.75512
+Secondary	IC	Cvas	3	RandomForestClassifier	RDKit	F1 Score	0.74672
+Secondary	IC	Cvas	4	RandomForestClassifier	RDKit	F1 Score	0.75456
+Secondary	IC	Cred	2	RandomForestClassifier	RDKit	ROC AUC	0.66254
+Secondary	IC	Cred	1	RandomForestClassifier	RDKit	ROC AUC	0.60798
+Secondary	IC	Cred	0	RandomForestClassifier	RDKit	ROC AUC	0.68702
+Secondary	IC	Cred	3	RandomForestClassifier	RDKit	ROC AUC	0.59611
+Secondary	IC	Cred	4	RandomForestClassifier	RDKit	ROC AUC	0.64698
+Secondary	IC	Card	2	RandomForestClassifier	RDKit	ROC AUC	0.61678
+Secondary	IC	Card	1	RandomForestClassifier	RDKit	ROC AUC	0.60731
+Secondary	IC	Card	0	RandomForestClassifier	RDKit	ROC AUC	0.69831
+Secondary	IC	Card	3	RandomForestClassifier	RDKit	ROC AUC	0.60093
+Secondary	IC	Card	4	RandomForestClassifier	RDKit	ROC AUC	0.64173
+Secondary	IC	Cvas	2	RandomForestClassifier	RDKit	ROC AUC	0.64385
+Secondary	IC	Cvas	1	RandomForestClassifier	RDKit	ROC AUC	0.6295
+Secondary	IC	Cvas	0	RandomForestClassifier	RDKit	ROC AUC	0.68066
+Secondary	IC	Cvas	3	RandomForestClassifier	RDKit	ROC AUC	0.616
+Secondary	IC	Cvas	4	RandomForestClassifier	RDKit	ROC AUC	0.65805
+Secondary	IC	Cred	2	RandomForestClassifier	RDKit	MCC	0.19482
+Secondary	IC	Cred	1	RandomForestClassifier	RDKit	MCC	0.10269
+Secondary	IC	Cred	0	RandomForestClassifier	RDKit	MCC	0.15619
+Secondary	IC	Cred	3	RandomForestClassifier	RDKit	MCC	0.0855
+Secondary	IC	Cred	4	RandomForestClassifier	RDKit	MCC	0.16856
+Secondary	IC	Card	2	RandomForestClassifier	RDKit	MCC	0.12424
+Secondary	IC	Card	1	RandomForestClassifier	RDKit	MCC	0.12929
+Secondary	IC	Card	0	RandomForestClassifier	RDKit	MCC	0.19294
+Secondary	IC	Card	3	RandomForestClassifier	RDKit	MCC	0.10852
+Secondary	IC	Card	4	RandomForestClassifier	RDKit	MCC	0.1616
+Secondary	IC	Cvas	2	RandomForestClassifier	RDKit	MCC	0.16674
+Secondary	IC	Cvas	1	RandomForestClassifier	RDKit	MCC	0.15881
+Secondary	IC	Cvas	0	RandomForestClassifier	RDKit	MCC	0.1706
+Secondary	IC	Cvas	3	RandomForestClassifier	RDKit	MCC	0.13559
+Secondary	IC	Cvas	4	RandomForestClassifier	RDKit	MCC	0.14054
+Secondary	IC	Cred	2	RandomForestClassifier	RDKit	Accuracy	0.67959
+Secondary	IC	Cred	1	RandomForestClassifier	RDKit	Accuracy	0.63009
+Secondary	IC	Cred	0	RandomForestClassifier	RDKit	Accuracy	0.6376
+Secondary	IC	Cred	3	RandomForestClassifier	RDKit	Accuracy	0.61286
+Secondary	IC	Cred	4	RandomForestClassifier	RDKit	Accuracy	0.64369
+Secondary	IC	Card	2	RandomForestClassifier	RDKit	Accuracy	0.67531
+Secondary	IC	Card	1	RandomForestClassifier	RDKit	Accuracy	0.64148
+Secondary	IC	Card	0	RandomForestClassifier	RDKit	Accuracy	0.65019
+Secondary	IC	Card	3	RandomForestClassifier	RDKit	Accuracy	0.6224
+Secondary	IC	Card	4	RandomForestClassifier	RDKit	Accuracy	0.64752
+Secondary	IC	Cvas	2	RandomForestClassifier	RDKit	Accuracy	0.67826
+Secondary	IC	Cvas	1	RandomForestClassifier	RDKit	Accuracy	0.64717
+Secondary	IC	Cvas	0	RandomForestClassifier	RDKit	Accuracy	0.64124
+Secondary	IC	Cvas	3	RandomForestClassifier	RDKit	Accuracy	0.6354
+Secondary	IC	Cvas	4	RandomForestClassifier	RDKit	Accuracy	0.63703
+Secondary	IC	Cred	2	RandomForestClassifier	RDKit	Recall	0.84795
+Secondary	IC	Cred	1	RandomForestClassifier	RDKit	Recall	0.77829
+Secondary	IC	Cred	0	RandomForestClassifier	RDKit	Recall	0.90693
+Secondary	IC	Cred	3	RandomForestClassifier	RDKit	Recall	0.81211
+Secondary	IC	Cred	4	RandomForestClassifier	RDKit	Recall	0.87364
+Secondary	IC	Card	2	RandomForestClassifier	RDKit	Recall	0.90968
+Secondary	IC	Card	1	RandomForestClassifier	RDKit	Recall	0.7882
+Secondary	IC	Card	0	RandomForestClassifier	RDKit	Recall	0.94671
+Secondary	IC	Card	3	RandomForestClassifier	RDKit	Recall	0.82134
+Secondary	IC	Card	4	RandomForestClassifier	RDKit	Recall	0.93562
+Secondary	IC	Cvas	2	RandomForestClassifier	RDKit	Recall	0.87589
+Secondary	IC	Cvas	1	RandomForestClassifier	RDKit	Recall	0.77574
+Secondary	IC	Cvas	0	RandomForestClassifier	RDKit	Recall	0.89587
+Secondary	IC	Cvas	3	RandomForestClassifier	RDKit	Recall	0.84171
+Secondary	IC	Cvas	4	RandomForestClassifier	RDKit	Recall	0.89146
+Secondary	IC	Cred	2	RandomForestClassifier	RDKit	Specificity	0.32103
+Secondary	IC	Cred	1	RandomForestClassifier	RDKit	Specificity	0.31723
+Secondary	IC	Cred	0	RandomForestClassifier	RDKit	Specificity	0.20293
+Secondary	IC	Cred	3	RandomForestClassifier	RDKit	Specificity	0.26091
+Secondary	IC	Cred	4	RandomForestClassifier	RDKit	Specificity	0.25901
+Secondary	IC	Card	2	RandomForestClassifier	RDKit	Specificity	0.1762
+Secondary	IC	Card	1	RandomForestClassifier	RDKit	Specificity	0.33172
+Secondary	IC	Card	0	RandomForestClassifier	RDKit	Specificity	0.17162
+Secondary	IC	Card	3	RandomForestClassifier	RDKit	Specificity	0.27098
+Secondary	IC	Card	4	RandomForestClassifier	RDKit	Specificity	0.16555
+Secondary	IC	Cvas	2	RandomForestClassifier	RDKit	Specificity	0.25738
+Secondary	IC	Cvas	1	RandomForestClassifier	RDKit	Specificity	0.37574
+Secondary	IC	Cvas	0	RandomForestClassifier	RDKit	Specificity	0.23028
+Secondary	IC	Cvas	3	RandomForestClassifier	RDKit	Specificity	0.27098
+Secondary	IC	Cvas	4	RandomForestClassifier	RDKit	Specificity	0.21139
+Secondary	IC	Cred	2	RandomForestClassifier	RDKit	Precision	0.72675
+Secondary	IC	Cred	1	RandomForestClassifier	RDKit	Precision	0.70644
+Secondary	IC	Cred	0	RandomForestClassifier	RDKit	Precision	0.64744
+Secondary	IC	Cred	3	RandomForestClassifier	RDKit	Precision	0.65997
+Secondary	IC	Cred	4	RandomForestClassifier	RDKit	Precision	0.66357
+Secondary	IC	Card	2	RandomForestClassifier	RDKit	Precision	0.70164
+Secondary	IC	Card	1	RandomForestClassifier	RDKit	Precision	0.71346
+Secondary	IC	Card	0	RandomForestClassifier	RDKit	Precision	0.64844
+Secondary	IC	Card	3	RandomForestClassifier	RDKit	Precision	0.66557
+Secondary	IC	Card	4	RandomForestClassifier	RDKit	Precision	0.65226
+Secondary	IC	Cvas	2	RandomForestClassifier	RDKit	Precision	0.71525
+Secondary	IC	Cvas	1	RandomForestClassifier	RDKit	Precision	0.72402
+Secondary	IC	Cvas	0	RandomForestClassifier	RDKit	Precision	0.65259
+Secondary	IC	Cvas	3	RandomForestClassifier	RDKit	Precision	0.671
+Secondary	IC	Cvas	4	RandomForestClassifier	RDKit	Precision	0.65411

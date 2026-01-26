@@ -1,0 +1,151 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Primary	PRR	Cvas	3	RandomForestClassifier	ChemBERTa	Balanced Accuracy	0.53314
+Primary	PRR	Cvas	1	RandomForestClassifier	ChemBERTa	Balanced Accuracy	0.55241
+Primary	PRR	Cvas	0	RandomForestClassifier	ChemBERTa	Balanced Accuracy	0.54596
+Primary	PRR	Cvas	2	RandomForestClassifier	ChemBERTa	Balanced Accuracy	0.55177
+Primary	PRR	Cvas	4	RandomForestClassifier	ChemBERTa	Balanced Accuracy	0.52876
+Primary	ROR	Cvas	3	RandomForestClassifier	ChemBERTa	Balanced Accuracy	0.53562
+Primary	ROR	Cvas	1	RandomForestClassifier	ChemBERTa	Balanced Accuracy	0.57303
+Primary	ROR	Cvas	0	RandomForestClassifier	ChemBERTa	Balanced Accuracy	0.51547
+Primary	ROR	Cvas	2	RandomForestClassifier	ChemBERTa	Balanced Accuracy	0.55347
+Primary	ROR	Cvas	4	RandomForestClassifier	ChemBERTa	Balanced Accuracy	0.54722
+Primary	IC	Cvas	3	RandomForestClassifier	ChemBERTa	Balanced Accuracy	0.53515
+Primary	IC	Cvas	1	RandomForestClassifier	ChemBERTa	Balanced Accuracy	0.54079
+Primary	IC	Cvas	0	RandomForestClassifier	ChemBERTa	Balanced Accuracy	0.52264
+Primary	IC	Cvas	2	RandomForestClassifier	ChemBERTa	Balanced Accuracy	0.54311
+Primary	IC	Cvas	4	RandomForestClassifier	ChemBERTa	Balanced Accuracy	0.541
+Primary	PRR	Cvas	3	RandomForestClassifier	ChemBERTa	GeomRS	0.52675
+Primary	PRR	Cvas	1	RandomForestClassifier	ChemBERTa	GeomRS	0.55205
+Primary	PRR	Cvas	0	RandomForestClassifier	ChemBERTa	GeomRS	0.54131
+Primary	PRR	Cvas	2	RandomForestClassifier	ChemBERTa	GeomRS	0.54992
+Primary	PRR	Cvas	4	RandomForestClassifier	ChemBERTa	GeomRS	0.51395
+Primary	ROR	Cvas	3	RandomForestClassifier	ChemBERTa	GeomRS	0.53372
+Primary	ROR	Cvas	1	RandomForestClassifier	ChemBERTa	GeomRS	0.57114
+Primary	ROR	Cvas	0	RandomForestClassifier	ChemBERTa	GeomRS	0.51353
+Primary	ROR	Cvas	2	RandomForestClassifier	ChemBERTa	GeomRS	0.55335
+Primary	ROR	Cvas	4	RandomForestClassifier	ChemBERTa	GeomRS	0.54713
+Primary	IC	Cvas	3	RandomForestClassifier	ChemBERTa	GeomRS	0.50052
+Primary	IC	Cvas	1	RandomForestClassifier	ChemBERTa	GeomRS	0.53331
+Primary	IC	Cvas	0	RandomForestClassifier	ChemBERTa	GeomRS	0.42554
+Primary	IC	Cvas	2	RandomForestClassifier	ChemBERTa	GeomRS	0.5049
+Primary	IC	Cvas	4	RandomForestClassifier	ChemBERTa	GeomRS	0.45643
+Primary	PRR	Cvas	3	RandomForestClassifier	ChemBERTa	HarmRS	0.52045
+Primary	PRR	Cvas	1	RandomForestClassifier	ChemBERTa	HarmRS	0.5517
+Primary	PRR	Cvas	0	RandomForestClassifier	ChemBERTa	HarmRS	0.5367
+Primary	PRR	Cvas	2	RandomForestClassifier	ChemBERTa	HarmRS	0.54808
+Primary	PRR	Cvas	4	RandomForestClassifier	ChemBERTa	HarmRS	0.49956
+Primary	ROR	Cvas	3	RandomForestClassifier	ChemBERTa	HarmRS	0.53183
+Primary	ROR	Cvas	1	RandomForestClassifier	ChemBERTa	HarmRS	0.56924
+Primary	ROR	Cvas	0	RandomForestClassifier	ChemBERTa	HarmRS	0.51159
+Primary	ROR	Cvas	2	RandomForestClassifier	ChemBERTa	HarmRS	0.55323
+Primary	ROR	Cvas	4	RandomForestClassifier	ChemBERTa	HarmRS	0.54703
+Primary	IC	Cvas	3	RandomForestClassifier	ChemBERTa	HarmRS	0.46813
+Primary	IC	Cvas	1	RandomForestClassifier	ChemBERTa	HarmRS	0.52594
+Primary	IC	Cvas	0	RandomForestClassifier	ChemBERTa	HarmRS	0.34649
+Primary	IC	Cvas	2	RandomForestClassifier	ChemBERTa	HarmRS	0.46938
+Primary	IC	Cvas	4	RandomForestClassifier	ChemBERTa	HarmRS	0.38508
+Primary	PRR	Cvas	3	RandomForestClassifier	ChemBERTa	F1 Score	0.5167
+Primary	PRR	Cvas	1	RandomForestClassifier	ChemBERTa	F1 Score	0.58652
+Primary	PRR	Cvas	0	RandomForestClassifier	ChemBERTa	F1 Score	0.59677
+Primary	PRR	Cvas	2	RandomForestClassifier	ChemBERTa	F1 Score	0.60823
+Primary	PRR	Cvas	4	RandomForestClassifier	ChemBERTa	F1 Score	0.60971
+Primary	ROR	Cvas	3	RandomForestClassifier	ChemBERTa	F1 Score	0.58933
+Primary	ROR	Cvas	1	RandomForestClassifier	ChemBERTa	F1 Score	0.59195
+Primary	ROR	Cvas	0	RandomForestClassifier	ChemBERTa	F1 Score	0.55609
+Primary	ROR	Cvas	2	RandomForestClassifier	ChemBERTa	F1 Score	0.58132
+Primary	ROR	Cvas	4	RandomForestClassifier	ChemBERTa	F1 Score	0.57533
+Primary	IC	Cvas	3	RandomForestClassifier	ChemBERTa	F1 Score	0.65119
+Primary	IC	Cvas	1	RandomForestClassifier	ChemBERTa	F1 Score	0.63221
+Primary	IC	Cvas	0	RandomForestClassifier	ChemBERTa	F1 Score	0.66177
+Primary	IC	Cvas	2	RandomForestClassifier	ChemBERTa	F1 Score	0.66643
+Primary	IC	Cvas	4	RandomForestClassifier	ChemBERTa	F1 Score	0.67957
+Primary	PRR	Cvas	3	RandomForestClassifier	ChemBERTa	ROC AUC	0.55262
+Primary	PRR	Cvas	1	RandomForestClassifier	ChemBERTa	ROC AUC	0.55899
+Primary	PRR	Cvas	0	RandomForestClassifier	ChemBERTa	ROC AUC	0.56162
+Primary	PRR	Cvas	2	RandomForestClassifier	ChemBERTa	ROC AUC	0.57456
+Primary	PRR	Cvas	4	RandomForestClassifier	ChemBERTa	ROC AUC	0.54965
+Primary	ROR	Cvas	3	RandomForestClassifier	ChemBERTa	ROC AUC	0.54741
+Primary	ROR	Cvas	1	RandomForestClassifier	ChemBERTa	ROC AUC	0.57968
+Primary	ROR	Cvas	0	RandomForestClassifier	ChemBERTa	ROC AUC	0.52921
+Primary	ROR	Cvas	2	RandomForestClassifier	ChemBERTa	ROC AUC	0.57573
+Primary	ROR	Cvas	4	RandomForestClassifier	ChemBERTa	ROC AUC	0.56535
+Primary	IC	Cvas	3	RandomForestClassifier	ChemBERTa	ROC AUC	0.54881
+Primary	IC	Cvas	1	RandomForestClassifier	ChemBERTa	ROC AUC	0.55647
+Primary	IC	Cvas	0	RandomForestClassifier	ChemBERTa	ROC AUC	0.58192
+Primary	IC	Cvas	2	RandomForestClassifier	ChemBERTa	ROC AUC	0.59035
+Primary	IC	Cvas	4	RandomForestClassifier	ChemBERTa	ROC AUC	0.59409
+Primary	PRR	Cvas	3	RandomForestClassifier	ChemBERTa	MCC	0.06649
+Primary	PRR	Cvas	1	RandomForestClassifier	ChemBERTa	MCC	0.10266
+Primary	PRR	Cvas	0	RandomForestClassifier	ChemBERTa	MCC	0.09269
+Primary	PRR	Cvas	2	RandomForestClassifier	ChemBERTa	MCC	0.10297
+Primary	PRR	Cvas	4	RandomForestClassifier	ChemBERTa	MCC	0.05919
+Primary	ROR	Cvas	3	RandomForestClassifier	ChemBERTa	MCC	0.07096
+Primary	ROR	Cvas	1	RandomForestClassifier	ChemBERTa	MCC	0.14333
+Primary	ROR	Cvas	0	RandomForestClassifier	ChemBERTa	MCC	0.03097
+Primary	ROR	Cvas	2	RandomForestClassifier	ChemBERTa	MCC	0.10576
+Primary	ROR	Cvas	4	RandomForestClassifier	ChemBERTa	MCC	0.09403
+Primary	IC	Cvas	3	RandomForestClassifier	ChemBERTa	MCC	0.07561
+Primary	IC	Cvas	1	RandomForestClassifier	ChemBERTa	MCC	0.08147
+Primary	IC	Cvas	0	RandomForestClassifier	ChemBERTa	MCC	0.05698
+Primary	IC	Cvas	2	RandomForestClassifier	ChemBERTa	MCC	0.09363
+Primary	IC	Cvas	4	RandomForestClassifier	ChemBERTa	MCC	0.10097
+Primary	PRR	Cvas	3	RandomForestClassifier	ChemBERTa	Accuracy	0.52221
+Primary	PRR	Cvas	1	RandomForestClassifier	ChemBERTa	Accuracy	0.54841
+Primary	PRR	Cvas	0	RandomForestClassifier	ChemBERTa	Accuracy	0.55136
+Primary	PRR	Cvas	2	RandomForestClassifier	ChemBERTa	Accuracy	0.55847
+Primary	PRR	Cvas	4	RandomForestClassifier	ChemBERTa	Accuracy	0.54096
+Primary	ROR	Cvas	3	RandomForestClassifier	ChemBERTa	Accuracy	0.5416
+Primary	ROR	Cvas	1	RandomForestClassifier	ChemBERTa	Accuracy	0.56359
+Primary	ROR	Cvas	0	RandomForestClassifier	ChemBERTa	Accuracy	0.51886
+Primary	ROR	Cvas	2	RandomForestClassifier	ChemBERTa	Accuracy	0.55176
+Primary	ROR	Cvas	4	RandomForestClassifier	ChemBERTa	Accuracy	0.54822
+Primary	IC	Cvas	3	RandomForestClassifier	ChemBERTa	Accuracy	0.56032
+Primary	IC	Cvas	1	RandomForestClassifier	ChemBERTa	Accuracy	0.55895
+Primary	IC	Cvas	0	RandomForestClassifier	ChemBERTa	Accuracy	0.54571
+Primary	IC	Cvas	2	RandomForestClassifier	ChemBERTa	Accuracy	0.5728
+Primary	IC	Cvas	4	RandomForestClassifier	ChemBERTa	Accuracy	0.5695
+Primary	PRR	Cvas	3	RandomForestClassifier	ChemBERTa	Recall	0.45089
+Primary	PRR	Cvas	1	RandomForestClassifier	ChemBERTa	Recall	0.53268
+Primary	PRR	Cvas	0	RandomForestClassifier	ChemBERTa	Recall	0.61704
+Primary	PRR	Cvas	2	RandomForestClassifier	ChemBERTa	Recall	0.59692
+Primary	PRR	Cvas	4	RandomForestClassifier	ChemBERTa	Recall	0.65303
+Primary	ROR	Cvas	3	RandomForestClassifier	ChemBERTa	Recall	0.58065
+Primary	ROR	Cvas	1	RandomForestClassifier	ChemBERTa	Recall	0.52644
+Primary	ROR	Cvas	0	RandomForestClassifier	ChemBERTa	Recall	0.56014
+Primary	ROR	Cvas	2	RandomForestClassifier	ChemBERTa	Recall	0.54195
+Primary	ROR	Cvas	4	RandomForestClassifier	ChemBERTa	Recall	0.55737
+Primary	IC	Cvas	3	RandomForestClassifier	ChemBERTa	Recall	0.72454
+Primary	IC	Cvas	1	RandomForestClassifier	ChemBERTa	Recall	0.63042
+Primary	IC	Cvas	0	RandomForestClassifier	ChemBERTa	Recall	0.82605
+Primary	IC	Cvas	2	RandomForestClassifier	ChemBERTa	Recall	0.74323
+Primary	IC	Cvas	4	RandomForestClassifier	ChemBERTa	Recall	0.83144
+Primary	PRR	Cvas	3	RandomForestClassifier	ChemBERTa	Specificity	0.61538
+Primary	PRR	Cvas	1	RandomForestClassifier	ChemBERTa	Specificity	0.57213
+Primary	PRR	Cvas	0	RandomForestClassifier	ChemBERTa	Specificity	0.47487
+Primary	PRR	Cvas	2	RandomForestClassifier	ChemBERTa	Specificity	0.50662
+Primary	PRR	Cvas	4	RandomForestClassifier	ChemBERTa	Specificity	0.40449
+Primary	ROR	Cvas	3	RandomForestClassifier	ChemBERTa	Specificity	0.49058
+Primary	ROR	Cvas	1	RandomForestClassifier	ChemBERTa	Specificity	0.61962
+Primary	ROR	Cvas	0	RandomForestClassifier	ChemBERTa	Specificity	0.47079
+Primary	ROR	Cvas	2	RandomForestClassifier	ChemBERTa	Specificity	0.56498
+Primary	ROR	Cvas	4	RandomForestClassifier	ChemBERTa	Specificity	0.53708
+Primary	IC	Cvas	3	RandomForestClassifier	ChemBERTa	Specificity	0.34576
+Primary	IC	Cvas	1	RandomForestClassifier	ChemBERTa	Specificity	0.45116
+Primary	IC	Cvas	0	RandomForestClassifier	ChemBERTa	Specificity	0.21922
+Primary	IC	Cvas	2	RandomForestClassifier	ChemBERTa	Specificity	0.343
+Primary	IC	Cvas	4	RandomForestClassifier	ChemBERTa	Specificity	0.25056
+Primary	PRR	Cvas	3	RandomForestClassifier	ChemBERTa	Precision	0.605
+Primary	PRR	Cvas	1	RandomForestClassifier	ChemBERTa	Precision	0.65247
+Primary	PRR	Cvas	0	RandomForestClassifier	ChemBERTa	Precision	0.57778
+Primary	PRR	Cvas	2	RandomForestClassifier	ChemBERTa	Precision	0.61997
+Primary	PRR	Cvas	4	RandomForestClassifier	ChemBERTa	Precision	0.57177
+Primary	ROR	Cvas	3	RandomForestClassifier	ChemBERTa	Precision	0.59827
+Primary	ROR	Cvas	1	RandomForestClassifier	ChemBERTa	Precision	0.67608
+Primary	ROR	Cvas	0	RandomForestClassifier	ChemBERTa	Precision	0.5521
+Primary	ROR	Cvas	2	RandomForestClassifier	ChemBERTa	Precision	0.62684
+Primary	ROR	Cvas	4	RandomForestClassifier	ChemBERTa	Precision	0.59449
+Primary	IC	Cvas	3	RandomForestClassifier	ChemBERTa	Precision	0.59132
+Primary	IC	Cvas	1	RandomForestClassifier	ChemBERTa	Precision	0.634
+Primary	IC	Cvas	0	RandomForestClassifier	ChemBERTa	Precision	0.55199
+Primary	IC	Cvas	2	RandomForestClassifier	ChemBERTa	Precision	0.60401
+Primary	IC	Cvas	4	RandomForestClassifier	ChemBERTa	Precision	0.57462

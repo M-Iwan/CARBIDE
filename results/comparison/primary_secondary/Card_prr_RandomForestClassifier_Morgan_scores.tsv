@@ -1,0 +1,101 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Primary	PRR	Card	0	RandomForestClassifier	Morgan	Balanced Accuracy	0.56875
+Primary	PRR	Card	2	RandomForestClassifier	Morgan	Balanced Accuracy	0.61774
+Primary	PRR	Card	1	RandomForestClassifier	Morgan	Balanced Accuracy	0.62292
+Primary	PRR	Card	3	RandomForestClassifier	Morgan	Balanced Accuracy	0.59675
+Primary	PRR	Card	4	RandomForestClassifier	Morgan	Balanced Accuracy	0.58272
+Secondary	PRR	Card	0	RandomForestClassifier	Morgan	Balanced Accuracy	0.60975
+Secondary	PRR	Card	2	RandomForestClassifier	Morgan	Balanced Accuracy	0.55831
+Secondary	PRR	Card	1	RandomForestClassifier	Morgan	Balanced Accuracy	0.63124
+Secondary	PRR	Card	3	RandomForestClassifier	Morgan	Balanced Accuracy	0.58643
+Secondary	PRR	Card	4	RandomForestClassifier	Morgan	Balanced Accuracy	0.56946
+Primary	PRR	Card	0	RandomForestClassifier	Morgan	GeomRS	0.55812
+Primary	PRR	Card	2	RandomForestClassifier	Morgan	GeomRS	0.61701
+Primary	PRR	Card	1	RandomForestClassifier	Morgan	GeomRS	0.60824
+Primary	PRR	Card	3	RandomForestClassifier	Morgan	GeomRS	0.57878
+Primary	PRR	Card	4	RandomForestClassifier	Morgan	GeomRS	0.57882
+Secondary	PRR	Card	0	RandomForestClassifier	Morgan	GeomRS	0.60074
+Secondary	PRR	Card	2	RandomForestClassifier	Morgan	GeomRS	0.5553
+Secondary	PRR	Card	1	RandomForestClassifier	Morgan	GeomRS	0.6312
+Secondary	PRR	Card	3	RandomForestClassifier	Morgan	GeomRS	0.58456
+Secondary	PRR	Card	4	RandomForestClassifier	Morgan	GeomRS	0.56576
+Primary	PRR	Card	0	RandomForestClassifier	Morgan	HarmRS	0.54769
+Primary	PRR	Card	2	RandomForestClassifier	Morgan	HarmRS	0.61629
+Primary	PRR	Card	1	RandomForestClassifier	Morgan	HarmRS	0.5939
+Primary	PRR	Card	3	RandomForestClassifier	Morgan	HarmRS	0.56136
+Primary	PRR	Card	4	RandomForestClassifier	Morgan	HarmRS	0.57494
+Secondary	PRR	Card	0	RandomForestClassifier	Morgan	HarmRS	0.59185
+Secondary	PRR	Card	2	RandomForestClassifier	Morgan	HarmRS	0.55231
+Secondary	PRR	Card	1	RandomForestClassifier	Morgan	HarmRS	0.63115
+Secondary	PRR	Card	3	RandomForestClassifier	Morgan	HarmRS	0.58269
+Secondary	PRR	Card	4	RandomForestClassifier	Morgan	HarmRS	0.56207
+Primary	PRR	Card	0	RandomForestClassifier	Morgan	F1 Score	0.63783
+Primary	PRR	Card	2	RandomForestClassifier	Morgan	F1 Score	0.65933
+Primary	PRR	Card	1	RandomForestClassifier	Morgan	F1 Score	0.59736
+Primary	PRR	Card	3	RandomForestClassifier	Morgan	F1 Score	0.556
+Primary	PRR	Card	4	RandomForestClassifier	Morgan	F1 Score	0.65193
+Secondary	PRR	Card	0	RandomForestClassifier	Morgan	F1 Score	0.67237
+Secondary	PRR	Card	2	RandomForestClassifier	Morgan	F1 Score	0.58426
+Secondary	PRR	Card	1	RandomForestClassifier	Morgan	F1 Score	0.68421
+Secondary	PRR	Card	3	RandomForestClassifier	Morgan	F1 Score	0.65251
+Secondary	PRR	Card	4	RandomForestClassifier	Morgan	F1 Score	0.63875
+Primary	PRR	Card	0	RandomForestClassifier	Morgan	ROC AUC	0.59984
+Primary	PRR	Card	2	RandomForestClassifier	Morgan	ROC AUC	0.65702
+Primary	PRR	Card	1	RandomForestClassifier	Morgan	ROC AUC	0.65367
+Primary	PRR	Card	3	RandomForestClassifier	Morgan	ROC AUC	0.61577
+Primary	PRR	Card	4	RandomForestClassifier	Morgan	ROC AUC	0.61368
+Secondary	PRR	Card	0	RandomForestClassifier	Morgan	ROC AUC	0.66993
+Secondary	PRR	Card	2	RandomForestClassifier	Morgan	ROC AUC	0.59783
+Secondary	PRR	Card	1	RandomForestClassifier	Morgan	ROC AUC	0.6645
+Secondary	PRR	Card	3	RandomForestClassifier	Morgan	ROC AUC	0.60503
+Secondary	PRR	Card	4	RandomForestClassifier	Morgan	ROC AUC	0.5806
+Primary	PRR	Card	0	RandomForestClassifier	Morgan	MCC	0.14074
+Primary	PRR	Card	2	RandomForestClassifier	Morgan	MCC	0.22559
+Primary	PRR	Card	1	RandomForestClassifier	Morgan	MCC	0.24367
+Primary	PRR	Card	3	RandomForestClassifier	Morgan	MCC	0.19598
+Primary	PRR	Card	4	RandomForestClassifier	Morgan	MCC	0.16525
+Secondary	PRR	Card	0	RandomForestClassifier	Morgan	MCC	0.22454
+Secondary	PRR	Card	2	RandomForestClassifier	Morgan	MCC	0.11209
+Secondary	PRR	Card	1	RandomForestClassifier	Morgan	MCC	0.25523
+Secondary	PRR	Card	3	RandomForestClassifier	Morgan	MCC	0.17082
+Secondary	PRR	Card	4	RandomForestClassifier	Morgan	MCC	0.13856
+Primary	PRR	Card	0	RandomForestClassifier	Morgan	Accuracy	0.57897
+Primary	PRR	Card	2	RandomForestClassifier	Morgan	Accuracy	0.60915
+Primary	PRR	Card	1	RandomForestClassifier	Morgan	Accuracy	0.5899
+Primary	PRR	Card	3	RandomForestClassifier	Morgan	Accuracy	0.56787
+Primary	PRR	Card	4	RandomForestClassifier	Morgan	Accuracy	0.59413
+Secondary	PRR	Card	0	RandomForestClassifier	Morgan	Accuracy	0.6195
+Secondary	PRR	Card	2	RandomForestClassifier	Morgan	Accuracy	0.54171
+Secondary	PRR	Card	1	RandomForestClassifier	Morgan	Accuracy	0.63299
+Secondary	PRR	Card	3	RandomForestClassifier	Morgan	Accuracy	0.59574
+Secondary	PRR	Card	4	RandomForestClassifier	Morgan	Accuracy	0.58046
+Primary	PRR	Card	0	RandomForestClassifier	Morgan	Recall	0.67821
+Primary	PRR	Card	2	RandomForestClassifier	Morgan	Recall	0.5878
+Primary	PRR	Card	1	RandomForestClassifier	Morgan	Recall	0.48847
+Primary	PRR	Card	3	RandomForestClassifier	Morgan	Recall	0.45142
+Primary	PRR	Card	4	RandomForestClassifier	Morgan	Recall	0.65006
+Secondary	PRR	Card	0	RandomForestClassifier	Morgan	Recall	0.71424
+Secondary	PRR	Card	2	RandomForestClassifier	Morgan	Recall	0.50046
+Secondary	PRR	Card	1	RandomForestClassifier	Morgan	Recall	0.63839
+Secondary	PRR	Card	3	RandomForestClassifier	Morgan	Recall	0.63327
+Secondary	PRR	Card	4	RandomForestClassifier	Morgan	Recall	0.63434
+Primary	PRR	Card	0	RandomForestClassifier	Morgan	Specificity	0.4593
+Primary	PRR	Card	2	RandomForestClassifier	Morgan	Specificity	0.64768
+Primary	PRR	Card	1	RandomForestClassifier	Morgan	Specificity	0.75737
+Primary	PRR	Card	3	RandomForestClassifier	Morgan	Specificity	0.74208
+Primary	PRR	Card	4	RandomForestClassifier	Morgan	Specificity	0.51538
+Secondary	PRR	Card	0	RandomForestClassifier	Morgan	Specificity	0.50527
+Secondary	PRR	Card	2	RandomForestClassifier	Morgan	Specificity	0.61615
+Secondary	PRR	Card	1	RandomForestClassifier	Morgan	Specificity	0.62408
+Secondary	PRR	Card	3	RandomForestClassifier	Morgan	Specificity	0.53959
+Secondary	PRR	Card	4	RandomForestClassifier	Morgan	Specificity	0.50459
+Primary	PRR	Card	0	RandomForestClassifier	Morgan	Precision	0.60199
+Primary	PRR	Card	2	RandomForestClassifier	Morgan	Precision	0.75068
+Primary	PRR	Card	1	RandomForestClassifier	Morgan	Precision	0.76874
+Primary	PRR	Card	3	RandomForestClassifier	Morgan	Precision	0.72364
+Primary	PRR	Card	4	RandomForestClassifier	Morgan	Precision	0.65382
+Secondary	PRR	Card	0	RandomForestClassifier	Morgan	Precision	0.63515
+Secondary	PRR	Card	2	RandomForestClassifier	Morgan	Precision	0.70176
+Secondary	PRR	Card	1	RandomForestClassifier	Morgan	Precision	0.73711
+Secondary	PRR	Card	3	RandomForestClassifier	Morgan	Precision	0.67296
+Secondary	PRR	Card	4	RandomForestClassifier	Morgan	Precision	0.64322

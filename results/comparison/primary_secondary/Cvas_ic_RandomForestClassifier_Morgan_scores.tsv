@@ -1,0 +1,101 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Primary	IC	Cvas	0	RandomForestClassifier	Morgan	Balanced Accuracy	0.56336
+Primary	IC	Cvas	1	RandomForestClassifier	Morgan	Balanced Accuracy	0.59421
+Primary	IC	Cvas	3	RandomForestClassifier	Morgan	Balanced Accuracy	0.57477
+Primary	IC	Cvas	2	RandomForestClassifier	Morgan	Balanced Accuracy	0.59811
+Primary	IC	Cvas	4	RandomForestClassifier	Morgan	Balanced Accuracy	0.58918
+Secondary	IC	Cvas	0	RandomForestClassifier	Morgan	Balanced Accuracy	0.51837
+Secondary	IC	Cvas	1	RandomForestClassifier	Morgan	Balanced Accuracy	0.56235
+Secondary	IC	Cvas	3	RandomForestClassifier	Morgan	Balanced Accuracy	0.48715
+Secondary	IC	Cvas	2	RandomForestClassifier	Morgan	Balanced Accuracy	0.57125
+Secondary	IC	Cvas	4	RandomForestClassifier	Morgan	Balanced Accuracy	0.50908
+Primary	IC	Cvas	0	RandomForestClassifier	Morgan	GeomRS	0.53517
+Primary	IC	Cvas	1	RandomForestClassifier	Morgan	GeomRS	0.59279
+Primary	IC	Cvas	3	RandomForestClassifier	Morgan	GeomRS	0.55411
+Primary	IC	Cvas	2	RandomForestClassifier	Morgan	GeomRS	0.57853
+Primary	IC	Cvas	4	RandomForestClassifier	Morgan	GeomRS	0.57871
+Secondary	IC	Cvas	0	RandomForestClassifier	Morgan	GeomRS	0.33837
+Secondary	IC	Cvas	1	RandomForestClassifier	Morgan	GeomRS	0.51591
+Secondary	IC	Cvas	3	RandomForestClassifier	Morgan	GeomRS	0.29914
+Secondary	IC	Cvas	2	RandomForestClassifier	Morgan	GeomRS	0.48914
+Secondary	IC	Cvas	4	RandomForestClassifier	Morgan	GeomRS	0.36462
+Primary	IC	Cvas	0	RandomForestClassifier	Morgan	HarmRS	0.5084
+Primary	IC	Cvas	1	RandomForestClassifier	Morgan	HarmRS	0.59136
+Primary	IC	Cvas	3	RandomForestClassifier	Morgan	HarmRS	0.53419
+Primary	IC	Cvas	2	RandomForestClassifier	Morgan	HarmRS	0.55958
+Primary	IC	Cvas	4	RandomForestClassifier	Morgan	HarmRS	0.56843
+Secondary	IC	Cvas	0	RandomForestClassifier	Morgan	HarmRS	0.22088
+Secondary	IC	Cvas	1	RandomForestClassifier	Morgan	HarmRS	0.4733
+Secondary	IC	Cvas	3	RandomForestClassifier	Morgan	HarmRS	0.18369
+Secondary	IC	Cvas	2	RandomForestClassifier	Morgan	HarmRS	0.41883
+Secondary	IC	Cvas	4	RandomForestClassifier	Morgan	HarmRS	0.26115
+Primary	IC	Cvas	0	RandomForestClassifier	Morgan	F1 Score	0.67038
+Primary	IC	Cvas	1	RandomForestClassifier	Morgan	F1 Score	0.674
+Primary	IC	Cvas	3	RandomForestClassifier	Morgan	F1 Score	0.68114
+Primary	IC	Cvas	2	RandomForestClassifier	Morgan	F1 Score	0.71305
+Primary	IC	Cvas	4	RandomForestClassifier	Morgan	F1 Score	0.67212
+Secondary	IC	Cvas	0	RandomForestClassifier	Morgan	F1 Score	0.70716
+Secondary	IC	Cvas	1	RandomForestClassifier	Morgan	F1 Score	0.72921
+Secondary	IC	Cvas	3	RandomForestClassifier	Morgan	F1 Score	0.69563
+Secondary	IC	Cvas	2	RandomForestClassifier	Morgan	F1 Score	0.74412
+Secondary	IC	Cvas	4	RandomForestClassifier	Morgan	F1 Score	0.69565
+Primary	IC	Cvas	0	RandomForestClassifier	Morgan	ROC AUC	0.62136
+Primary	IC	Cvas	1	RandomForestClassifier	Morgan	ROC AUC	0.63113
+Primary	IC	Cvas	3	RandomForestClassifier	Morgan	ROC AUC	0.62768
+Primary	IC	Cvas	2	RandomForestClassifier	Morgan	ROC AUC	0.66149
+Primary	IC	Cvas	4	RandomForestClassifier	Morgan	ROC AUC	0.63309
+Secondary	IC	Cvas	0	RandomForestClassifier	Morgan	ROC AUC	0.63746
+Secondary	IC	Cvas	1	RandomForestClassifier	Morgan	ROC AUC	0.61548
+Secondary	IC	Cvas	3	RandomForestClassifier	Morgan	ROC AUC	0.55274
+Secondary	IC	Cvas	2	RandomForestClassifier	Morgan	ROC AUC	0.6602
+Secondary	IC	Cvas	4	RandomForestClassifier	Morgan	ROC AUC	0.62279
+Primary	IC	Cvas	0	RandomForestClassifier	Morgan	MCC	0.13508
+Primary	IC	Cvas	1	RandomForestClassifier	Morgan	MCC	0.18243
+Primary	IC	Cvas	3	RandomForestClassifier	Morgan	MCC	0.15613
+Primary	IC	Cvas	2	RandomForestClassifier	Morgan	MCC	0.20406
+Primary	IC	Cvas	4	RandomForestClassifier	Morgan	MCC	0.18194
+Secondary	IC	Cvas	0	RandomForestClassifier	Morgan	MCC	0.0594
+Secondary	IC	Cvas	1	RandomForestClassifier	Morgan	MCC	0.13658
+Secondary	IC	Cvas	3	RandomForestClassifier	Morgan	MCC	-0.03928
+Secondary	IC	Cvas	2	RandomForestClassifier	Morgan	MCC	0.17742
+Secondary	IC	Cvas	4	RandomForestClassifier	Morgan	MCC	0.0256
+Primary	IC	Cvas	0	RandomForestClassifier	Morgan	Accuracy	0.58721
+Primary	IC	Cvas	1	RandomForestClassifier	Morgan	Accuracy	0.60584
+Primary	IC	Cvas	3	RandomForestClassifier	Morgan	Accuracy	0.60098
+Primary	IC	Cvas	2	RandomForestClassifier	Morgan	Accuracy	0.63162
+Primary	IC	Cvas	4	RandomForestClassifier	Morgan	Accuracy	0.60617
+Secondary	IC	Cvas	0	RandomForestClassifier	Morgan	Accuracy	0.57159
+Secondary	IC	Cvas	1	RandomForestClassifier	Morgan	Accuracy	0.62558
+Secondary	IC	Cvas	3	RandomForestClassifier	Morgan	Accuracy	0.55315
+Secondary	IC	Cvas	2	RandomForestClassifier	Morgan	Accuracy	0.63636
+Secondary	IC	Cvas	4	RandomForestClassifier	Morgan	Accuracy	0.5637
+Primary	IC	Cvas	0	RandomForestClassifier	Morgan	Recall	0.73932
+Primary	IC	Cvas	1	RandomForestClassifier	Morgan	Recall	0.63536
+Primary	IC	Cvas	3	RandomForestClassifier	Morgan	Recall	0.72749
+Primary	IC	Cvas	2	RandomForestClassifier	Morgan	Recall	0.74993
+Primary	IC	Cvas	4	RandomForestClassifier	Morgan	Recall	0.69973
+Secondary	IC	Cvas	0	RandomForestClassifier	Morgan	Recall	0.91106
+Secondary	IC	Cvas	1	RandomForestClassifier	Morgan	Recall	0.78612
+Secondary	IC	Cvas	3	RandomForestClassifier	Morgan	Recall	0.87164
+Secondary	IC	Cvas	2	RandomForestClassifier	Morgan	Recall	0.86632
+Secondary	IC	Cvas	4	RandomForestClassifier	Morgan	Recall	0.86435
+Primary	IC	Cvas	0	RandomForestClassifier	Morgan	Specificity	0.38739
+Primary	IC	Cvas	1	RandomForestClassifier	Morgan	Specificity	0.55306
+Primary	IC	Cvas	3	RandomForestClassifier	Morgan	Specificity	0.42205
+Primary	IC	Cvas	2	RandomForestClassifier	Morgan	Specificity	0.4463
+Primary	IC	Cvas	4	RandomForestClassifier	Morgan	Specificity	0.47862
+Secondary	IC	Cvas	0	RandomForestClassifier	Morgan	Specificity	0.12567
+Secondary	IC	Cvas	1	RandomForestClassifier	Morgan	Specificity	0.33857
+Secondary	IC	Cvas	3	RandomForestClassifier	Morgan	Specificity	0.10266
+Secondary	IC	Cvas	2	RandomForestClassifier	Morgan	Specificity	0.27617
+Secondary	IC	Cvas	4	RandomForestClassifier	Morgan	Specificity	0.15381
+Primary	IC	Cvas	0	RandomForestClassifier	Morgan	Precision	0.6132
+Primary	IC	Cvas	1	RandomForestClassifier	Morgan	Precision	0.71763
+Primary	IC	Cvas	3	RandomForestClassifier	Morgan	Precision	0.64034
+Primary	IC	Cvas	2	RandomForestClassifier	Morgan	Precision	0.67963
+Primary	IC	Cvas	4	RandomForestClassifier	Morgan	Precision	0.64661
+Secondary	IC	Cvas	0	RandomForestClassifier	Morgan	Precision	0.57784
+Secondary	IC	Cvas	1	RandomForestClassifier	Morgan	Precision	0.67998
+Secondary	IC	Cvas	3	RandomForestClassifier	Morgan	Precision	0.57876
+Secondary	IC	Cvas	2	RandomForestClassifier	Morgan	Precision	0.65214
+Secondary	IC	Cvas	4	RandomForestClassifier	Morgan	Precision	0.58205

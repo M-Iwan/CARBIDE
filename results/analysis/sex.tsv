@@ -1,0 +1,2161 @@
+Series	Test_Fold	Model	Descriptors	Sex	Metric	Value
+Weighted	0	XGBClassifier	RDKit	Male	Recall	0.50963
+Weighted	0	XGBClassifier	RDKit	Female	Recall	0.69542
+Weighted	0	XGBClassifier	RDKit	Unknown	Recall	0.67487
+Unweighted	0	XGBClassifier	RDKit	Male	Recall	0.49886
+Unweighted	0	XGBClassifier	RDKit	Female	Recall	0.67065
+Unweighted	0	XGBClassifier	RDKit	Unknown	Recall	0.66133
+Weighted	1	XGBClassifier	RDKit	Female	Recall	0.47794
+Weighted	1	XGBClassifier	RDKit	Male	Recall	0.31136
+Weighted	1	XGBClassifier	RDKit	Unknown	Recall	0.43563
+Unweighted	1	XGBClassifier	RDKit	Female	Recall	0.46162
+Unweighted	1	XGBClassifier	RDKit	Male	Recall	0.2832
+Unweighted	1	XGBClassifier	RDKit	Unknown	Recall	0.43268
+Weighted	3	XGBClassifier	RDKit	Female	Recall	0.65428
+Weighted	3	XGBClassifier	RDKit	Unknown	Recall	0.6318
+Weighted	3	XGBClassifier	RDKit	Male	Recall	0.39593
+Unweighted	3	XGBClassifier	RDKit	Female	Recall	0.59892
+Unweighted	3	XGBClassifier	RDKit	Unknown	Recall	0.59488
+Unweighted	3	XGBClassifier	RDKit	Male	Recall	0.35651
+Weighted	2	XGBClassifier	RDKit	Unknown	Recall	0.64619
+Weighted	2	XGBClassifier	RDKit	Male	Recall	0.45403
+Weighted	2	XGBClassifier	RDKit	Female	Recall	0.6554
+Unweighted	2	XGBClassifier	RDKit	Unknown	Recall	0.61331
+Unweighted	2	XGBClassifier	RDKit	Male	Recall	0.39592
+Unweighted	2	XGBClassifier	RDKit	Female	Recall	0.58148
+Weighted	4	XGBClassifier	RDKit	Female	Recall	0.70765
+Weighted	4	XGBClassifier	RDKit	Unknown	Recall	0.68547
+Weighted	4	XGBClassifier	RDKit	Male	Recall	0.49599
+Unweighted	4	XGBClassifier	RDKit	Female	Recall	0.65652
+Unweighted	4	XGBClassifier	RDKit	Unknown	Recall	0.6467
+Unweighted	4	XGBClassifier	RDKit	Male	Recall	0.42699
+Weighted	0	XGBClassifier	MACCS	Unknown	Recall	0.69043
+Weighted	0	XGBClassifier	MACCS	Male	Recall	0.51065
+Weighted	0	XGBClassifier	MACCS	Female	Recall	0.68878
+Unweighted	0	XGBClassifier	MACCS	Unknown	Recall	0.67494
+Unweighted	0	XGBClassifier	MACCS	Male	Recall	0.49886
+Unweighted	0	XGBClassifier	MACCS	Female	Recall	0.67065
+Weighted	1	XGBClassifier	MACCS	Female	Recall	0.50351
+Weighted	1	XGBClassifier	MACCS	Male	Recall	0.43047
+Weighted	1	XGBClassifier	MACCS	Unknown	Recall	0.50179
+Unweighted	1	XGBClassifier	MACCS	Female	Recall	0.50768
+Unweighted	1	XGBClassifier	MACCS	Male	Recall	0.41128
+Unweighted	1	XGBClassifier	MACCS	Unknown	Recall	0.51436
+Weighted	3	XGBClassifier	MACCS	Female	Recall	0.58133
+Weighted	3	XGBClassifier	MACCS	Unknown	Recall	0.56302
+Weighted	3	XGBClassifier	MACCS	Male	Recall	0.39208
+Unweighted	3	XGBClassifier	MACCS	Female	Recall	0.50919
+Unweighted	3	XGBClassifier	MACCS	Unknown	Recall	0.51456
+Unweighted	3	XGBClassifier	MACCS	Male	Recall	0.3287
+Weighted	2	XGBClassifier	MACCS	Male	Recall	0.50617
+Weighted	2	XGBClassifier	MACCS	Female	Recall	0.6857
+Weighted	2	XGBClassifier	MACCS	Unknown	Recall	0.68485
+Unweighted	2	XGBClassifier	MACCS	Male	Recall	0.45714
+Unweighted	2	XGBClassifier	MACCS	Female	Recall	0.62333
+Unweighted	2	XGBClassifier	MACCS	Unknown	Recall	0.64174
+Weighted	4	XGBClassifier	MACCS	Unknown	Recall	0.61292
+Weighted	4	XGBClassifier	MACCS	Female	Recall	0.62172
+Weighted	4	XGBClassifier	MACCS	Male	Recall	0.45004
+Unweighted	4	XGBClassifier	MACCS	Unknown	Recall	0.5625
+Unweighted	4	XGBClassifier	MACCS	Female	Recall	0.56304
+Unweighted	4	XGBClassifier	MACCS	Male	Recall	0.40613
+Weighted	1	XGBClassifier	Klek	Unknown	Recall	0.47606
+Weighted	1	XGBClassifier	Klek	Male	Recall	0.33407
+Weighted	1	XGBClassifier	Klek	Female	Recall	0.47983
+Unweighted	1	XGBClassifier	Klek	Unknown	Recall	0.47307
+Unweighted	1	XGBClassifier	Klek	Male	Recall	0.3208
+Unweighted	1	XGBClassifier	Klek	Female	Recall	0.46601
+Weighted	0	XGBClassifier	Klek	Female	Recall	0.50412
+Weighted	0	XGBClassifier	Klek	Male	Recall	0.39854
+Weighted	0	XGBClassifier	Klek	Unknown	Recall	0.49269
+Unweighted	0	XGBClassifier	Klek	Female	Recall	0.51642
+Unweighted	0	XGBClassifier	Klek	Male	Recall	0.42466
+Unweighted	0	XGBClassifier	Klek	Unknown	Recall	0.50921
+Weighted	3	XGBClassifier	Klek	Male	Recall	0.35006
+Weighted	3	XGBClassifier	Klek	Female	Recall	0.52534
+Weighted	3	XGBClassifier	Klek	Unknown	Recall	0.51523
+Unweighted	3	XGBClassifier	Klek	Male	Recall	0.32996
+Unweighted	3	XGBClassifier	Klek	Female	Recall	0.48757
+Unweighted	3	XGBClassifier	Klek	Unknown	Recall	0.49073
+Weighted	2	XGBClassifier	Klek	Unknown	Recall	0.61785
+Weighted	2	XGBClassifier	Klek	Male	Recall	0.46934
+Weighted	2	XGBClassifier	Klek	Female	Recall	0.64222
+Unweighted	2	XGBClassifier	Klek	Unknown	Recall	0.58714
+Unweighted	2	XGBClassifier	Klek	Male	Recall	0.42449
+Unweighted	2	XGBClassifier	Klek	Female	Recall	0.58682
+Weighted	4	XGBClassifier	Klek	Female	Recall	0.58834
+Weighted	4	XGBClassifier	Klek	Unknown	Recall	0.55305
+Weighted	4	XGBClassifier	Klek	Male	Recall	0.3677
+Unweighted	4	XGBClassifier	Klek	Female	Recall	0.52609
+Unweighted	4	XGBClassifier	Klek	Unknown	Recall	0.52604
+Unweighted	4	XGBClassifier	Klek	Male	Recall	0.3411
+Weighted	0	XGBClassifier	Morgan	Female	Recall	0.65782
+Weighted	0	XGBClassifier	Morgan	Male	Recall	0.50801
+Weighted	0	XGBClassifier	Morgan	Unknown	Recall	0.64843
+Unweighted	0	XGBClassifier	Morgan	Female	Recall	0.65871
+Unweighted	0	XGBClassifier	Morgan	Male	Recall	0.50799
+Unweighted	0	XGBClassifier	Morgan	Unknown	Recall	0.64612
+Weighted	2	XGBClassifier	Morgan	Unknown	Recall	0.61497
+Weighted	2	XGBClassifier	Morgan	Female	Recall	0.61149
+Weighted	2	XGBClassifier	Morgan	Male	Recall	0.45755
+Unweighted	2	XGBClassifier	Morgan	Unknown	Recall	0.57816
+Unweighted	2	XGBClassifier	Morgan	Female	Recall	0.56278
+Unweighted	2	XGBClassifier	Morgan	Male	Recall	0.43265
+Weighted	1	XGBClassifier	Morgan	Male	Recall	0.34452
+Weighted	1	XGBClassifier	Morgan	Unknown	Recall	0.50489
+Weighted	1	XGBClassifier	Morgan	Female	Recall	0.48976
+Unweighted	1	XGBClassifier	Morgan	Male	Recall	0.30082
+Unweighted	1	XGBClassifier	Morgan	Unknown	Recall	0.48743
+Unweighted	1	XGBClassifier	Morgan	Female	Recall	0.45833
+Weighted	3	XGBClassifier	Morgan	Female	Recall	0.59123
+Weighted	3	XGBClassifier	Morgan	Unknown	Recall	0.59044
+Weighted	3	XGBClassifier	Morgan	Male	Recall	0.39153
+Unweighted	3	XGBClassifier	Morgan	Female	Recall	0.53946
+Unweighted	3	XGBClassifier	Morgan	Unknown	Recall	0.55605
+Unweighted	3	XGBClassifier	Morgan	Male	Recall	0.34766
+Weighted	4	XGBClassifier	Morgan	Unknown	Recall	0.62198
+Weighted	4	XGBClassifier	Morgan	Female	Recall	0.6425
+Weighted	4	XGBClassifier	Morgan	Male	Recall	0.47945
+Unweighted	4	XGBClassifier	Morgan	Unknown	Recall	0.55122
+Unweighted	4	XGBClassifier	Morgan	Female	Recall	0.55761
+Unweighted	4	XGBClassifier	Morgan	Male	Recall	0.41104
+Weighted	0	XGBClassifier	ChemBERTa	Unknown	Recall	0.71591
+Weighted	0	XGBClassifier	ChemBERTa	Female	Recall	0.72191
+Weighted	0	XGBClassifier	ChemBERTa	Male	Recall	0.53606
+Unweighted	0	XGBClassifier	ChemBERTa	Unknown	Recall	0.69015
+Unweighted	0	XGBClassifier	ChemBERTa	Female	Recall	0.69154
+Unweighted	0	XGBClassifier	ChemBERTa	Male	Recall	0.49886
+Weighted	2	XGBClassifier	ChemBERTa	Unknown	Recall	0.62381
+Weighted	2	XGBClassifier	ChemBERTa	Male	Recall	0.38729
+Weighted	2	XGBClassifier	ChemBERTa	Female	Recall	0.62237
+Unweighted	2	XGBClassifier	ChemBERTa	Unknown	Recall	0.57891
+Unweighted	2	XGBClassifier	ChemBERTa	Male	Recall	0.32449
+Unweighted	2	XGBClassifier	ChemBERTa	Female	Recall	0.55031
+Weighted	4	XGBClassifier	ChemBERTa	Male	Recall	0.46148
+Weighted	4	XGBClassifier	ChemBERTa	Unknown	Recall	0.71147
+Weighted	4	XGBClassifier	ChemBERTa	Female	Recall	0.73893
+Unweighted	4	XGBClassifier	ChemBERTa	Male	Recall	0.44785
+Unweighted	4	XGBClassifier	ChemBERTa	Unknown	Recall	0.68316
+Unweighted	4	XGBClassifier	ChemBERTa	Female	Recall	0.6837
+Weighted	3	XGBClassifier	ChemBERTa	Male	Recall	0.36094
+Weighted	3	XGBClassifier	ChemBERTa	Female	Recall	0.63713
+Weighted	3	XGBClassifier	ChemBERTa	Unknown	Recall	0.61324
+Unweighted	3	XGBClassifier	ChemBERTa	Male	Recall	0.31985
+Unweighted	3	XGBClassifier	ChemBERTa	Female	Recall	0.55568
+Unweighted	3	XGBClassifier	ChemBERTa	Unknown	Recall	0.57546
+Weighted	1	XGBClassifier	ChemBERTa	Male	Recall	0.30173
+Weighted	1	XGBClassifier	ChemBERTa	Unknown	Recall	0.54991
+Weighted	1	XGBClassifier	ChemBERTa	Female	Recall	0.55349
+Unweighted	1	XGBClassifier	ChemBERTa	Male	Recall	0.25499
+Unweighted	1	XGBClassifier	ChemBERTa	Unknown	Recall	0.53591
+Unweighted	1	XGBClassifier	ChemBERTa	Female	Recall	0.51535
+Weighted	0	XGBClassifier	CDDD	Male	Recall	0.52182
+Weighted	0	XGBClassifier	CDDD	Female	Recall	0.70299
+Weighted	0	XGBClassifier	CDDD	Unknown	Recall	0.71247
+Unweighted	0	XGBClassifier	CDDD	Male	Recall	0.48174
+Unweighted	0	XGBClassifier	CDDD	Female	Recall	0.67164
+Unweighted	0	XGBClassifier	CDDD	Unknown	Recall	0.69015
+Weighted	1	XGBClassifier	CDDD	Female	Recall	0.55386
+Weighted	1	XGBClassifier	CDDD	Unknown	Recall	0.53023
+Weighted	1	XGBClassifier	CDDD	Male	Recall	0.27313
+Unweighted	1	XGBClassifier	CDDD	Female	Recall	0.52522
+Unweighted	1	XGBClassifier	CDDD	Unknown	Recall	0.53052
+Unweighted	1	XGBClassifier	CDDD	Male	Recall	0.23737
+Weighted	2	XGBClassifier	CDDD	Unknown	Recall	0.65022
+Weighted	2	XGBClassifier	CDDD	Male	Recall	0.42783
+Weighted	2	XGBClassifier	CDDD	Female	Recall	0.67271
+Unweighted	2	XGBClassifier	CDDD	Unknown	Recall	0.63725
+Unweighted	2	XGBClassifier	CDDD	Male	Recall	0.38367
+Unweighted	2	XGBClassifier	CDDD	Female	Recall	0.62867
+Weighted	3	XGBClassifier	CDDD	Unknown	Recall	0.66189
+Weighted	3	XGBClassifier	CDDD	Male	Recall	0.36786
+Weighted	3	XGBClassifier	CDDD	Female	Recall	0.66965
+Unweighted	3	XGBClassifier	CDDD	Unknown	Recall	0.62048
+Unweighted	3	XGBClassifier	CDDD	Male	Recall	0.31732
+Unweighted	3	XGBClassifier	CDDD	Female	Recall	0.61514
+Weighted	4	XGBClassifier	CDDD	Female	Recall	0.73533
+Weighted	4	XGBClassifier	CDDD	Unknown	Recall	0.74186
+Weighted	4	XGBClassifier	CDDD	Male	Recall	0.50859
+Unweighted	4	XGBClassifier	CDDD	Female	Recall	0.68043
+Unweighted	4	XGBClassifier	CDDD	Unknown	Recall	0.70052
+Unweighted	4	XGBClassifier	CDDD	Male	Recall	0.43681
+Weighted	0	LogisticRegression	RDKit	Female	Recall	0.53145
+Weighted	0	LogisticRegression	RDKit	Male	Recall	0.45874
+Weighted	0	LogisticRegression	RDKit	Unknown	Recall	0.51851
+Unweighted	0	LogisticRegression	RDKit	Female	Recall	0.54726
+Unweighted	0	LogisticRegression	RDKit	Male	Recall	0.50685
+Unweighted	0	LogisticRegression	RDKit	Unknown	Recall	0.54524
+Weighted	1	LogisticRegression	RDKit	Female	Recall	0.45939
+Weighted	1	LogisticRegression	RDKit	Male	Recall	0.34694
+Weighted	1	LogisticRegression	RDKit	Unknown	Recall	0.44037
+Unweighted	1	LogisticRegression	RDKit	Female	Recall	0.45285
+Unweighted	1	LogisticRegression	RDKit	Male	Recall	0.34195
+Unweighted	1	LogisticRegression	RDKit	Unknown	Recall	0.44614
+Weighted	2	LogisticRegression	RDKit	Female	Recall	0.47655
+Weighted	2	LogisticRegression	RDKit	Male	Recall	0.3593
+Weighted	2	LogisticRegression	RDKit	Unknown	Recall	0.48977
+Unweighted	2	LogisticRegression	RDKit	Female	Recall	0.45681
+Unweighted	2	LogisticRegression	RDKit	Male	Recall	0.35204
+Unweighted	2	LogisticRegression	RDKit	Unknown	Recall	0.48467
+Weighted	3	LogisticRegression	RDKit	Unknown	Recall	0.50135
+Weighted	3	LogisticRegression	RDKit	Male	Recall	0.37818
+Weighted	3	LogisticRegression	RDKit	Female	Recall	0.51319
+Unweighted	3	LogisticRegression	RDKit	Unknown	Recall	0.48808
+Unweighted	3	LogisticRegression	RDKit	Male	Recall	0.35019
+Unweighted	3	LogisticRegression	RDKit	Female	Recall	0.48108
+Weighted	4	LogisticRegression	RDKit	Male	Recall	0.53007
+Weighted	4	LogisticRegression	RDKit	Unknown	Recall	0.59427
+Weighted	4	LogisticRegression	RDKit	Female	Recall	0.61318
+Unweighted	4	LogisticRegression	RDKit	Male	Recall	0.47117
+Unweighted	4	LogisticRegression	RDKit	Unknown	Recall	0.57292
+Unweighted	4	LogisticRegression	RDKit	Female	Recall	0.56739
+Weighted	0	LogisticRegression	MACCS	Female	Recall	0.5361
+Weighted	0	LogisticRegression	MACCS	Male	Recall	0.44666
+Weighted	0	LogisticRegression	MACCS	Unknown	Recall	0.53815
+Unweighted	0	LogisticRegression	MACCS	Female	Recall	0.53433
+Unweighted	0	LogisticRegression	MACCS	Male	Recall	0.42694
+Unweighted	0	LogisticRegression	MACCS	Unknown	Recall	0.53323
+Weighted	1	LogisticRegression	MACCS	Female	Recall	0.49662
+Weighted	1	LogisticRegression	MACCS	Unknown	Recall	0.48512
+Weighted	1	LogisticRegression	MACCS	Male	Recall	0.41399
+Unweighted	1	LogisticRegression	MACCS	Female	Recall	0.46491
+Unweighted	1	LogisticRegression	MACCS	Unknown	Recall	0.46948
+Unweighted	1	LogisticRegression	MACCS	Male	Recall	0.37368
+Weighted	2	LogisticRegression	MACCS	Unknown	Recall	0.4757
+Weighted	2	LogisticRegression	MACCS	Male	Recall	0.31382
+Weighted	2	LogisticRegression	MACCS	Female	Recall	0.47154
+Unweighted	2	LogisticRegression	MACCS	Unknown	Recall	0.45251
+Unweighted	2	LogisticRegression	MACCS	Male	Recall	0.30102
+Unweighted	2	LogisticRegression	MACCS	Female	Recall	0.44078
+Weighted	3	LogisticRegression	MACCS	Female	Recall	0.52724
+Weighted	3	LogisticRegression	MACCS	Male	Recall	0.4114
+Weighted	3	LogisticRegression	MACCS	Unknown	Recall	0.52397
+Unweighted	3	LogisticRegression	MACCS	Female	Recall	0.47676
+Unweighted	3	LogisticRegression	MACCS	Male	Recall	0.36915
+Unweighted	3	LogisticRegression	MACCS	Unknown	Recall	0.48544
+Weighted	4	LogisticRegression	MACCS	Unknown	Recall	0.52461
+Weighted	4	LogisticRegression	MACCS	Male	Recall	0.39068
+Weighted	4	LogisticRegression	MACCS	Female	Recall	0.53731
+Unweighted	4	LogisticRegression	MACCS	Unknown	Recall	0.49132
+Unweighted	4	LogisticRegression	MACCS	Male	Recall	0.35337
+Unweighted	4	LogisticRegression	MACCS	Female	Recall	0.48696
+Weighted	0	LogisticRegression	Klek	Male	Recall	0.40141
+Weighted	0	LogisticRegression	Klek	Unknown	Recall	0.49506
+Weighted	0	LogisticRegression	Klek	Female	Recall	0.5245
+Unweighted	0	LogisticRegression	Klek	Male	Recall	0.41324
+Unweighted	0	LogisticRegression	Klek	Unknown	Recall	0.51641
+Unweighted	0	LogisticRegression	Klek	Female	Recall	0.53532
+Weighted	1	LogisticRegression	Klek	Male	Recall	0.4112
+Weighted	1	LogisticRegression	Klek	Unknown	Recall	0.49887
+Weighted	1	LogisticRegression	Klek	Female	Recall	0.50137
+Unweighted	1	LogisticRegression	Klek	Male	Recall	0.35605
+Unweighted	1	LogisticRegression	Klek	Unknown	Recall	0.48743
+Unweighted	1	LogisticRegression	Klek	Female	Recall	0.48026
+Weighted	3	LogisticRegression	Klek	Female	Recall	0.50127
+Weighted	3	LogisticRegression	Klek	Unknown	Recall	0.51598
+Weighted	3	LogisticRegression	Klek	Male	Recall	0.37517
+Unweighted	3	LogisticRegression	Klek	Female	Recall	0.46162
+Unweighted	3	LogisticRegression	Klek	Unknown	Recall	0.49338
+Unweighted	3	LogisticRegression	Klek	Male	Recall	0.31732
+Weighted	4	LogisticRegression	Klek	Unknown	Recall	0.53696
+Weighted	4	LogisticRegression	Klek	Male	Recall	0.41119
+Weighted	4	LogisticRegression	Klek	Female	Recall	0.57438
+Unweighted	4	LogisticRegression	Klek	Unknown	Recall	0.52257
+Unweighted	4	LogisticRegression	Klek	Male	Recall	0.3816
+Unweighted	4	LogisticRegression	Klek	Female	Recall	0.52826
+Weighted	2	LogisticRegression	Klek	Female	Recall	0.63344
+Weighted	2	LogisticRegression	Klek	Unknown	Recall	0.63103
+Weighted	2	LogisticRegression	Klek	Male	Recall	0.50234
+Unweighted	2	LogisticRegression	Klek	Female	Recall	0.59751
+Unweighted	2	LogisticRegression	Klek	Unknown	Recall	0.60434
+Unweighted	2	LogisticRegression	Klek	Male	Recall	0.46429
+Weighted	0	LogisticRegression	Morgan	Male	Recall	0.57807
+Weighted	0	LogisticRegression	Morgan	Female	Recall	0.71081
+Weighted	0	LogisticRegression	Morgan	Unknown	Recall	0.69974
+Unweighted	0	LogisticRegression	Morgan	Male	Recall	0.5411
+Unweighted	0	LogisticRegression	Morgan	Female	Recall	0.68856
+Unweighted	0	LogisticRegression	Morgan	Unknown	Recall	0.67414
+Weighted	1	LogisticRegression	Morgan	Male	Recall	0.37495
+Weighted	1	LogisticRegression	Morgan	Unknown	Recall	0.5017
+Weighted	1	LogisticRegression	Morgan	Female	Recall	0.47268
+Unweighted	1	LogisticRegression	Morgan	Male	Recall	0.33608
+Unweighted	1	LogisticRegression	Morgan	Unknown	Recall	0.48474
+Unweighted	1	LogisticRegression	Morgan	Female	Recall	0.46053
+Weighted	2	LogisticRegression	Morgan	Unknown	Recall	0.56692
+Weighted	2	LogisticRegression	Morgan	Female	Recall	0.57684
+Weighted	2	LogisticRegression	Morgan	Male	Recall	0.43277
+Unweighted	2	LogisticRegression	Morgan	Unknown	Recall	0.53553
+Unweighted	2	LogisticRegression	Morgan	Female	Recall	0.53963
+Unweighted	2	LogisticRegression	Morgan	Male	Recall	0.4102
+Weighted	3	LogisticRegression	Morgan	Female	Recall	0.54765
+Weighted	3	LogisticRegression	Morgan	Unknown	Recall	0.55253
+Weighted	3	LogisticRegression	Morgan	Male	Recall	0.44342
+Unweighted	3	LogisticRegression	Morgan	Female	Recall	0.51243
+Unweighted	3	LogisticRegression	Morgan	Unknown	Recall	0.53398
+Unweighted	3	LogisticRegression	Morgan	Male	Recall	0.37547
+Weighted	4	LogisticRegression	Morgan	Female	Recall	0.56365
+Weighted	4	LogisticRegression	Morgan	Male	Recall	0.42748
+Weighted	4	LogisticRegression	Morgan	Unknown	Recall	0.54033
+Unweighted	4	LogisticRegression	Morgan	Female	Recall	0.5087
+Unweighted	4	LogisticRegression	Morgan	Male	Recall	0.37178
+Unweighted	4	LogisticRegression	Morgan	Unknown	Recall	0.50434
+Weighted	0	LogisticRegression	ChemBERTa	Female	Recall	0.54722
+Weighted	0	LogisticRegression	ChemBERTa	Unknown	Recall	0.54482
+Weighted	0	LogisticRegression	ChemBERTa	Male	Recall	0.46935
+Unweighted	0	LogisticRegression	ChemBERTa	Female	Recall	0.56617
+Unweighted	0	LogisticRegression	ChemBERTa	Unknown	Recall	0.56445
+Unweighted	0	LogisticRegression	ChemBERTa	Male	Recall	0.50342
+Weighted	3	LogisticRegression	ChemBERTa	Female	Recall	0.40835
+Weighted	3	LogisticRegression	ChemBERTa	Male	Recall	0.3347
+Weighted	3	LogisticRegression	ChemBERTa	Unknown	Recall	0.40307
+Unweighted	3	LogisticRegression	ChemBERTa	Female	Recall	0.42486
+Unweighted	3	LogisticRegression	ChemBERTa	Male	Recall	0.34893
+Unweighted	3	LogisticRegression	ChemBERTa	Unknown	Recall	0.43866
+Weighted	1	LogisticRegression	ChemBERTa	Male	Recall	0.32517
+Weighted	1	LogisticRegression	ChemBERTa	Female	Recall	0.39601
+Weighted	1	LogisticRegression	ChemBERTa	Unknown	Recall	0.41404
+Unweighted	1	LogisticRegression	ChemBERTa	Male	Recall	0.31492
+Unweighted	1	LogisticRegression	ChemBERTa	Female	Recall	0.41667
+Unweighted	1	LogisticRegression	ChemBERTa	Unknown	Recall	0.42819
+Weighted	4	LogisticRegression	ChemBERTa	Male	Recall	0.40888
+Weighted	4	LogisticRegression	ChemBERTa	Female	Recall	0.51776
+Weighted	4	LogisticRegression	ChemBERTa	Unknown	Recall	0.52345
+Unweighted	4	LogisticRegression	ChemBERTa	Male	Recall	0.41227
+Unweighted	4	LogisticRegression	ChemBERTa	Female	Recall	0.4837
+Unweighted	4	LogisticRegression	ChemBERTa	Unknown	Recall	0.5191
+Weighted	2	LogisticRegression	ChemBERTa	Unknown	Recall	0.56151
+Weighted	2	LogisticRegression	ChemBERTa	Male	Recall	0.46079
+Weighted	2	LogisticRegression	ChemBERTa	Female	Recall	0.53926
+Unweighted	2	LogisticRegression	ChemBERTa	Unknown	Recall	0.54301
+Unweighted	2	LogisticRegression	ChemBERTa	Male	Recall	0.42041
+Unweighted	2	LogisticRegression	ChemBERTa	Female	Recall	0.50668
+Weighted	0	LogisticRegression	CDDD	Female	Recall	0.61725
+Weighted	0	LogisticRegression	CDDD	Unknown	Recall	0.63616
+Weighted	0	LogisticRegression	CDDD	Male	Recall	0.53927
+Unweighted	0	LogisticRegression	CDDD	Female	Recall	0.60398
+Unweighted	0	LogisticRegression	CDDD	Unknown	Recall	0.60929
+Unweighted	0	LogisticRegression	CDDD	Male	Recall	0.50571
+Weighted	1	LogisticRegression	CDDD	Male	Recall	0.44787
+Weighted	1	LogisticRegression	CDDD	Unknown	Recall	0.50178
+Weighted	1	LogisticRegression	CDDD	Female	Recall	0.47524
+Unweighted	1	LogisticRegression	CDDD	Male	Recall	0.43008
+Unweighted	1	LogisticRegression	CDDD	Unknown	Recall	0.49102
+Unweighted	1	LogisticRegression	CDDD	Female	Recall	0.47807
+Weighted	2	LogisticRegression	CDDD	Unknown	Recall	0.64285
+Weighted	2	LogisticRegression	CDDD	Female	Recall	0.63972
+Weighted	2	LogisticRegression	CDDD	Male	Recall	0.53202
+Unweighted	2	LogisticRegression	CDDD	Unknown	Recall	0.62827
+Unweighted	2	LogisticRegression	CDDD	Female	Recall	0.61532
+Unweighted	2	LogisticRegression	CDDD	Male	Recall	0.5102
+Weighted	3	LogisticRegression	CDDD	Female	Recall	0.64263
+Weighted	3	LogisticRegression	CDDD	Unknown	Recall	0.62111
+Weighted	3	LogisticRegression	CDDD	Male	Recall	0.56823
+Unweighted	3	LogisticRegression	CDDD	Female	Recall	0.58378
+Unweighted	3	LogisticRegression	CDDD	Unknown	Recall	0.58076
+Unweighted	3	LogisticRegression	CDDD	Male	Recall	0.50442
+Weighted	4	LogisticRegression	CDDD	Unknown	Recall	0.56715
+Weighted	4	LogisticRegression	CDDD	Male	Recall	0.51891
+Weighted	4	LogisticRegression	CDDD	Female	Recall	0.59564
+Unweighted	4	LogisticRegression	CDDD	Unknown	Recall	0.57552
+Unweighted	4	LogisticRegression	CDDD	Male	Recall	0.50675
+Unweighted	4	LogisticRegression	CDDD	Female	Recall	0.59891
+Weighted	0	RandomForestClassifier	RDKit	Female	Recall	0.48739
+Weighted	0	RandomForestClassifier	RDKit	Male	Recall	0.49633
+Weighted	0	RandomForestClassifier	RDKit	Unknown	Recall	0.49559
+Unweighted	0	RandomForestClassifier	RDKit	Female	Recall	0.52239
+Unweighted	0	RandomForestClassifier	RDKit	Male	Recall	0.53881
+Unweighted	0	RandomForestClassifier	RDKit	Unknown	Recall	0.51882
+Weighted	1	RandomForestClassifier	RDKit	Unknown	Recall	0.5001
+Weighted	1	RandomForestClassifier	RDKit	Male	Recall	0.38913
+Weighted	1	RandomForestClassifier	RDKit	Female	Recall	0.53865
+Unweighted	1	RandomForestClassifier	RDKit	Unknown	Recall	0.49461
+Unweighted	1	RandomForestClassifier	RDKit	Male	Recall	0.38425
+Unweighted	1	RandomForestClassifier	RDKit	Female	Recall	0.52522
+Weighted	4	RandomForestClassifier	RDKit	Male	Recall	0.66351
+Weighted	4	RandomForestClassifier	RDKit	Female	Recall	0.76162
+Weighted	4	RandomForestClassifier	RDKit	Unknown	Recall	0.7542
+Unweighted	4	RandomForestClassifier	RDKit	Male	Recall	0.64049
+Unweighted	4	RandomForestClassifier	RDKit	Female	Recall	0.73804
+Unweighted	4	RandomForestClassifier	RDKit	Unknown	Recall	0.73177
+Weighted	3	RandomForestClassifier	RDKit	Unknown	Recall	0.53077
+Weighted	3	RandomForestClassifier	RDKit	Female	Recall	0.58662
+Weighted	3	RandomForestClassifier	RDKit	Male	Recall	0.43682
+Unweighted	3	RandomForestClassifier	RDKit	Unknown	Recall	0.53133
+Unweighted	3	RandomForestClassifier	RDKit	Female	Recall	0.56649
+Unweighted	3	RandomForestClassifier	RDKit	Male	Recall	0.43489
+Weighted	2	RandomForestClassifier	RDKit	Female	Recall	0.72579
+Weighted	2	RandomForestClassifier	RDKit	Unknown	Recall	0.72387
+Weighted	2	RandomForestClassifier	RDKit	Male	Recall	0.58825
+Unweighted	2	RandomForestClassifier	RDKit	Female	Recall	0.66696
+Unweighted	2	RandomForestClassifier	RDKit	Unknown	Recall	0.68886
+Unweighted	2	RandomForestClassifier	RDKit	Male	Recall	0.52551
+Weighted	0	RandomForestClassifier	MACCS	Female	Recall	0.61717
+Weighted	0	RandomForestClassifier	MACCS	Unknown	Recall	0.61237
+Weighted	0	RandomForestClassifier	MACCS	Male	Recall	0.61349
+Unweighted	0	RandomForestClassifier	MACCS	Female	Recall	0.61194
+Unweighted	0	RandomForestClassifier	MACCS	Unknown	Recall	0.61409
+Unweighted	0	RandomForestClassifier	MACCS	Male	Recall	0.59361
+Weighted	1	RandomForestClassifier	MACCS	Male	Recall	0.46529
+Weighted	1	RandomForestClassifier	MACCS	Unknown	Recall	0.48613
+Weighted	1	RandomForestClassifier	MACCS	Female	Recall	0.52184
+Unweighted	1	RandomForestClassifier	MACCS	Male	Recall	0.47004
+Unweighted	1	RandomForestClassifier	MACCS	Unknown	Recall	0.51257
+Unweighted	1	RandomForestClassifier	MACCS	Female	Recall	0.54386
+Weighted	2	RandomForestClassifier	MACCS	Female	Recall	0.63887
+Weighted	2	RandomForestClassifier	MACCS	Male	Recall	0.52837
+Weighted	2	RandomForestClassifier	MACCS	Unknown	Recall	0.61237
+Unweighted	2	RandomForestClassifier	MACCS	Female	Recall	0.60374
+Unweighted	2	RandomForestClassifier	MACCS	Male	Recall	0.52653
+Unweighted	2	RandomForestClassifier	MACCS	Unknown	Recall	0.60284
+Weighted	3	RandomForestClassifier	MACCS	Female	Recall	0.54439
+Weighted	3	RandomForestClassifier	MACCS	Male	Recall	0.46495
+Weighted	3	RandomForestClassifier	MACCS	Unknown	Recall	0.51124
+Unweighted	3	RandomForestClassifier	MACCS	Female	Recall	0.51027
+Unweighted	3	RandomForestClassifier	MACCS	Male	Recall	0.44121
+Unweighted	3	RandomForestClassifier	MACCS	Unknown	Recall	0.49956
+Weighted	4	RandomForestClassifier	MACCS	Male	Recall	0.43384
+Weighted	4	RandomForestClassifier	MACCS	Female	Recall	0.43447
+Weighted	4	RandomForestClassifier	MACCS	Unknown	Recall	0.4113
+Unweighted	4	RandomForestClassifier	MACCS	Male	Recall	0.42331
+Unweighted	4	RandomForestClassifier	MACCS	Female	Recall	0.42283
+Unweighted	4	RandomForestClassifier	MACCS	Unknown	Recall	0.40451
+Weighted	0	RandomForestClassifier	Klek	Unknown	Recall	0.59317
+Weighted	0	RandomForestClassifier	Klek	Female	Recall	0.6112
+Weighted	0	RandomForestClassifier	Klek	Male	Recall	0.54104
+Unweighted	0	RandomForestClassifier	Klek	Unknown	Recall	0.60448
+Unweighted	0	RandomForestClassifier	Klek	Female	Recall	0.60697
+Unweighted	0	RandomForestClassifier	Klek	Male	Recall	0.55936
+Weighted	1	RandomForestClassifier	Klek	Female	Recall	0.40769
+Weighted	1	RandomForestClassifier	Klek	Male	Recall	0.35033
+Weighted	1	RandomForestClassifier	Klek	Unknown	Recall	0.39755
+Unweighted	1	RandomForestClassifier	Klek	Female	Recall	0.40351
+Unweighted	1	RandomForestClassifier	Klek	Male	Recall	0.33373
+Unweighted	1	RandomForestClassifier	Klek	Unknown	Recall	0.40215
+Weighted	2	RandomForestClassifier	Klek	Female	Recall	0.54469
+Weighted	2	RandomForestClassifier	Klek	Male	Recall	0.46015
+Weighted	2	RandomForestClassifier	Klek	Unknown	Recall	0.5292
+Unweighted	2	RandomForestClassifier	Klek	Female	Recall	0.50223
+Unweighted	2	RandomForestClassifier	Klek	Male	Recall	0.42245
+Unweighted	2	RandomForestClassifier	Klek	Unknown	Recall	0.49589
+Weighted	3	RandomForestClassifier	Klek	Male	Recall	0.38812
+Weighted	3	RandomForestClassifier	Klek	Unknown	Recall	0.45516
+Weighted	3	RandomForestClassifier	Klek	Female	Recall	0.48388
+Unweighted	3	RandomForestClassifier	Klek	Male	Recall	0.36157
+Unweighted	3	RandomForestClassifier	Klek	Unknown	Recall	0.43778
+Unweighted	3	RandomForestClassifier	Klek	Female	Recall	0.45946
+Weighted	4	RandomForestClassifier	Klek	Male	Recall	0.4393
+Weighted	4	RandomForestClassifier	Klek	Unknown	Recall	0.49849
+Weighted	4	RandomForestClassifier	Klek	Female	Recall	0.55209
+Unweighted	4	RandomForestClassifier	Klek	Male	Recall	0.4184
+Unweighted	4	RandomForestClassifier	Klek	Unknown	Recall	0.4783
+Unweighted	4	RandomForestClassifier	Klek	Female	Recall	0.5163
+Weighted	0	RandomForestClassifier	Morgan	Unknown	Recall	0.58117
+Weighted	0	RandomForestClassifier	Morgan	Male	Recall	0.57068
+Weighted	0	RandomForestClassifier	Morgan	Female	Recall	0.59971
+Unweighted	0	RandomForestClassifier	Morgan	Unknown	Recall	0.60608
+Unweighted	0	RandomForestClassifier	Morgan	Male	Recall	0.59361
+Unweighted	0	RandomForestClassifier	Morgan	Female	Recall	0.63383
+Weighted	1	RandomForestClassifier	Morgan	Unknown	Recall	0.28208
+Weighted	1	RandomForestClassifier	Morgan	Female	Recall	0.28734
+Weighted	1	RandomForestClassifier	Morgan	Male	Recall	0.29476
+Unweighted	1	RandomForestClassifier	Morgan	Unknown	Recall	0.28546
+Unweighted	1	RandomForestClassifier	Morgan	Female	Recall	0.29715
+Unweighted	1	RandomForestClassifier	Morgan	Male	Recall	0.27732
+Weighted	3	RandomForestClassifier	Morgan	Female	Recall	0.38962
+Weighted	3	RandomForestClassifier	Morgan	Male	Recall	0.27996
+Weighted	3	RandomForestClassifier	Morgan	Unknown	Recall	0.37701
+Unweighted	3	RandomForestClassifier	Morgan	Female	Recall	0.39135
+Unweighted	3	RandomForestClassifier	Morgan	Male	Recall	0.27434
+Unweighted	3	RandomForestClassifier	Morgan	Unknown	Recall	0.37864
+Weighted	2	RandomForestClassifier	Morgan	Female	Recall	0.5286
+Weighted	2	RandomForestClassifier	Morgan	Male	Recall	0.43062
+Weighted	2	RandomForestClassifier	Morgan	Unknown	Recall	0.5245
+Unweighted	2	RandomForestClassifier	Morgan	Female	Recall	0.5049
+Unweighted	2	RandomForestClassifier	Morgan	Male	Recall	0.39796
+Unweighted	2	RandomForestClassifier	Morgan	Unknown	Recall	0.49589
+Weighted	4	RandomForestClassifier	Morgan	Female	Recall	0.56124
+Weighted	4	RandomForestClassifier	Morgan	Unknown	Recall	0.54287
+Weighted	4	RandomForestClassifier	Morgan	Male	Recall	0.45802
+Unweighted	4	RandomForestClassifier	Morgan	Female	Recall	0.5
+Unweighted	4	RandomForestClassifier	Morgan	Unknown	Recall	0.48003
+Unweighted	4	RandomForestClassifier	Morgan	Male	Recall	0.39755
+Weighted	0	RandomForestClassifier	ChemBERTa	Male	Recall	0.69231
+Weighted	0	RandomForestClassifier	ChemBERTa	Unknown	Recall	0.67024
+Weighted	0	RandomForestClassifier	ChemBERTa	Female	Recall	0.67755
+Unweighted	0	RandomForestClassifier	ChemBERTa	Male	Recall	0.68379
+Unweighted	0	RandomForestClassifier	ChemBERTa	Unknown	Recall	0.66453
+Unweighted	0	RandomForestClassifier	ChemBERTa	Female	Recall	0.67463
+Weighted	2	RandomForestClassifier	ChemBERTa	Male	Recall	0.31998
+Weighted	2	RandomForestClassifier	ChemBERTa	Female	Recall	0.42634
+Weighted	2	RandomForestClassifier	ChemBERTa	Unknown	Recall	0.40945
+Unweighted	2	RandomForestClassifier	ChemBERTa	Male	Recall	0.32449
+Unweighted	2	RandomForestClassifier	ChemBERTa	Female	Recall	0.42297
+Unweighted	2	RandomForestClassifier	ChemBERTa	Unknown	Recall	0.40838
+Weighted	3	RandomForestClassifier	ChemBERTa	Female	Recall	0.51448
+Weighted	3	RandomForestClassifier	ChemBERTa	Male	Recall	0.46964
+Weighted	3	RandomForestClassifier	ChemBERTa	Unknown	Recall	0.49528
+Unweighted	3	RandomForestClassifier	ChemBERTa	Female	Recall	0.49946
+Unweighted	3	RandomForestClassifier	ChemBERTa	Male	Recall	0.48546
+Unweighted	3	RandomForestClassifier	ChemBERTa	Unknown	Recall	0.50662
+Weighted	1	RandomForestClassifier	ChemBERTa	Male	Recall	0.36589
+Weighted	1	RandomForestClassifier	ChemBERTa	Female	Recall	0.56508
+Weighted	1	RandomForestClassifier	ChemBERTa	Unknown	Recall	0.5421
+Unweighted	1	RandomForestClassifier	ChemBERTa	Male	Recall	0.3725
+Unweighted	1	RandomForestClassifier	ChemBERTa	Female	Recall	0.55921
+Unweighted	1	RandomForestClassifier	ChemBERTa	Unknown	Recall	0.56014
+Weighted	4	RandomForestClassifier	ChemBERTa	Female	Recall	0.82916
+Weighted	4	RandomForestClassifier	ChemBERTa	Unknown	Recall	0.80248
+Weighted	4	RandomForestClassifier	ChemBERTa	Male	Recall	0.63046
+Unweighted	4	RandomForestClassifier	ChemBERTa	Female	Recall	0.81848
+Unweighted	4	RandomForestClassifier	ChemBERTa	Unknown	Recall	0.78993
+Unweighted	4	RandomForestClassifier	ChemBERTa	Male	Recall	0.63313
+Weighted	0	RandomForestClassifier	CDDD	Male	Recall	0.55662
+Weighted	0	RandomForestClassifier	CDDD	Unknown	Recall	0.58307
+Weighted	0	RandomForestClassifier	CDDD	Female	Recall	0.56992
+Unweighted	0	RandomForestClassifier	CDDD	Male	Recall	0.5742
+Unweighted	0	RandomForestClassifier	CDDD	Unknown	Recall	0.58447
+Unweighted	0	RandomForestClassifier	CDDD	Female	Recall	0.57114
+Weighted	1	RandomForestClassifier	CDDD	Male	Recall	0.40393
+Weighted	1	RandomForestClassifier	CDDD	Unknown	Recall	0.56607
+Weighted	1	RandomForestClassifier	CDDD	Female	Recall	0.60133
+Unweighted	1	RandomForestClassifier	CDDD	Male	Recall	0.37015
+Unweighted	1	RandomForestClassifier	CDDD	Unknown	Recall	0.5781
+Unweighted	1	RandomForestClassifier	CDDD	Female	Recall	0.57785
+Weighted	3	RandomForestClassifier	CDDD	Unknown	Recall	0.5559
+Weighted	3	RandomForestClassifier	CDDD	Male	Recall	0.54724
+Weighted	3	RandomForestClassifier	CDDD	Female	Recall	0.59625
+Unweighted	3	RandomForestClassifier	CDDD	Unknown	Recall	0.56752
+Unweighted	3	RandomForestClassifier	CDDD	Male	Recall	0.54488
+Unweighted	3	RandomForestClassifier	CDDD	Female	Recall	0.58378
+Weighted	2	RandomForestClassifier	CDDD	Female	Recall	0.72078
+Weighted	2	RandomForestClassifier	CDDD	Unknown	Recall	0.71153
+Weighted	2	RandomForestClassifier	CDDD	Male	Recall	0.53166
+Unweighted	2	RandomForestClassifier	CDDD	Female	Recall	0.70436
+Unweighted	2	RandomForestClassifier	CDDD	Unknown	Recall	0.70157
+Unweighted	2	RandomForestClassifier	CDDD	Male	Recall	0.49898
+Weighted	4	RandomForestClassifier	CDDD	Male	Recall	0.64611
+Weighted	4	RandomForestClassifier	CDDD	Female	Recall	0.65199
+Weighted	4	RandomForestClassifier	CDDD	Unknown	Recall	0.62657
+Unweighted	4	RandomForestClassifier	CDDD	Male	Recall	0.63313
+Unweighted	4	RandomForestClassifier	CDDD	Female	Recall	0.64674
+Unweighted	4	RandomForestClassifier	CDDD	Unknown	Recall	0.62153
+Weighted	0	XGBClassifier	RDKit	Male	Specificity	0.65221
+Weighted	0	XGBClassifier	RDKit	Female	Specificity	0.51263
+Weighted	0	XGBClassifier	RDKit	Unknown	Specificity	0.52183
+Unweighted	0	XGBClassifier	RDKit	Male	Specificity	0.63212
+Unweighted	0	XGBClassifier	RDKit	Female	Specificity	0.49086
+Unweighted	0	XGBClassifier	RDKit	Unknown	Specificity	0.48728
+Weighted	1	XGBClassifier	RDKit	Female	Specificity	0.66905
+Weighted	1	XGBClassifier	RDKit	Male	Specificity	0.76563
+Weighted	1	XGBClassifier	RDKit	Unknown	Specificity	0.67019
+Unweighted	1	XGBClassifier	RDKit	Female	Specificity	0.64415
+Unweighted	1	XGBClassifier	RDKit	Male	Specificity	0.75281
+Unweighted	1	XGBClassifier	RDKit	Unknown	Specificity	0.64474
+Weighted	3	XGBClassifier	RDKit	Female	Specificity	0.56096
+Weighted	3	XGBClassifier	RDKit	Unknown	Specificity	0.55341
+Weighted	3	XGBClassifier	RDKit	Male	Specificity	0.71692
+Unweighted	3	XGBClassifier	RDKit	Female	Specificity	0.53822
+Unweighted	3	XGBClassifier	RDKit	Unknown	Specificity	0.5175
+Unweighted	3	XGBClassifier	RDKit	Male	Specificity	0.71343
+Weighted	2	XGBClassifier	RDKit	Unknown	Specificity	0.56446
+Weighted	2	XGBClassifier	RDKit	Male	Specificity	0.68616
+Weighted	2	XGBClassifier	RDKit	Female	Specificity	0.57009
+Unweighted	2	XGBClassifier	RDKit	Unknown	Specificity	0.56695
+Unweighted	2	XGBClassifier	RDKit	Male	Specificity	0.69432
+Unweighted	2	XGBClassifier	RDKit	Female	Specificity	0.57935
+Weighted	4	XGBClassifier	RDKit	Female	Specificity	0.48369
+Weighted	4	XGBClassifier	RDKit	Unknown	Specificity	0.5002
+Weighted	4	XGBClassifier	RDKit	Male	Specificity	0.75941
+Unweighted	4	XGBClassifier	RDKit	Female	Specificity	0.49837
+Unweighted	4	XGBClassifier	RDKit	Unknown	Specificity	0.49813
+Unweighted	4	XGBClassifier	RDKit	Male	Specificity	0.73806
+Weighted	0	XGBClassifier	MACCS	Unknown	Specificity	0.56769
+Weighted	0	XGBClassifier	MACCS	Male	Specificity	0.66933
+Weighted	0	XGBClassifier	MACCS	Female	Specificity	0.52342
+Unweighted	0	XGBClassifier	MACCS	Unknown	Specificity	0.53523
+Unweighted	0	XGBClassifier	MACCS	Male	Specificity	0.65285
+Unweighted	0	XGBClassifier	MACCS	Female	Specificity	0.50914
+Weighted	1	XGBClassifier	MACCS	Female	Specificity	0.61707
+Weighted	1	XGBClassifier	MACCS	Male	Specificity	0.64355
+Weighted	1	XGBClassifier	MACCS	Unknown	Specificity	0.58614
+Unweighted	1	XGBClassifier	MACCS	Female	Specificity	0.58814
+Unweighted	1	XGBClassifier	MACCS	Male	Specificity	0.65169
+Unweighted	1	XGBClassifier	MACCS	Unknown	Specificity	0.56974
+Weighted	3	XGBClassifier	MACCS	Female	Specificity	0.59569
+Weighted	3	XGBClassifier	MACCS	Unknown	Specificity	0.60048
+Weighted	3	XGBClassifier	MACCS	Male	Specificity	0.7728
+Unweighted	3	XGBClassifier	MACCS	Female	Specificity	0.59282
+Unweighted	3	XGBClassifier	MACCS	Unknown	Specificity	0.5925
+Unweighted	3	XGBClassifier	MACCS	Male	Specificity	0.76567
+Weighted	2	XGBClassifier	MACCS	Male	Specificity	0.6696
+Weighted	2	XGBClassifier	MACCS	Female	Specificity	0.51592
+Weighted	2	XGBClassifier	MACCS	Unknown	Specificity	0.50268
+Unweighted	2	XGBClassifier	MACCS	Male	Specificity	0.6885
+Unweighted	2	XGBClassifier	MACCS	Female	Specificity	0.53005
+Unweighted	2	XGBClassifier	MACCS	Unknown	Specificity	0.51267
+Weighted	4	XGBClassifier	MACCS	Unknown	Specificity	0.5702
+Weighted	4	XGBClassifier	MACCS	Female	Specificity	0.58588
+Weighted	4	XGBClassifier	MACCS	Male	Specificity	0.72866
+Unweighted	4	XGBClassifier	MACCS	Unknown	Specificity	0.58801
+Unweighted	4	XGBClassifier	MACCS	Female	Specificity	0.61111
+Unweighted	4	XGBClassifier	MACCS	Male	Specificity	0.74079
+Weighted	1	XGBClassifier	Klek	Unknown	Specificity	0.62175
+Weighted	1	XGBClassifier	Klek	Male	Specificity	0.68303
+Weighted	1	XGBClassifier	Klek	Female	Specificity	0.64544
+Unweighted	1	XGBClassifier	Klek	Unknown	Specificity	0.61316
+Unweighted	1	XGBClassifier	Klek	Male	Specificity	0.70599
+Unweighted	1	XGBClassifier	Klek	Female	Specificity	0.6112
+Weighted	0	XGBClassifier	Klek	Female	Specificity	0.68759
+Weighted	0	XGBClassifier	Klek	Male	Specificity	0.78023
+Weighted	0	XGBClassifier	Klek	Unknown	Specificity	0.69119
+Unweighted	0	XGBClassifier	Klek	Female	Specificity	0.64312
+Unweighted	0	XGBClassifier	Klek	Male	Specificity	0.75233
+Unweighted	0	XGBClassifier	Klek	Unknown	Specificity	0.65166
+Weighted	3	XGBClassifier	Klek	Male	Specificity	0.76823
+Weighted	3	XGBClassifier	Klek	Female	Specificity	0.62873
+Weighted	3	XGBClassifier	Klek	Unknown	Specificity	0.62536
+Unweighted	3	XGBClassifier	Klek	Male	Specificity	0.74925
+Unweighted	3	XGBClassifier	Klek	Female	Specificity	0.6131
+Unweighted	3	XGBClassifier	Klek	Unknown	Specificity	0.5975
+Weighted	2	XGBClassifier	Klek	Unknown	Specificity	0.64315
+Weighted	2	XGBClassifier	Klek	Male	Specificity	0.7538
+Weighted	2	XGBClassifier	Klek	Female	Specificity	0.6109
+Unweighted	2	XGBClassifier	Klek	Unknown	Specificity	0.62123
+Unweighted	2	XGBClassifier	Klek	Male	Specificity	0.73071
+Unweighted	2	XGBClassifier	Klek	Female	Specificity	0.60863
+Weighted	4	XGBClassifier	Klek	Female	Specificity	0.52715
+Weighted	4	XGBClassifier	Klek	Unknown	Specificity	0.55546
+Weighted	4	XGBClassifier	Klek	Male	Specificity	0.72847
+Unweighted	4	XGBClassifier	Klek	Female	Specificity	0.55065
+Unweighted	4	XGBClassifier	Klek	Unknown	Specificity	0.56679
+Unweighted	4	XGBClassifier	Klek	Male	Specificity	0.74216
+Weighted	0	XGBClassifier	Morgan	Female	Specificity	0.45269
+Weighted	0	XGBClassifier	Morgan	Male	Specificity	0.58838
+Weighted	0	XGBClassifier	Morgan	Unknown	Specificity	0.47347
+Unweighted	0	XGBClassifier	Morgan	Female	Specificity	0.4799
+Unweighted	0	XGBClassifier	Morgan	Male	Specificity	0.61451
+Unweighted	0	XGBClassifier	Morgan	Unknown	Specificity	0.48532
+Weighted	2	XGBClassifier	Morgan	Unknown	Specificity	0.64143
+Weighted	2	XGBClassifier	Morgan	Female	Specificity	0.61581
+Weighted	2	XGBClassifier	Morgan	Male	Specificity	0.76636
+Unweighted	2	XGBClassifier	Morgan	Unknown	Specificity	0.63329
+Unweighted	2	XGBClassifier	Morgan	Female	Specificity	0.61941
+Unweighted	2	XGBClassifier	Morgan	Male	Specificity	0.74964
+Weighted	1	XGBClassifier	Morgan	Male	Specificity	0.77733
+Weighted	1	XGBClassifier	Morgan	Unknown	Specificity	0.64695
+Weighted	1	XGBClassifier	Morgan	Female	Specificity	0.64158
+Unweighted	1	XGBClassifier	Morgan	Male	Specificity	0.79963
+Unweighted	1	XGBClassifier	Morgan	Unknown	Specificity	0.64474
+Unweighted	1	XGBClassifier	Morgan	Female	Specificity	0.6458
+Weighted	3	XGBClassifier	Morgan	Female	Specificity	0.57554
+Weighted	3	XGBClassifier	Morgan	Unknown	Specificity	0.57243
+Weighted	3	XGBClassifier	Morgan	Male	Specificity	0.77413
+Unweighted	3	XGBClassifier	Morgan	Female	Specificity	0.57722
+Unweighted	3	XGBClassifier	Morgan	Unknown	Specificity	0.565
+Unweighted	3	XGBClassifier	Morgan	Male	Specificity	0.75373
+Weighted	4	XGBClassifier	Morgan	Unknown	Specificity	0.51119
+Weighted	4	XGBClassifier	Morgan	Female	Specificity	0.47092
+Weighted	4	XGBClassifier	Morgan	Male	Specificity	0.68632
+Unweighted	4	XGBClassifier	Morgan	Unknown	Specificity	0.54057
+Unweighted	4	XGBClassifier	Morgan	Female	Specificity	0.52614
+Unweighted	4	XGBClassifier	Morgan	Male	Specificity	0.6985
+Weighted	0	XGBClassifier	ChemBERTa	Unknown	Specificity	0.42747
+Weighted	0	XGBClassifier	ChemBERTa	Female	Specificity	0.40095
+Weighted	0	XGBClassifier	ChemBERTa	Male	Specificity	0.59206
+Unweighted	0	XGBClassifier	ChemBERTa	Unknown	Specificity	0.39922
+Unweighted	0	XGBClassifier	ChemBERTa	Female	Specificity	0.37637
+Unweighted	0	XGBClassifier	ChemBERTa	Male	Specificity	0.57409
+Weighted	2	XGBClassifier	ChemBERTa	Unknown	Specificity	0.45471
+Weighted	2	XGBClassifier	ChemBERTa	Male	Specificity	0.644
+Weighted	2	XGBClassifier	ChemBERTa	Female	Specificity	0.4335
+Unweighted	2	XGBClassifier	ChemBERTa	Unknown	Specificity	0.48733
+Unweighted	2	XGBClassifier	ChemBERTa	Male	Specificity	0.66667
+Unweighted	2	XGBClassifier	ChemBERTa	Female	Specificity	0.47304
+Weighted	4	XGBClassifier	ChemBERTa	Male	Specificity	0.68659
+Weighted	4	XGBClassifier	ChemBERTa	Unknown	Specificity	0.44533
+Weighted	4	XGBClassifier	ChemBERTa	Female	Specificity	0.40342
+Unweighted	4	XGBClassifier	ChemBERTa	Male	Specificity	0.68486
+Unweighted	4	XGBClassifier	ChemBERTa	Unknown	Specificity	0.45818
+Unweighted	4	XGBClassifier	ChemBERTa	Female	Specificity	0.43627
+Weighted	3	XGBClassifier	ChemBERTa	Male	Specificity	0.69951
+Weighted	3	XGBClassifier	ChemBERTa	Female	Specificity	0.44178
+Weighted	3	XGBClassifier	ChemBERTa	Unknown	Specificity	0.46047
+Unweighted	3	XGBClassifier	ChemBERTa	Male	Specificity	0.69701
+Unweighted	3	XGBClassifier	ChemBERTa	Female	Specificity	0.44774
+Unweighted	3	XGBClassifier	ChemBERTa	Unknown	Specificity	0.45625
+Weighted	1	XGBClassifier	ChemBERTa	Male	Specificity	0.74207
+Weighted	1	XGBClassifier	ChemBERTa	Unknown	Specificity	0.62471
+Weighted	1	XGBClassifier	ChemBERTa	Female	Specificity	0.60948
+Unweighted	1	XGBClassifier	ChemBERTa	Male	Specificity	0.7603
+Unweighted	1	XGBClassifier	ChemBERTa	Unknown	Specificity	0.60658
+Unweighted	1	XGBClassifier	ChemBERTa	Female	Specificity	0.58979
+Weighted	0	XGBClassifier	CDDD	Male	Specificity	0.64567
+Weighted	0	XGBClassifier	CDDD	Female	Specificity	0.44925
+Weighted	0	XGBClassifier	CDDD	Unknown	Specificity	0.47903
+Unweighted	0	XGBClassifier	CDDD	Male	Specificity	0.64456
+Unweighted	0	XGBClassifier	CDDD	Female	Specificity	0.42266
+Unweighted	0	XGBClassifier	CDDD	Unknown	Specificity	0.44031
+Weighted	1	XGBClassifier	CDDD	Female	Specificity	0.66291
+Weighted	1	XGBClassifier	CDDD	Unknown	Specificity	0.67974
+Weighted	1	XGBClassifier	CDDD	Male	Specificity	0.79215
+Unweighted	1	XGBClassifier	CDDD	Female	Specificity	0.6425
+Unweighted	1	XGBClassifier	CDDD	Unknown	Specificity	0.65263
+Unweighted	1	XGBClassifier	CDDD	Male	Specificity	0.8015
+Weighted	2	XGBClassifier	CDDD	Unknown	Specificity	0.58523
+Weighted	2	XGBClassifier	CDDD	Male	Specificity	0.70165
+Weighted	2	XGBClassifier	CDDD	Female	Specificity	0.5553
+Unweighted	2	XGBClassifier	CDDD	Unknown	Specificity	0.55247
+Unweighted	2	XGBClassifier	CDDD	Male	Specificity	0.69432
+Unweighted	2	XGBClassifier	CDDD	Female	Specificity	0.54854
+Weighted	3	XGBClassifier	CDDD	Unknown	Specificity	0.52103
+Weighted	3	XGBClassifier	CDDD	Male	Specificity	0.72438
+Weighted	3	XGBClassifier	CDDD	Female	Specificity	0.51899
+Unweighted	3	XGBClassifier	CDDD	Unknown	Specificity	0.4975
+Unweighted	3	XGBClassifier	CDDD	Male	Specificity	0.73134
+Unweighted	3	XGBClassifier	CDDD	Female	Specificity	0.5039
+Weighted	4	XGBClassifier	CDDD	Female	Specificity	0.41087
+Weighted	4	XGBClassifier	CDDD	Unknown	Specificity	0.44503
+Weighted	4	XGBClassifier	CDDD	Male	Specificity	0.68429
+Unweighted	4	XGBClassifier	CDDD	Female	Specificity	0.44281
+Unweighted	4	XGBClassifier	CDDD	Unknown	Specificity	0.45194
+Unweighted	4	XGBClassifier	CDDD	Male	Specificity	0.68486
+Weighted	0	LogisticRegression	RDKit	Female	Specificity	0.56972
+Weighted	0	LogisticRegression	RDKit	Male	Specificity	0.60157
+Weighted	0	LogisticRegression	RDKit	Unknown	Specificity	0.5783
+Unweighted	0	LogisticRegression	RDKit	Female	Specificity	0.55298
+Unweighted	0	LogisticRegression	RDKit	Male	Specificity	0.57098
+Unweighted	0	LogisticRegression	RDKit	Unknown	Specificity	0.55773
+Weighted	1	LogisticRegression	RDKit	Female	Specificity	0.67282
+Weighted	1	LogisticRegression	RDKit	Male	Specificity	0.7064
+Weighted	1	LogisticRegression	RDKit	Unknown	Specificity	0.66933
+Unweighted	1	LogisticRegression	RDKit	Female	Specificity	0.64909
+Unweighted	1	LogisticRegression	RDKit	Male	Specificity	0.70599
+Unweighted	1	LogisticRegression	RDKit	Unknown	Specificity	0.65132
+Weighted	2	LogisticRegression	RDKit	Female	Specificity	0.59896
+Weighted	2	LogisticRegression	RDKit	Male	Specificity	0.69343
+Weighted	2	LogisticRegression	RDKit	Unknown	Specificity	0.60023
+Unweighted	2	LogisticRegression	RDKit	Female	Specificity	0.62558
+Unweighted	2	LogisticRegression	RDKit	Male	Specificity	0.70306
+Unweighted	2	LogisticRegression	RDKit	Unknown	Specificity	0.61882
+Weighted	3	LogisticRegression	RDKit	Unknown	Specificity	0.59938
+Weighted	3	LogisticRegression	RDKit	Male	Specificity	0.74772
+Weighted	3	LogisticRegression	RDKit	Female	Specificity	0.6168
+Unweighted	3	LogisticRegression	RDKit	Unknown	Specificity	0.59
+Unweighted	3	LogisticRegression	RDKit	Male	Specificity	0.73433
+Unweighted	3	LogisticRegression	RDKit	Female	Specificity	0.62715
+Weighted	4	LogisticRegression	RDKit	Male	Specificity	0.67365
+Weighted	4	LogisticRegression	RDKit	Unknown	Specificity	0.55965
+Weighted	4	LogisticRegression	RDKit	Female	Specificity	0.54926
+Unweighted	4	LogisticRegression	RDKit	Male	Specificity	0.66439
+Unweighted	4	LogisticRegression	RDKit	Unknown	Specificity	0.56305
+Unweighted	4	LogisticRegression	RDKit	Female	Specificity	0.55229
+Weighted	0	LogisticRegression	MACCS	Female	Specificity	0.57891
+Weighted	0	LogisticRegression	MACCS	Male	Specificity	0.69044
+Weighted	0	LogisticRegression	MACCS	Unknown	Specificity	0.61113
+Unweighted	0	LogisticRegression	MACCS	Female	Specificity	0.58343
+Unweighted	0	LogisticRegression	MACCS	Male	Specificity	0.69637
+Unweighted	0	LogisticRegression	MACCS	Unknown	Specificity	0.60959
+Weighted	1	LogisticRegression	MACCS	Female	Specificity	0.58111
+Weighted	1	LogisticRegression	MACCS	Unknown	Specificity	0.55577
+Weighted	1	LogisticRegression	MACCS	Male	Specificity	0.56453
+Unweighted	1	LogisticRegression	MACCS	Female	Specificity	0.56507
+Unweighted	1	LogisticRegression	MACCS	Unknown	Specificity	0.56974
+Unweighted	1	LogisticRegression	MACCS	Male	Specificity	0.61236
+Weighted	2	LogisticRegression	MACCS	Unknown	Specificity	0.62135
+Weighted	2	LogisticRegression	MACCS	Male	Specificity	0.7068
+Weighted	2	LogisticRegression	MACCS	Female	Specificity	0.63504
+Unweighted	2	LogisticRegression	MACCS	Unknown	Specificity	0.6152
+Unweighted	2	LogisticRegression	MACCS	Male	Specificity	0.70597
+Unweighted	2	LogisticRegression	MACCS	Female	Specificity	0.62096
+Weighted	3	LogisticRegression	MACCS	Female	Specificity	0.63517
+Weighted	3	LogisticRegression	MACCS	Male	Specificity	0.74608
+Weighted	3	LogisticRegression	MACCS	Unknown	Specificity	0.63761
+Unweighted	3	LogisticRegression	MACCS	Female	Specificity	0.6209
+Unweighted	3	LogisticRegression	MACCS	Male	Specificity	0.72985
+Unweighted	3	LogisticRegression	MACCS	Unknown	Specificity	0.615
+Weighted	4	LogisticRegression	MACCS	Unknown	Specificity	0.58918
+Weighted	4	LogisticRegression	MACCS	Male	Specificity	0.68285
+Weighted	4	LogisticRegression	MACCS	Female	Specificity	0.52308
+Unweighted	4	LogisticRegression	MACCS	Unknown	Specificity	0.61798
+Unweighted	4	LogisticRegression	MACCS	Male	Specificity	0.71351
+Unweighted	4	LogisticRegression	MACCS	Female	Specificity	0.58497
+Weighted	0	LogisticRegression	Klek	Male	Specificity	0.7458
+Weighted	0	LogisticRegression	Klek	Unknown	Specificity	0.62004
+Weighted	0	LogisticRegression	Klek	Female	Specificity	0.58714
+Unweighted	0	LogisticRegression	Klek	Male	Specificity	0.71813
+Unweighted	0	LogisticRegression	Klek	Unknown	Specificity	0.5998
+Unweighted	0	LogisticRegression	Klek	Female	Specificity	0.56638
+Weighted	1	LogisticRegression	Klek	Male	Specificity	0.69314
+Weighted	1	LogisticRegression	Klek	Unknown	Specificity	0.62163
+Weighted	1	LogisticRegression	Klek	Female	Specificity	0.64776
+Unweighted	1	LogisticRegression	Klek	Male	Specificity	0.68352
+Unweighted	1	LogisticRegression	Klek	Unknown	Specificity	0.61842
+Unweighted	1	LogisticRegression	Klek	Female	Specificity	0.62438
+Weighted	3	LogisticRegression	Klek	Female	Specificity	0.51089
+Weighted	3	LogisticRegression	Klek	Unknown	Specificity	0.51951
+Weighted	3	LogisticRegression	Klek	Male	Specificity	0.6784
+Unweighted	3	LogisticRegression	Klek	Female	Specificity	0.55694
+Unweighted	3	LogisticRegression	Klek	Unknown	Specificity	0.54625
+Unweighted	3	LogisticRegression	Klek	Male	Specificity	0.68657
+Weighted	4	LogisticRegression	Klek	Unknown	Specificity	0.55724
+Weighted	4	LogisticRegression	Klek	Male	Specificity	0.69674
+Weighted	4	LogisticRegression	Klek	Female	Specificity	0.53773
+Unweighted	4	LogisticRegression	Klek	Unknown	Specificity	0.53933
+Unweighted	4	LogisticRegression	Klek	Male	Specificity	0.6794
+Unweighted	4	LogisticRegression	Klek	Female	Specificity	0.53758
+Weighted	2	LogisticRegression	Klek	Female	Specificity	0.54738
+Weighted	2	LogisticRegression	Klek	Unknown	Specificity	0.54899
+Weighted	2	LogisticRegression	Klek	Male	Specificity	0.61953
+Unweighted	2	LogisticRegression	Klek	Female	Specificity	0.56086
+Unweighted	2	LogisticRegression	Klek	Unknown	Specificity	0.55127
+Unweighted	2	LogisticRegression	Klek	Male	Specificity	0.64629
+Weighted	0	LogisticRegression	Morgan	Male	Specificity	0.61925
+Weighted	0	LogisticRegression	Morgan	Female	Specificity	0.49167
+Weighted	0	LogisticRegression	Morgan	Unknown	Specificity	0.50306
+Unweighted	0	LogisticRegression	Morgan	Male	Specificity	0.61762
+Unweighted	0	LogisticRegression	Morgan	Female	Specificity	0.47381
+Unweighted	0	LogisticRegression	Morgan	Unknown	Specificity	0.49609
+Weighted	1	LogisticRegression	Morgan	Male	Specificity	0.67924
+Weighted	1	LogisticRegression	Morgan	Unknown	Specificity	0.64698
+Weighted	1	LogisticRegression	Morgan	Female	Specificity	0.65032
+Unweighted	1	LogisticRegression	Morgan	Male	Specificity	0.69288
+Unweighted	1	LogisticRegression	Morgan	Unknown	Specificity	0.63158
+Unweighted	1	LogisticRegression	Morgan	Female	Specificity	0.64086
+Weighted	2	LogisticRegression	Morgan	Unknown	Specificity	0.70346
+Weighted	2	LogisticRegression	Morgan	Female	Specificity	0.69016
+Weighted	2	LogisticRegression	Morgan	Male	Specificity	0.75797
+Unweighted	2	LogisticRegression	Morgan	Unknown	Specificity	0.66466
+Unweighted	2	LogisticRegression	Morgan	Female	Specificity	0.6641
+Unweighted	2	LogisticRegression	Morgan	Male	Specificity	0.73945
+Weighted	3	LogisticRegression	Morgan	Female	Specificity	0.47566
+Weighted	3	LogisticRegression	Morgan	Unknown	Specificity	0.43702
+Weighted	3	LogisticRegression	Morgan	Male	Specificity	0.66134
+Unweighted	3	LogisticRegression	Morgan	Female	Specificity	0.50546
+Unweighted	3	LogisticRegression	Morgan	Unknown	Specificity	0.47125
+Unweighted	3	LogisticRegression	Morgan	Male	Specificity	0.68507
+Weighted	4	LogisticRegression	Morgan	Female	Specificity	0.54465
+Weighted	4	LogisticRegression	Morgan	Male	Specificity	0.7048
+Weighted	4	LogisticRegression	Morgan	Unknown	Specificity	0.57199
+Unweighted	4	LogisticRegression	Morgan	Female	Specificity	0.58987
+Unweighted	4	LogisticRegression	Morgan	Male	Specificity	0.72442
+Unweighted	4	LogisticRegression	Morgan	Unknown	Specificity	0.59426
+Weighted	0	LogisticRegression	ChemBERTa	Female	Specificity	0.48709
+Weighted	0	LogisticRegression	ChemBERTa	Unknown	Specificity	0.51707
+Weighted	0	LogisticRegression	ChemBERTa	Male	Specificity	0.50708
+Unweighted	0	LogisticRegression	ChemBERTa	Female	Specificity	0.48234
+Unweighted	0	LogisticRegression	ChemBERTa	Unknown	Specificity	0.50881
+Unweighted	0	LogisticRegression	ChemBERTa	Male	Specificity	0.50881
+Weighted	3	LogisticRegression	ChemBERTa	Female	Specificity	0.57433
+Weighted	3	LogisticRegression	ChemBERTa	Male	Specificity	0.67234
+Weighted	3	LogisticRegression	ChemBERTa	Unknown	Specificity	0.54732
+Unweighted	3	LogisticRegression	ChemBERTa	Female	Specificity	0.53354
+Unweighted	3	LogisticRegression	ChemBERTa	Male	Specificity	0.63582
+Unweighted	3	LogisticRegression	ChemBERTa	Unknown	Specificity	0.52375
+Weighted	1	LogisticRegression	ChemBERTa	Male	Specificity	0.59925
+Weighted	1	LogisticRegression	ChemBERTa	Female	Specificity	0.58804
+Weighted	1	LogisticRegression	ChemBERTa	Unknown	Specificity	0.56135
+Unweighted	1	LogisticRegression	ChemBERTa	Male	Specificity	0.6161
+Unweighted	1	LogisticRegression	ChemBERTa	Female	Specificity	0.56178
+Unweighted	1	LogisticRegression	ChemBERTa	Unknown	Specificity	0.54079
+Weighted	4	LogisticRegression	ChemBERTa	Male	Specificity	0.63708
+Weighted	4	LogisticRegression	ChemBERTa	Female	Specificity	0.53748
+Weighted	4	LogisticRegression	ChemBERTa	Unknown	Specificity	0.50254
+Unweighted	4	LogisticRegression	ChemBERTa	Male	Specificity	0.62074
+Unweighted	4	LogisticRegression	ChemBERTa	Female	Specificity	0.55065
+Unweighted	4	LogisticRegression	ChemBERTa	Unknown	Specificity	0.52559
+Weighted	2	LogisticRegression	ChemBERTa	Unknown	Specificity	0.47462
+Weighted	2	LogisticRegression	ChemBERTa	Male	Specificity	0.55821
+Weighted	2	LogisticRegression	ChemBERTa	Female	Specificity	0.45687
+Unweighted	2	LogisticRegression	ChemBERTa	Unknown	Specificity	0.48733
+Unweighted	2	LogisticRegression	ChemBERTa	Male	Specificity	0.58224
+Unweighted	2	LogisticRegression	ChemBERTa	Female	Specificity	0.4869
+Weighted	0	LogisticRegression	CDDD	Female	Specificity	0.41513
+Weighted	0	LogisticRegression	CDDD	Unknown	Specificity	0.43132
+Weighted	0	LogisticRegression	CDDD	Male	Specificity	0.49641
+Unweighted	0	LogisticRegression	CDDD	Female	Specificity	0.41657
+Unweighted	0	LogisticRegression	CDDD	Unknown	Specificity	0.44227
+Unweighted	0	LogisticRegression	CDDD	Male	Specificity	0.5171
+Weighted	1	LogisticRegression	CDDD	Male	Specificity	0.6399
+Weighted	1	LogisticRegression	CDDD	Unknown	Specificity	0.65253
+Weighted	1	LogisticRegression	CDDD	Female	Specificity	0.67475
+Unweighted	1	LogisticRegression	CDDD	Male	Specificity	0.62734
+Unweighted	1	LogisticRegression	CDDD	Unknown	Specificity	0.63553
+Unweighted	1	LogisticRegression	CDDD	Female	Specificity	0.64745
+Weighted	2	LogisticRegression	CDDD	Unknown	Specificity	0.52787
+Weighted	2	LogisticRegression	CDDD	Female	Specificity	0.52669
+Weighted	2	LogisticRegression	CDDD	Male	Specificity	0.54139
+Unweighted	2	LogisticRegression	CDDD	Unknown	Specificity	0.51508
+Unweighted	2	LogisticRegression	CDDD	Female	Specificity	0.52542
+Unweighted	2	LogisticRegression	CDDD	Male	Specificity	0.51674
+Weighted	3	LogisticRegression	CDDD	Female	Specificity	0.48625
+Weighted	3	LogisticRegression	CDDD	Unknown	Specificity	0.48066
+Weighted	3	LogisticRegression	CDDD	Male	Specificity	0.55409
+Unweighted	3	LogisticRegression	CDDD	Female	Specificity	0.5117
+Unweighted	3	LogisticRegression	CDDD	Unknown	Specificity	0.495
+Unweighted	3	LogisticRegression	CDDD	Male	Specificity	0.57313
+Weighted	4	LogisticRegression	CDDD	Unknown	Specificity	0.48164
+Weighted	4	LogisticRegression	CDDD	Male	Specificity	0.58192
+Weighted	4	LogisticRegression	CDDD	Female	Specificity	0.46895
+Unweighted	4	LogisticRegression	CDDD	Unknown	Specificity	0.45318
+Unweighted	4	LogisticRegression	CDDD	Male	Specificity	0.56617
+Unweighted	4	LogisticRegression	CDDD	Female	Specificity	0.45425
+Weighted	0	RandomForestClassifier	RDKit	Female	Specificity	0.61522
+Weighted	0	RandomForestClassifier	RDKit	Male	Specificity	0.59907
+Weighted	0	RandomForestClassifier	RDKit	Unknown	Specificity	0.59118
+Unweighted	0	RandomForestClassifier	RDKit	Female	Specificity	0.581
+Unweighted	0	RandomForestClassifier	RDKit	Male	Specificity	0.57306
+Unweighted	0	RandomForestClassifier	RDKit	Unknown	Specificity	0.56556
+Weighted	1	RandomForestClassifier	RDKit	Unknown	Specificity	0.576
+Weighted	1	RandomForestClassifier	RDKit	Male	Specificity	0.63864
+Weighted	1	RandomForestClassifier	RDKit	Female	Specificity	0.60393
+Unweighted	1	RandomForestClassifier	RDKit	Unknown	Specificity	0.55
+Unweighted	1	RandomForestClassifier	RDKit	Male	Specificity	0.63109
+Unweighted	1	RandomForestClassifier	RDKit	Female	Specificity	0.57496
+Weighted	4	RandomForestClassifier	RDKit	Male	Specificity	0.61405
+Weighted	4	RandomForestClassifier	RDKit	Female	Specificity	0.4233
+Weighted	4	RandomForestClassifier	RDKit	Unknown	Specificity	0.43032
+Unweighted	4	RandomForestClassifier	RDKit	Male	Specificity	0.57981
+Unweighted	4	RandomForestClassifier	RDKit	Female	Specificity	0.39869
+Unweighted	4	RandomForestClassifier	RDKit	Unknown	Specificity	0.41948
+Weighted	3	RandomForestClassifier	RDKit	Unknown	Specificity	0.58206
+Weighted	3	RandomForestClassifier	RDKit	Female	Specificity	0.57303
+Weighted	3	RandomForestClassifier	RDKit	Male	Specificity	0.65578
+Unweighted	3	RandomForestClassifier	RDKit	Unknown	Specificity	0.54125
+Unweighted	3	RandomForestClassifier	RDKit	Female	Specificity	0.55538
+Unweighted	3	RandomForestClassifier	RDKit	Male	Specificity	0.62687
+Weighted	2	RandomForestClassifier	RDKit	Female	Specificity	0.39984
+Weighted	2	RandomForestClassifier	RDKit	Unknown	Specificity	0.42431
+Weighted	2	RandomForestClassifier	RDKit	Male	Specificity	0.54988
+Unweighted	2	RandomForestClassifier	RDKit	Female	Specificity	0.39445
+Unweighted	2	RandomForestClassifier	RDKit	Unknown	Specificity	0.42461
+Unweighted	2	RandomForestClassifier	RDKit	Male	Specificity	0.54731
+Weighted	0	RandomForestClassifier	MACCS	Female	Specificity	0.55275
+Weighted	0	RandomForestClassifier	MACCS	Unknown	Specificity	0.53939
+Weighted	0	RandomForestClassifier	MACCS	Male	Specificity	0.55819
+Unweighted	0	RandomForestClassifier	MACCS	Female	Specificity	0.53106
+Unweighted	0	RandomForestClassifier	MACCS	Unknown	Specificity	0.5225
+Unweighted	0	RandomForestClassifier	MACCS	Male	Specificity	0.52746
+Weighted	1	RandomForestClassifier	MACCS	Male	Specificity	0.55287
+Weighted	1	RandomForestClassifier	MACCS	Unknown	Specificity	0.57797
+Weighted	1	RandomForestClassifier	MACCS	Female	Specificity	0.59544
+Unweighted	1	RandomForestClassifier	MACCS	Male	Specificity	0.56742
+Unweighted	1	RandomForestClassifier	MACCS	Unknown	Specificity	0.56447
+Unweighted	1	RandomForestClassifier	MACCS	Female	Specificity	0.56013
+Weighted	2	RandomForestClassifier	MACCS	Female	Specificity	0.55455
+Weighted	2	RandomForestClassifier	MACCS	Male	Specificity	0.63379
+Weighted	2	RandomForestClassifier	MACCS	Unknown	Specificity	0.57402
+Unweighted	2	RandomForestClassifier	MACCS	Female	Specificity	0.56857
+Unweighted	2	RandomForestClassifier	MACCS	Male	Specificity	0.64338
+Unweighted	2	RandomForestClassifier	MACCS	Unknown	Specificity	0.57419
+Weighted	3	RandomForestClassifier	MACCS	Female	Specificity	0.61244
+Weighted	3	RandomForestClassifier	MACCS	Male	Specificity	0.65885
+Weighted	3	RandomForestClassifier	MACCS	Unknown	Specificity	0.61541
+Unweighted	3	RandomForestClassifier	MACCS	Female	Specificity	0.63963
+Unweighted	3	RandomForestClassifier	MACCS	Male	Specificity	0.65373
+Unweighted	3	RandomForestClassifier	MACCS	Unknown	Specificity	0.62625
+Weighted	4	RandomForestClassifier	MACCS	Male	Specificity	0.72151
+Weighted	4	RandomForestClassifier	MACCS	Female	Specificity	0.67449
+Weighted	4	RandomForestClassifier	MACCS	Unknown	Specificity	0.67424
+Unweighted	4	RandomForestClassifier	MACCS	Male	Specificity	0.72715
+Unweighted	4	RandomForestClassifier	MACCS	Female	Specificity	0.71242
+Unweighted	4	RandomForestClassifier	MACCS	Unknown	Specificity	0.70037
+Weighted	0	RandomForestClassifier	Klek	Unknown	Specificity	0.56504
+Weighted	0	RandomForestClassifier	Klek	Female	Specificity	0.53568
+Weighted	0	RandomForestClassifier	Klek	Male	Specificity	0.64613
+Unweighted	0	RandomForestClassifier	Klek	Unknown	Specificity	0.54305
+Unweighted	0	RandomForestClassifier	Klek	Female	Specificity	0.50305
+Unweighted	0	RandomForestClassifier	Klek	Male	Specificity	0.60933
+Weighted	1	RandomForestClassifier	Klek	Female	Specificity	0.75303
+Weighted	1	RandomForestClassifier	Klek	Male	Specificity	0.68029
+Weighted	1	RandomForestClassifier	Klek	Unknown	Specificity	0.73888
+Unweighted	1	RandomForestClassifier	Klek	Female	Specificity	0.71334
+Unweighted	1	RandomForestClassifier	Klek	Male	Specificity	0.68727
+Unweighted	1	RandomForestClassifier	Klek	Unknown	Specificity	0.72105
+Weighted	2	RandomForestClassifier	Klek	Female	Specificity	0.70371
+Weighted	2	RandomForestClassifier	Klek	Male	Specificity	0.7511
+Weighted	2	RandomForestClassifier	Klek	Unknown	Specificity	0.72171
+Unweighted	2	RandomForestClassifier	Klek	Female	Specificity	0.69337
+Unweighted	2	RandomForestClassifier	Klek	Male	Specificity	0.73362
+Unweighted	2	RandomForestClassifier	Klek	Unknown	Specificity	0.69964
+Weighted	3	RandomForestClassifier	Klek	Male	Specificity	0.76552
+Weighted	3	RandomForestClassifier	Klek	Unknown	Specificity	0.76965
+Weighted	3	RandomForestClassifier	Klek	Female	Specificity	0.78435
+Unweighted	3	RandomForestClassifier	Klek	Male	Specificity	0.73433
+Unweighted	3	RandomForestClassifier	Klek	Unknown	Specificity	0.7125
+Unweighted	3	RandomForestClassifier	Klek	Female	Specificity	0.74259
+Weighted	4	RandomForestClassifier	Klek	Male	Specificity	0.72692
+Weighted	4	RandomForestClassifier	Klek	Unknown	Specificity	0.62699
+Weighted	4	RandomForestClassifier	Klek	Female	Specificity	0.59316
+Unweighted	4	RandomForestClassifier	Klek	Male	Specificity	0.71623
+Unweighted	4	RandomForestClassifier	Klek	Unknown	Specificity	0.62797
+Unweighted	4	RandomForestClassifier	Klek	Female	Specificity	0.60131
+Weighted	0	RandomForestClassifier	Morgan	Unknown	Specificity	0.55332
+Weighted	0	RandomForestClassifier	Morgan	Male	Specificity	0.59932
+Weighted	0	RandomForestClassifier	Morgan	Female	Specificity	0.56634
+Unweighted	0	RandomForestClassifier	Morgan	Unknown	Specificity	0.53816
+Unweighted	0	RandomForestClassifier	Morgan	Male	Specificity	0.56684
+Unweighted	0	RandomForestClassifier	Morgan	Female	Specificity	0.54202
+Weighted	1	RandomForestClassifier	Morgan	Unknown	Specificity	0.88257
+Weighted	1	RandomForestClassifier	Morgan	Female	Specificity	0.87926
+Weighted	1	RandomForestClassifier	Morgan	Male	Specificity	0.84365
+Unweighted	1	RandomForestClassifier	Morgan	Unknown	Specificity	0.86447
+Unweighted	1	RandomForestClassifier	Morgan	Female	Specificity	0.85338
+Unweighted	1	RandomForestClassifier	Morgan	Male	Specificity	0.85581
+Weighted	3	RandomForestClassifier	Morgan	Female	Specificity	0.80375
+Weighted	3	RandomForestClassifier	Morgan	Male	Specificity	0.87326
+Weighted	3	RandomForestClassifier	Morgan	Unknown	Specificity	0.78752
+Unweighted	3	RandomForestClassifier	Morgan	Female	Specificity	0.79095
+Unweighted	3	RandomForestClassifier	Morgan	Male	Specificity	0.83881
+Unweighted	3	RandomForestClassifier	Morgan	Unknown	Specificity	0.76125
+Weighted	2	RandomForestClassifier	Morgan	Female	Specificity	0.66906
+Weighted	2	RandomForestClassifier	Morgan	Male	Specificity	0.72256
+Weighted	2	RandomForestClassifier	Morgan	Unknown	Specificity	0.66041
+Unweighted	2	RandomForestClassifier	Morgan	Female	Specificity	0.65639
+Unweighted	2	RandomForestClassifier	Morgan	Male	Specificity	0.7147
+Unweighted	2	RandomForestClassifier	Morgan	Unknown	Specificity	0.64656
+Weighted	4	RandomForestClassifier	Morgan	Female	Specificity	0.5335
+Weighted	4	RandomForestClassifier	Morgan	Unknown	Specificity	0.54899
+Weighted	4	RandomForestClassifier	Morgan	Male	Specificity	0.66535
+Unweighted	4	RandomForestClassifier	Morgan	Female	Specificity	0.57353
+Unweighted	4	RandomForestClassifier	Morgan	Unknown	Specificity	0.58427
+Unweighted	4	RandomForestClassifier	Morgan	Male	Specificity	0.67667
+Weighted	0	RandomForestClassifier	ChemBERTa	Male	Specificity	0.39697
+Weighted	0	RandomForestClassifier	ChemBERTa	Unknown	Specificity	0.43176
+Weighted	0	RandomForestClassifier	ChemBERTa	Female	Specificity	0.43418
+Unweighted	0	RandomForestClassifier	ChemBERTa	Male	Specificity	0.37927
+Unweighted	0	RandomForestClassifier	ChemBERTa	Unknown	Specificity	0.41585
+Unweighted	0	RandomForestClassifier	ChemBERTa	Female	Specificity	0.40682
+Weighted	2	RandomForestClassifier	ChemBERTa	Male	Specificity	0.64433
+Weighted	2	RandomForestClassifier	ChemBERTa	Female	Specificity	0.62037
+Weighted	2	RandomForestClassifier	ChemBERTa	Unknown	Specificity	0.63367
+Unweighted	2	RandomForestClassifier	ChemBERTa	Male	Specificity	0.64774
+Unweighted	2	RandomForestClassifier	ChemBERTa	Female	Specificity	0.62712
+Unweighted	2	RandomForestClassifier	ChemBERTa	Unknown	Specificity	0.63571
+Weighted	3	RandomForestClassifier	ChemBERTa	Female	Specificity	0.52262
+Weighted	3	RandomForestClassifier	ChemBERTa	Male	Specificity	0.53187
+Weighted	3	RandomForestClassifier	ChemBERTa	Unknown	Specificity	0.51666
+Unweighted	3	RandomForestClassifier	ChemBERTa	Female	Specificity	0.49922
+Unweighted	3	RandomForestClassifier	ChemBERTa	Male	Specificity	0.50746
+Unweighted	3	RandomForestClassifier	ChemBERTa	Unknown	Specificity	0.48875
+Weighted	1	RandomForestClassifier	ChemBERTa	Male	Specificity	0.60959
+Weighted	1	RandomForestClassifier	ChemBERTa	Female	Specificity	0.56775
+Weighted	1	RandomForestClassifier	ChemBERTa	Unknown	Specificity	0.56519
+Unweighted	1	RandomForestClassifier	ChemBERTa	Male	Specificity	0.61985
+Unweighted	1	RandomForestClassifier	ChemBERTa	Female	Specificity	0.53707
+Unweighted	1	RandomForestClassifier	ChemBERTa	Unknown	Specificity	0.53684
+Weighted	4	RandomForestClassifier	ChemBERTa	Female	Specificity	0.24016
+Weighted	4	RandomForestClassifier	ChemBERTa	Unknown	Specificity	0.27374
+Weighted	4	RandomForestClassifier	ChemBERTa	Male	Specificity	0.50023
+Unweighted	4	RandomForestClassifier	ChemBERTa	Female	Specificity	0.24183
+Unweighted	4	RandomForestClassifier	ChemBERTa	Unknown	Specificity	0.2784
+Unweighted	4	RandomForestClassifier	ChemBERTa	Male	Specificity	0.48977
+Weighted	0	RandomForestClassifier	CDDD	Male	Specificity	0.4919
+Weighted	0	RandomForestClassifier	CDDD	Unknown	Specificity	0.4597
+Weighted	0	RandomForestClassifier	CDDD	Female	Specificity	0.44861
+Unweighted	0	RandomForestClassifier	CDDD	Male	Specificity	0.47876
+Unweighted	0	RandomForestClassifier	CDDD	Unknown	Specificity	0.45597
+Unweighted	0	RandomForestClassifier	CDDD	Female	Specificity	0.43971
+Weighted	1	RandomForestClassifier	CDDD	Male	Specificity	0.69224
+Weighted	1	RandomForestClassifier	CDDD	Unknown	Specificity	0.58405
+Weighted	1	RandomForestClassifier	CDDD	Female	Specificity	0.59554
+Unweighted	1	RandomForestClassifier	CDDD	Male	Specificity	0.69663
+Unweighted	1	RandomForestClassifier	CDDD	Unknown	Specificity	0.54737
+Unweighted	1	RandomForestClassifier	CDDD	Female	Specificity	0.54201
+Weighted	3	RandomForestClassifier	CDDD	Unknown	Specificity	0.59821
+Weighted	3	RandomForestClassifier	CDDD	Male	Specificity	0.55843
+Weighted	3	RandomForestClassifier	CDDD	Female	Specificity	0.62866
+Unweighted	3	RandomForestClassifier	CDDD	Unknown	Specificity	0.53875
+Unweighted	3	RandomForestClassifier	CDDD	Male	Specificity	0.51493
+Unweighted	3	RandomForestClassifier	CDDD	Female	Specificity	0.56786
+Weighted	2	RandomForestClassifier	CDDD	Female	Specificity	0.41777
+Weighted	2	RandomForestClassifier	CDDD	Unknown	Specificity	0.46731
+Weighted	2	RandomForestClassifier	CDDD	Male	Specificity	0.62344
+Unweighted	2	RandomForestClassifier	CDDD	Female	Specificity	0.39445
+Unweighted	2	RandomForestClassifier	CDDD	Unknown	Specificity	0.45115
+Unweighted	2	RandomForestClassifier	CDDD	Male	Specificity	0.60116
+Weighted	4	RandomForestClassifier	CDDD	Male	Specificity	0.54818
+Weighted	4	RandomForestClassifier	CDDD	Female	Specificity	0.49952
+Weighted	4	RandomForestClassifier	CDDD	Unknown	Specificity	0.50308
+Unweighted	4	RandomForestClassifier	CDDD	Male	Specificity	0.53479
+Unweighted	4	RandomForestClassifier	CDDD	Female	Specificity	0.50817
+Unweighted	4	RandomForestClassifier	CDDD	Unknown	Specificity	0.50687
+Weighted	0	XGBClassifier	RDKit	Male	HarmRS	0.57217
+Weighted	0	XGBClassifier	RDKit	Female	HarmRS	0.59019
+Weighted	0	XGBClassifier	RDKit	Unknown	HarmRS	0.58856
+Unweighted	0	XGBClassifier	RDKit	Male	HarmRS	0.55764
+Unweighted	0	XGBClassifier	RDKit	Female	HarmRS	0.56684
+Unweighted	0	XGBClassifier	RDKit	Unknown	HarmRS	0.56112
+Weighted	1	XGBClassifier	RDKit	Female	HarmRS	0.55757
+Weighted	1	XGBClassifier	RDKit	Male	HarmRS	0.44269
+Weighted	1	XGBClassifier	RDKit	Unknown	HarmRS	0.52804
+Unweighted	1	XGBClassifier	RDKit	Female	HarmRS	0.53782
+Unweighted	1	XGBClassifier	RDKit	Male	HarmRS	0.41157
+Unweighted	1	XGBClassifier	RDKit	Unknown	HarmRS	0.51784
+Weighted	3	XGBClassifier	RDKit	Female	HarmRS	0.60404
+Weighted	3	XGBClassifier	RDKit	Unknown	HarmRS	0.59001
+Weighted	3	XGBClassifier	RDKit	Male	HarmRS	0.51014
+Unweighted	3	XGBClassifier	RDKit	Female	HarmRS	0.56695
+Unweighted	3	XGBClassifier	RDKit	Unknown	HarmRS	0.5535
+Unweighted	3	XGBClassifier	RDKit	Male	HarmRS	0.47544
+Weighted	2	XGBClassifier	RDKit	Unknown	HarmRS	0.60257
+Weighted	2	XGBClassifier	RDKit	Male	HarmRS	0.54646
+Weighted	2	XGBClassifier	RDKit	Female	HarmRS	0.60978
+Unweighted	2	XGBClassifier	RDKit	Unknown	HarmRS	0.58922
+Unweighted	2	XGBClassifier	RDKit	Male	HarmRS	0.50428
+Unweighted	2	XGBClassifier	RDKit	Female	HarmRS	0.58041
+Weighted	4	XGBClassifier	RDKit	Female	HarmRS	0.57462
+Weighted	4	XGBClassifier	RDKit	Unknown	HarmRS	0.57836
+Weighted	4	XGBClassifier	RDKit	Male	HarmRS	0.60007
+Unweighted	4	XGBClassifier	RDKit	Female	HarmRS	0.56661
+Unweighted	4	XGBClassifier	RDKit	Unknown	HarmRS	0.56277
+Unweighted	4	XGBClassifier	RDKit	Male	HarmRS	0.541
+Weighted	0	XGBClassifier	MACCS	Unknown	HarmRS	0.62307
+Weighted	0	XGBClassifier	MACCS	Male	HarmRS	0.57932
+Weighted	0	XGBClassifier	MACCS	Female	HarmRS	0.59483
+Unweighted	0	XGBClassifier	MACCS	Unknown	HarmRS	0.59702
+Unweighted	0	XGBClassifier	MACCS	Male	HarmRS	0.56556
+Unweighted	0	XGBClassifier	MACCS	Female	HarmRS	0.57884
+Weighted	1	XGBClassifier	MACCS	Female	HarmRS	0.55453
+Weighted	1	XGBClassifier	MACCS	Male	HarmRS	0.51588
+Weighted	1	XGBClassifier	MACCS	Unknown	HarmRS	0.5407
+Unweighted	1	XGBClassifier	MACCS	Female	HarmRS	0.54495
+Unweighted	1	XGBClassifier	MACCS	Male	HarmRS	0.5043
+Unweighted	1	XGBClassifier	MACCS	Unknown	HarmRS	0.54064
+Weighted	3	XGBClassifier	MACCS	Female	HarmRS	0.58842
+Weighted	3	XGBClassifier	MACCS	Unknown	HarmRS	0.58115
+Weighted	3	XGBClassifier	MACCS	Male	HarmRS	0.52022
+Unweighted	3	XGBClassifier	MACCS	Female	HarmRS	0.54783
+Unweighted	3	XGBClassifier	MACCS	Unknown	HarmRS	0.55079
+Unweighted	3	XGBClassifier	MACCS	Male	HarmRS	0.45994
+Weighted	2	XGBClassifier	MACCS	Male	HarmRS	0.57652
+Weighted	2	XGBClassifier	MACCS	Female	HarmRS	0.58882
+Weighted	2	XGBClassifier	MACCS	Unknown	HarmRS	0.57979
+Unweighted	2	XGBClassifier	MACCS	Male	HarmRS	0.54946
+Unweighted	2	XGBClassifier	MACCS	Female	HarmRS	0.57292
+Unweighted	2	XGBClassifier	MACCS	Unknown	HarmRS	0.56999
+Weighted	4	XGBClassifier	MACCS	Unknown	HarmRS	0.59079
+Weighted	4	XGBClassifier	MACCS	Female	HarmRS	0.60327
+Weighted	4	XGBClassifier	MACCS	Male	HarmRS	0.55642
+Unweighted	4	XGBClassifier	MACCS	Unknown	HarmRS	0.57497
+Unweighted	4	XGBClassifier	MACCS	Female	HarmRS	0.58609
+Unweighted	4	XGBClassifier	MACCS	Male	HarmRS	0.52464
+Weighted	1	XGBClassifier	Klek	Unknown	HarmRS	0.53924
+Weighted	1	XGBClassifier	Klek	Male	HarmRS	0.44869
+Weighted	1	XGBClassifier	Klek	Female	HarmRS	0.55045
+Unweighted	1	XGBClassifier	Klek	Unknown	HarmRS	0.53408
+Unweighted	1	XGBClassifier	Klek	Male	HarmRS	0.44114
+Unweighted	1	XGBClassifier	Klek	Female	HarmRS	0.52882
+Weighted	0	XGBClassifier	Klek	Female	HarmRS	0.58173
+Weighted	0	XGBClassifier	Klek	Male	HarmRS	0.52759
+Weighted	0	XGBClassifier	Klek	Unknown	HarmRS	0.5753
+Unweighted	0	XGBClassifier	Klek	Female	HarmRS	0.57285
+Unweighted	0	XGBClassifier	Klek	Male	HarmRS	0.54288
+Unweighted	0	XGBClassifier	Klek	Unknown	HarmRS	0.57169
+Weighted	3	XGBClassifier	Klek	Male	HarmRS	0.48096
+Weighted	3	XGBClassifier	Klek	Female	HarmRS	0.5724
+Weighted	3	XGBClassifier	Klek	Unknown	HarmRS	0.56498
+Unweighted	3	XGBClassifier	Klek	Male	HarmRS	0.45816
+Unweighted	3	XGBClassifier	Klek	Female	HarmRS	0.54318
+Unweighted	3	XGBClassifier	Klek	Unknown	HarmRS	0.53888
+Weighted	2	XGBClassifier	Klek	Unknown	HarmRS	0.63024
+Weighted	2	XGBClassifier	Klek	Male	HarmRS	0.5785
+Weighted	2	XGBClassifier	Klek	Female	HarmRS	0.62617
+Unweighted	2	XGBClassifier	Klek	Unknown	HarmRS	0.6037
+Unweighted	2	XGBClassifier	Klek	Male	HarmRS	0.53701
+Unweighted	2	XGBClassifier	Klek	Female	HarmRS	0.59753
+Weighted	4	XGBClassifier	Klek	Female	HarmRS	0.55606
+Weighted	4	XGBClassifier	Klek	Unknown	HarmRS	0.55425
+Weighted	4	XGBClassifier	Klek	Male	HarmRS	0.48872
+Unweighted	4	XGBClassifier	Klek	Female	HarmRS	0.53809
+Unweighted	4	XGBClassifier	Klek	Unknown	HarmRS	0.54566
+Unweighted	4	XGBClassifier	Klek	Male	HarmRS	0.46739
+Weighted	0	XGBClassifier	Morgan	Female	HarmRS	0.53631
+Weighted	0	XGBClassifier	Morgan	Male	HarmRS	0.54525
+Weighted	0	XGBClassifier	Morgan	Unknown	HarmRS	0.54731
+Unweighted	0	XGBClassifier	Morgan	Female	HarmRS	0.55527
+Unweighted	0	XGBClassifier	Morgan	Male	HarmRS	0.5562
+Unweighted	0	XGBClassifier	Morgan	Unknown	HarmRS	0.55429
+Weighted	2	XGBClassifier	Morgan	Unknown	HarmRS	0.62792
+Weighted	2	XGBClassifier	Morgan	Female	HarmRS	0.61364
+Weighted	2	XGBClassifier	Morgan	Male	HarmRS	0.573
+Unweighted	2	XGBClassifier	Morgan	Unknown	HarmRS	0.60447
+Unweighted	2	XGBClassifier	Morgan	Female	HarmRS	0.58974
+Unweighted	2	XGBClassifier	Morgan	Male	HarmRS	0.54865
+Weighted	1	XGBClassifier	Morgan	Male	HarmRS	0.47744
+Weighted	1	XGBClassifier	Morgan	Unknown	HarmRS	0.56716
+Weighted	1	XGBClassifier	Morgan	Female	HarmRS	0.55548
+Unweighted	1	XGBClassifier	Morgan	Male	HarmRS	0.43718
+Unweighted	1	XGBClassifier	Morgan	Unknown	HarmRS	0.55516
+Unweighted	1	XGBClassifier	Morgan	Female	HarmRS	0.53615
+Weighted	3	XGBClassifier	Morgan	Female	HarmRS	0.58328
+Weighted	3	XGBClassifier	Morgan	Unknown	HarmRS	0.5813
+Weighted	3	XGBClassifier	Morgan	Male	HarmRS	0.52004
+Unweighted	3	XGBClassifier	Morgan	Female	HarmRS	0.5577
+Unweighted	3	XGBClassifier	Morgan	Unknown	HarmRS	0.56049
+Unweighted	3	XGBClassifier	Morgan	Male	HarmRS	0.47584
+Weighted	4	XGBClassifier	Morgan	Unknown	HarmRS	0.56117
+Weighted	4	XGBClassifier	Morgan	Female	HarmRS	0.54349
+Weighted	4	XGBClassifier	Morgan	Male	HarmRS	0.56453
+Unweighted	4	XGBClassifier	Morgan	Unknown	HarmRS	0.54584
+Unweighted	4	XGBClassifier	Morgan	Female	HarmRS	0.54142
+Unweighted	4	XGBClassifier	Morgan	Male	HarmRS	0.51753
+Weighted	0	XGBClassifier	ChemBERTa	Unknown	HarmRS	0.53531
+Weighted	0	XGBClassifier	ChemBERTa	Female	HarmRS	0.51556
+Weighted	0	XGBClassifier	ChemBERTa	Male	HarmRS	0.56267
+Unweighted	0	XGBClassifier	ChemBERTa	Unknown	HarmRS	0.50584
+Unweighted	0	XGBClassifier	ChemBERTa	Female	HarmRS	0.48745
+Unweighted	0	XGBClassifier	ChemBERTa	Male	HarmRS	0.53384
+Weighted	2	XGBClassifier	ChemBERTa	Unknown	HarmRS	0.526
+Weighted	2	XGBClassifier	ChemBERTa	Male	HarmRS	0.48369
+Weighted	2	XGBClassifier	ChemBERTa	Female	HarmRS	0.51104
+Unweighted	2	XGBClassifier	ChemBERTa	Unknown	HarmRS	0.52919
+Unweighted	2	XGBClassifier	ChemBERTa	Male	HarmRS	0.43651
+Unweighted	2	XGBClassifier	ChemBERTa	Female	HarmRS	0.50876
+Weighted	4	XGBClassifier	ChemBERTa	Male	HarmRS	0.55197
+Weighted	4	XGBClassifier	ChemBERTa	Unknown	HarmRS	0.54779
+Weighted	4	XGBClassifier	ChemBERTa	Female	HarmRS	0.5219
+Unweighted	4	XGBClassifier	ChemBERTa	Male	HarmRS	0.54156
+Unweighted	4	XGBClassifier	ChemBERTa	Unknown	HarmRS	0.54849
+Unweighted	4	XGBClassifier	ChemBERTa	Female	HarmRS	0.53266
+Weighted	3	XGBClassifier	ChemBERTa	Male	HarmRS	0.47618
+Weighted	3	XGBClassifier	ChemBERTa	Female	HarmRS	0.52177
+Weighted	3	XGBClassifier	ChemBERTa	Unknown	HarmRS	0.52599
+Unweighted	3	XGBClassifier	ChemBERTa	Male	HarmRS	0.43848
+Unweighted	3	XGBClassifier	ChemBERTa	Female	HarmRS	0.4959
+Unweighted	3	XGBClassifier	ChemBERTa	Unknown	HarmRS	0.50897
+Weighted	1	XGBClassifier	ChemBERTa	Male	HarmRS	0.42902
+Weighted	1	XGBClassifier	ChemBERTa	Unknown	HarmRS	0.58493
+Weighted	1	XGBClassifier	ChemBERTa	Female	HarmRS	0.58014
+Unweighted	1	XGBClassifier	ChemBERTa	Male	HarmRS	0.3819
+Unweighted	1	XGBClassifier	ChemBERTa	Unknown	HarmRS	0.56906
+Unweighted	1	XGBClassifier	ChemBERTa	Female	HarmRS	0.55006
+Weighted	0	XGBClassifier	CDDD	Male	HarmRS	0.57718
+Weighted	0	XGBClassifier	CDDD	Female	HarmRS	0.54818
+Weighted	0	XGBClassifier	CDDD	Unknown	HarmRS	0.57289
+Unweighted	0	XGBClassifier	CDDD	Male	HarmRS	0.55138
+Unweighted	0	XGBClassifier	CDDD	Female	HarmRS	0.51882
+Unweighted	0	XGBClassifier	CDDD	Unknown	HarmRS	0.53762
+Weighted	1	XGBClassifier	CDDD	Female	HarmRS	0.6035
+Weighted	1	XGBClassifier	CDDD	Unknown	HarmRS	0.59575
+Weighted	1	XGBClassifier	CDDD	Male	HarmRS	0.4062
+Unweighted	1	XGBClassifier	CDDD	Female	HarmRS	0.57797
+Unweighted	1	XGBClassifier	CDDD	Unknown	HarmRS	0.58527
+Unweighted	1	XGBClassifier	CDDD	Male	HarmRS	0.36626
+Weighted	2	XGBClassifier	CDDD	Unknown	HarmRS	0.61602
+Weighted	2	XGBClassifier	CDDD	Male	HarmRS	0.53155
+Weighted	2	XGBClassifier	CDDD	Female	HarmRS	0.60839
+Unweighted	2	XGBClassifier	CDDD	Unknown	HarmRS	0.59184
+Unweighted	2	XGBClassifier	CDDD	Male	HarmRS	0.49424
+Unweighted	2	XGBClassifier	CDDD	Female	HarmRS	0.58588
+Weighted	3	XGBClassifier	CDDD	Unknown	HarmRS	0.58307
+Weighted	3	XGBClassifier	CDDD	Male	HarmRS	0.48793
+Weighted	3	XGBClassifier	CDDD	Female	HarmRS	0.58477
+Unweighted	3	XGBClassifier	CDDD	Unknown	HarmRS	0.55222
+Unweighted	3	XGBClassifier	CDDD	Male	HarmRS	0.4426
+Unweighted	3	XGBClassifier	CDDD	Female	HarmRS	0.55399
+Weighted	4	XGBClassifier	CDDD	Female	HarmRS	0.52718
+Weighted	4	XGBClassifier	CDDD	Unknown	HarmRS	0.55633
+Weighted	4	XGBClassifier	CDDD	Male	HarmRS	0.5835
+Unweighted	4	XGBClassifier	CDDD	Female	HarmRS	0.53649
+Unweighted	4	XGBClassifier	CDDD	Unknown	HarmRS	0.54942
+Unweighted	4	XGBClassifier	CDDD	Male	HarmRS	0.53341
+Weighted	0	LogisticRegression	RDKit	Female	HarmRS	0.54992
+Weighted	0	LogisticRegression	RDKit	Male	HarmRS	0.52054
+Weighted	0	LogisticRegression	RDKit	Unknown	HarmRS	0.54677
+Unweighted	0	LogisticRegression	RDKit	Female	HarmRS	0.55011
+Unweighted	0	LogisticRegression	RDKit	Male	HarmRS	0.53701
+Unweighted	0	LogisticRegression	RDKit	Unknown	HarmRS	0.55141
+Weighted	1	LogisticRegression	RDKit	Female	HarmRS	0.54599
+Weighted	1	LogisticRegression	RDKit	Male	HarmRS	0.46534
+Weighted	1	LogisticRegression	RDKit	Unknown	HarmRS	0.53123
+Unweighted	1	LogisticRegression	RDKit	Female	HarmRS	0.5335
+Unweighted	1	LogisticRegression	RDKit	Male	HarmRS	0.46074
+Unweighted	1	LogisticRegression	RDKit	Unknown	HarmRS	0.52955
+Weighted	2	LogisticRegression	RDKit	Female	HarmRS	0.53079
+Weighted	2	LogisticRegression	RDKit	Male	HarmRS	0.47334
+Weighted	2	LogisticRegression	RDKit	Unknown	HarmRS	0.5394
+Unweighted	2	LogisticRegression	RDKit	Female	HarmRS	0.52804
+Unweighted	2	LogisticRegression	RDKit	Male	HarmRS	0.46916
+Unweighted	2	LogisticRegression	RDKit	Unknown	HarmRS	0.54359
+Weighted	3	LogisticRegression	RDKit	Unknown	HarmRS	0.546
+Weighted	3	LogisticRegression	RDKit	Male	HarmRS	0.50231
+Weighted	3	LogisticRegression	RDKit	Female	HarmRS	0.56025
+Unweighted	3	LogisticRegression	RDKit	Unknown	HarmRS	0.53423
+Unweighted	3	LogisticRegression	RDKit	Male	HarmRS	0.47423
+Unweighted	3	LogisticRegression	RDKit	Female	HarmRS	0.54449
+Weighted	4	LogisticRegression	RDKit	Male	HarmRS	0.5933
+Weighted	4	LogisticRegression	RDKit	Unknown	HarmRS	0.57644
+Weighted	4	LogisticRegression	RDKit	Female	HarmRS	0.57946
+Unweighted	4	LogisticRegression	RDKit	Male	HarmRS	0.55134
+Unweighted	4	LogisticRegression	RDKit	Unknown	HarmRS	0.56794
+Unweighted	4	LogisticRegression	RDKit	Female	HarmRS	0.55974
+Weighted	0	LogisticRegression	MACCS	Female	HarmRS	0.55668
+Weighted	0	LogisticRegression	MACCS	Male	HarmRS	0.54242
+Weighted	0	LogisticRegression	MACCS	Unknown	HarmRS	0.57232
+Unweighted	0	LogisticRegression	MACCS	Female	HarmRS	0.5578
+Unweighted	0	LogisticRegression	MACCS	Male	HarmRS	0.52934
+Unweighted	0	LogisticRegression	MACCS	Unknown	HarmRS	0.56886
+Weighted	1	LogisticRegression	MACCS	Female	HarmRS	0.53555
+Weighted	1	LogisticRegression	MACCS	Unknown	HarmRS	0.51804
+Weighted	1	LogisticRegression	MACCS	Male	HarmRS	0.47768
+Unweighted	1	LogisticRegression	MACCS	Female	HarmRS	0.51012
+Unweighted	1	LogisticRegression	MACCS	Unknown	HarmRS	0.51477
+Unweighted	1	LogisticRegression	MACCS	Male	HarmRS	0.46413
+Weighted	2	LogisticRegression	MACCS	Unknown	HarmRS	0.53886
+Weighted	2	LogisticRegression	MACCS	Male	HarmRS	0.43466
+Weighted	2	LogisticRegression	MACCS	Female	HarmRS	0.54121
+Unweighted	2	LogisticRegression	MACCS	Unknown	HarmRS	0.52146
+Unweighted	2	LogisticRegression	MACCS	Male	HarmRS	0.42207
+Unweighted	2	LogisticRegression	MACCS	Female	HarmRS	0.51558
+Weighted	3	LogisticRegression	MACCS	Female	HarmRS	0.57619
+Weighted	3	LogisticRegression	MACCS	Male	HarmRS	0.53035
+Weighted	3	LogisticRegression	MACCS	Unknown	HarmRS	0.57523
+Unweighted	3	LogisticRegression	MACCS	Female	HarmRS	0.53937
+Unweighted	3	LogisticRegression	MACCS	Male	HarmRS	0.49031
+Unweighted	3	LogisticRegression	MACCS	Unknown	HarmRS	0.54259
+Weighted	4	LogisticRegression	MACCS	Unknown	HarmRS	0.55503
+Weighted	4	LogisticRegression	MACCS	Male	HarmRS	0.497
+Weighted	4	LogisticRegression	MACCS	Female	HarmRS	0.5301
+Unweighted	4	LogisticRegression	MACCS	Unknown	HarmRS	0.54742
+Unweighted	4	LogisticRegression	MACCS	Male	HarmRS	0.47266
+Unweighted	4	LogisticRegression	MACCS	Female	HarmRS	0.53148
+Weighted	0	LogisticRegression	Klek	Male	HarmRS	0.52191
+Weighted	0	LogisticRegression	Klek	Unknown	HarmRS	0.55055
+Weighted	0	LogisticRegression	Klek	Female	HarmRS	0.55406
+Unweighted	0	LogisticRegression	Klek	Male	HarmRS	0.52461
+Unweighted	0	LogisticRegression	Klek	Unknown	HarmRS	0.55499
+Unweighted	0	LogisticRegression	Klek	Female	HarmRS	0.55042
+Weighted	1	LogisticRegression	Klek	Male	HarmRS	0.51618
+Weighted	1	LogisticRegression	Klek	Unknown	HarmRS	0.55352
+Weighted	1	LogisticRegression	Klek	Female	HarmRS	0.56524
+Unweighted	1	LogisticRegression	Klek	Male	HarmRS	0.46821
+Unweighted	1	LogisticRegression	Klek	Unknown	HarmRS	0.54517
+Unweighted	1	LogisticRegression	Klek	Female	HarmRS	0.54292
+Weighted	3	LogisticRegression	Klek	Female	HarmRS	0.50603
+Weighted	3	LogisticRegression	Klek	Unknown	HarmRS	0.51774
+Weighted	3	LogisticRegression	Klek	Male	HarmRS	0.48315
+Unweighted	3	LogisticRegression	Klek	Female	HarmRS	0.50482
+Unweighted	3	LogisticRegression	Klek	Unknown	HarmRS	0.51847
+Unweighted	3	LogisticRegression	Klek	Male	HarmRS	0.43404
+Weighted	4	LogisticRegression	Klek	Unknown	HarmRS	0.54691
+Weighted	4	LogisticRegression	Klek	Male	HarmRS	0.51716
+Weighted	4	LogisticRegression	Klek	Female	HarmRS	0.55545
+Unweighted	4	LogisticRegression	Klek	Unknown	HarmRS	0.53082
+Unweighted	4	LogisticRegression	Klek	Male	HarmRS	0.4887
+Unweighted	4	LogisticRegression	Klek	Female	HarmRS	0.53288
+Weighted	2	LogisticRegression	Klek	Female	HarmRS	0.58727
+Weighted	2	LogisticRegression	Klek	Unknown	HarmRS	0.58716
+Weighted	2	LogisticRegression	Klek	Male	HarmRS	0.55481
+Unweighted	2	LogisticRegression	Klek	Female	HarmRS	0.57861
+Unweighted	2	LogisticRegression	Klek	Unknown	HarmRS	0.57658
+Unweighted	2	LogisticRegression	Klek	Male	HarmRS	0.54037
+Weighted	0	LogisticRegression	Morgan	Male	HarmRS	0.59795
+Weighted	0	LogisticRegression	Morgan	Female	HarmRS	0.58127
+Weighted	0	LogisticRegression	Morgan	Unknown	HarmRS	0.58532
+Unweighted	0	LogisticRegression	Morgan	Male	HarmRS	0.57683
+Unweighted	0	LogisticRegression	Morgan	Female	HarmRS	0.56135
+Unweighted	0	LogisticRegression	Morgan	Unknown	HarmRS	0.57157
+Weighted	1	LogisticRegression	Morgan	Male	HarmRS	0.48318
+Weighted	1	LogisticRegression	Morgan	Unknown	HarmRS	0.56515
+Weighted	1	LogisticRegression	Morgan	Female	HarmRS	0.54745
+Unweighted	1	LogisticRegression	Morgan	Male	HarmRS	0.45261
+Unweighted	1	LogisticRegression	Morgan	Unknown	HarmRS	0.5485
+Unweighted	1	LogisticRegression	Morgan	Female	HarmRS	0.53593
+Weighted	2	LogisticRegression	Morgan	Unknown	HarmRS	0.62785
+Weighted	2	LogisticRegression	Morgan	Female	HarmRS	0.62843
+Weighted	2	LogisticRegression	Morgan	Male	HarmRS	0.55097
+Unweighted	2	LogisticRegression	Morgan	Unknown	HarmRS	0.59315
+Unweighted	2	LogisticRegression	Morgan	Female	HarmRS	0.59543
+Unweighted	2	LogisticRegression	Morgan	Male	HarmRS	0.52768
+Weighted	3	LogisticRegression	Morgan	Female	HarmRS	0.50912
+Weighted	3	LogisticRegression	Morgan	Unknown	HarmRS	0.48803
+Weighted	3	LogisticRegression	Morgan	Male	HarmRS	0.53089
+Unweighted	3	LogisticRegression	Morgan	Female	HarmRS	0.50892
+Unweighted	3	LogisticRegression	Morgan	Unknown	HarmRS	0.50066
+Unweighted	3	LogisticRegression	Morgan	Male	HarmRS	0.48508
+Weighted	4	LogisticRegression	Morgan	Female	HarmRS	0.55398
+Weighted	4	LogisticRegression	Morgan	Male	HarmRS	0.53218
+Weighted	4	LogisticRegression	Morgan	Unknown	HarmRS	0.55571
+Unweighted	4	LogisticRegression	Morgan	Female	HarmRS	0.54628
+Unweighted	4	LogisticRegression	Morgan	Male	HarmRS	0.49138
+Unweighted	4	LogisticRegression	Morgan	Unknown	HarmRS	0.54562
+Weighted	0	LogisticRegression	ChemBERTa	Female	HarmRS	0.51541
+Weighted	0	LogisticRegression	ChemBERTa	Unknown	HarmRS	0.53058
+Weighted	0	LogisticRegression	ChemBERTa	Male	HarmRS	0.48748
+Unweighted	0	LogisticRegression	ChemBERTa	Female	HarmRS	0.5209
+Unweighted	0	LogisticRegression	ChemBERTa	Unknown	HarmRS	0.53519
+Unweighted	0	LogisticRegression	ChemBERTa	Male	HarmRS	0.5061
+Weighted	3	LogisticRegression	ChemBERTa	Female	HarmRS	0.47732
+Weighted	3	LogisticRegression	ChemBERTa	Male	HarmRS	0.44692
+Weighted	3	LogisticRegression	ChemBERTa	Unknown	HarmRS	0.46425
+Unweighted	3	LogisticRegression	ChemBERTa	Female	HarmRS	0.47304
+Unweighted	3	LogisticRegression	ChemBERTa	Male	HarmRS	0.45058
+Unweighted	3	LogisticRegression	ChemBERTa	Unknown	HarmRS	0.47744
+Weighted	1	LogisticRegression	ChemBERTa	Male	HarmRS	0.42158
+Weighted	1	LogisticRegression	ChemBERTa	Female	HarmRS	0.47329
+Weighted	1	LogisticRegression	ChemBERTa	Unknown	HarmRS	0.47657
+Unweighted	1	LogisticRegression	ChemBERTa	Male	HarmRS	0.4168
+Unweighted	1	LogisticRegression	ChemBERTa	Female	HarmRS	0.47846
+Unweighted	1	LogisticRegression	ChemBERTa	Unknown	HarmRS	0.47795
+Weighted	4	LogisticRegression	ChemBERTa	Male	HarmRS	0.49809
+Weighted	4	LogisticRegression	ChemBERTa	Female	HarmRS	0.52743
+Weighted	4	LogisticRegression	ChemBERTa	Unknown	HarmRS	0.51278
+Unweighted	4	LogisticRegression	ChemBERTa	Male	HarmRS	0.49547
+Unweighted	4	LogisticRegression	ChemBERTa	Female	HarmRS	0.51501
+Unweighted	4	LogisticRegression	ChemBERTa	Unknown	HarmRS	0.52232
+Weighted	2	LogisticRegression	ChemBERTa	Unknown	HarmRS	0.51442
+Weighted	2	LogisticRegression	ChemBERTa	Male	HarmRS	0.50484
+Weighted	2	LogisticRegression	ChemBERTa	Female	HarmRS	0.49466
+Unweighted	2	LogisticRegression	ChemBERTa	Unknown	HarmRS	0.51367
+Unweighted	2	LogisticRegression	ChemBERTa	Male	HarmRS	0.48826
+Unweighted	2	LogisticRegression	ChemBERTa	Female	HarmRS	0.49659
+Weighted	0	LogisticRegression	CDDD	Female	HarmRS	0.4964
+Weighted	0	LogisticRegression	CDDD	Unknown	HarmRS	0.51409
+Weighted	0	LogisticRegression	CDDD	Male	HarmRS	0.51695
+Unweighted	0	LogisticRegression	CDDD	Female	HarmRS	0.49306
+Unweighted	0	LogisticRegression	CDDD	Unknown	HarmRS	0.51252
+Unweighted	0	LogisticRegression	CDDD	Male	HarmRS	0.51134
+Weighted	1	LogisticRegression	CDDD	Male	HarmRS	0.52693
+Weighted	1	LogisticRegression	CDDD	Unknown	HarmRS	0.56731
+Weighted	1	LogisticRegression	CDDD	Female	HarmRS	0.55769
+Unweighted	1	LogisticRegression	CDDD	Male	HarmRS	0.51031
+Unweighted	1	LogisticRegression	CDDD	Unknown	HarmRS	0.55401
+Unweighted	1	LogisticRegression	CDDD	Female	HarmRS	0.55001
+Weighted	2	LogisticRegression	CDDD	Unknown	HarmRS	0.57972
+Weighted	2	LogisticRegression	CDDD	Female	HarmRS	0.57773
+Weighted	2	LogisticRegression	CDDD	Male	HarmRS	0.53667
+Unweighted	2	LogisticRegression	CDDD	Unknown	HarmRS	0.56607
+Unweighted	2	LogisticRegression	CDDD	Female	HarmRS	0.56683
+Unweighted	2	LogisticRegression	CDDD	Male	HarmRS	0.51345
+Weighted	3	LogisticRegression	CDDD	Female	HarmRS	0.55361
+Weighted	3	LogisticRegression	CDDD	Unknown	HarmRS	0.54193
+Weighted	3	LogisticRegression	CDDD	Male	HarmRS	0.56107
+Unweighted	3	LogisticRegression	CDDD	Female	HarmRS	0.54537
+Unweighted	3	LogisticRegression	CDDD	Unknown	HarmRS	0.53446
+Unweighted	3	LogisticRegression	CDDD	Male	HarmRS	0.53659
+Weighted	4	LogisticRegression	CDDD	Unknown	HarmRS	0.52091
+Weighted	4	LogisticRegression	CDDD	Male	HarmRS	0.54861
+Weighted	4	LogisticRegression	CDDD	Female	HarmRS	0.52476
+Unweighted	4	LogisticRegression	CDDD	Unknown	HarmRS	0.50708
+Unweighted	4	LogisticRegression	CDDD	Male	HarmRS	0.53481
+Unweighted	4	LogisticRegression	CDDD	Female	HarmRS	0.51664
+Weighted	0	RandomForestClassifier	RDKit	Female	HarmRS	0.5439
+Weighted	0	RandomForestClassifier	RDKit	Male	HarmRS	0.54288
+Weighted	0	RandomForestClassifier	RDKit	Unknown	HarmRS	0.53918
+Unweighted	0	RandomForestClassifier	RDKit	Female	HarmRS	0.55014
+Unweighted	0	RandomForestClassifier	RDKit	Male	HarmRS	0.55541
+Unweighted	0	RandomForestClassifier	RDKit	Unknown	HarmRS	0.54118
+Weighted	1	RandomForestClassifier	RDKit	Unknown	HarmRS	0.53537
+Weighted	1	RandomForestClassifier	RDKit	Male	HarmRS	0.4836
+Weighted	1	RandomForestClassifier	RDKit	Female	HarmRS	0.56942
+Unweighted	1	RandomForestClassifier	RDKit	Unknown	HarmRS	0.52084
+Unweighted	1	RandomForestClassifier	RDKit	Male	HarmRS	0.47767
+Unweighted	1	RandomForestClassifier	RDKit	Female	HarmRS	0.54896
+Weighted	4	RandomForestClassifier	RDKit	Male	HarmRS	0.63782
+Weighted	4	RandomForestClassifier	RDKit	Female	HarmRS	0.54416
+Weighted	4	RandomForestClassifier	RDKit	Unknown	HarmRS	0.54798
+Unweighted	4	RandomForestClassifier	RDKit	Male	HarmRS	0.60864
+Unweighted	4	RandomForestClassifier	RDKit	Female	HarmRS	0.51771
+Unweighted	4	RandomForestClassifier	RDKit	Unknown	HarmRS	0.53327
+Weighted	3	RandomForestClassifier	RDKit	Unknown	HarmRS	0.55523
+Weighted	3	RandomForestClassifier	RDKit	Female	HarmRS	0.57975
+Weighted	3	RandomForestClassifier	RDKit	Male	HarmRS	0.52436
+Unweighted	3	RandomForestClassifier	RDKit	Unknown	HarmRS	0.53625
+Unweighted	3	RandomForestClassifier	RDKit	Female	HarmRS	0.56088
+Unweighted	3	RandomForestClassifier	RDKit	Male	HarmRS	0.51352
+Weighted	2	RandomForestClassifier	RDKit	Female	HarmRS	0.51562
+Weighted	2	RandomForestClassifier	RDKit	Unknown	HarmRS	0.53501
+Weighted	2	RandomForestClassifier	RDKit	Male	HarmRS	0.56842
+Unweighted	2	RandomForestClassifier	RDKit	Female	HarmRS	0.49573
+Unweighted	2	RandomForestClassifier	RDKit	Unknown	HarmRS	0.52538
+Unweighted	2	RandomForestClassifier	RDKit	Male	HarmRS	0.53619
+Weighted	0	RandomForestClassifier	MACCS	Female	HarmRS	0.58319
+Weighted	0	RandomForestClassifier	MACCS	Unknown	HarmRS	0.57357
+Weighted	0	RandomForestClassifier	MACCS	Male	HarmRS	0.58453
+Unweighted	0	RandomForestClassifier	MACCS	Female	HarmRS	0.56864
+Unweighted	0	RandomForestClassifier	MACCS	Unknown	HarmRS	0.56461
+Unweighted	0	RandomForestClassifier	MACCS	Male	HarmRS	0.55858
+Weighted	1	RandomForestClassifier	MACCS	Male	HarmRS	0.50532
+Weighted	1	RandomForestClassifier	MACCS	Unknown	HarmRS	0.52809
+Weighted	1	RandomForestClassifier	MACCS	Female	HarmRS	0.55622
+Unweighted	1	RandomForestClassifier	MACCS	Male	HarmRS	0.51416
+Unweighted	1	RandomForestClassifier	MACCS	Unknown	HarmRS	0.53727
+Unweighted	1	RandomForestClassifier	MACCS	Female	HarmRS	0.55188
+Weighted	2	RandomForestClassifier	MACCS	Female	HarmRS	0.59373
+Weighted	2	RandomForestClassifier	MACCS	Male	HarmRS	0.5763
+Weighted	2	RandomForestClassifier	MACCS	Unknown	HarmRS	0.59258
+Unweighted	2	RandomForestClassifier	MACCS	Female	HarmRS	0.58563
+Unweighted	2	RandomForestClassifier	MACCS	Male	HarmRS	0.57912
+Unweighted	2	RandomForestClassifier	MACCS	Unknown	HarmRS	0.58817
+Weighted	3	RandomForestClassifier	MACCS	Female	HarmRS	0.57641
+Weighted	3	RandomForestClassifier	MACCS	Male	HarmRS	0.54517
+Weighted	3	RandomForestClassifier	MACCS	Unknown	HarmRS	0.55851
+Unweighted	3	RandomForestClassifier	MACCS	Female	HarmRS	0.56767
+Unweighted	3	RandomForestClassifier	MACCS	Male	HarmRS	0.52685
+Unweighted	3	RandomForestClassifier	MACCS	Unknown	HarmRS	0.55578
+Weighted	4	RandomForestClassifier	MACCS	Male	HarmRS	0.54186
+Weighted	4	RandomForestClassifier	MACCS	Female	HarmRS	0.52851
+Weighted	4	RandomForestClassifier	MACCS	Unknown	HarmRS	0.51092
+Unweighted	4	RandomForestClassifier	MACCS	Male	HarmRS	0.53511
+Unweighted	4	RandomForestClassifier	MACCS	Female	HarmRS	0.53069
+Unweighted	4	RandomForestClassifier	MACCS	Unknown	HarmRS	0.51283
+Weighted	0	RandomForestClassifier	Klek	Unknown	HarmRS	0.57876
+Weighted	0	RandomForestClassifier	Klek	Female	HarmRS	0.57096
+Weighted	0	RandomForestClassifier	Klek	Male	HarmRS	0.58894
+Unweighted	0	RandomForestClassifier	Klek	Unknown	HarmRS	0.57212
+Unweighted	0	RandomForestClassifier	Klek	Female	HarmRS	0.55014
+Unweighted	0	RandomForestClassifier	Klek	Male	HarmRS	0.58328
+Weighted	1	RandomForestClassifier	Klek	Female	HarmRS	0.52899
+Weighted	1	RandomForestClassifier	Klek	Male	HarmRS	0.46249
+Weighted	1	RandomForestClassifier	Klek	Unknown	HarmRS	0.51695
+Unweighted	1	RandomForestClassifier	Klek	Female	HarmRS	0.51545
+Unweighted	1	RandomForestClassifier	Klek	Male	HarmRS	0.44928
+Unweighted	1	RandomForestClassifier	Klek	Unknown	HarmRS	0.51633
+Weighted	2	RandomForestClassifier	Klek	Female	HarmRS	0.61407
+Weighted	2	RandomForestClassifier	Klek	Male	HarmRS	0.57068
+Weighted	2	RandomForestClassifier	Klek	Unknown	HarmRS	0.61064
+Unweighted	2	RandomForestClassifier	Klek	Female	HarmRS	0.58252
+Unweighted	2	RandomForestClassifier	Klek	Male	HarmRS	0.53616
+Unweighted	2	RandomForestClassifier	Klek	Unknown	HarmRS	0.5804
+Weighted	3	RandomForestClassifier	Klek	Male	HarmRS	0.51509
+Weighted	3	RandomForestClassifier	Klek	Unknown	HarmRS	0.57203
+Weighted	3	RandomForestClassifier	Klek	Female	HarmRS	0.59852
+Unweighted	3	RandomForestClassifier	Klek	Male	HarmRS	0.48455
+Unweighted	3	RandomForestClassifier	Klek	Unknown	HarmRS	0.54233
+Unweighted	3	RandomForestClassifier	Klek	Female	HarmRS	0.56768
+Weighted	4	RandomForestClassifier	Klek	Male	HarmRS	0.54765
+Weighted	4	RandomForestClassifier	Klek	Unknown	HarmRS	0.5554
+Weighted	4	RandomForestClassifier	Klek	Female	HarmRS	0.57189
+Unweighted	4	RandomForestClassifier	Klek	Male	HarmRS	0.52823
+Unweighted	4	RandomForestClassifier	Klek	Unknown	HarmRS	0.54301
+Unweighted	4	RandomForestClassifier	Klek	Female	HarmRS	0.55557
+Weighted	0	RandomForestClassifier	Morgan	Unknown	HarmRS	0.56691
+Weighted	0	RandomForestClassifier	Morgan	Male	HarmRS	0.58465
+Weighted	0	RandomForestClassifier	Morgan	Female	HarmRS	0.58255
+Unweighted	0	RandomForestClassifier	Morgan	Unknown	HarmRS	0.57011
+Unweighted	0	RandomForestClassifier	Morgan	Male	HarmRS	0.57991
+Unweighted	0	RandomForestClassifier	Morgan	Female	HarmRS	0.58434
+Weighted	1	RandomForestClassifier	Morgan	Unknown	HarmRS	0.42752
+Weighted	1	RandomForestClassifier	Morgan	Female	HarmRS	0.43313
+Weighted	1	RandomForestClassifier	Morgan	Male	HarmRS	0.43688
+Unweighted	1	RandomForestClassifier	Morgan	Unknown	HarmRS	0.42919
+Unweighted	1	RandomForestClassifier	Morgan	Female	HarmRS	0.44081
+Unweighted	1	RandomForestClassifier	Morgan	Male	HarmRS	0.4189
+Weighted	3	RandomForestClassifier	Morgan	Female	HarmRS	0.52483
+Weighted	3	RandomForestClassifier	Morgan	Male	HarmRS	0.42399
+Weighted	3	RandomForestClassifier	Morgan	Unknown	HarmRS	0.50991
+Unweighted	3	RandomForestClassifier	Morgan	Female	HarmRS	0.52362
+Unweighted	3	RandomForestClassifier	Morgan	Male	HarmRS	0.41345
+Unweighted	3	RandomForestClassifier	Morgan	Unknown	HarmRS	0.50573
+Weighted	2	RandomForestClassifier	Morgan	Female	HarmRS	0.59059
+Weighted	2	RandomForestClassifier	Morgan	Male	HarmRS	0.53964
+Weighted	2	RandomForestClassifier	Morgan	Unknown	HarmRS	0.58466
+Unweighted	2	RandomForestClassifier	Morgan	Female	HarmRS	0.57076
+Unweighted	2	RandomForestClassifier	Morgan	Male	HarmRS	0.51125
+Unweighted	2	RandomForestClassifier	Morgan	Unknown	HarmRS	0.56129
+Weighted	4	RandomForestClassifier	Morgan	Female	HarmRS	0.54702
+Weighted	4	RandomForestClassifier	Morgan	Unknown	HarmRS	0.54591
+Weighted	4	RandomForestClassifier	Morgan	Male	HarmRS	0.54255
+Unweighted	4	RandomForestClassifier	Morgan	Female	HarmRS	0.53425
+Unweighted	4	RandomForestClassifier	Morgan	Unknown	HarmRS	0.52705
+Unweighted	4	RandomForestClassifier	Morgan	Male	HarmRS	0.50084
+Weighted	0	RandomForestClassifier	ChemBERTa	Male	HarmRS	0.5046
+Weighted	0	RandomForestClassifier	ChemBERTa	Unknown	HarmRS	0.5252
+Weighted	0	RandomForestClassifier	ChemBERTa	Female	HarmRS	0.52923
+Unweighted	0	RandomForestClassifier	ChemBERTa	Male	HarmRS	0.48792
+Unweighted	0	RandomForestClassifier	ChemBERTa	Unknown	HarmRS	0.51157
+Unweighted	0	RandomForestClassifier	ChemBERTa	Female	HarmRS	0.50756
+Weighted	2	RandomForestClassifier	ChemBERTa	Male	HarmRS	0.4276
+Weighted	2	RandomForestClassifier	ChemBERTa	Female	HarmRS	0.50537
+Weighted	2	RandomForestClassifier	ChemBERTa	Unknown	HarmRS	0.49746
+Unweighted	2	RandomForestClassifier	ChemBERTa	Male	HarmRS	0.43238
+Unweighted	2	RandomForestClassifier	ChemBERTa	Female	HarmRS	0.5052
+Unweighted	2	RandomForestClassifier	ChemBERTa	Unknown	HarmRS	0.49729
+Weighted	3	RandomForestClassifier	ChemBERTa	Female	HarmRS	0.51852
+Weighted	3	RandomForestClassifier	ChemBERTa	Male	HarmRS	0.49882
+Weighted	3	RandomForestClassifier	ChemBERTa	Unknown	HarmRS	0.50575
+Unweighted	3	RandomForestClassifier	ChemBERTa	Female	HarmRS	0.49934
+Unweighted	3	RandomForestClassifier	ChemBERTa	Male	HarmRS	0.49622
+Unweighted	3	RandomForestClassifier	ChemBERTa	Unknown	HarmRS	0.49752
+Weighted	1	RandomForestClassifier	ChemBERTa	Male	HarmRS	0.4573
+Weighted	1	RandomForestClassifier	ChemBERTa	Female	HarmRS	0.56641
+Weighted	1	RandomForestClassifier	ChemBERTa	Unknown	HarmRS	0.55341
+Unweighted	1	RandomForestClassifier	ChemBERTa	Male	HarmRS	0.46535
+Unweighted	1	RandomForestClassifier	ChemBERTa	Female	HarmRS	0.54792
+Unweighted	1	RandomForestClassifier	ChemBERTa	Unknown	HarmRS	0.54825
+Weighted	4	RandomForestClassifier	ChemBERTa	Female	HarmRS	0.37245
+Weighted	4	RandomForestClassifier	ChemBERTa	Unknown	HarmRS	0.40823
+Weighted	4	RandomForestClassifier	ChemBERTa	Male	HarmRS	0.55785
+Unweighted	4	RandomForestClassifier	ChemBERTa	Female	HarmRS	0.37335
+Unweighted	4	RandomForestClassifier	ChemBERTa	Unknown	HarmRS	0.4117
+Unweighted	4	RandomForestClassifier	ChemBERTa	Male	HarmRS	0.5523
+Weighted	0	RandomForestClassifier	CDDD	Male	HarmRS	0.52226
+Weighted	0	RandomForestClassifier	CDDD	Unknown	HarmRS	0.51409
+Weighted	0	RandomForestClassifier	CDDD	Female	HarmRS	0.50204
+Unweighted	0	RandomForestClassifier	CDDD	Male	HarmRS	0.52215
+Unweighted	0	RandomForestClassifier	CDDD	Unknown	HarmRS	0.51228
+Unweighted	0	RandomForestClassifier	CDDD	Female	HarmRS	0.49688
+Weighted	1	RandomForestClassifier	CDDD	Male	HarmRS	0.51017
+Weighted	1	RandomForestClassifier	CDDD	Unknown	HarmRS	0.57492
+Weighted	1	RandomForestClassifier	CDDD	Female	HarmRS	0.59842
+Unweighted	1	RandomForestClassifier	CDDD	Male	HarmRS	0.48343
+Unweighted	1	RandomForestClassifier	CDDD	Unknown	HarmRS	0.56231
+Unweighted	1	RandomForestClassifier	CDDD	Female	HarmRS	0.55936
+Weighted	3	RandomForestClassifier	CDDD	Unknown	HarmRS	0.57628
+Weighted	3	RandomForestClassifier	CDDD	Male	HarmRS	0.55278
+Weighted	3	RandomForestClassifier	CDDD	Female	HarmRS	0.61203
+Unweighted	3	RandomForestClassifier	CDDD	Unknown	HarmRS	0.55276
+Unweighted	3	RandomForestClassifier	CDDD	Male	HarmRS	0.52948
+Unweighted	3	RandomForestClassifier	CDDD	Female	HarmRS	0.57571
+Weighted	2	RandomForestClassifier	CDDD	Female	HarmRS	0.52896
+Weighted	2	RandomForestClassifier	CDDD	Unknown	HarmRS	0.56412
+Weighted	2	RandomForestClassifier	CDDD	Male	HarmRS	0.5739
+Unweighted	2	RandomForestClassifier	CDDD	Female	HarmRS	0.5057
+Unweighted	2	RandomForestClassifier	CDDD	Unknown	HarmRS	0.54916
+Unweighted	2	RandomForestClassifier	CDDD	Male	HarmRS	0.54533
+Weighted	4	RandomForestClassifier	CDDD	Male	HarmRS	0.59313
+Weighted	4	RandomForestClassifier	CDDD	Female	HarmRS	0.56566
+Weighted	4	RandomForestClassifier	CDDD	Unknown	HarmRS	0.55808
+Unweighted	4	RandomForestClassifier	CDDD	Male	HarmRS	0.57982
+Unweighted	4	RandomForestClassifier	CDDD	Female	HarmRS	0.56914
+Unweighted	4	RandomForestClassifier	CDDD	Unknown	HarmRS	0.55837
+Weighted	0	XGBClassifier	RDKit	Male	ROC AUC	0.62022
+Weighted	0	XGBClassifier	RDKit	Female	ROC AUC	0.62582
+Weighted	0	XGBClassifier	RDKit	Unknown	ROC AUC	0.62826
+Unweighted	0	XGBClassifier	RDKit	Male	ROC AUC	0.59395
+Unweighted	0	XGBClassifier	RDKit	Female	ROC AUC	0.60572
+Unweighted	0	XGBClassifier	RDKit	Unknown	ROC AUC	0.60252
+Weighted	1	XGBClassifier	RDKit	Female	ROC AUC	0.61288
+Weighted	1	XGBClassifier	RDKit	Male	ROC AUC	0.51928
+Weighted	1	XGBClassifier	RDKit	Unknown	ROC AUC	0.57901
+Unweighted	1	XGBClassifier	RDKit	Female	ROC AUC	0.57847
+Unweighted	1	XGBClassifier	RDKit	Male	ROC AUC	0.49967
+Unweighted	1	XGBClassifier	RDKit	Unknown	ROC AUC	0.55445
+Weighted	3	XGBClassifier	RDKit	Female	ROC AUC	0.64289
+Weighted	3	XGBClassifier	RDKit	Unknown	ROC AUC	0.63026
+Weighted	3	XGBClassifier	RDKit	Male	ROC AUC	0.58148
+Unweighted	3	XGBClassifier	RDKit	Female	ROC AUC	0.59398
+Unweighted	3	XGBClassifier	RDKit	Unknown	ROC AUC	0.586
+Unweighted	3	XGBClassifier	RDKit	Male	ROC AUC	0.53778
+Weighted	2	XGBClassifier	RDKit	Unknown	ROC AUC	0.66132
+Weighted	2	XGBClassifier	RDKit	Male	ROC AUC	0.6052
+Weighted	2	XGBClassifier	RDKit	Female	ROC AUC	0.65625
+Unweighted	2	XGBClassifier	RDKit	Unknown	ROC AUC	0.63351
+Unweighted	2	XGBClassifier	RDKit	Male	ROC AUC	0.57069
+Unweighted	2	XGBClassifier	RDKit	Female	ROC AUC	0.61463
+Weighted	4	XGBClassifier	RDKit	Female	ROC AUC	0.64554
+Weighted	4	XGBClassifier	RDKit	Unknown	ROC AUC	0.66041
+Weighted	4	XGBClassifier	RDKit	Male	ROC AUC	0.68249
+Unweighted	4	XGBClassifier	RDKit	Female	ROC AUC	0.61862
+Unweighted	4	XGBClassifier	RDKit	Unknown	ROC AUC	0.62801
+Unweighted	4	XGBClassifier	RDKit	Male	ROC AUC	0.63209
+Weighted	0	XGBClassifier	MACCS	Unknown	ROC AUC	0.66475
+Weighted	0	XGBClassifier	MACCS	Male	ROC AUC	0.64863
+Weighted	0	XGBClassifier	MACCS	Female	ROC AUC	0.64303
+Unweighted	0	XGBClassifier	MACCS	Unknown	ROC AUC	0.63819
+Unweighted	0	XGBClassifier	MACCS	Male	ROC AUC	0.6172
+Unweighted	0	XGBClassifier	MACCS	Female	ROC AUC	0.61295
+Weighted	1	XGBClassifier	MACCS	Female	ROC AUC	0.59823
+Weighted	1	XGBClassifier	MACCS	Male	ROC AUC	0.51741
+Weighted	1	XGBClassifier	MACCS	Unknown	ROC AUC	0.57649
+Unweighted	1	XGBClassifier	MACCS	Female	ROC AUC	0.56667
+Unweighted	1	XGBClassifier	MACCS	Male	ROC AUC	0.51832
+Unweighted	1	XGBClassifier	MACCS	Unknown	ROC AUC	0.56107
+Weighted	3	XGBClassifier	MACCS	Female	ROC AUC	0.61714
+Weighted	3	XGBClassifier	MACCS	Unknown	ROC AUC	0.60514
+Weighted	3	XGBClassifier	MACCS	Male	ROC AUC	0.59306
+Unweighted	3	XGBClassifier	MACCS	Female	ROC AUC	0.57575
+Unweighted	3	XGBClassifier	MACCS	Unknown	ROC AUC	0.57202
+Unweighted	3	XGBClassifier	MACCS	Male	ROC AUC	0.55217
+Weighted	2	XGBClassifier	MACCS	Male	ROC AUC	0.59471
+Weighted	2	XGBClassifier	MACCS	Female	ROC AUC	0.63857
+Weighted	2	XGBClassifier	MACCS	Unknown	ROC AUC	0.63954
+Unweighted	2	XGBClassifier	MACCS	Male	ROC AUC	0.57966
+Unweighted	2	XGBClassifier	MACCS	Female	ROC AUC	0.60989
+Unweighted	2	XGBClassifier	MACCS	Unknown	ROC AUC	0.61841
+Weighted	4	XGBClassifier	MACCS	Unknown	ROC AUC	0.63093
+Weighted	4	XGBClassifier	MACCS	Female	ROC AUC	0.63452
+Weighted	4	XGBClassifier	MACCS	Male	ROC AUC	0.62213
+Unweighted	4	XGBClassifier	MACCS	Unknown	ROC AUC	0.60086
+Unweighted	4	XGBClassifier	MACCS	Female	ROC AUC	0.6123
+Unweighted	4	XGBClassifier	MACCS	Male	ROC AUC	0.59242
+Weighted	1	XGBClassifier	Klek	Unknown	ROC AUC	0.57272
+Weighted	1	XGBClassifier	Klek	Male	ROC AUC	0.51824
+Weighted	1	XGBClassifier	Klek	Female	ROC AUC	0.58947
+Unweighted	1	XGBClassifier	Klek	Unknown	ROC AUC	0.55877
+Unweighted	1	XGBClassifier	Klek	Male	ROC AUC	0.50539
+Unweighted	1	XGBClassifier	Klek	Female	ROC AUC	0.55622
+Weighted	0	XGBClassifier	Klek	Female	ROC AUC	0.6403
+Weighted	0	XGBClassifier	Klek	Male	ROC AUC	0.64977
+Weighted	0	XGBClassifier	Klek	Unknown	ROC AUC	0.63668
+Unweighted	0	XGBClassifier	Klek	Female	ROC AUC	0.6145
+Unweighted	0	XGBClassifier	Klek	Male	ROC AUC	0.63907
+Unweighted	0	XGBClassifier	Klek	Unknown	ROC AUC	0.62143
+Weighted	3	XGBClassifier	Klek	Male	ROC AUC	0.58767
+Weighted	3	XGBClassifier	Klek	Female	ROC AUC	0.609
+Weighted	3	XGBClassifier	Klek	Unknown	ROC AUC	0.60062
+Unweighted	3	XGBClassifier	Klek	Male	ROC AUC	0.54541
+Unweighted	3	XGBClassifier	Klek	Female	ROC AUC	0.57033
+Unweighted	3	XGBClassifier	Klek	Unknown	ROC AUC	0.56096
+Weighted	2	XGBClassifier	Klek	Unknown	ROC AUC	0.68211
+Weighted	2	XGBClassifier	Klek	Male	ROC AUC	0.64332
+Weighted	2	XGBClassifier	Klek	Female	ROC AUC	0.67438
+Unweighted	2	XGBClassifier	Klek	Unknown	ROC AUC	0.64179
+Unweighted	2	XGBClassifier	Klek	Male	ROC AUC	0.60244
+Unweighted	2	XGBClassifier	Klek	Female	ROC AUC	0.62851
+Weighted	4	XGBClassifier	Klek	Female	ROC AUC	0.57752
+Weighted	4	XGBClassifier	Klek	Unknown	ROC AUC	0.58742
+Weighted	4	XGBClassifier	Klek	Male	ROC AUC	0.59066
+Unweighted	4	XGBClassifier	Klek	Female	ROC AUC	0.55178
+Unweighted	4	XGBClassifier	Klek	Unknown	ROC AUC	0.56334
+Unweighted	4	XGBClassifier	Klek	Male	ROC AUC	0.57127
+Weighted	0	XGBClassifier	Morgan	Female	ROC AUC	0.57917
+Weighted	0	XGBClassifier	Morgan	Male	ROC AUC	0.58182
+Weighted	0	XGBClassifier	Morgan	Unknown	ROC AUC	0.59599
+Unweighted	0	XGBClassifier	Morgan	Female	ROC AUC	0.5869
+Unweighted	0	XGBClassifier	Morgan	Male	ROC AUC	0.59193
+Unweighted	0	XGBClassifier	Morgan	Unknown	ROC AUC	0.59569
+Weighted	2	XGBClassifier	Morgan	Unknown	ROC AUC	0.67947
+Weighted	2	XGBClassifier	Morgan	Female	ROC AUC	0.67001
+Weighted	2	XGBClassifier	Morgan	Male	ROC AUC	0.64298
+Unweighted	2	XGBClassifier	Morgan	Unknown	ROC AUC	0.64484
+Unweighted	2	XGBClassifier	Morgan	Female	ROC AUC	0.63403
+Unweighted	2	XGBClassifier	Morgan	Male	ROC AUC	0.61833
+Weighted	1	XGBClassifier	Morgan	Male	ROC AUC	0.59601
+Weighted	1	XGBClassifier	Morgan	Unknown	ROC AUC	0.60213
+Weighted	1	XGBClassifier	Morgan	Female	ROC AUC	0.57652
+Unweighted	1	XGBClassifier	Morgan	Male	ROC AUC	0.5683
+Unweighted	1	XGBClassifier	Morgan	Unknown	ROC AUC	0.58549
+Unweighted	1	XGBClassifier	Morgan	Female	ROC AUC	0.56289
+Weighted	3	XGBClassifier	Morgan	Female	ROC AUC	0.59377
+Weighted	3	XGBClassifier	Morgan	Unknown	ROC AUC	0.59638
+Weighted	3	XGBClassifier	Morgan	Male	ROC AUC	0.59255
+Unweighted	3	XGBClassifier	Morgan	Female	ROC AUC	0.56694
+Unweighted	3	XGBClassifier	Morgan	Unknown	ROC AUC	0.57618
+Unweighted	3	XGBClassifier	Morgan	Male	ROC AUC	0.55482
+Weighted	4	XGBClassifier	Morgan	Unknown	ROC AUC	0.60414
+Weighted	4	XGBClassifier	Morgan	Female	ROC AUC	0.58809
+Weighted	4	XGBClassifier	Morgan	Male	ROC AUC	0.62029
+Unweighted	4	XGBClassifier	Morgan	Unknown	ROC AUC	0.57463
+Unweighted	4	XGBClassifier	Morgan	Female	ROC AUC	0.56482
+Unweighted	4	XGBClassifier	Morgan	Male	ROC AUC	0.59049
+Weighted	0	XGBClassifier	ChemBERTa	Unknown	ROC AUC	0.60996
+Weighted	0	XGBClassifier	ChemBERTa	Female	ROC AUC	0.59772
+Weighted	0	XGBClassifier	ChemBERTa	Male	ROC AUC	0.57829
+Unweighted	0	XGBClassifier	ChemBERTa	Unknown	ROC AUC	0.57762
+Unweighted	0	XGBClassifier	ChemBERTa	Female	ROC AUC	0.5572
+Unweighted	0	XGBClassifier	ChemBERTa	Male	ROC AUC	0.55211
+Weighted	2	XGBClassifier	ChemBERTa	Unknown	ROC AUC	0.56831
+Weighted	2	XGBClassifier	ChemBERTa	Male	ROC AUC	0.51608
+Weighted	2	XGBClassifier	ChemBERTa	Female	ROC AUC	0.556
+Unweighted	2	XGBClassifier	ChemBERTa	Unknown	ROC AUC	0.54996
+Unweighted	2	XGBClassifier	ChemBERTa	Male	ROC AUC	0.48625
+Unweighted	2	XGBClassifier	ChemBERTa	Female	ROC AUC	0.52793
+Weighted	4	XGBClassifier	ChemBERTa	Male	ROC AUC	0.63284
+Weighted	4	XGBClassifier	ChemBERTa	Unknown	ROC AUC	0.62726
+Weighted	4	XGBClassifier	ChemBERTa	Female	ROC AUC	0.61622
+Unweighted	4	XGBClassifier	ChemBERTa	Male	ROC AUC	0.60589
+Unweighted	4	XGBClassifier	ChemBERTa	Unknown	ROC AUC	0.60682
+Unweighted	4	XGBClassifier	ChemBERTa	Female	ROC AUC	0.59515
+Weighted	3	XGBClassifier	ChemBERTa	Male	ROC AUC	0.52373
+Weighted	3	XGBClassifier	ChemBERTa	Female	ROC AUC	0.54535
+Weighted	3	XGBClassifier	ChemBERTa	Unknown	ROC AUC	0.55198
+Unweighted	3	XGBClassifier	ChemBERTa	Male	ROC AUC	0.4984
+Unweighted	3	XGBClassifier	ChemBERTa	Female	ROC AUC	0.4998
+Unweighted	3	XGBClassifier	ChemBERTa	Unknown	ROC AUC	0.52068
+Weighted	1	XGBClassifier	ChemBERTa	Male	ROC AUC	0.52054
+Weighted	1	XGBClassifier	ChemBERTa	Unknown	ROC AUC	0.59999
+Weighted	1	XGBClassifier	ChemBERTa	Female	ROC AUC	0.59079
+Unweighted	1	XGBClassifier	ChemBERTa	Male	ROC AUC	0.51125
+Unweighted	1	XGBClassifier	ChemBERTa	Unknown	ROC AUC	0.58073
+Unweighted	1	XGBClassifier	ChemBERTa	Female	ROC AUC	0.56103
+Weighted	0	XGBClassifier	CDDD	Male	ROC AUC	0.60291
+Weighted	0	XGBClassifier	CDDD	Female	ROC AUC	0.60009
+Weighted	0	XGBClassifier	CDDD	Unknown	ROC AUC	0.62667
+Unweighted	0	XGBClassifier	CDDD	Male	ROC AUC	0.57709
+Unweighted	0	XGBClassifier	CDDD	Female	ROC AUC	0.56149
+Unweighted	0	XGBClassifier	CDDD	Unknown	ROC AUC	0.58949
+Weighted	1	XGBClassifier	CDDD	Female	ROC AUC	0.63792
+Weighted	1	XGBClassifier	CDDD	Unknown	ROC AUC	0.61774
+Weighted	1	XGBClassifier	CDDD	Male	ROC AUC	0.54268
+Unweighted	1	XGBClassifier	CDDD	Female	ROC AUC	0.5981
+Unweighted	1	XGBClassifier	CDDD	Unknown	ROC AUC	0.5976
+Unweighted	1	XGBClassifier	CDDD	Male	ROC AUC	0.53571
+Weighted	2	XGBClassifier	CDDD	Unknown	ROC AUC	0.66599
+Weighted	2	XGBClassifier	CDDD	Male	ROC AUC	0.59755
+Weighted	2	XGBClassifier	CDDD	Female	ROC AUC	0.66636
+Unweighted	2	XGBClassifier	CDDD	Unknown	ROC AUC	0.62748
+Unweighted	2	XGBClassifier	CDDD	Male	ROC AUC	0.5614
+Unweighted	2	XGBClassifier	CDDD	Female	ROC AUC	0.61849
+Weighted	3	XGBClassifier	CDDD	Unknown	ROC AUC	0.62459
+Weighted	3	XGBClassifier	CDDD	Male	ROC AUC	0.58665
+Weighted	3	XGBClassifier	CDDD	Female	ROC AUC	0.63567
+Unweighted	3	XGBClassifier	CDDD	Unknown	ROC AUC	0.58331
+Unweighted	3	XGBClassifier	CDDD	Male	ROC AUC	0.53939
+Unweighted	3	XGBClassifier	CDDD	Female	ROC AUC	0.58885
+Weighted	4	XGBClassifier	CDDD	Female	ROC AUC	0.60792
+Weighted	4	XGBClassifier	CDDD	Unknown	ROC AUC	0.62599
+Weighted	4	XGBClassifier	CDDD	Male	ROC AUC	0.62175
+Unweighted	4	XGBClassifier	CDDD	Female	ROC AUC	0.58123
+Unweighted	4	XGBClassifier	CDDD	Unknown	ROC AUC	0.60065
+Unweighted	4	XGBClassifier	CDDD	Male	ROC AUC	0.58888
+Weighted	0	LogisticRegression	RDKit	Female	ROC AUC	0.57749
+Weighted	0	LogisticRegression	RDKit	Male	ROC AUC	0.57688
+Weighted	0	LogisticRegression	RDKit	Unknown	ROC AUC	0.57559
+Unweighted	0	LogisticRegression	RDKit	Female	ROC AUC	0.57197
+Unweighted	0	LogisticRegression	RDKit	Male	ROC AUC	0.57166
+Unweighted	0	LogisticRegression	RDKit	Unknown	ROC AUC	0.571
+Weighted	1	LogisticRegression	RDKit	Female	ROC AUC	0.5793
+Weighted	1	LogisticRegression	RDKit	Male	ROC AUC	0.52415
+Weighted	1	LogisticRegression	RDKit	Unknown	ROC AUC	0.5668
+Unweighted	1	LogisticRegression	RDKit	Female	ROC AUC	0.55785
+Unweighted	1	LogisticRegression	RDKit	Male	ROC AUC	0.51685
+Unweighted	1	LogisticRegression	RDKit	Unknown	ROC AUC	0.55117
+Weighted	2	LogisticRegression	RDKit	Female	ROC AUC	0.54289
+Weighted	2	LogisticRegression	RDKit	Male	ROC AUC	0.50563
+Weighted	2	LogisticRegression	RDKit	Unknown	ROC AUC	0.54965
+Unweighted	2	LogisticRegression	RDKit	Female	ROC AUC	0.54321
+Unweighted	2	LogisticRegression	RDKit	Male	ROC AUC	0.51492
+Unweighted	2	LogisticRegression	RDKit	Unknown	ROC AUC	0.55788
+Weighted	3	LogisticRegression	RDKit	Unknown	ROC AUC	0.57257
+Weighted	3	LogisticRegression	RDKit	Male	ROC AUC	0.55816
+Weighted	3	LogisticRegression	RDKit	Female	ROC AUC	0.58204
+Unweighted	3	LogisticRegression	RDKit	Unknown	ROC AUC	0.55455
+Unweighted	3	LogisticRegression	RDKit	Male	ROC AUC	0.54099
+Unweighted	3	LogisticRegression	RDKit	Female	ROC AUC	0.56265
+Weighted	4	LogisticRegression	RDKit	Male	ROC AUC	0.64037
+Weighted	4	LogisticRegression	RDKit	Unknown	ROC AUC	0.6127
+Weighted	4	LogisticRegression	RDKit	Female	ROC AUC	0.61716
+Unweighted	4	LogisticRegression	RDKit	Male	ROC AUC	0.60423
+Unweighted	4	LogisticRegression	RDKit	Unknown	ROC AUC	0.59228
+Unweighted	4	LogisticRegression	RDKit	Female	ROC AUC	0.58835
+Weighted	0	LogisticRegression	MACCS	Female	ROC AUC	0.56854
+Weighted	0	LogisticRegression	MACCS	Male	ROC AUC	0.60138
+Weighted	0	LogisticRegression	MACCS	Unknown	ROC AUC	0.59088
+Unweighted	0	LogisticRegression	MACCS	Female	ROC AUC	0.56395
+Unweighted	0	LogisticRegression	MACCS	Male	ROC AUC	0.58054
+Unweighted	0	LogisticRegression	MACCS	Unknown	ROC AUC	0.5873
+Weighted	1	LogisticRegression	MACCS	Female	ROC AUC	0.57779
+Weighted	1	LogisticRegression	MACCS	Unknown	ROC AUC	0.53494
+Weighted	1	LogisticRegression	MACCS	Male	ROC AUC	0.48199
+Unweighted	1	LogisticRegression	MACCS	Female	ROC AUC	0.53761
+Unweighted	1	LogisticRegression	MACCS	Unknown	ROC AUC	0.52419
+Unweighted	1	LogisticRegression	MACCS	Male	ROC AUC	0.48838
+Weighted	2	LogisticRegression	MACCS	Unknown	ROC AUC	0.55164
+Weighted	2	LogisticRegression	MACCS	Male	ROC AUC	0.49605
+Weighted	2	LogisticRegression	MACCS	Female	ROC AUC	0.54532
+Unweighted	2	LogisticRegression	MACCS	Unknown	ROC AUC	0.53903
+Unweighted	2	LogisticRegression	MACCS	Male	ROC AUC	0.49452
+Unweighted	2	LogisticRegression	MACCS	Female	ROC AUC	0.52597
+Weighted	3	LogisticRegression	MACCS	Female	ROC AUC	0.61011
+Weighted	3	LogisticRegression	MACCS	Male	ROC AUC	0.59185
+Weighted	3	LogisticRegression	MACCS	Unknown	ROC AUC	0.60126
+Unweighted	3	LogisticRegression	MACCS	Female	ROC AUC	0.56827
+Unweighted	3	LogisticRegression	MACCS	Male	ROC AUC	0.54848
+Unweighted	3	LogisticRegression	MACCS	Unknown	ROC AUC	0.56062
+Weighted	4	LogisticRegression	MACCS	Unknown	ROC AUC	0.58359
+Weighted	4	LogisticRegression	MACCS	Male	ROC AUC	0.57015
+Weighted	4	LogisticRegression	MACCS	Female	ROC AUC	0.56248
+Unweighted	4	LogisticRegression	MACCS	Unknown	ROC AUC	0.56989
+Unweighted	4	LogisticRegression	MACCS	Male	ROC AUC	0.55637
+Unweighted	4	LogisticRegression	MACCS	Female	ROC AUC	0.55899
+Weighted	0	LogisticRegression	Klek	Male	ROC AUC	0.60504
+Weighted	0	LogisticRegression	Klek	Unknown	ROC AUC	0.59951
+Weighted	0	LogisticRegression	Klek	Female	ROC AUC	0.6017
+Unweighted	0	LogisticRegression	Klek	Male	ROC AUC	0.59576
+Unweighted	0	LogisticRegression	Klek	Unknown	ROC AUC	0.59155
+Unweighted	0	LogisticRegression	Klek	Female	ROC AUC	0.58102
+Weighted	1	LogisticRegression	Klek	Male	ROC AUC	0.55037
+Weighted	1	LogisticRegression	Klek	Unknown	ROC AUC	0.56104
+Weighted	1	LogisticRegression	Klek	Female	ROC AUC	0.56965
+Unweighted	1	LogisticRegression	Klek	Male	ROC AUC	0.5107
+Unweighted	1	LogisticRegression	Klek	Unknown	ROC AUC	0.5513
+Unweighted	1	LogisticRegression	Klek	Female	ROC AUC	0.54757
+Weighted	3	LogisticRegression	Klek	Female	ROC AUC	0.53157
+Weighted	3	LogisticRegression	Klek	Unknown	ROC AUC	0.53825
+Weighted	3	LogisticRegression	Klek	Male	ROC AUC	0.55879
+Unweighted	3	LogisticRegression	Klek	Female	ROC AUC	0.5232
+Unweighted	3	LogisticRegression	Klek	Unknown	ROC AUC	0.51971
+Unweighted	3	LogisticRegression	Klek	Male	ROC AUC	0.516
+Weighted	4	LogisticRegression	Klek	Unknown	ROC AUC	0.57947
+Weighted	4	LogisticRegression	Klek	Male	ROC AUC	0.59152
+Weighted	4	LogisticRegression	Klek	Female	ROC AUC	0.56967
+Unweighted	4	LogisticRegression	Klek	Unknown	ROC AUC	0.54891
+Unweighted	4	LogisticRegression	Klek	Male	ROC AUC	0.56536
+Unweighted	4	LogisticRegression	Klek	Female	ROC AUC	0.53767
+Weighted	2	LogisticRegression	Klek	Female	ROC AUC	0.62467
+Weighted	2	LogisticRegression	Klek	Unknown	ROC AUC	0.62226
+Weighted	2	LogisticRegression	Klek	Male	ROC AUC	0.57272
+Unweighted	2	LogisticRegression	Klek	Female	ROC AUC	0.59597
+Unweighted	2	LogisticRegression	Klek	Unknown	ROC AUC	0.59918
+Unweighted	2	LogisticRegression	Klek	Male	ROC AUC	0.5631
+Weighted	0	LogisticRegression	Morgan	Male	ROC AUC	0.64143
+Weighted	0	LogisticRegression	Morgan	Female	ROC AUC	0.64113
+Weighted	0	LogisticRegression	Morgan	Unknown	ROC AUC	0.63579
+Unweighted	0	LogisticRegression	Morgan	Male	ROC AUC	0.61251
+Unweighted	0	LogisticRegression	Morgan	Female	ROC AUC	0.60989
+Unweighted	0	LogisticRegression	Morgan	Unknown	ROC AUC	0.61168
+Weighted	1	LogisticRegression	Morgan	Male	ROC AUC	0.56851
+Weighted	1	LogisticRegression	Morgan	Unknown	ROC AUC	0.58609
+Weighted	1	LogisticRegression	Morgan	Female	ROC AUC	0.57215
+Unweighted	1	LogisticRegression	Morgan	Male	ROC AUC	0.54186
+Unweighted	1	LogisticRegression	Morgan	Unknown	ROC AUC	0.55954
+Unweighted	1	LogisticRegression	Morgan	Female	ROC AUC	0.55331
+Weighted	2	LogisticRegression	Morgan	Unknown	ROC AUC	0.69164
+Weighted	2	LogisticRegression	Morgan	Female	ROC AUC	0.6818
+Weighted	2	LogisticRegression	Morgan	Male	ROC AUC	0.6483
+Unweighted	2	LogisticRegression	Morgan	Unknown	ROC AUC	0.65164
+Unweighted	2	LogisticRegression	Morgan	Female	ROC AUC	0.64309
+Unweighted	2	LogisticRegression	Morgan	Male	ROC AUC	0.60315
+Weighted	3	LogisticRegression	Morgan	Female	ROC AUC	0.5516
+Weighted	3	LogisticRegression	Morgan	Unknown	ROC AUC	0.54283
+Weighted	3	LogisticRegression	Morgan	Male	ROC AUC	0.54539
+Unweighted	3	LogisticRegression	Morgan	Female	ROC AUC	0.53364
+Unweighted	3	LogisticRegression	Morgan	Unknown	ROC AUC	0.53673
+Unweighted	3	LogisticRegression	Morgan	Male	ROC AUC	0.51378
+Weighted	4	LogisticRegression	Morgan	Female	ROC AUC	0.57704
+Weighted	4	LogisticRegression	Morgan	Male	ROC AUC	0.60411
+Weighted	4	LogisticRegression	Morgan	Unknown	ROC AUC	0.58253
+Unweighted	4	LogisticRegression	Morgan	Female	ROC AUC	0.56302
+Unweighted	4	LogisticRegression	Morgan	Male	ROC AUC	0.58616
+Unweighted	4	LogisticRegression	Morgan	Unknown	ROC AUC	0.56439
+Weighted	0	LogisticRegression	ChemBERTa	Female	ROC AUC	0.52796
+Weighted	0	LogisticRegression	ChemBERTa	Unknown	ROC AUC	0.54091
+Weighted	0	LogisticRegression	ChemBERTa	Male	ROC AUC	0.50881
+Unweighted	0	LogisticRegression	ChemBERTa	Female	ROC AUC	0.52724
+Unweighted	0	LogisticRegression	ChemBERTa	Unknown	ROC AUC	0.53652
+Unweighted	0	LogisticRegression	ChemBERTa	Male	ROC AUC	0.51047
+Weighted	3	LogisticRegression	ChemBERTa	Female	ROC AUC	0.48024
+Weighted	3	LogisticRegression	ChemBERTa	Male	ROC AUC	0.48693
+Weighted	3	LogisticRegression	ChemBERTa	Unknown	ROC AUC	0.47411
+Unweighted	3	LogisticRegression	ChemBERTa	Female	ROC AUC	0.46155
+Unweighted	3	LogisticRegression	ChemBERTa	Male	ROC AUC	0.48278
+Unweighted	3	LogisticRegression	ChemBERTa	Unknown	ROC AUC	0.48008
+Weighted	1	LogisticRegression	ChemBERTa	Male	ROC AUC	0.42187
+Weighted	1	LogisticRegression	ChemBERTa	Female	ROC AUC	0.48064
+Weighted	1	LogisticRegression	ChemBERTa	Unknown	ROC AUC	0.48633
+Unweighted	1	LogisticRegression	ChemBERTa	Male	ROC AUC	0.41903
+Unweighted	1	LogisticRegression	ChemBERTa	Female	ROC AUC	0.47691
+Unweighted	1	LogisticRegression	ChemBERTa	Unknown	ROC AUC	0.47908
+Weighted	4	LogisticRegression	ChemBERTa	Male	ROC AUC	0.5422
+Weighted	4	LogisticRegression	ChemBERTa	Female	ROC AUC	0.55346
+Weighted	4	LogisticRegression	ChemBERTa	Unknown	ROC AUC	0.53399
+Unweighted	4	LogisticRegression	ChemBERTa	Male	ROC AUC	0.52695
+Unweighted	4	LogisticRegression	ChemBERTa	Female	ROC AUC	0.53601
+Unweighted	4	LogisticRegression	ChemBERTa	Unknown	ROC AUC	0.53203
+Weighted	2	LogisticRegression	ChemBERTa	Unknown	ROC AUC	0.51117
+Weighted	2	LogisticRegression	ChemBERTa	Male	ROC AUC	0.50159
+Weighted	2	LogisticRegression	ChemBERTa	Female	ROC AUC	0.47657
+Unweighted	2	LogisticRegression	ChemBERTa	Unknown	ROC AUC	0.5123
+Unweighted	2	LogisticRegression	ChemBERTa	Male	ROC AUC	0.49042
+Unweighted	2	LogisticRegression	ChemBERTa	Female	ROC AUC	0.47537
+Weighted	0	LogisticRegression	CDDD	Female	ROC AUC	0.50545
+Weighted	0	LogisticRegression	CDDD	Unknown	ROC AUC	0.53211
+Weighted	0	LogisticRegression	CDDD	Male	ROC AUC	0.53083
+Unweighted	0	LogisticRegression	CDDD	Female	ROC AUC	0.4931
+Unweighted	0	LogisticRegression	CDDD	Unknown	ROC AUC	0.51527
+Unweighted	0	LogisticRegression	CDDD	Male	ROC AUC	0.51845
+Weighted	1	LogisticRegression	CDDD	Male	ROC AUC	0.54193
+Weighted	1	LogisticRegression	CDDD	Unknown	ROC AUC	0.57429
+Weighted	1	LogisticRegression	CDDD	Female	ROC AUC	0.57441
+Unweighted	1	LogisticRegression	CDDD	Male	ROC AUC	0.51863
+Unweighted	1	LogisticRegression	CDDD	Unknown	ROC AUC	0.56121
+Unweighted	1	LogisticRegression	CDDD	Female	ROC AUC	0.56343
+Weighted	2	LogisticRegression	CDDD	Unknown	ROC AUC	0.61535
+Weighted	2	LogisticRegression	CDDD	Female	ROC AUC	0.62303
+Weighted	2	LogisticRegression	CDDD	Male	ROC AUC	0.56121
+Unweighted	2	LogisticRegression	CDDD	Unknown	ROC AUC	0.60677
+Unweighted	2	LogisticRegression	CDDD	Female	ROC AUC	0.61238
+Unweighted	2	LogisticRegression	CDDD	Male	ROC AUC	0.54023
+Weighted	3	LogisticRegression	CDDD	Female	ROC AUC	0.56184
+Weighted	3	LogisticRegression	CDDD	Unknown	ROC AUC	0.558
+Weighted	3	LogisticRegression	CDDD	Male	ROC AUC	0.55388
+Unweighted	3	LogisticRegression	CDDD	Female	ROC AUC	0.54317
+Unweighted	3	LogisticRegression	CDDD	Unknown	ROC AUC	0.53853
+Unweighted	3	LogisticRegression	CDDD	Male	ROC AUC	0.52734
+Weighted	4	LogisticRegression	CDDD	Unknown	ROC AUC	0.55749
+Weighted	4	LogisticRegression	CDDD	Male	ROC AUC	0.56951
+Weighted	4	LogisticRegression	CDDD	Female	ROC AUC	0.56445
+Unweighted	4	LogisticRegression	CDDD	Unknown	ROC AUC	0.54227
+Unweighted	4	LogisticRegression	CDDD	Male	ROC AUC	0.55718
+Unweighted	4	LogisticRegression	CDDD	Female	ROC AUC	0.55166
+Weighted	0	RandomForestClassifier	RDKit	Female	ROC AUC	0.58814
+Weighted	0	RandomForestClassifier	RDKit	Male	ROC AUC	0.58074
+Weighted	0	RandomForestClassifier	RDKit	Unknown	ROC AUC	0.57651
+Unweighted	0	RandomForestClassifier	RDKit	Female	ROC AUC	0.58778
+Unweighted	0	RandomForestClassifier	RDKit	Male	ROC AUC	0.58084
+Unweighted	0	RandomForestClassifier	RDKit	Unknown	ROC AUC	0.5768
+Weighted	1	RandomForestClassifier	RDKit	Unknown	ROC AUC	0.5821
+Weighted	1	RandomForestClassifier	RDKit	Male	ROC AUC	0.52954
+Weighted	1	RandomForestClassifier	RDKit	Female	ROC AUC	0.62102
+Unweighted	1	RandomForestClassifier	RDKit	Unknown	ROC AUC	0.56278
+Unweighted	1	RandomForestClassifier	RDKit	Male	ROC AUC	0.51279
+Unweighted	1	RandomForestClassifier	RDKit	Female	ROC AUC	0.59231
+Weighted	4	RandomForestClassifier	RDKit	Male	ROC AUC	0.70796
+Weighted	4	RandomForestClassifier	RDKit	Female	ROC AUC	0.65159
+Weighted	4	RandomForestClassifier	RDKit	Unknown	ROC AUC	0.66489
+Unweighted	4	RandomForestClassifier	RDKit	Male	ROC AUC	0.65762
+Unweighted	4	RandomForestClassifier	RDKit	Female	ROC AUC	0.62497
+Unweighted	4	RandomForestClassifier	RDKit	Unknown	ROC AUC	0.63812
+Weighted	3	RandomForestClassifier	RDKit	Unknown	ROC AUC	0.58718
+Weighted	3	RandomForestClassifier	RDKit	Female	ROC AUC	0.62257
+Weighted	3	RandomForestClassifier	RDKit	Male	ROC AUC	0.56893
+Unweighted	3	RandomForestClassifier	RDKit	Unknown	ROC AUC	0.57093
+Unweighted	3	RandomForestClassifier	RDKit	Female	ROC AUC	0.59999
+Unweighted	3	RandomForestClassifier	RDKit	Male	ROC AUC	0.55425
+Weighted	2	RandomForestClassifier	RDKit	Female	ROC AUC	0.62387
+Weighted	2	RandomForestClassifier	RDKit	Unknown	ROC AUC	0.6326
+Weighted	2	RandomForestClassifier	RDKit	Male	ROC AUC	0.60839
+Unweighted	2	RandomForestClassifier	RDKit	Female	ROC AUC	0.57665
+Unweighted	2	RandomForestClassifier	RDKit	Unknown	ROC AUC	0.60046
+Unweighted	2	RandomForestClassifier	RDKit	Male	ROC AUC	0.57178
+Weighted	0	RandomForestClassifier	MACCS	Female	ROC AUC	0.60731
+Weighted	0	RandomForestClassifier	MACCS	Unknown	ROC AUC	0.60421
+Weighted	0	RandomForestClassifier	MACCS	Male	ROC AUC	0.61833
+Unweighted	0	RandomForestClassifier	MACCS	Female	ROC AUC	0.59532
+Unweighted	0	RandomForestClassifier	MACCS	Unknown	ROC AUC	0.59788
+Unweighted	0	RandomForestClassifier	MACCS	Male	ROC AUC	0.59557
+Weighted	1	RandomForestClassifier	MACCS	Male	ROC AUC	0.50324
+Weighted	1	RandomForestClassifier	MACCS	Unknown	ROC AUC	0.56125
+Weighted	1	RandomForestClassifier	MACCS	Female	ROC AUC	0.59942
+Unweighted	1	RandomForestClassifier	MACCS	Male	ROC AUC	0.52081
+Unweighted	1	RandomForestClassifier	MACCS	Unknown	ROC AUC	0.55542
+Unweighted	1	RandomForestClassifier	MACCS	Female	ROC AUC	0.57508
+Weighted	2	RandomForestClassifier	MACCS	Female	ROC AUC	0.64328
+Weighted	2	RandomForestClassifier	MACCS	Male	ROC AUC	0.60236
+Weighted	2	RandomForestClassifier	MACCS	Unknown	ROC AUC	0.6381
+Unweighted	2	RandomForestClassifier	MACCS	Female	ROC AUC	0.62027
+Unweighted	2	RandomForestClassifier	MACCS	Male	ROC AUC	0.59337
+Unweighted	2	RandomForestClassifier	MACCS	Unknown	ROC AUC	0.62088
+Weighted	3	RandomForestClassifier	MACCS	Female	ROC AUC	0.57675
+Weighted	3	RandomForestClassifier	MACCS	Male	ROC AUC	0.55535
+Weighted	3	RandomForestClassifier	MACCS	Unknown	ROC AUC	0.55804
+Unweighted	3	RandomForestClassifier	MACCS	Female	ROC AUC	0.55982
+Unweighted	3	RandomForestClassifier	MACCS	Male	ROC AUC	0.54346
+Unweighted	3	RandomForestClassifier	MACCS	Unknown	ROC AUC	0.55525
+Weighted	4	RandomForestClassifier	MACCS	Male	ROC AUC	0.61893
+Weighted	4	RandomForestClassifier	MACCS	Female	ROC AUC	0.6045
+Weighted	4	RandomForestClassifier	MACCS	Unknown	ROC AUC	0.59442
+Unweighted	4	RandomForestClassifier	MACCS	Male	ROC AUC	0.60381
+Unweighted	4	RandomForestClassifier	MACCS	Female	ROC AUC	0.61362
+Unweighted	4	RandomForestClassifier	MACCS	Unknown	ROC AUC	0.59412
+Weighted	0	RandomForestClassifier	Klek	Unknown	ROC AUC	0.63482
+Weighted	0	RandomForestClassifier	Klek	Female	ROC AUC	0.63371
+Weighted	0	RandomForestClassifier	Klek	Male	ROC AUC	0.62596
+Unweighted	0	RandomForestClassifier	Klek	Unknown	ROC AUC	0.62233
+Unweighted	0	RandomForestClassifier	Klek	Female	ROC AUC	0.60999
+Unweighted	0	RandomForestClassifier	Klek	Male	ROC AUC	0.61872
+Weighted	1	RandomForestClassifier	Klek	Female	ROC AUC	0.59845
+Weighted	1	RandomForestClassifier	Klek	Male	ROC AUC	0.50276
+Weighted	1	RandomForestClassifier	Klek	Unknown	ROC AUC	0.56347
+Unweighted	1	RandomForestClassifier	Klek	Female	ROC AUC	0.57111
+Unweighted	1	RandomForestClassifier	Klek	Male	ROC AUC	0.50969
+Unweighted	1	RandomForestClassifier	Klek	Unknown	ROC AUC	0.56039
+Weighted	2	RandomForestClassifier	Klek	Female	ROC AUC	0.65453
+Weighted	2	RandomForestClassifier	Klek	Male	ROC AUC	0.62249
+Weighted	2	RandomForestClassifier	Klek	Unknown	ROC AUC	0.65223
+Unweighted	2	RandomForestClassifier	Klek	Female	ROC AUC	0.60783
+Unweighted	2	RandomForestClassifier	Klek	Male	ROC AUC	0.58513
+Unweighted	2	RandomForestClassifier	Klek	Unknown	ROC AUC	0.606
+Weighted	3	RandomForestClassifier	Klek	Male	ROC AUC	0.59344
+Weighted	3	RandomForestClassifier	Klek	Unknown	ROC AUC	0.63274
+Weighted	3	RandomForestClassifier	Klek	Female	ROC AUC	0.67038
+Unweighted	3	RandomForestClassifier	Klek	Male	ROC AUC	0.55992
+Unweighted	3	RandomForestClassifier	Klek	Unknown	ROC AUC	0.59424
+Unweighted	3	RandomForestClassifier	Klek	Female	ROC AUC	0.63448
+Weighted	4	RandomForestClassifier	Klek	Male	ROC AUC	0.60889
+Weighted	4	RandomForestClassifier	Klek	Unknown	ROC AUC	0.5828
+Weighted	4	RandomForestClassifier	Klek	Female	ROC AUC	0.59412
+Unweighted	4	RandomForestClassifier	Klek	Male	ROC AUC	0.58188
+Unweighted	4	RandomForestClassifier	Klek	Unknown	ROC AUC	0.56204
+Unweighted	4	RandomForestClassifier	Klek	Female	ROC AUC	0.57114
+Weighted	0	RandomForestClassifier	Morgan	Unknown	ROC AUC	0.60899
+Weighted	0	RandomForestClassifier	Morgan	Male	ROC AUC	0.60549
+Weighted	0	RandomForestClassifier	Morgan	Female	ROC AUC	0.62068
+Unweighted	0	RandomForestClassifier	Morgan	Unknown	ROC AUC	0.60651
+Unweighted	0	RandomForestClassifier	Morgan	Male	ROC AUC	0.60086
+Unweighted	0	RandomForestClassifier	Morgan	Female	ROC AUC	0.61716
+Weighted	1	RandomForestClassifier	Morgan	Unknown	ROC AUC	0.63674
+Weighted	1	RandomForestClassifier	Morgan	Female	ROC AUC	0.64698
+Weighted	1	RandomForestClassifier	Morgan	Male	ROC AUC	0.61908
+Unweighted	1	RandomForestClassifier	Morgan	Unknown	ROC AUC	0.62611
+Unweighted	1	RandomForestClassifier	Morgan	Female	ROC AUC	0.62681
+Unweighted	1	RandomForestClassifier	Morgan	Male	ROC AUC	0.60841
+Weighted	3	RandomForestClassifier	Morgan	Female	ROC AUC	0.61595
+Weighted	3	RandomForestClassifier	Morgan	Male	ROC AUC	0.59404
+Weighted	3	RandomForestClassifier	Morgan	Unknown	ROC AUC	0.59879
+Unweighted	3	RandomForestClassifier	Morgan	Female	ROC AUC	0.59735
+Unweighted	3	RandomForestClassifier	Morgan	Male	ROC AUC	0.56054
+Unweighted	3	RandomForestClassifier	Morgan	Unknown	ROC AUC	0.58497
+Weighted	2	RandomForestClassifier	Morgan	Female	ROC AUC	0.63325
+Weighted	2	RandomForestClassifier	Morgan	Male	ROC AUC	0.60816
+Weighted	2	RandomForestClassifier	Morgan	Unknown	ROC AUC	0.63074
+Unweighted	2	RandomForestClassifier	Morgan	Female	ROC AUC	0.60696
+Unweighted	2	RandomForestClassifier	Morgan	Male	ROC AUC	0.57606
+Unweighted	2	RandomForestClassifier	Morgan	Unknown	ROC AUC	0.59643
+Weighted	4	RandomForestClassifier	Morgan	Female	ROC AUC	0.55292
+Weighted	4	RandomForestClassifier	Morgan	Unknown	ROC AUC	0.56102
+Weighted	4	RandomForestClassifier	Morgan	Male	ROC AUC	0.59303
+Unweighted	4	RandomForestClassifier	Morgan	Female	ROC AUC	0.54317
+Unweighted	4	RandomForestClassifier	Morgan	Unknown	ROC AUC	0.54206
+Unweighted	4	RandomForestClassifier	Morgan	Male	ROC AUC	0.55938
+Weighted	0	RandomForestClassifier	ChemBERTa	Male	ROC AUC	0.56382
+Weighted	0	RandomForestClassifier	ChemBERTa	Unknown	ROC AUC	0.57039
+Weighted	0	RandomForestClassifier	ChemBERTa	Female	ROC AUC	0.58451
+Unweighted	0	RandomForestClassifier	ChemBERTa	Male	ROC AUC	0.55005
+Unweighted	0	RandomForestClassifier	ChemBERTa	Unknown	ROC AUC	0.5587
+Unweighted	0	RandomForestClassifier	ChemBERTa	Female	ROC AUC	0.56255
+Weighted	2	RandomForestClassifier	ChemBERTa	Male	ROC AUC	0.47929
+Weighted	2	RandomForestClassifier	ChemBERTa	Female	ROC AUC	0.53444
+Weighted	2	RandomForestClassifier	ChemBERTa	Unknown	ROC AUC	0.51247
+Unweighted	2	RandomForestClassifier	ChemBERTa	Male	ROC AUC	0.46872
+Unweighted	2	RandomForestClassifier	ChemBERTa	Female	ROC AUC	0.5234
+Unweighted	2	RandomForestClassifier	ChemBERTa	Unknown	ROC AUC	0.50684
+Weighted	3	RandomForestClassifier	ChemBERTa	Female	ROC AUC	0.53229
+Weighted	3	RandomForestClassifier	ChemBERTa	Male	ROC AUC	0.50834
+Weighted	3	RandomForestClassifier	ChemBERTa	Unknown	ROC AUC	0.51983
+Unweighted	3	RandomForestClassifier	ChemBERTa	Female	ROC AUC	0.50585
+Unweighted	3	RandomForestClassifier	ChemBERTa	Male	ROC AUC	0.50738
+Unweighted	3	RandomForestClassifier	ChemBERTa	Unknown	ROC AUC	0.51208
+Weighted	1	RandomForestClassifier	ChemBERTa	Male	ROC AUC	0.48554
+Weighted	1	RandomForestClassifier	ChemBERTa	Female	ROC AUC	0.55539
+Weighted	1	RandomForestClassifier	ChemBERTa	Unknown	ROC AUC	0.55581
+Unweighted	1	RandomForestClassifier	ChemBERTa	Male	ROC AUC	0.48567
+Unweighted	1	RandomForestClassifier	ChemBERTa	Female	ROC AUC	0.54366
+Unweighted	1	RandomForestClassifier	ChemBERTa	Unknown	ROC AUC	0.55043
+Weighted	4	RandomForestClassifier	ChemBERTa	Female	ROC AUC	0.57562
+Weighted	4	RandomForestClassifier	ChemBERTa	Unknown	ROC AUC	0.5934
+Weighted	4	RandomForestClassifier	ChemBERTa	Male	ROC AUC	0.60641
+Unweighted	4	RandomForestClassifier	ChemBERTa	Female	ROC AUC	0.56549
+Unweighted	4	RandomForestClassifier	ChemBERTa	Unknown	ROC AUC	0.58158
+Unweighted	4	RandomForestClassifier	ChemBERTa	Male	ROC AUC	0.58921
+Weighted	0	RandomForestClassifier	CDDD	Male	ROC AUC	0.5454
+Weighted	0	RandomForestClassifier	CDDD	Unknown	ROC AUC	0.55844
+Weighted	0	RandomForestClassifier	CDDD	Female	ROC AUC	0.55298
+Unweighted	0	RandomForestClassifier	CDDD	Male	ROC AUC	0.55099
+Unweighted	0	RandomForestClassifier	CDDD	Unknown	ROC AUC	0.55505
+Unweighted	0	RandomForestClassifier	CDDD	Female	ROC AUC	0.54538
+Weighted	1	RandomForestClassifier	CDDD	Male	ROC AUC	0.55778
+Weighted	1	RandomForestClassifier	CDDD	Unknown	ROC AUC	0.61989
+Weighted	1	RandomForestClassifier	CDDD	Female	ROC AUC	0.64482
+Unweighted	1	RandomForestClassifier	CDDD	Male	ROC AUC	0.54911
+Unweighted	1	RandomForestClassifier	CDDD	Unknown	ROC AUC	0.60023
+Unweighted	1	RandomForestClassifier	CDDD	Female	ROC AUC	0.60509
+Weighted	3	RandomForestClassifier	CDDD	Unknown	ROC AUC	0.61253
+Weighted	3	RandomForestClassifier	CDDD	Male	ROC AUC	0.58532
+Weighted	3	RandomForestClassifier	CDDD	Female	ROC AUC	0.64871
+Unweighted	3	RandomForestClassifier	CDDD	Unknown	ROC AUC	0.58911
+Unweighted	3	RandomForestClassifier	CDDD	Male	ROC AUC	0.56122
+Unweighted	3	RandomForestClassifier	CDDD	Female	ROC AUC	0.61928
+Weighted	2	RandomForestClassifier	CDDD	Female	ROC AUC	0.65035
+Weighted	2	RandomForestClassifier	CDDD	Unknown	ROC AUC	0.65619
+Weighted	2	RandomForestClassifier	CDDD	Male	ROC AUC	0.59623
+Unweighted	2	RandomForestClassifier	CDDD	Female	ROC AUC	0.61134
+Unweighted	2	RandomForestClassifier	CDDD	Unknown	ROC AUC	0.62562
+Unweighted	2	RandomForestClassifier	CDDD	Male	ROC AUC	0.56243
+Weighted	4	RandomForestClassifier	CDDD	Male	ROC AUC	0.64084
+Weighted	4	RandomForestClassifier	CDDD	Female	ROC AUC	0.61286
+Weighted	4	RandomForestClassifier	CDDD	Unknown	ROC AUC	0.59606
+Unweighted	4	RandomForestClassifier	CDDD	Male	ROC AUC	0.61793
+Unweighted	4	RandomForestClassifier	CDDD	Female	ROC AUC	0.61109
+Unweighted	4	RandomForestClassifier	CDDD	Unknown	ROC AUC	0.5912

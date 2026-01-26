@@ -1,0 +1,28 @@
+name: carbide
+channels:
+  - conda-forge
+  - rdkit
+dependencies:
+  - python=3.11
+  - pip=25.*
+  - numpy=2.3.*
+  - pandas=2.3.*
+  - pyarrow=22.0.*
+  - polars=1.35.*
+  - pytorch
+  - transformers
+  - matplotlib=3.10.*
+  - seaborn=0.13.*
+  - umap-learn=0.5.*
+  - scipy=1.16.*
+  - scikit-learn=1.7.*
+  - rdkit=2025.09.*
+  - optuna=4.6.*
+  - xgboost=3.1.*
+  - jupyterlab
+  - tqdm
+  - pip:
+    - pubchempy==1.0.*
+    - lxml==6.0.*
+    - rapidfuzz==3.14.*
+    - levenshtein==0.27.*

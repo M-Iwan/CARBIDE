@@ -1,0 +1,101 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Primary	PRR	Cred	0	RandomForestClassifier	MACCS	Balanced Accuracy	0.57302
+Primary	PRR	Cred	1	RandomForestClassifier	MACCS	Balanced Accuracy	0.54437
+Primary	PRR	Cred	2	RandomForestClassifier	MACCS	Balanced Accuracy	0.60272
+Primary	PRR	Cred	3	RandomForestClassifier	MACCS	Balanced Accuracy	0.581
+Primary	PRR	Cred	4	RandomForestClassifier	MACCS	Balanced Accuracy	0.57742
+Secondary	PRR	Cred	0	RandomForestClassifier	MACCS	Balanced Accuracy	0.60153
+Secondary	PRR	Cred	1	RandomForestClassifier	MACCS	Balanced Accuracy	0.53413
+Secondary	PRR	Cred	2	RandomForestClassifier	MACCS	Balanced Accuracy	0.56383
+Secondary	PRR	Cred	3	RandomForestClassifier	MACCS	Balanced Accuracy	0.53566
+Secondary	PRR	Cred	4	RandomForestClassifier	MACCS	Balanced Accuracy	0.56794
+Primary	PRR	Cred	0	RandomForestClassifier	MACCS	GeomRS	0.57116
+Primary	PRR	Cred	1	RandomForestClassifier	MACCS	GeomRS	0.54361
+Primary	PRR	Cred	2	RandomForestClassifier	MACCS	GeomRS	0.60249
+Primary	PRR	Cred	3	RandomForestClassifier	MACCS	GeomRS	0.57772
+Primary	PRR	Cred	4	RandomForestClassifier	MACCS	GeomRS	0.56114
+Secondary	PRR	Cred	0	RandomForestClassifier	MACCS	GeomRS	0.59561
+Secondary	PRR	Cred	1	RandomForestClassifier	MACCS	GeomRS	0.53325
+Secondary	PRR	Cred	2	RandomForestClassifier	MACCS	GeomRS	0.5605
+Secondary	PRR	Cred	3	RandomForestClassifier	MACCS	GeomRS	0.53056
+Secondary	PRR	Cred	4	RandomForestClassifier	MACCS	GeomRS	0.56654
+Primary	PRR	Cred	0	RandomForestClassifier	MACCS	HarmRS	0.56931
+Primary	PRR	Cred	1	RandomForestClassifier	MACCS	HarmRS	0.54284
+Primary	PRR	Cred	2	RandomForestClassifier	MACCS	HarmRS	0.60227
+Primary	PRR	Cred	3	RandomForestClassifier	MACCS	HarmRS	0.57446
+Primary	PRR	Cred	4	RandomForestClassifier	MACCS	HarmRS	0.54532
+Secondary	PRR	Cred	0	RandomForestClassifier	MACCS	HarmRS	0.58974
+Secondary	PRR	Cred	1	RandomForestClassifier	MACCS	HarmRS	0.53237
+Secondary	PRR	Cred	2	RandomForestClassifier	MACCS	HarmRS	0.5572
+Secondary	PRR	Cred	3	RandomForestClassifier	MACCS	HarmRS	0.52551
+Secondary	PRR	Cred	4	RandomForestClassifier	MACCS	HarmRS	0.56514
+Primary	PRR	Cred	0	RandomForestClassifier	MACCS	F1 Score	0.61188
+Primary	PRR	Cred	1	RandomForestClassifier	MACCS	F1 Score	0.57923
+Primary	PRR	Cred	2	RandomForestClassifier	MACCS	F1 Score	0.65017
+Primary	PRR	Cred	3	RandomForestClassifier	MACCS	F1 Score	0.58553
+Primary	PRR	Cred	4	RandomForestClassifier	MACCS	F1 Score	0.53387
+Secondary	PRR	Cred	0	RandomForestClassifier	MACCS	F1 Score	0.65358
+Secondary	PRR	Cred	1	RandomForestClassifier	MACCS	F1 Score	0.56787
+Secondary	PRR	Cred	2	RandomForestClassifier	MACCS	F1 Score	0.58568
+Secondary	PRR	Cred	3	RandomForestClassifier	MACCS	F1 Score	0.61162
+Secondary	PRR	Cred	4	RandomForestClassifier	MACCS	F1 Score	0.62122
+Primary	PRR	Cred	0	RandomForestClassifier	MACCS	ROC AUC	0.60611
+Primary	PRR	Cred	1	RandomForestClassifier	MACCS	ROC AUC	0.5641
+Primary	PRR	Cred	2	RandomForestClassifier	MACCS	ROC AUC	0.63118
+Primary	PRR	Cred	3	RandomForestClassifier	MACCS	ROC AUC	0.57373
+Primary	PRR	Cred	4	RandomForestClassifier	MACCS	ROC AUC	0.62335
+Secondary	PRR	Cred	0	RandomForestClassifier	MACCS	ROC AUC	0.64686
+Secondary	PRR	Cred	1	RandomForestClassifier	MACCS	ROC AUC	0.56667
+Secondary	PRR	Cred	2	RandomForestClassifier	MACCS	ROC AUC	0.59765
+Secondary	PRR	Cred	3	RandomForestClassifier	MACCS	ROC AUC	0.53376
+Secondary	PRR	Cred	4	RandomForestClassifier	MACCS	ROC AUC	0.57757
+Primary	PRR	Cred	0	RandomForestClassifier	MACCS	MCC	0.14638
+Primary	PRR	Cred	1	RandomForestClassifier	MACCS	MCC	0.08632
+Primary	PRR	Cred	2	RandomForestClassifier	MACCS	MCC	0.19765
+Primary	PRR	Cred	3	RandomForestClassifier	MACCS	MCC	0.16045
+Primary	PRR	Cred	4	RandomForestClassifier	MACCS	MCC	0.15807
+Secondary	PRR	Cred	0	RandomForestClassifier	MACCS	MCC	0.20598
+Secondary	PRR	Cred	1	RandomForestClassifier	MACCS	MCC	0.06642
+Secondary	PRR	Cred	2	RandomForestClassifier	MACCS	MCC	0.12326
+Secondary	PRR	Cred	3	RandomForestClassifier	MACCS	MCC	0.07123
+Secondary	PRR	Cred	4	RandomForestClassifier	MACCS	MCC	0.13502
+Primary	PRR	Cred	0	RandomForestClassifier	MACCS	Accuracy	0.57662
+Primary	PRR	Cred	1	RandomForestClassifier	MACCS	Accuracy	0.53758
+Primary	PRR	Cred	2	RandomForestClassifier	MACCS	Accuracy	0.59822
+Primary	PRR	Cred	3	RandomForestClassifier	MACCS	Accuracy	0.57066
+Primary	PRR	Cred	4	RandomForestClassifier	MACCS	Accuracy	0.55703
+Secondary	PRR	Cred	0	RandomForestClassifier	MACCS	Accuracy	0.60812
+Secondary	PRR	Cred	1	RandomForestClassifier	MACCS	Accuracy	0.52692
+Secondary	PRR	Cred	2	RandomForestClassifier	MACCS	Accuracy	0.54709
+Secondary	PRR	Cred	3	RandomForestClassifier	MACCS	Accuracy	0.54805
+Secondary	PRR	Cred	4	RandomForestClassifier	MACCS	Accuracy	0.57391
+Primary	PRR	Cred	0	RandomForestClassifier	MACCS	Recall	0.6191
+Primary	PRR	Cred	1	RandomForestClassifier	MACCS	Recall	0.51547
+Primary	PRR	Cred	2	RandomForestClassifier	MACCS	Recall	0.58628
+Primary	PRR	Cred	3	RandomForestClassifier	MACCS	Recall	0.51936
+Primary	PRR	Cred	4	RandomForestClassifier	MACCS	Recall	0.44128
+Secondary	PRR	Cred	0	RandomForestClassifier	MACCS	Recall	0.68577
+Secondary	PRR	Cred	1	RandomForestClassifier	MACCS	Recall	0.50342
+Secondary	PRR	Cred	2	RandomForestClassifier	MACCS	Recall	0.50266
+Secondary	PRR	Cred	3	RandomForestClassifier	MACCS	Recall	0.60943
+Secondary	PRR	Cred	4	RandomForestClassifier	MACCS	Recall	0.6078
+Primary	PRR	Cred	0	RandomForestClassifier	MACCS	Specificity	0.52694
+Primary	PRR	Cred	1	RandomForestClassifier	MACCS	Specificity	0.57328
+Primary	PRR	Cred	2	RandomForestClassifier	MACCS	Specificity	0.61916
+Primary	PRR	Cred	3	RandomForestClassifier	MACCS	Specificity	0.64265
+Primary	PRR	Cred	4	RandomForestClassifier	MACCS	Specificity	0.71356
+Secondary	PRR	Cred	0	RandomForestClassifier	MACCS	Specificity	0.5173
+Secondary	PRR	Cred	1	RandomForestClassifier	MACCS	Specificity	0.56485
+Secondary	PRR	Cred	2	RandomForestClassifier	MACCS	Specificity	0.625
+Secondary	PRR	Cred	3	RandomForestClassifier	MACCS	Specificity	0.4619
+Secondary	PRR	Cred	4	RandomForestClassifier	MACCS	Specificity	0.52808
+Primary	PRR	Cred	0	RandomForestClassifier	MACCS	Precision	0.60483
+Primary	PRR	Cred	1	RandomForestClassifier	MACCS	Precision	0.661
+Primary	PRR	Cred	2	RandomForestClassifier	MACCS	Precision	0.72968
+Primary	PRR	Cred	3	RandomForestClassifier	MACCS	Precision	0.67102
+Primary	PRR	Cred	4	RandomForestClassifier	MACCS	Precision	0.67566
+Secondary	PRR	Cred	0	RandomForestClassifier	MACCS	Precision	0.62428
+Secondary	PRR	Cred	1	RandomForestClassifier	MACCS	Precision	0.65125
+Secondary	PRR	Cred	2	RandomForestClassifier	MACCS	Precision	0.70153
+Secondary	PRR	Cred	3	RandomForestClassifier	MACCS	Precision	0.61382
+Secondary	PRR	Cred	4	RandomForestClassifier	MACCS	Precision	0.63525

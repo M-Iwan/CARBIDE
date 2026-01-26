@@ -1,0 +1,101 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Primary	IC	Cred	3	XGBClassifier	RDKit	Balanced Accuracy	0.55475
+Primary	IC	Cred	2	XGBClassifier	RDKit	Balanced Accuracy	0.58558
+Primary	IC	Cred	0	XGBClassifier	RDKit	Balanced Accuracy	0.58516
+Primary	IC	Cred	1	XGBClassifier	RDKit	Balanced Accuracy	0.55026
+Primary	IC	Cred	4	XGBClassifier	RDKit	Balanced Accuracy	0.59501
+Secondary	IC	Cred	3	XGBClassifier	RDKit	Balanced Accuracy	0.53232
+Secondary	IC	Cred	2	XGBClassifier	RDKit	Balanced Accuracy	0.57523
+Secondary	IC	Cred	0	XGBClassifier	RDKit	Balanced Accuracy	0.5638
+Secondary	IC	Cred	1	XGBClassifier	RDKit	Balanced Accuracy	0.5375
+Secondary	IC	Cred	4	XGBClassifier	RDKit	Balanced Accuracy	0.57683
+Primary	IC	Cred	3	XGBClassifier	RDKit	GeomRS	0.52485
+Primary	IC	Cred	2	XGBClassifier	RDKit	GeomRS	0.57246
+Primary	IC	Cred	0	XGBClassifier	RDKit	GeomRS	0.54352
+Primary	IC	Cred	1	XGBClassifier	RDKit	GeomRS	0.54836
+Primary	IC	Cred	4	XGBClassifier	RDKit	GeomRS	0.56573
+Secondary	IC	Cred	3	XGBClassifier	RDKit	GeomRS	0.48152
+Secondary	IC	Cred	2	XGBClassifier	RDKit	GeomRS	0.54168
+Secondary	IC	Cred	0	XGBClassifier	RDKit	GeomRS	0.47811
+Secondary	IC	Cred	1	XGBClassifier	RDKit	GeomRS	0.51209
+Secondary	IC	Cred	4	XGBClassifier	RDKit	GeomRS	0.51617
+Primary	IC	Cred	3	XGBClassifier	RDKit	HarmRS	0.49656
+Primary	IC	Cred	2	XGBClassifier	RDKit	HarmRS	0.55963
+Primary	IC	Cred	0	XGBClassifier	RDKit	HarmRS	0.50485
+Primary	IC	Cred	1	XGBClassifier	RDKit	HarmRS	0.54646
+Primary	IC	Cred	4	XGBClassifier	RDKit	HarmRS	0.5379
+Secondary	IC	Cred	3	XGBClassifier	RDKit	HarmRS	0.43557
+Secondary	IC	Cred	2	XGBClassifier	RDKit	HarmRS	0.51009
+Secondary	IC	Cred	0	XGBClassifier	RDKit	HarmRS	0.40545
+Secondary	IC	Cred	1	XGBClassifier	RDKit	HarmRS	0.48788
+Secondary	IC	Cred	4	XGBClassifier	RDKit	HarmRS	0.46189
+Primary	IC	Cred	3	XGBClassifier	RDKit	F1 Score	0.67388
+Primary	IC	Cred	2	XGBClassifier	RDKit	F1 Score	0.70347
+Primary	IC	Cred	0	XGBClassifier	RDKit	F1 Score	0.68489
+Primary	IC	Cred	1	XGBClassifier	RDKit	F1 Score	0.62642
+Primary	IC	Cred	4	XGBClassifier	RDKit	F1 Score	0.70365
+Secondary	IC	Cred	3	XGBClassifier	RDKit	F1 Score	0.67364
+Secondary	IC	Cred	2	XGBClassifier	RDKit	F1 Score	0.72487
+Secondary	IC	Cred	0	XGBClassifier	RDKit	F1 Score	0.69262
+Secondary	IC	Cred	1	XGBClassifier	RDKit	F1 Score	0.67115
+Secondary	IC	Cred	4	XGBClassifier	RDKit	F1 Score	0.7138
+Primary	IC	Cred	3	XGBClassifier	RDKit	ROC AUC	0.59005
+Primary	IC	Cred	2	XGBClassifier	RDKit	ROC AUC	0.64961
+Primary	IC	Cred	0	XGBClassifier	RDKit	ROC AUC	0.65146
+Primary	IC	Cred	1	XGBClassifier	RDKit	ROC AUC	0.58485
+Primary	IC	Cred	4	XGBClassifier	RDKit	ROC AUC	0.67441
+Secondary	IC	Cred	3	XGBClassifier	RDKit	ROC AUC	0.57933
+Secondary	IC	Cred	2	XGBClassifier	RDKit	ROC AUC	0.65036
+Secondary	IC	Cred	0	XGBClassifier	RDKit	ROC AUC	0.66056
+Secondary	IC	Cred	1	XGBClassifier	RDKit	ROC AUC	0.58351
+Secondary	IC	Cred	4	XGBClassifier	RDKit	ROC AUC	0.65557
+Primary	IC	Cred	3	XGBClassifier	RDKit	MCC	0.11659
+Primary	IC	Cred	2	XGBClassifier	RDKit	MCC	0.1722
+Primary	IC	Cred	0	XGBClassifier	RDKit	MCC	0.18981
+Primary	IC	Cred	1	XGBClassifier	RDKit	MCC	0.09836
+Primary	IC	Cred	4	XGBClassifier	RDKit	MCC	0.20472
+Secondary	IC	Cred	3	XGBClassifier	RDKit	MCC	0.07196
+Secondary	IC	Cred	2	XGBClassifier	RDKit	MCC	0.16015
+Secondary	IC	Cred	0	XGBClassifier	RDKit	MCC	0.16016
+Secondary	IC	Cred	1	XGBClassifier	RDKit	MCC	0.07764
+Secondary	IC	Cred	4	XGBClassifier	RDKit	MCC	0.18022
+Primary	IC	Cred	3	XGBClassifier	RDKit	Accuracy	0.58491
+Primary	IC	Cred	2	XGBClassifier	RDKit	Accuracy	0.61935
+Primary	IC	Cred	0	XGBClassifier	RDKit	Accuracy	0.60214
+Primary	IC	Cred	1	XGBClassifier	RDKit	Accuracy	0.56101
+Primary	IC	Cred	4	XGBClassifier	RDKit	Accuracy	0.62262
+Secondary	IC	Cred	3	XGBClassifier	RDKit	Accuracy	0.57041
+Secondary	IC	Cred	2	XGBClassifier	RDKit	Accuracy	0.62826
+Secondary	IC	Cred	0	XGBClassifier	RDKit	Accuracy	0.5872
+Secondary	IC	Cred	1	XGBClassifier	RDKit	Accuracy	0.57589
+Secondary	IC	Cred	4	XGBClassifier	RDKit	Accuracy	0.61538
+Primary	IC	Cred	3	XGBClassifier	RDKit	Recall	0.73443
+Primary	IC	Cred	2	XGBClassifier	RDKit	Recall	0.70886
+Primary	IC	Cred	0	XGBClassifier	RDKit	Recall	0.80195
+Primary	IC	Cred	1	XGBClassifier	RDKit	Recall	0.59598
+Primary	IC	Cred	4	XGBClassifier	RDKit	Recall	0.77936
+Secondary	IC	Cred	3	XGBClassifier	RDKit	Recall	0.75926
+Secondary	IC	Cred	2	XGBClassifier	RDKit	Recall	0.76882
+Secondary	IC	Cred	0	XGBClassifier	RDKit	Recall	0.8626
+Secondary	IC	Cred	1	XGBClassifier	RDKit	Recall	0.7008
+Secondary	IC	Cred	4	XGBClassifier	RDKit	Recall	0.83431
+Primary	IC	Cred	3	XGBClassifier	RDKit	Specificity	0.37507
+Primary	IC	Cred	2	XGBClassifier	RDKit	Specificity	0.4623
+Primary	IC	Cred	0	XGBClassifier	RDKit	Specificity	0.36837
+Primary	IC	Cred	1	XGBClassifier	RDKit	Specificity	0.50454
+Primary	IC	Cred	4	XGBClassifier	RDKit	Specificity	0.41066
+Secondary	IC	Cred	3	XGBClassifier	RDKit	Specificity	0.30538
+Secondary	IC	Cred	2	XGBClassifier	RDKit	Specificity	0.38165
+Secondary	IC	Cred	0	XGBClassifier	RDKit	Specificity	0.265
+Secondary	IC	Cred	1	XGBClassifier	RDKit	Specificity	0.37419
+Secondary	IC	Cred	4	XGBClassifier	RDKit	Specificity	0.31934
+Primary	IC	Cred	3	XGBClassifier	RDKit	Precision	0.62255
+Primary	IC	Cred	2	XGBClassifier	RDKit	Precision	0.69816
+Primary	IC	Cred	0	XGBClassifier	RDKit	Precision	0.59766
+Primary	IC	Cred	1	XGBClassifier	RDKit	Precision	0.66014
+Primary	IC	Cred	4	XGBClassifier	RDKit	Precision	0.64135
+Secondary	IC	Cred	3	XGBClassifier	RDKit	Precision	0.60537
+Secondary	IC	Cred	2	XGBClassifier	RDKit	Precision	0.68568
+Secondary	IC	Cred	0	XGBClassifier	RDKit	Precision	0.5786
+Secondary	IC	Cred	1	XGBClassifier	RDKit	Precision	0.64391
+Secondary	IC	Cred	4	XGBClassifier	RDKit	Precision	0.62371

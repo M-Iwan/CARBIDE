@@ -1,0 +1,101 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Primary	ROR	Cred	2	XGBClassifier	ChemBERTa	Balanced Accuracy	0.54238
+Primary	ROR	Cred	0	XGBClassifier	ChemBERTa	Balanced Accuracy	0.54502
+Primary	ROR	Cred	1	XGBClassifier	ChemBERTa	Balanced Accuracy	0.54269
+Primary	ROR	Cred	4	XGBClassifier	ChemBERTa	Balanced Accuracy	0.58658
+Primary	ROR	Cred	3	XGBClassifier	ChemBERTa	Balanced Accuracy	0.54401
+Secondary	ROR	Cred	2	XGBClassifier	ChemBERTa	Balanced Accuracy	0.5367
+Secondary	ROR	Cred	0	XGBClassifier	ChemBERTa	Balanced Accuracy	0.53066
+Secondary	ROR	Cred	1	XGBClassifier	ChemBERTa	Balanced Accuracy	0.55801
+Secondary	ROR	Cred	4	XGBClassifier	ChemBERTa	Balanced Accuracy	0.57894
+Secondary	ROR	Cred	3	XGBClassifier	ChemBERTa	Balanced Accuracy	0.50007
+Primary	ROR	Cred	2	XGBClassifier	ChemBERTa	GeomRS	0.53523
+Primary	ROR	Cred	0	XGBClassifier	ChemBERTa	GeomRS	0.53404
+Primary	ROR	Cred	1	XGBClassifier	ChemBERTa	GeomRS	0.53252
+Primary	ROR	Cred	4	XGBClassifier	ChemBERTa	GeomRS	0.58355
+Primary	ROR	Cred	3	XGBClassifier	ChemBERTa	GeomRS	0.5438
+Secondary	ROR	Cred	2	XGBClassifier	ChemBERTa	GeomRS	0.52887
+Secondary	ROR	Cred	0	XGBClassifier	ChemBERTa	GeomRS	0.52173
+Secondary	ROR	Cred	1	XGBClassifier	ChemBERTa	GeomRS	0.55499
+Secondary	ROR	Cred	4	XGBClassifier	ChemBERTa	GeomRS	0.57884
+Secondary	ROR	Cred	3	XGBClassifier	ChemBERTa	GeomRS	0.49854
+Primary	ROR	Cred	2	XGBClassifier	ChemBERTa	HarmRS	0.52817
+Primary	ROR	Cred	0	XGBClassifier	ChemBERTa	HarmRS	0.52328
+Primary	ROR	Cred	1	XGBClassifier	ChemBERTa	HarmRS	0.52255
+Primary	ROR	Cred	4	XGBClassifier	ChemBERTa	HarmRS	0.58054
+Primary	ROR	Cred	3	XGBClassifier	ChemBERTa	HarmRS	0.54358
+Secondary	ROR	Cred	2	XGBClassifier	ChemBERTa	HarmRS	0.52115
+Secondary	ROR	Cred	0	XGBClassifier	ChemBERTa	HarmRS	0.51296
+Secondary	ROR	Cred	1	XGBClassifier	ChemBERTa	HarmRS	0.55198
+Secondary	ROR	Cred	4	XGBClassifier	ChemBERTa	HarmRS	0.57874
+Secondary	ROR	Cred	3	XGBClassifier	ChemBERTa	HarmRS	0.49702
+Primary	ROR	Cred	2	XGBClassifier	ChemBERTa	F1 Score	0.52782
+Primary	ROR	Cred	0	XGBClassifier	ChemBERTa	F1 Score	0.574
+Primary	ROR	Cred	1	XGBClassifier	ChemBERTa	F1 Score	0.50981
+Primary	ROR	Cred	4	XGBClassifier	ChemBERTa	F1 Score	0.61818
+Primary	ROR	Cred	3	XGBClassifier	ChemBERTa	F1 Score	0.54893
+Secondary	ROR	Cred	2	XGBClassifier	ChemBERTa	F1 Score	0.51942
+Secondary	ROR	Cred	0	XGBClassifier	ChemBERTa	F1 Score	0.55668
+Secondary	ROR	Cred	1	XGBClassifier	ChemBERTa	F1 Score	0.55385
+Secondary	ROR	Cred	4	XGBClassifier	ChemBERTa	F1 Score	0.59115
+Secondary	ROR	Cred	3	XGBClassifier	ChemBERTa	F1 Score	0.49124
+Primary	ROR	Cred	2	XGBClassifier	ChemBERTa	ROC AUC	0.56364
+Primary	ROR	Cred	0	XGBClassifier	ChemBERTa	ROC AUC	0.56113
+Primary	ROR	Cred	1	XGBClassifier	ChemBERTa	ROC AUC	0.55424
+Primary	ROR	Cred	4	XGBClassifier	ChemBERTa	ROC AUC	0.62305
+Primary	ROR	Cred	3	XGBClassifier	ChemBERTa	ROC AUC	0.54169
+Secondary	ROR	Cred	2	XGBClassifier	ChemBERTa	ROC AUC	0.56984
+Secondary	ROR	Cred	0	XGBClassifier	ChemBERTa	ROC AUC	0.57477
+Secondary	ROR	Cred	1	XGBClassifier	ChemBERTa	ROC AUC	0.56691
+Secondary	ROR	Cred	4	XGBClassifier	ChemBERTa	ROC AUC	0.61892
+Secondary	ROR	Cred	3	XGBClassifier	ChemBERTa	ROC AUC	0.51427
+Primary	ROR	Cred	2	XGBClassifier	ChemBERTa	MCC	0.08479
+Primary	ROR	Cred	0	XGBClassifier	ChemBERTa	MCC	0.09204
+Primary	ROR	Cred	1	XGBClassifier	ChemBERTa	MCC	0.08656
+Primary	ROR	Cred	4	XGBClassifier	ChemBERTa	MCC	0.17443
+Primary	ROR	Cred	3	XGBClassifier	ChemBERTa	MCC	0.08794
+Secondary	ROR	Cred	2	XGBClassifier	ChemBERTa	MCC	0.07354
+Secondary	ROR	Cred	0	XGBClassifier	ChemBERTa	MCC	0.06238
+Secondary	ROR	Cred	1	XGBClassifier	ChemBERTa	MCC	0.11588
+Secondary	ROR	Cred	4	XGBClassifier	ChemBERTa	MCC	0.15786
+Secondary	ROR	Cred	3	XGBClassifier	ChemBERTa	MCC	0.00015
+Primary	ROR	Cred	2	XGBClassifier	ChemBERTa	Accuracy	0.52835
+Primary	ROR	Cred	0	XGBClassifier	ChemBERTa	Accuracy	0.53947
+Primary	ROR	Cred	1	XGBClassifier	ChemBERTa	Accuracy	0.53079
+Primary	ROR	Cred	4	XGBClassifier	ChemBERTa	Accuracy	0.58844
+Primary	ROR	Cred	3	XGBClassifier	ChemBERTa	Accuracy	0.54323
+Secondary	ROR	Cred	2	XGBClassifier	ChemBERTa	Accuracy	0.5221
+Secondary	ROR	Cred	0	XGBClassifier	ChemBERTa	Accuracy	0.52571
+Secondary	ROR	Cred	1	XGBClassifier	ChemBERTa	Accuracy	0.55141
+Secondary	ROR	Cred	4	XGBClassifier	ChemBERTa	Accuracy	0.57928
+Secondary	ROR	Cred	3	XGBClassifier	ChemBERTa	Accuracy	0.49806
+Primary	ROR	Cred	2	XGBClassifier	ChemBERTa	Recall	0.45458
+Primary	ROR	Cred	0	XGBClassifier	ChemBERTa	Recall	0.65388
+Primary	ROR	Cred	1	XGBClassifier	ChemBERTa	Recall	0.43814
+Primary	ROR	Cred	4	XGBClassifier	ChemBERTa	Recall	0.6461
+Primary	ROR	Cred	3	XGBClassifier	ChemBERTa	Recall	0.52872
+Secondary	ROR	Cred	2	XGBClassifier	ChemBERTa	Recall	0.44534
+Secondary	ROR	Cred	0	XGBClassifier	ChemBERTa	Recall	0.62756
+Secondary	ROR	Cred	1	XGBClassifier	ChemBERTa	Recall	0.5
+Secondary	ROR	Cred	4	XGBClassifier	ChemBERTa	Recall	0.58983
+Secondary	ROR	Cred	3	XGBClassifier	ChemBERTa	Recall	0.46097
+Primary	ROR	Cred	2	XGBClassifier	ChemBERTa	Specificity	0.63018
+Primary	ROR	Cred	0	XGBClassifier	ChemBERTa	Specificity	0.43617
+Primary	ROR	Cred	1	XGBClassifier	ChemBERTa	Specificity	0.64723
+Primary	ROR	Cred	4	XGBClassifier	ChemBERTa	Specificity	0.52706
+Primary	ROR	Cred	3	XGBClassifier	ChemBERTa	Specificity	0.5593
+Secondary	ROR	Cred	2	XGBClassifier	ChemBERTa	Specificity	0.62806
+Secondary	ROR	Cred	0	XGBClassifier	ChemBERTa	Specificity	0.43375
+Secondary	ROR	Cred	1	XGBClassifier	ChemBERTa	Specificity	0.61602
+Secondary	ROR	Cred	4	XGBClassifier	ChemBERTa	Specificity	0.56805
+Secondary	ROR	Cred	3	XGBClassifier	ChemBERTa	Specificity	0.53917
+Primary	ROR	Cred	2	XGBClassifier	ChemBERTa	Precision	0.6292
+Primary	ROR	Cred	0	XGBClassifier	ChemBERTa	Precision	0.51151
+Primary	ROR	Cred	1	XGBClassifier	ChemBERTa	Precision	0.60952
+Primary	ROR	Cred	4	XGBClassifier	ChemBERTa	Precision	0.59258
+Primary	ROR	Cred	3	XGBClassifier	ChemBERTa	Precision	0.57075
+Secondary	ROR	Cred	2	XGBClassifier	ChemBERTa	Precision	0.62305
+Secondary	ROR	Cred	0	XGBClassifier	ChemBERTa	Precision	0.50018
+Secondary	ROR	Cred	1	XGBClassifier	ChemBERTa	Precision	0.62071
+Secondary	ROR	Cred	4	XGBClassifier	ChemBERTa	Precision	0.59246
+Secondary	ROR	Cred	3	XGBClassifier	ChemBERTa	Precision	0.52576

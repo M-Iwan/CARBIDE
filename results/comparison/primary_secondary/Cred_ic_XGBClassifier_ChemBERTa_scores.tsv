@@ -1,0 +1,101 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Primary	IC	Cred	1	XGBClassifier	ChemBERTa	Balanced Accuracy	0.55366
+Primary	IC	Cred	0	XGBClassifier	ChemBERTa	Balanced Accuracy	0.54193
+Primary	IC	Cred	2	XGBClassifier	ChemBERTa	Balanced Accuracy	0.52433
+Primary	IC	Cred	4	XGBClassifier	ChemBERTa	Balanced Accuracy	0.58716
+Primary	IC	Cred	3	XGBClassifier	ChemBERTa	Balanced Accuracy	0.52413
+Secondary	IC	Cred	1	XGBClassifier	ChemBERTa	Balanced Accuracy	0.53997
+Secondary	IC	Cred	0	XGBClassifier	ChemBERTa	Balanced Accuracy	0.52262
+Secondary	IC	Cred	2	XGBClassifier	ChemBERTa	Balanced Accuracy	0.51044
+Secondary	IC	Cred	4	XGBClassifier	ChemBERTa	Balanced Accuracy	0.54171
+Secondary	IC	Cred	3	XGBClassifier	ChemBERTa	Balanced Accuracy	0.51304
+Primary	IC	Cred	1	XGBClassifier	ChemBERTa	GeomRS	0.54166
+Primary	IC	Cred	0	XGBClassifier	ChemBERTa	GeomRS	0.4791
+Primary	IC	Cred	2	XGBClassifier	ChemBERTa	GeomRS	0.50874
+Primary	IC	Cred	4	XGBClassifier	ChemBERTa	GeomRS	0.53144
+Primary	IC	Cred	3	XGBClassifier	ChemBERTa	GeomRS	0.48404
+Secondary	IC	Cred	1	XGBClassifier	ChemBERTa	GeomRS	0.50355
+Secondary	IC	Cred	0	XGBClassifier	ChemBERTa	GeomRS	0.37581
+Secondary	IC	Cred	2	XGBClassifier	ChemBERTa	GeomRS	0.45632
+Secondary	IC	Cred	4	XGBClassifier	ChemBERTa	GeomRS	0.43251
+Secondary	IC	Cred	3	XGBClassifier	ChemBERTa	GeomRS	0.43349
+Primary	IC	Cred	1	XGBClassifier	ChemBERTa	HarmRS	0.52993
+Primary	IC	Cred	0	XGBClassifier	ChemBERTa	HarmRS	0.42356
+Primary	IC	Cred	2	XGBClassifier	ChemBERTa	HarmRS	0.49362
+Primary	IC	Cred	4	XGBClassifier	ChemBERTa	HarmRS	0.481
+Primary	IC	Cred	3	XGBClassifier	ChemBERTa	HarmRS	0.44702
+Secondary	IC	Cred	1	XGBClassifier	ChemBERTa	HarmRS	0.46958
+Secondary	IC	Cred	0	XGBClassifier	ChemBERTa	HarmRS	0.27024
+Secondary	IC	Cred	2	XGBClassifier	ChemBERTa	HarmRS	0.40794
+Secondary	IC	Cred	4	XGBClassifier	ChemBERTa	HarmRS	0.34532
+Secondary	IC	Cred	3	XGBClassifier	ChemBERTa	HarmRS	0.36627
+Primary	IC	Cred	1	XGBClassifier	ChemBERTa	F1 Score	0.66308
+Primary	IC	Cred	0	XGBClassifier	ChemBERTa	F1 Score	0.66179
+Primary	IC	Cred	2	XGBClassifier	ChemBERTa	F1 Score	0.65297
+Primary	IC	Cred	4	XGBClassifier	ChemBERTa	F1 Score	0.71931
+Primary	IC	Cred	3	XGBClassifier	ChemBERTa	F1 Score	0.65701
+Secondary	IC	Cred	1	XGBClassifier	ChemBERTa	F1 Score	0.68668
+Secondary	IC	Cred	0	XGBClassifier	ChemBERTa	F1 Score	0.68028
+Secondary	IC	Cred	2	XGBClassifier	ChemBERTa	F1 Score	0.68806
+Secondary	IC	Cred	4	XGBClassifier	ChemBERTa	F1 Score	0.70905
+Secondary	IC	Cred	3	XGBClassifier	ChemBERTa	F1 Score	0.67594
+Primary	IC	Cred	1	XGBClassifier	ChemBERTa	ROC AUC	0.58124
+Primary	IC	Cred	0	XGBClassifier	ChemBERTa	ROC AUC	0.6055
+Primary	IC	Cred	2	XGBClassifier	ChemBERTa	ROC AUC	0.56224
+Primary	IC	Cred	4	XGBClassifier	ChemBERTa	ROC AUC	0.65756
+Primary	IC	Cred	3	XGBClassifier	ChemBERTa	ROC AUC	0.55092
+Secondary	IC	Cred	1	XGBClassifier	ChemBERTa	ROC AUC	0.57381
+Secondary	IC	Cred	0	XGBClassifier	ChemBERTa	ROC AUC	0.59932
+Secondary	IC	Cred	2	XGBClassifier	ChemBERTa	ROC AUC	0.55111
+Secondary	IC	Cred	4	XGBClassifier	ChemBERTa	ROC AUC	0.61053
+Secondary	IC	Cred	3	XGBClassifier	ChemBERTa	ROC AUC	0.54886
+Primary	IC	Cred	1	XGBClassifier	ChemBERTa	MCC	0.10786
+Primary	IC	Cred	0	XGBClassifier	ChemBERTa	MCC	0.09741
+Primary	IC	Cred	2	XGBClassifier	ChemBERTa	MCC	0.04856
+Primary	IC	Cred	4	XGBClassifier	ChemBERTa	MCC	0.20257
+Primary	IC	Cred	3	XGBClassifier	ChemBERTa	MCC	0.05217
+Secondary	IC	Cred	1	XGBClassifier	ChemBERTa	MCC	0.08514
+Secondary	IC	Cred	0	XGBClassifier	ChemBERTa	MCC	0.066
+Secondary	IC	Cred	2	XGBClassifier	ChemBERTa	MCC	0.02266
+Secondary	IC	Cred	4	XGBClassifier	ChemBERTa	MCC	0.1104
+Secondary	IC	Cred	3	XGBClassifier	ChemBERTa	MCC	0.03087
+Primary	IC	Cred	1	XGBClassifier	ChemBERTa	Accuracy	0.58061
+Primary	IC	Cred	0	XGBClassifier	ChemBERTa	Accuracy	0.56177
+Primary	IC	Cred	2	XGBClassifier	ChemBERTa	Accuracy	0.55909
+Primary	IC	Cred	4	XGBClassifier	ChemBERTa	Accuracy	0.62455
+Primary	IC	Cred	3	XGBClassifier	ChemBERTa	Accuracy	0.55788
+Secondary	IC	Cred	1	XGBClassifier	ChemBERTa	Accuracy	0.58581
+Secondary	IC	Cred	0	XGBClassifier	ChemBERTa	Accuracy	0.55107
+Secondary	IC	Cred	2	XGBClassifier	ChemBERTa	Accuracy	0.5731
+Secondary	IC	Cred	4	XGBClassifier	ChemBERTa	Accuracy	0.59055
+Secondary	IC	Cred	3	XGBClassifier	ChemBERTa	Accuracy	0.55911
+Primary	IC	Cred	1	XGBClassifier	ChemBERTa	Recall	0.66827
+Primary	IC	Cred	0	XGBClassifier	ChemBERTa	Recall	0.79521
+Primary	IC	Cred	2	XGBClassifier	ChemBERTa	Recall	0.65123
+Primary	IC	Cred	4	XGBClassifier	ChemBERTa	Recall	0.83683
+Primary	IC	Cred	3	XGBClassifier	ChemBERTa	Recall	0.72517
+Secondary	IC	Cred	1	XGBClassifier	ChemBERTa	Recall	0.73494
+Secondary	IC	Cred	0	XGBClassifier	ChemBERTa	Recall	0.88581
+Secondary	IC	Cred	2	XGBClassifier	ChemBERTa	Recall	0.73917
+Secondary	IC	Cred	4	XGBClassifier	ChemBERTa	Recall	0.86787
+Secondary	IC	Cred	3	XGBClassifier	ChemBERTa	Recall	0.78746
+Primary	IC	Cred	1	XGBClassifier	ChemBERTa	Specificity	0.43904
+Primary	IC	Cred	0	XGBClassifier	ChemBERTa	Specificity	0.28866
+Primary	IC	Cred	2	XGBClassifier	ChemBERTa	Specificity	0.39743
+Primary	IC	Cred	4	XGBClassifier	ChemBERTa	Specificity	0.33749
+Primary	IC	Cred	3	XGBClassifier	ChemBERTa	Specificity	0.3231
+Secondary	IC	Cred	1	XGBClassifier	ChemBERTa	Specificity	0.34501
+Secondary	IC	Cred	0	XGBClassifier	ChemBERTa	Specificity	0.15944
+Secondary	IC	Cred	2	XGBClassifier	ChemBERTa	Specificity	0.28171
+Secondary	IC	Cred	4	XGBClassifier	ChemBERTa	Specificity	0.21554
+Secondary	IC	Cred	3	XGBClassifier	ChemBERTa	Specificity	0.23863
+Primary	IC	Cred	1	XGBClassifier	ChemBERTa	Precision	0.65797
+Primary	IC	Cred	0	XGBClassifier	ChemBERTa	Precision	0.5667
+Primary	IC	Cred	2	XGBClassifier	ChemBERTa	Precision	0.65472
+Primary	IC	Cred	4	XGBClassifier	ChemBERTa	Precision	0.63073
+Primary	IC	Cred	3	XGBClassifier	ChemBERTa	Precision	0.60056
+Secondary	IC	Cred	1	XGBClassifier	ChemBERTa	Precision	0.64437
+Secondary	IC	Cred	0	XGBClassifier	ChemBERTa	Precision	0.55216
+Secondary	IC	Cred	2	XGBClassifier	ChemBERTa	Precision	0.64356
+Secondary	IC	Cred	4	XGBClassifier	ChemBERTa	Precision	0.59936
+Secondary	IC	Cred	3	XGBClassifier	ChemBERTa	Precision	0.59209

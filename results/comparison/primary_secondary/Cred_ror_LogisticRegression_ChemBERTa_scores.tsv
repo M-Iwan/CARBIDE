@@ -1,0 +1,101 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Primary	ROR	Cred	0	LogisticRegression	ChemBERTa	Balanced Accuracy	0.51205
+Primary	ROR	Cred	1	LogisticRegression	ChemBERTa	Balanced Accuracy	0.50608
+Primary	ROR	Cred	4	LogisticRegression	ChemBERTa	Balanced Accuracy	0.54319
+Primary	ROR	Cred	3	LogisticRegression	ChemBERTa	Balanced Accuracy	0.48958
+Primary	ROR	Cred	2	LogisticRegression	ChemBERTa	Balanced Accuracy	0.48944
+Secondary	ROR	Cred	0	LogisticRegression	ChemBERTa	Balanced Accuracy	0.51435
+Secondary	ROR	Cred	1	LogisticRegression	ChemBERTa	Balanced Accuracy	0.52404
+Secondary	ROR	Cred	4	LogisticRegression	ChemBERTa	Balanced Accuracy	0.48928
+Secondary	ROR	Cred	3	LogisticRegression	ChemBERTa	Balanced Accuracy	0.5189
+Secondary	ROR	Cred	2	LogisticRegression	ChemBERTa	Balanced Accuracy	0.46784
+Primary	ROR	Cred	0	LogisticRegression	ChemBERTa	GeomRS	0.51193
+Primary	ROR	Cred	1	LogisticRegression	ChemBERTa	GeomRS	0.50028
+Primary	ROR	Cred	4	LogisticRegression	ChemBERTa	GeomRS	0.543
+Primary	ROR	Cred	3	LogisticRegression	ChemBERTa	GeomRS	0.48958
+Primary	ROR	Cred	2	LogisticRegression	ChemBERTa	GeomRS	0.48944
+Secondary	ROR	Cred	0	LogisticRegression	ChemBERTa	GeomRS	0.51413
+Secondary	ROR	Cred	1	LogisticRegression	ChemBERTa	GeomRS	0.51548
+Secondary	ROR	Cred	4	LogisticRegression	ChemBERTa	GeomRS	0.48533
+Secondary	ROR	Cred	3	LogisticRegression	ChemBERTa	GeomRS	0.49842
+Secondary	ROR	Cred	2	LogisticRegression	ChemBERTa	GeomRS	0.46716
+Primary	ROR	Cred	0	LogisticRegression	ChemBERTa	HarmRS	0.51182
+Primary	ROR	Cred	1	LogisticRegression	ChemBERTa	HarmRS	0.49456
+Primary	ROR	Cred	4	LogisticRegression	ChemBERTa	HarmRS	0.5428
+Primary	ROR	Cred	3	LogisticRegression	ChemBERTa	HarmRS	0.48958
+Primary	ROR	Cred	2	LogisticRegression	ChemBERTa	HarmRS	0.48944
+Secondary	ROR	Cred	0	LogisticRegression	ChemBERTa	HarmRS	0.5139
+Secondary	ROR	Cred	1	LogisticRegression	ChemBERTa	HarmRS	0.50706
+Secondary	ROR	Cred	4	LogisticRegression	ChemBERTa	HarmRS	0.48141
+Secondary	ROR	Cred	3	LogisticRegression	ChemBERTa	HarmRS	0.47875
+Secondary	ROR	Cred	2	LogisticRegression	ChemBERTa	HarmRS	0.46648
+Primary	ROR	Cred	0	LogisticRegression	ChemBERTa	F1 Score	0.49396
+Primary	ROR	Cred	1	LogisticRegression	ChemBERTa	F1 Score	0.48777
+Primary	ROR	Cred	4	LogisticRegression	ChemBERTa	F1 Score	0.55761
+Primary	ROR	Cred	3	LogisticRegression	ChemBERTa	F1 Score	0.50176
+Primary	ROR	Cred	2	LogisticRegression	ChemBERTa	F1 Score	0.5259
+Secondary	ROR	Cred	0	LogisticRegression	ChemBERTa	F1 Score	0.49415
+Secondary	ROR	Cred	1	LogisticRegression	ChemBERTa	F1 Score	0.49581
+Secondary	ROR	Cred	4	LogisticRegression	ChemBERTa	F1 Score	0.52776
+Secondary	ROR	Cred	3	LogisticRegression	ChemBERTa	F1 Score	0.44633
+Secondary	ROR	Cred	2	LogisticRegression	ChemBERTa	F1 Score	0.51989
+Primary	ROR	Cred	0	LogisticRegression	ChemBERTa	ROC AUC	0.52941
+Primary	ROR	Cred	1	LogisticRegression	ChemBERTa	ROC AUC	0.49195
+Primary	ROR	Cred	4	LogisticRegression	ChemBERTa	ROC AUC	0.54786
+Primary	ROR	Cred	3	LogisticRegression	ChemBERTa	ROC AUC	0.49244
+Primary	ROR	Cred	2	LogisticRegression	ChemBERTa	ROC AUC	0.48866
+Secondary	ROR	Cred	0	LogisticRegression	ChemBERTa	ROC AUC	0.48988
+Secondary	ROR	Cred	1	LogisticRegression	ChemBERTa	ROC AUC	0.49546
+Secondary	ROR	Cred	4	LogisticRegression	ChemBERTa	ROC AUC	0.48564
+Secondary	ROR	Cred	3	LogisticRegression	ChemBERTa	ROC AUC	0.5066
+Secondary	ROR	Cred	2	LogisticRegression	ChemBERTa	ROC AUC	0.47888
+Primary	ROR	Cred	0	LogisticRegression	ChemBERTa	MCC	0.02407
+Primary	ROR	Cred	1	LogisticRegression	ChemBERTa	MCC	0.01222
+Primary	ROR	Cred	4	LogisticRegression	ChemBERTa	MCC	0.08639
+Primary	ROR	Cred	3	LogisticRegression	ChemBERTa	MCC	-0.02081
+Primary	ROR	Cred	2	LogisticRegression	ChemBERTa	MCC	-0.02084
+Secondary	ROR	Cred	0	LogisticRegression	ChemBERTa	MCC	0.02869
+Secondary	ROR	Cred	1	LogisticRegression	ChemBERTa	MCC	0.04859
+Secondary	ROR	Cred	4	LogisticRegression	ChemBERTa	MCC	-0.0216
+Secondary	ROR	Cred	3	LogisticRegression	ChemBERTa	MCC	0.0394
+Secondary	ROR	Cred	2	LogisticRegression	ChemBERTa	MCC	-0.06354
+Primary	ROR	Cred	0	LogisticRegression	ChemBERTa	Accuracy	0.51259
+Primary	ROR	Cred	1	LogisticRegression	ChemBERTa	Accuracy	0.49739
+Primary	ROR	Cred	4	LogisticRegression	ChemBERTa	Accuracy	0.54365
+Primary	ROR	Cred	3	LogisticRegression	ChemBERTa	Accuracy	0.48955
+Primary	ROR	Cred	2	LogisticRegression	ChemBERTa	Accuracy	0.48929
+Secondary	ROR	Cred	0	LogisticRegression	ChemBERTa	Accuracy	0.51513
+Secondary	ROR	Cred	1	LogisticRegression	ChemBERTa	Accuracy	0.51331
+Secondary	ROR	Cred	4	LogisticRegression	ChemBERTa	Accuracy	0.49122
+Secondary	ROR	Cred	3	LogisticRegression	ChemBERTa	Accuracy	0.51148
+Secondary	ROR	Cred	2	LogisticRegression	ChemBERTa	Accuracy	0.47188
+Primary	ROR	Cred	0	LogisticRegression	ChemBERTa	Recall	0.50134
+Primary	ROR	Cred	1	LogisticRegression	ChemBERTa	Recall	0.42971
+Primary	ROR	Cred	4	LogisticRegression	ChemBERTa	Recall	0.55775
+Primary	ROR	Cred	3	LogisticRegression	ChemBERTa	Recall	0.48895
+Primary	ROR	Cred	2	LogisticRegression	ChemBERTa	Recall	0.48845
+Secondary	ROR	Cred	0	LogisticRegression	ChemBERTa	Recall	0.49911
+Secondary	ROR	Cred	1	LogisticRegression	ChemBERTa	Recall	0.42971
+Secondary	ROR	Cred	4	LogisticRegression	ChemBERTa	Recall	0.55133
+Secondary	ROR	Cred	3	LogisticRegression	ChemBERTa	Recall	0.37457
+Secondary	ROR	Cred	2	LogisticRegression	ChemBERTa	Recall	0.49307
+Primary	ROR	Cred	0	LogisticRegression	ChemBERTa	Specificity	0.52275
+Primary	ROR	Cred	1	LogisticRegression	ChemBERTa	Specificity	0.58245
+Primary	ROR	Cred	4	LogisticRegression	ChemBERTa	Specificity	0.52864
+Primary	ROR	Cred	3	LogisticRegression	ChemBERTa	Specificity	0.49021
+Primary	ROR	Cred	2	LogisticRegression	ChemBERTa	Specificity	0.49044
+Secondary	ROR	Cred	0	LogisticRegression	ChemBERTa	Specificity	0.5296
+Secondary	ROR	Cred	1	LogisticRegression	ChemBERTa	Specificity	0.61837
+Secondary	ROR	Cred	4	LogisticRegression	ChemBERTa	Specificity	0.42722
+Secondary	ROR	Cred	3	LogisticRegression	ChemBERTa	Specificity	0.66322
+Secondary	ROR	Cred	2	LogisticRegression	ChemBERTa	Specificity	0.44261
+Primary	ROR	Cred	0	LogisticRegression	ChemBERTa	Precision	0.48679
+Primary	ROR	Cred	1	LogisticRegression	ChemBERTa	Precision	0.56396
+Primary	ROR	Cred	4	LogisticRegression	ChemBERTa	Precision	0.55747
+Primary	ROR	Cred	3	LogisticRegression	ChemBERTa	Precision	0.51526
+Primary	ROR	Cred	2	LogisticRegression	ChemBERTa	Precision	0.56957
+Secondary	ROR	Cred	0	LogisticRegression	ChemBERTa	Precision	0.48929
+Secondary	ROR	Cred	1	LogisticRegression	ChemBERTa	Precision	0.58594
+Secondary	ROR	Cred	4	LogisticRegression	ChemBERTa	Precision	0.50612
+Secondary	ROR	Cred	3	LogisticRegression	ChemBERTa	Precision	0.5521
+Secondary	ROR	Cred	2	LogisticRegression	ChemBERTa	Precision	0.54979

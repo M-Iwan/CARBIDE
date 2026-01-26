@@ -1,0 +1,101 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Primary	IC	Cred	0	LogisticRegression	RDKit	Balanced Accuracy	0.57795
+Primary	IC	Cred	1	LogisticRegression	RDKit	Balanced Accuracy	0.55893
+Primary	IC	Cred	2	LogisticRegression	RDKit	Balanced Accuracy	0.51654
+Primary	IC	Cred	4	LogisticRegression	RDKit	Balanced Accuracy	0.57454
+Primary	IC	Cred	3	LogisticRegression	RDKit	Balanced Accuracy	0.54091
+Secondary	IC	Cred	0	LogisticRegression	RDKit	Balanced Accuracy	0.56703
+Secondary	IC	Cred	1	LogisticRegression	RDKit	Balanced Accuracy	0.52833
+Secondary	IC	Cred	2	LogisticRegression	RDKit	Balanced Accuracy	0.51919
+Secondary	IC	Cred	4	LogisticRegression	RDKit	Balanced Accuracy	0.56818
+Secondary	IC	Cred	3	LogisticRegression	RDKit	Balanced Accuracy	0.52688
+Primary	IC	Cred	0	LogisticRegression	RDKit	GeomRS	0.5381
+Primary	IC	Cred	1	LogisticRegression	RDKit	GeomRS	0.55294
+Primary	IC	Cred	2	LogisticRegression	RDKit	GeomRS	0.49263
+Primary	IC	Cred	4	LogisticRegression	RDKit	GeomRS	0.54143
+Primary	IC	Cred	3	LogisticRegression	RDKit	GeomRS	0.52495
+Secondary	IC	Cred	0	LogisticRegression	RDKit	GeomRS	0.47196
+Secondary	IC	Cred	1	LogisticRegression	RDKit	GeomRS	0.4955
+Secondary	IC	Cred	2	LogisticRegression	RDKit	GeomRS	0.46229
+Secondary	IC	Cred	4	LogisticRegression	RDKit	GeomRS	0.49079
+Secondary	IC	Cred	3	LogisticRegression	RDKit	GeomRS	0.49066
+Primary	IC	Cred	0	LogisticRegression	RDKit	HarmRS	0.501
+Primary	IC	Cred	1	LogisticRegression	RDKit	HarmRS	0.54701
+Primary	IC	Cred	2	LogisticRegression	RDKit	HarmRS	0.46982
+Primary	IC	Cred	4	LogisticRegression	RDKit	HarmRS	0.51022
+Primary	IC	Cred	3	LogisticRegression	RDKit	HarmRS	0.50947
+Secondary	IC	Cred	0	LogisticRegression	RDKit	HarmRS	0.39282
+Secondary	IC	Cred	1	LogisticRegression	RDKit	HarmRS	0.46472
+Secondary	IC	Cred	2	LogisticRegression	RDKit	HarmRS	0.41163
+Secondary	IC	Cred	4	LogisticRegression	RDKit	HarmRS	0.42394
+Secondary	IC	Cred	3	LogisticRegression	RDKit	HarmRS	0.45693
+Primary	IC	Cred	0	LogisticRegression	RDKit	F1 Score	0.67717
+Primary	IC	Cred	1	LogisticRegression	RDKit	F1 Score	0.65222
+Primary	IC	Cred	2	LogisticRegression	RDKit	F1 Score	0.66001
+Primary	IC	Cred	4	LogisticRegression	RDKit	F1 Score	0.68968
+Primary	IC	Cred	3	LogisticRegression	RDKit	F1 Score	0.64198
+Secondary	IC	Cred	0	LogisticRegression	RDKit	F1 Score	0.69945
+Secondary	IC	Cred	1	LogisticRegression	RDKit	F1 Score	0.67223
+Secondary	IC	Cred	2	LogisticRegression	RDKit	F1 Score	0.69817
+Secondary	IC	Cred	4	LogisticRegression	RDKit	F1 Score	0.71637
+Secondary	IC	Cred	3	LogisticRegression	RDKit	F1 Score	0.65566
+Primary	IC	Cred	0	LogisticRegression	RDKit	ROC AUC	0.60892
+Primary	IC	Cred	1	LogisticRegression	RDKit	ROC AUC	0.57847
+Primary	IC	Cred	2	LogisticRegression	RDKit	ROC AUC	0.56283
+Primary	IC	Cred	4	LogisticRegression	RDKit	ROC AUC	0.62778
+Primary	IC	Cred	3	LogisticRegression	RDKit	ROC AUC	0.57218
+Secondary	IC	Cred	0	LogisticRegression	RDKit	ROC AUC	0.6525
+Secondary	IC	Cred	1	LogisticRegression	RDKit	ROC AUC	0.56962
+Secondary	IC	Cred	2	LogisticRegression	RDKit	ROC AUC	0.5715
+Secondary	IC	Cred	4	LogisticRegression	RDKit	ROC AUC	0.62221
+Secondary	IC	Cred	3	LogisticRegression	RDKit	ROC AUC	0.56274
+Primary	IC	Cred	0	LogisticRegression	RDKit	MCC	0.17252
+Primary	IC	Cred	1	LogisticRegression	RDKit	MCC	0.11671
+Primary	IC	Cred	2	LogisticRegression	RDKit	MCC	0.03358
+Primary	IC	Cred	4	LogisticRegression	RDKit	MCC	0.16135
+Primary	IC	Cred	3	LogisticRegression	RDKit	MCC	0.08387
+Secondary	IC	Cred	0	LogisticRegression	RDKit	MCC	0.17376
+Secondary	IC	Cred	1	LogisticRegression	RDKit	MCC	0.05953
+Secondary	IC	Cred	2	LogisticRegression	RDKit	MCC	0.04215
+Secondary	IC	Cred	4	LogisticRegression	RDKit	MCC	0.16742
+Secondary	IC	Cred	3	LogisticRegression	RDKit	MCC	0.05764
+Primary	IC	Cred	0	LogisticRegression	RDKit	Accuracy	0.59447
+Primary	IC	Cred	1	LogisticRegression	RDKit	Accuracy	0.57812
+Primary	IC	Cred	2	LogisticRegression	RDKit	Accuracy	0.55909
+Primary	IC	Cred	4	LogisticRegression	RDKit	Accuracy	0.60333
+Primary	IC	Cred	3	LogisticRegression	RDKit	Accuracy	0.56279
+Secondary	IC	Cred	0	LogisticRegression	RDKit	Accuracy	0.59164
+Secondary	IC	Cred	1	LogisticRegression	RDKit	Accuracy	0.57143
+Secondary	IC	Cred	2	LogisticRegression	RDKit	Accuracy	0.58392
+Secondary	IC	Cred	4	LogisticRegression	RDKit	Accuracy	0.61104
+Secondary	IC	Cred	3	LogisticRegression	RDKit	Accuracy	0.55911
+Primary	IC	Cred	0	LogisticRegression	RDKit	Recall	0.78884
+Primary	IC	Cred	1	LogisticRegression	RDKit	Recall	0.64056
+Primary	IC	Cred	2	LogisticRegression	RDKit	Recall	0.67189
+Primary	IC	Cred	4	LogisticRegression	RDKit	Recall	0.76678
+Primary	IC	Cred	3	LogisticRegression	RDKit	Recall	0.6713
+Secondary	IC	Cred	0	LogisticRegression	RDKit	Recall	0.88132
+Secondary	IC	Cred	1	LogisticRegression	RDKit	Recall	0.71165
+Secondary	IC	Cred	2	LogisticRegression	RDKit	Recall	0.7555
+Secondary	IC	Cred	4	LogisticRegression	RDKit	Recall	0.85445
+Secondary	IC	Cred	3	LogisticRegression	RDKit	Recall	0.71886
+Primary	IC	Cred	0	LogisticRegression	RDKit	Specificity	0.36706
+Primary	IC	Cred	1	LogisticRegression	RDKit	Specificity	0.4773
+Primary	IC	Cred	2	LogisticRegression	RDKit	Specificity	0.36119
+Primary	IC	Cred	4	LogisticRegression	RDKit	Specificity	0.3823
+Primary	IC	Cred	3	LogisticRegression	RDKit	Specificity	0.41051
+Secondary	IC	Cred	0	LogisticRegression	RDKit	Specificity	0.25274
+Secondary	IC	Cred	1	LogisticRegression	RDKit	Specificity	0.34501
+Secondary	IC	Cred	2	LogisticRegression	RDKit	Specificity	0.28288
+Secondary	IC	Cred	4	LogisticRegression	RDKit	Specificity	0.28191
+Secondary	IC	Cred	3	LogisticRegression	RDKit	Specificity	0.33491
+Primary	IC	Cred	0	LogisticRegression	RDKit	Precision	0.59319
+Primary	IC	Cred	1	LogisticRegression	RDKit	Precision	0.66431
+Primary	IC	Cred	2	LogisticRegression	RDKit	Precision	0.64855
+Primary	IC	Cred	4	LogisticRegression	RDKit	Precision	0.62667
+Primary	IC	Cred	3	LogisticRegression	RDKit	Precision	0.61512
+Secondary	IC	Cred	0	LogisticRegression	RDKit	Precision	0.5798
+Secondary	IC	Cred	1	LogisticRegression	RDKit	Precision	0.63695
+Secondary	IC	Cred	2	LogisticRegression	RDKit	Precision	0.64893
+Secondary	IC	Cred	4	LogisticRegression	RDKit	Precision	0.61671
+Secondary	IC	Cred	3	LogisticRegression	RDKit	Precision	0.60268

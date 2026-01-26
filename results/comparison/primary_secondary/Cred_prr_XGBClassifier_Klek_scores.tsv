@@ -1,0 +1,101 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Primary	PRR	Cred	1	XGBClassifier	Klek	Balanced Accuracy	0.54768
+Primary	PRR	Cred	0	XGBClassifier	Klek	Balanced Accuracy	0.59497
+Primary	PRR	Cred	3	XGBClassifier	Klek	Balanced Accuracy	0.56272
+Primary	PRR	Cred	2	XGBClassifier	Klek	Balanced Accuracy	0.61664
+Primary	PRR	Cred	4	XGBClassifier	Klek	Balanced Accuracy	0.57323
+Secondary	PRR	Cred	1	XGBClassifier	Klek	Balanced Accuracy	0.54901
+Secondary	PRR	Cred	0	XGBClassifier	Klek	Balanced Accuracy	0.63907
+Secondary	PRR	Cred	3	XGBClassifier	Klek	Balanced Accuracy	0.57017
+Secondary	PRR	Cred	2	XGBClassifier	Klek	Balanced Accuracy	0.60613
+Secondary	PRR	Cred	4	XGBClassifier	Klek	Balanced Accuracy	0.5713
+Primary	PRR	Cred	1	XGBClassifier	Klek	GeomRS	0.53641
+Primary	PRR	Cred	0	XGBClassifier	Klek	GeomRS	0.58728
+Primary	PRR	Cred	3	XGBClassifier	Klek	GeomRS	0.55418
+Primary	PRR	Cred	2	XGBClassifier	Klek	GeomRS	0.61345
+Primary	PRR	Cred	4	XGBClassifier	Klek	GeomRS	0.5688
+Secondary	PRR	Cred	1	XGBClassifier	Klek	GeomRS	0.54615
+Secondary	PRR	Cred	0	XGBClassifier	Klek	GeomRS	0.63683
+Secondary	PRR	Cred	3	XGBClassifier	Klek	GeomRS	0.57013
+Secondary	PRR	Cred	2	XGBClassifier	Klek	GeomRS	0.60601
+Secondary	PRR	Cred	4	XGBClassifier	Klek	GeomRS	0.57087
+Primary	PRR	Cred	1	XGBClassifier	Klek	HarmRS	0.52536
+Primary	PRR	Cred	0	XGBClassifier	Klek	HarmRS	0.57969
+Primary	PRR	Cred	3	XGBClassifier	Klek	HarmRS	0.54577
+Primary	PRR	Cred	2	XGBClassifier	Klek	HarmRS	0.61027
+Primary	PRR	Cred	4	XGBClassifier	Klek	HarmRS	0.5644
+Secondary	PRR	Cred	1	XGBClassifier	Klek	HarmRS	0.54329
+Secondary	PRR	Cred	0	XGBClassifier	Klek	HarmRS	0.6346
+Secondary	PRR	Cred	3	XGBClassifier	Klek	HarmRS	0.57008
+Secondary	PRR	Cred	2	XGBClassifier	Klek	HarmRS	0.6059
+Secondary	PRR	Cred	4	XGBClassifier	Klek	HarmRS	0.57044
+Primary	PRR	Cred	1	XGBClassifier	Klek	F1 Score	0.53021
+Primary	PRR	Cred	0	XGBClassifier	Klek	F1 Score	0.56633
+Primary	PRR	Cred	3	XGBClassifier	Klek	F1 Score	0.54487
+Primary	PRR	Cred	2	XGBClassifier	Klek	F1 Score	0.6379
+Primary	PRR	Cred	4	XGBClassifier	Klek	F1 Score	0.56892
+Secondary	PRR	Cred	1	XGBClassifier	Klek	F1 Score	0.5674
+Secondary	PRR	Cred	0	XGBClassifier	Klek	F1 Score	0.67667
+Secondary	PRR	Cred	3	XGBClassifier	Klek	F1 Score	0.61141
+Secondary	PRR	Cred	2	XGBClassifier	Klek	F1 Score	0.65588
+Secondary	PRR	Cred	4	XGBClassifier	Klek	F1 Score	0.61602
+Primary	PRR	Cred	1	XGBClassifier	Klek	ROC AUC	0.56453
+Primary	PRR	Cred	0	XGBClassifier	Klek	ROC AUC	0.64401
+Primary	PRR	Cred	3	XGBClassifier	Klek	ROC AUC	0.59105
+Primary	PRR	Cred	2	XGBClassifier	Klek	ROC AUC	0.65476
+Primary	PRR	Cred	4	XGBClassifier	Klek	ROC AUC	0.60547
+Secondary	PRR	Cred	1	XGBClassifier	Klek	ROC AUC	0.58551
+Secondary	PRR	Cred	0	XGBClassifier	Klek	ROC AUC	0.69028
+Secondary	PRR	Cred	3	XGBClassifier	Klek	ROC AUC	0.58673
+Secondary	PRR	Cred	2	XGBClassifier	Klek	ROC AUC	0.64332
+Secondary	PRR	Cred	4	XGBClassifier	Klek	ROC AUC	0.60052
+Primary	PRR	Cred	1	XGBClassifier	Klek	MCC	0.09458
+Primary	PRR	Cred	0	XGBClassifier	Klek	MCC	0.19236
+Primary	PRR	Cred	3	XGBClassifier	Klek	MCC	0.12557
+Primary	PRR	Cred	2	XGBClassifier	Klek	MCC	0.22481
+Primary	PRR	Cred	4	XGBClassifier	Klek	MCC	0.14586
+Secondary	PRR	Cred	1	XGBClassifier	Klek	MCC	0.09566
+Secondary	PRR	Cred	0	XGBClassifier	Klek	MCC	0.27961
+Secondary	PRR	Cred	3	XGBClassifier	Klek	MCC	0.13846
+Secondary	PRR	Cred	2	XGBClassifier	Klek	MCC	0.20428
+Secondary	PRR	Cred	4	XGBClassifier	Klek	MCC	0.1413
+Primary	PRR	Cred	1	XGBClassifier	Klek	Accuracy	0.52171
+Primary	PRR	Cred	0	XGBClassifier	Klek	Accuracy	0.58752
+Primary	PRR	Cred	3	XGBClassifier	Klek	Accuracy	0.54633
+Primary	PRR	Cred	2	XGBClassifier	Klek	Accuracy	0.59949
+Primary	PRR	Cred	4	XGBClassifier	Klek	Accuracy	0.56258
+Secondary	PRR	Cred	1	XGBClassifier	Klek	Accuracy	0.53585
+Secondary	PRR	Cred	0	XGBClassifier	Klek	Accuracy	0.64325
+Secondary	PRR	Cred	3	XGBClassifier	Klek	Accuracy	0.57139
+Secondary	PRR	Cred	2	XGBClassifier	Klek	Accuracy	0.60289
+Secondary	PRR	Cred	4	XGBClassifier	Klek	Accuracy	0.57463
+Primary	PRR	Cred	1	XGBClassifier	Klek	Recall	0.43712
+Primary	PRR	Cred	0	XGBClassifier	Klek	Recall	0.49963
+Primary	PRR	Cred	3	XGBClassifier	Klek	Recall	0.46507
+Primary	PRR	Cred	2	XGBClassifier	Klek	Recall	0.55396
+Primary	PRR	Cred	4	XGBClassifier	Klek	Recall	0.5021
+Secondary	PRR	Cred	1	XGBClassifier	Klek	Recall	0.49297
+Secondary	PRR	Cred	0	XGBClassifier	Klek	Recall	0.69251
+Secondary	PRR	Cred	3	XGBClassifier	Klek	Recall	0.57744
+Secondary	PRR	Cred	2	XGBClassifier	Klek	Recall	0.59427
+Secondary	PRR	Cred	4	XGBClassifier	Klek	Recall	0.59354
+Primary	PRR	Cred	1	XGBClassifier	Klek	Specificity	0.65824
+Primary	PRR	Cred	0	XGBClassifier	Klek	Specificity	0.69032
+Primary	PRR	Cred	3	XGBClassifier	Klek	Specificity	0.66037
+Primary	PRR	Cred	2	XGBClassifier	Klek	Specificity	0.67932
+Primary	PRR	Cred	4	XGBClassifier	Klek	Specificity	0.64436
+Secondary	PRR	Cred	1	XGBClassifier	Klek	Specificity	0.60506
+Secondary	PRR	Cred	0	XGBClassifier	Klek	Specificity	0.58563
+Secondary	PRR	Cred	3	XGBClassifier	Klek	Specificity	0.56291
+Secondary	PRR	Cred	2	XGBClassifier	Klek	Specificity	0.61799
+Secondary	PRR	Cred	4	XGBClassifier	Klek	Specificity	0.54906
+Primary	PRR	Cred	1	XGBClassifier	Klek	Precision	0.67368
+Primary	PRR	Cred	0	XGBClassifier	Klek	Precision	0.6536
+Primary	PRR	Cred	3	XGBClassifier	Klek	Precision	0.65774
+Primary	PRR	Cred	2	XGBClassifier	Klek	Precision	0.75181
+Primary	PRR	Cred	4	XGBClassifier	Klek	Precision	0.65625
+Secondary	PRR	Cred	1	XGBClassifier	Klek	Precision	0.6683
+Secondary	PRR	Cred	0	XGBClassifier	Klek	Precision	0.66154
+Secondary	PRR	Cred	3	XGBClassifier	Klek	Precision	0.64962
+Secondary	PRR	Cred	2	XGBClassifier	Klek	Precision	0.73175
+Secondary	PRR	Cred	4	XGBClassifier	Klek	Precision	0.64027

@@ -1,0 +1,151 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Primary	IC	Cred	0	RandomForestClassifier	Klek	Balanced Accuracy	0.53966
+Primary	IC	Cred	1	RandomForestClassifier	Klek	Balanced Accuracy	0.55554
+Primary	IC	Cred	2	RandomForestClassifier	Klek	Balanced Accuracy	0.60473
+Primary	IC	Cred	3	RandomForestClassifier	Klek	Balanced Accuracy	0.52835
+Primary	IC	Cred	4	RandomForestClassifier	Klek	Balanced Accuracy	0.56744
+Primary	IC	Card	0	RandomForestClassifier	Klek	Balanced Accuracy	0.5266
+Primary	IC	Card	1	RandomForestClassifier	Klek	Balanced Accuracy	0.5491
+Primary	IC	Card	2	RandomForestClassifier	Klek	Balanced Accuracy	0.59267
+Primary	IC	Card	3	RandomForestClassifier	Klek	Balanced Accuracy	0.52142
+Primary	IC	Card	4	RandomForestClassifier	Klek	Balanced Accuracy	0.55254
+Primary	IC	Cvas	0	RandomForestClassifier	Klek	Balanced Accuracy	0.55303
+Primary	IC	Cvas	1	RandomForestClassifier	Klek	Balanced Accuracy	0.53639
+Primary	IC	Cvas	2	RandomForestClassifier	Klek	Balanced Accuracy	0.573
+Primary	IC	Cvas	3	RandomForestClassifier	Klek	Balanced Accuracy	0.51886
+Primary	IC	Cvas	4	RandomForestClassifier	Klek	Balanced Accuracy	0.54285
+Primary	IC	Cred	0	RandomForestClassifier	Klek	GeomRS	0.46363
+Primary	IC	Cred	1	RandomForestClassifier	Klek	GeomRS	0.54339
+Primary	IC	Cred	2	RandomForestClassifier	Klek	GeomRS	0.58706
+Primary	IC	Cred	3	RandomForestClassifier	Klek	GeomRS	0.41933
+Primary	IC	Cred	4	RandomForestClassifier	Klek	GeomRS	0.53635
+Primary	IC	Card	0	RandomForestClassifier	Klek	GeomRS	0.39123
+Primary	IC	Card	1	RandomForestClassifier	Klek	GeomRS	0.53617
+Primary	IC	Card	2	RandomForestClassifier	Klek	GeomRS	0.55828
+Primary	IC	Card	3	RandomForestClassifier	Klek	GeomRS	0.43347
+Primary	IC	Card	4	RandomForestClassifier	Klek	GeomRS	0.49578
+Primary	IC	Cvas	0	RandomForestClassifier	Klek	GeomRS	0.49072
+Primary	IC	Cvas	1	RandomForestClassifier	Klek	GeomRS	0.52293
+Primary	IC	Cvas	2	RandomForestClassifier	Klek	GeomRS	0.54121
+Primary	IC	Cvas	3	RandomForestClassifier	Klek	GeomRS	0.43087
+Primary	IC	Cvas	4	RandomForestClassifier	Klek	GeomRS	0.50919
+Primary	IC	Cred	0	RandomForestClassifier	Klek	HarmRS	0.39831
+Primary	IC	Cred	1	RandomForestClassifier	Klek	HarmRS	0.5315
+Primary	IC	Cred	2	RandomForestClassifier	Klek	HarmRS	0.56991
+Primary	IC	Cred	3	RandomForestClassifier	Klek	HarmRS	0.3328
+Primary	IC	Cred	4	RandomForestClassifier	Klek	HarmRS	0.50696
+Primary	IC	Card	0	RandomForestClassifier	Klek	HarmRS	0.29066
+Primary	IC	Card	1	RandomForestClassifier	Klek	HarmRS	0.52354
+Primary	IC	Card	2	RandomForestClassifier	Klek	HarmRS	0.52588
+Primary	IC	Card	3	RandomForestClassifier	Klek	HarmRS	0.36036
+Primary	IC	Card	4	RandomForestClassifier	Klek	HarmRS	0.44485
+Primary	IC	Cvas	0	RandomForestClassifier	Klek	HarmRS	0.43544
+Primary	IC	Cvas	1	RandomForestClassifier	Klek	HarmRS	0.5098
+Primary	IC	Cvas	2	RandomForestClassifier	Klek	HarmRS	0.51119
+Primary	IC	Cvas	3	RandomForestClassifier	Klek	HarmRS	0.35779
+Primary	IC	Cvas	4	RandomForestClassifier	Klek	HarmRS	0.47761
+Primary	IC	Cred	0	RandomForestClassifier	Klek	F1 Score	0.67685
+Primary	IC	Cred	1	RandomForestClassifier	Klek	F1 Score	0.6791
+Primary	IC	Cred	2	RandomForestClassifier	Klek	F1 Score	0.73006
+Primary	IC	Cred	3	RandomForestClassifier	Klek	F1 Score	0.71678
+Primary	IC	Cred	4	RandomForestClassifier	Klek	F1 Score	0.69457
+Primary	IC	Card	0	RandomForestClassifier	Klek	F1 Score	0.69053
+Primary	IC	Card	1	RandomForestClassifier	Klek	F1 Score	0.67499
+Primary	IC	Card	2	RandomForestClassifier	Klek	F1 Score	0.74224
+Primary	IC	Card	3	RandomForestClassifier	Klek	F1 Score	0.70044
+Primary	IC	Card	4	RandomForestClassifier	Klek	F1 Score	0.70467
+Primary	IC	Cvas	0	RandomForestClassifier	Klek	F1 Score	0.68045
+Primary	IC	Cvas	1	RandomForestClassifier	Klek	F1 Score	0.66455
+Primary	IC	Cvas	2	RandomForestClassifier	Klek	F1 Score	0.72231
+Primary	IC	Cvas	3	RandomForestClassifier	Klek	F1 Score	0.69825
+Primary	IC	Cvas	4	RandomForestClassifier	Klek	F1 Score	0.67557
+Primary	IC	Cred	0	RandomForestClassifier	Klek	ROC AUC	0.63446
+Primary	IC	Cred	1	RandomForestClassifier	Klek	ROC AUC	0.56989
+Primary	IC	Cred	2	RandomForestClassifier	Klek	ROC AUC	0.65238
+Primary	IC	Cred	3	RandomForestClassifier	Klek	ROC AUC	0.57577
+Primary	IC	Cred	4	RandomForestClassifier	Klek	ROC AUC	0.63165
+Primary	IC	Card	0	RandomForestClassifier	Klek	ROC AUC	0.63284
+Primary	IC	Card	1	RandomForestClassifier	Klek	ROC AUC	0.56052
+Primary	IC	Card	2	RandomForestClassifier	Klek	ROC AUC	0.64742
+Primary	IC	Card	3	RandomForestClassifier	Klek	ROC AUC	0.57782
+Primary	IC	Card	4	RandomForestClassifier	Klek	ROC AUC	0.61463
+Primary	IC	Cvas	0	RandomForestClassifier	Klek	ROC AUC	0.63476
+Primary	IC	Cvas	1	RandomForestClassifier	Klek	ROC AUC	0.55335
+Primary	IC	Cvas	2	RandomForestClassifier	Klek	ROC AUC	0.62477
+Primary	IC	Cvas	3	RandomForestClassifier	Klek	ROC AUC	0.5702
+Primary	IC	Cvas	4	RandomForestClassifier	Klek	ROC AUC	0.59487
+Primary	IC	Cred	0	RandomForestClassifier	Klek	MCC	0.09526
+Primary	IC	Cred	1	RandomForestClassifier	Klek	MCC	0.11006
+Primary	IC	Cred	2	RandomForestClassifier	Klek	MCC	0.21458
+Primary	IC	Cred	3	RandomForestClassifier	Klek	MCC	0.07337
+Primary	IC	Cred	4	RandomForestClassifier	Klek	MCC	0.1441
+Primary	IC	Card	0	RandomForestClassifier	Klek	MCC	0.07519
+Primary	IC	Card	1	RandomForestClassifier	Klek	MCC	0.09736
+Primary	IC	Card	2	RandomForestClassifier	Klek	MCC	0.19925
+Primary	IC	Card	3	RandomForestClassifier	Klek	MCC	0.05183
+Primary	IC	Card	4	RandomForestClassifier	Klek	MCC	0.11965
+Primary	IC	Cvas	0	RandomForestClassifier	Klek	MCC	0.12357
+Primary	IC	Cvas	1	RandomForestClassifier	Klek	MCC	0.07205
+Primary	IC	Cvas	2	RandomForestClassifier	Klek	MCC	0.15425
+Primary	IC	Cvas	3	RandomForestClassifier	Klek	MCC	0.04555
+Primary	IC	Cvas	4	RandomForestClassifier	Klek	MCC	0.09138
+Primary	IC	Cred	0	RandomForestClassifier	Klek	Accuracy	0.56905
+Primary	IC	Cred	1	RandomForestClassifier	Klek	Accuracy	0.58955
+Primary	IC	Cred	2	RandomForestClassifier	Klek	Accuracy	0.64527
+Primary	IC	Cred	3	RandomForestClassifier	Klek	Accuracy	0.59481
+Primary	IC	Cred	4	RandomForestClassifier	Klek	Accuracy	0.60389
+Primary	IC	Card	0	RandomForestClassifier	Klek	Accuracy	0.56411
+Primary	IC	Card	1	RandomForestClassifier	Klek	Accuracy	0.58397
+Primary	IC	Card	2	RandomForestClassifier	Klek	Accuracy	0.64827
+Primary	IC	Card	3	RandomForestClassifier	Klek	Accuracy	0.58133
+Primary	IC	Card	4	RandomForestClassifier	Klek	Accuracy	0.60053
+Primary	IC	Cvas	0	RandomForestClassifier	Klek	Accuracy	0.58016
+Primary	IC	Cvas	1	RandomForestClassifier	Klek	Accuracy	0.57154
+Primary	IC	Cvas	2	RandomForestClassifier	Klek	Accuracy	0.62559
+Primary	IC	Cvas	3	RandomForestClassifier	Klek	Accuracy	0.57864
+Primary	IC	Cvas	4	RandomForestClassifier	Klek	Accuracy	0.57987
+Primary	IC	Cred	0	RandomForestClassifier	Klek	Recall	0.81585
+Primary	IC	Cred	1	RandomForestClassifier	Klek	Recall	0.67111
+Primary	IC	Cred	2	RandomForestClassifier	Klek	Recall	0.74983
+Primary	IC	Cred	3	RandomForestClassifier	Klek	Recall	0.84978
+Primary	IC	Cred	4	RandomForestClassifier	Klek	Recall	0.75271
+Primary	IC	Card	0	RandomForestClassifier	Klek	Recall	0.87909
+Primary	IC	Card	1	RandomForestClassifier	Klek	Recall	0.66758
+Primary	IC	Card	2	RandomForestClassifier	Klek	Recall	0.79164
+Primary	IC	Card	3	RandomForestClassifier	Klek	Recall	0.81121
+Primary	IC	Card	4	RandomForestClassifier	Klek	Recall	0.79647
+Primary	IC	Cvas	0	RandomForestClassifier	Klek	Recall	0.80804
+Primary	IC	Cvas	1	RandomForestClassifier	Klek	Recall	0.65582
+Primary	IC	Cvas	2	RandomForestClassifier	Klek	Recall	0.7612
+Primary	IC	Cvas	3	RandomForestClassifier	Klek	Recall	0.80796
+Primary	IC	Cvas	4	RandomForestClassifier	Klek	Recall	0.73103
+Primary	IC	Cred	0	RandomForestClassifier	Klek	Specificity	0.26347
+Primary	IC	Cred	1	RandomForestClassifier	Klek	Specificity	0.43997
+Primary	IC	Cred	2	RandomForestClassifier	Klek	Specificity	0.45962
+Primary	IC	Cred	3	RandomForestClassifier	Klek	Specificity	0.20692
+Primary	IC	Cred	4	RandomForestClassifier	Klek	Specificity	0.38218
+Primary	IC	Card	0	RandomForestClassifier	Klek	Specificity	0.17411
+Primary	IC	Card	1	RandomForestClassifier	Klek	Specificity	0.43063
+Primary	IC	Card	2	RandomForestClassifier	Klek	Specificity	0.39371
+Primary	IC	Card	3	RandomForestClassifier	Klek	Specificity	0.23162
+Primary	IC	Card	4	RandomForestClassifier	Klek	Specificity	0.30861
+Primary	IC	Cvas	0	RandomForestClassifier	Klek	Specificity	0.29802
+Primary	IC	Cvas	1	RandomForestClassifier	Klek	Specificity	0.41697
+Primary	IC	Cvas	2	RandomForestClassifier	Klek	Specificity	0.3848
+Primary	IC	Cvas	3	RandomForestClassifier	Klek	Specificity	0.22977
+Primary	IC	Cvas	4	RandomForestClassifier	Klek	Specificity	0.35467
+Primary	IC	Cred	0	RandomForestClassifier	Klek	Precision	0.57832
+Primary	IC	Cred	1	RandomForestClassifier	Klek	Precision	0.68727
+Primary	IC	Cred	2	RandomForestClassifier	Klek	Precision	0.71129
+Primary	IC	Cred	3	RandomForestClassifier	Klek	Precision	0.61978
+Primary	IC	Cred	4	RandomForestClassifier	Klek	Precision	0.64477
+Primary	IC	Card	0	RandomForestClassifier	Klek	Precision	0.56858
+Primary	IC	Card	1	RandomForestClassifier	Klek	Precision	0.68257
+Primary	IC	Card	2	RandomForestClassifier	Klek	Precision	0.69864
+Primary	IC	Card	3	RandomForestClassifier	Klek	Precision	0.61629
+Primary	IC	Card	4	RandomForestClassifier	Klek	Precision	0.63185
+Primary	IC	Cvas	0	RandomForestClassifier	Klek	Precision	0.58766
+Primary	IC	Cvas	1	RandomForestClassifier	Klek	Precision	0.67351
+Primary	IC	Cvas	2	RandomForestClassifier	Klek	Precision	0.6872
+Primary	IC	Cvas	3	RandomForestClassifier	Klek	Precision	0.61477
+Primary	IC	Cvas	4	RandomForestClassifier	Klek	Precision	0.62793

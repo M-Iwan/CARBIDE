@@ -1,0 +1,151 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Secondary	PRR	Cvas	0	XGBClassifier	ChemBERTa	Balanced Accuracy	0.52419
+Secondary	PRR	Cvas	3	XGBClassifier	ChemBERTa	Balanced Accuracy	0.52088
+Secondary	PRR	Cvas	2	XGBClassifier	ChemBERTa	Balanced Accuracy	0.54069
+Secondary	PRR	Cvas	1	XGBClassifier	ChemBERTa	Balanced Accuracy	0.55136
+Secondary	PRR	Cvas	4	XGBClassifier	ChemBERTa	Balanced Accuracy	0.51922
+Secondary	ROR	Cvas	0	XGBClassifier	ChemBERTa	Balanced Accuracy	0.4992
+Secondary	ROR	Cvas	3	XGBClassifier	ChemBERTa	Balanced Accuracy	0.49028
+Secondary	ROR	Cvas	2	XGBClassifier	ChemBERTa	Balanced Accuracy	0.50631
+Secondary	ROR	Cvas	1	XGBClassifier	ChemBERTa	Balanced Accuracy	0.52616
+Secondary	ROR	Cvas	4	XGBClassifier	ChemBERTa	Balanced Accuracy	0.52514
+Secondary	IC	Cvas	0	XGBClassifier	ChemBERTa	Balanced Accuracy	0.51775
+Secondary	IC	Cvas	3	XGBClassifier	ChemBERTa	Balanced Accuracy	0.51018
+Secondary	IC	Cvas	2	XGBClassifier	ChemBERTa	Balanced Accuracy	0.52279
+Secondary	IC	Cvas	1	XGBClassifier	ChemBERTa	Balanced Accuracy	0.53273
+Secondary	IC	Cvas	4	XGBClassifier	ChemBERTa	Balanced Accuracy	0.52534
+Secondary	PRR	Cvas	0	XGBClassifier	ChemBERTa	GeomRS	0.50643
+Secondary	PRR	Cvas	3	XGBClassifier	ChemBERTa	GeomRS	0.5186
+Secondary	PRR	Cvas	2	XGBClassifier	ChemBERTa	GeomRS	0.54059
+Secondary	PRR	Cvas	1	XGBClassifier	ChemBERTa	GeomRS	0.55114
+Secondary	PRR	Cvas	4	XGBClassifier	ChemBERTa	GeomRS	0.49551
+Secondary	ROR	Cvas	0	XGBClassifier	ChemBERTa	GeomRS	0.49576
+Secondary	ROR	Cvas	3	XGBClassifier	ChemBERTa	GeomRS	0.4876
+Secondary	ROR	Cvas	2	XGBClassifier	ChemBERTa	GeomRS	0.50507
+Secondary	ROR	Cvas	1	XGBClassifier	ChemBERTa	GeomRS	0.52041
+Secondary	ROR	Cvas	4	XGBClassifier	ChemBERTa	GeomRS	0.51952
+Secondary	IC	Cvas	0	XGBClassifier	ChemBERTa	GeomRS	0.43722
+Secondary	IC	Cvas	3	XGBClassifier	ChemBERTa	GeomRS	0.45359
+Secondary	IC	Cvas	2	XGBClassifier	ChemBERTa	GeomRS	0.49279
+Secondary	IC	Cvas	1	XGBClassifier	ChemBERTa	GeomRS	0.5207
+Secondary	IC	Cvas	4	XGBClassifier	ChemBERTa	GeomRS	0.45904
+Secondary	PRR	Cvas	0	XGBClassifier	ChemBERTa	HarmRS	0.48927
+Secondary	PRR	Cvas	3	XGBClassifier	ChemBERTa	HarmRS	0.51633
+Secondary	PRR	Cvas	2	XGBClassifier	ChemBERTa	HarmRS	0.54049
+Secondary	PRR	Cvas	1	XGBClassifier	ChemBERTa	HarmRS	0.55092
+Secondary	PRR	Cvas	4	XGBClassifier	ChemBERTa	HarmRS	0.47288
+Secondary	ROR	Cvas	0	XGBClassifier	ChemBERTa	HarmRS	0.49235
+Secondary	ROR	Cvas	3	XGBClassifier	ChemBERTa	HarmRS	0.48493
+Secondary	ROR	Cvas	2	XGBClassifier	ChemBERTa	HarmRS	0.50383
+Secondary	ROR	Cvas	1	XGBClassifier	ChemBERTa	HarmRS	0.51472
+Secondary	ROR	Cvas	4	XGBClassifier	ChemBERTa	HarmRS	0.51397
+Secondary	IC	Cvas	0	XGBClassifier	ChemBERTa	HarmRS	0.36922
+Secondary	IC	Cvas	3	XGBClassifier	ChemBERTa	HarmRS	0.40327
+Secondary	IC	Cvas	2	XGBClassifier	ChemBERTa	HarmRS	0.4645
+Secondary	IC	Cvas	1	XGBClassifier	ChemBERTa	HarmRS	0.50893
+Secondary	IC	Cvas	4	XGBClassifier	ChemBERTa	HarmRS	0.40112
+Secondary	PRR	Cvas	0	XGBClassifier	ChemBERTa	F1 Score	0.61981
+Secondary	PRR	Cvas	3	XGBClassifier	ChemBERTa	F1 Score	0.57984
+Secondary	PRR	Cvas	2	XGBClassifier	ChemBERTa	F1 Score	0.59089
+Secondary	PRR	Cvas	1	XGBClassifier	ChemBERTa	F1 Score	0.59249
+Secondary	PRR	Cvas	4	XGBClassifier	ChemBERTa	F1 Score	0.6236
+Secondary	ROR	Cvas	0	XGBClassifier	ChemBERTa	F1 Score	0.49525
+Secondary	ROR	Cvas	3	XGBClassifier	ChemBERTa	F1 Score	0.49273
+Secondary	ROR	Cvas	2	XGBClassifier	ChemBERTa	F1 Score	0.52985
+Secondary	ROR	Cvas	1	XGBClassifier	ChemBERTa	F1 Score	0.52831
+Secondary	ROR	Cvas	4	XGBClassifier	ChemBERTa	F1 Score	0.59424
+Secondary	IC	Cvas	0	XGBClassifier	ChemBERTa	F1 Score	0.66885
+Secondary	IC	Cvas	3	XGBClassifier	ChemBERTa	F1 Score	0.65098
+Secondary	IC	Cvas	2	XGBClassifier	ChemBERTa	F1 Score	0.65373
+Secondary	IC	Cvas	1	XGBClassifier	ChemBERTa	F1 Score	0.64193
+Secondary	IC	Cvas	4	XGBClassifier	ChemBERTa	F1 Score	0.6669
+Secondary	PRR	Cvas	0	XGBClassifier	ChemBERTa	ROC AUC	0.55958
+Secondary	PRR	Cvas	3	XGBClassifier	ChemBERTa	ROC AUC	0.53226
+Secondary	PRR	Cvas	2	XGBClassifier	ChemBERTa	ROC AUC	0.56201
+Secondary	PRR	Cvas	1	XGBClassifier	ChemBERTa	ROC AUC	0.56166
+Secondary	PRR	Cvas	4	XGBClassifier	ChemBERTa	ROC AUC	0.54261
+Secondary	ROR	Cvas	0	XGBClassifier	ChemBERTa	ROC AUC	0.50718
+Secondary	ROR	Cvas	3	XGBClassifier	ChemBERTa	ROC AUC	0.49815
+Secondary	ROR	Cvas	2	XGBClassifier	ChemBERTa	ROC AUC	0.52955
+Secondary	ROR	Cvas	1	XGBClassifier	ChemBERTa	ROC AUC	0.53234
+Secondary	ROR	Cvas	4	XGBClassifier	ChemBERTa	ROC AUC	0.53636
+Secondary	IC	Cvas	0	XGBClassifier	ChemBERTa	ROC AUC	0.56752
+Secondary	IC	Cvas	3	XGBClassifier	ChemBERTa	ROC AUC	0.53024
+Secondary	IC	Cvas	2	XGBClassifier	ChemBERTa	ROC AUC	0.55923
+Secondary	IC	Cvas	1	XGBClassifier	ChemBERTa	ROC AUC	0.55767
+Secondary	IC	Cvas	4	XGBClassifier	ChemBERTa	ROC AUC	0.56868
+Secondary	PRR	Cvas	0	XGBClassifier	ChemBERTa	MCC	0.04991
+Secondary	PRR	Cvas	3	XGBClassifier	ChemBERTa	MCC	0.04154
+Secondary	PRR	Cvas	2	XGBClassifier	ChemBERTa	MCC	0.07982
+Secondary	PRR	Cvas	1	XGBClassifier	ChemBERTa	MCC	0.10005
+Secondary	PRR	Cvas	4	XGBClassifier	ChemBERTa	MCC	0.04016
+Secondary	ROR	Cvas	0	XGBClassifier	ChemBERTa	MCC	-0.0016
+Secondary	ROR	Cvas	3	XGBClassifier	ChemBERTa	MCC	-0.01934
+Secondary	ROR	Cvas	2	XGBClassifier	ChemBERTa	MCC	0.01239
+Secondary	ROR	Cvas	1	XGBClassifier	ChemBERTa	MCC	0.05148
+Secondary	ROR	Cvas	4	XGBClassifier	ChemBERTa	MCC	0.0505
+Secondary	IC	Cvas	0	XGBClassifier	ChemBERTa	MCC	0.04245
+Secondary	IC	Cvas	3	XGBClassifier	ChemBERTa	MCC	0.02283
+Secondary	IC	Cvas	2	XGBClassifier	ChemBERTa	MCC	0.04786
+Secondary	IC	Cvas	1	XGBClassifier	ChemBERTa	MCC	0.06567
+Secondary	IC	Cvas	4	XGBClassifier	ChemBERTa	MCC	0.05872
+Secondary	PRR	Cvas	0	XGBClassifier	ChemBERTa	Accuracy	0.54206
+Secondary	PRR	Cvas	3	XGBClassifier	ChemBERTa	Accuracy	0.52788
+Secondary	PRR	Cvas	2	XGBClassifier	ChemBERTa	Accuracy	0.54276
+Secondary	PRR	Cvas	1	XGBClassifier	ChemBERTa	Accuracy	0.54782
+Secondary	PRR	Cvas	4	XGBClassifier	ChemBERTa	Accuracy	0.53957
+Secondary	ROR	Cvas	0	XGBClassifier	ChemBERTa	Accuracy	0.49148
+Secondary	ROR	Cvas	3	XGBClassifier	ChemBERTa	Accuracy	0.4829
+Secondary	ROR	Cvas	2	XGBClassifier	ChemBERTa	Accuracy	0.49929
+Secondary	ROR	Cvas	1	XGBClassifier	ChemBERTa	Accuracy	0.50854
+Secondary	ROR	Cvas	4	XGBClassifier	ChemBERTa	Accuracy	0.53519
+Secondary	IC	Cvas	0	XGBClassifier	ChemBERTa	Accuracy	0.55437
+Secondary	IC	Cvas	3	XGBClassifier	ChemBERTa	Accuracy	0.54382
+Secondary	IC	Cvas	2	XGBClassifier	ChemBERTa	Accuracy	0.5574
+Secondary	IC	Cvas	1	XGBClassifier	ChemBERTa	Accuracy	0.5583
+Secondary	IC	Cvas	4	XGBClassifier	ChemBERTa	Accuracy	0.55885
+Secondary	PRR	Cvas	0	XGBClassifier	ChemBERTa	Recall	0.65948
+Secondary	PRR	Cvas	3	XGBClassifier	ChemBERTa	Recall	0.56953
+Secondary	PRR	Cvas	2	XGBClassifier	ChemBERTa	Recall	0.55114
+Secondary	PRR	Cvas	1	XGBClassifier	ChemBERTa	Recall	0.53577
+Secondary	PRR	Cvas	4	XGBClassifier	ChemBERTa	Recall	0.67434
+Secondary	ROR	Cvas	0	XGBClassifier	ChemBERTa	Recall	0.44075
+Secondary	ROR	Cvas	3	XGBClassifier	ChemBERTa	Recall	0.43904
+Secondary	ROR	Cvas	2	XGBClassifier	ChemBERTa	Recall	0.47092
+Secondary	ROR	Cvas	1	XGBClassifier	ChemBERTa	Recall	0.44858
+Secondary	ROR	Cvas	4	XGBClassifier	ChemBERTa	Recall	0.60176
+Secondary	IC	Cvas	0	XGBClassifier	ChemBERTa	Recall	0.79507
+Secondary	IC	Cvas	3	XGBClassifier	ChemBERTa	Recall	0.74373
+Secondary	IC	Cvas	2	XGBClassifier	ChemBERTa	Recall	0.69736
+Secondary	IC	Cvas	1	XGBClassifier	ChemBERTa	Recall	0.64533
+Secondary	IC	Cvas	4	XGBClassifier	ChemBERTa	Recall	0.7808
+Secondary	PRR	Cvas	0	XGBClassifier	ChemBERTa	Specificity	0.3889
+Secondary	PRR	Cvas	3	XGBClassifier	ChemBERTa	Specificity	0.47222
+Secondary	PRR	Cvas	2	XGBClassifier	ChemBERTa	Specificity	0.53025
+Secondary	PRR	Cvas	1	XGBClassifier	ChemBERTa	Specificity	0.56696
+Secondary	PRR	Cvas	4	XGBClassifier	ChemBERTa	Specificity	0.36411
+Secondary	ROR	Cvas	0	XGBClassifier	ChemBERTa	Specificity	0.55764
+Secondary	ROR	Cvas	3	XGBClassifier	ChemBERTa	Specificity	0.54152
+Secondary	ROR	Cvas	2	XGBClassifier	ChemBERTa	Specificity	0.54169
+Secondary	ROR	Cvas	1	XGBClassifier	ChemBERTa	Specificity	0.60374
+Secondary	ROR	Cvas	4	XGBClassifier	ChemBERTa	Specificity	0.44853
+Secondary	IC	Cvas	0	XGBClassifier	ChemBERTa	Specificity	0.24044
+Secondary	IC	Cvas	3	XGBClassifier	ChemBERTa	Specificity	0.27663
+Secondary	IC	Cvas	2	XGBClassifier	ChemBERTa	Specificity	0.34823
+Secondary	IC	Cvas	1	XGBClassifier	ChemBERTa	Specificity	0.42014
+Secondary	IC	Cvas	4	XGBClassifier	ChemBERTa	Specificity	0.26988
+Secondary	PRR	Cvas	0	XGBClassifier	ChemBERTa	Precision	0.58464
+Secondary	PRR	Cvas	3	XGBClassifier	ChemBERTa	Precision	0.59054
+Secondary	PRR	Cvas	2	XGBClassifier	ChemBERTa	Precision	0.63682
+Secondary	PRR	Cvas	1	XGBClassifier	ChemBERTa	Precision	0.66264
+Secondary	PRR	Cvas	4	XGBClassifier	ChemBERTa	Precision	0.57996
+Secondary	ROR	Cvas	0	XGBClassifier	ChemBERTa	Precision	0.56513
+Secondary	ROR	Cvas	3	XGBClassifier	ChemBERTa	Precision	0.56137
+Secondary	ROR	Cvas	2	XGBClassifier	ChemBERTa	Precision	0.60563
+Secondary	ROR	Cvas	1	XGBClassifier	ChemBERTa	Precision	0.6425
+Secondary	ROR	Cvas	4	XGBClassifier	ChemBERTa	Precision	0.5869
+Secondary	IC	Cvas	0	XGBClassifier	ChemBERTa	Precision	0.57721
+Secondary	IC	Cvas	3	XGBClassifier	ChemBERTa	Precision	0.57879
+Secondary	IC	Cvas	2	XGBClassifier	ChemBERTa	Precision	0.61525
+Secondary	IC	Cvas	1	XGBClassifier	ChemBERTa	Precision	0.63858
+Secondary	IC	Cvas	4	XGBClassifier	ChemBERTa	Precision	0.58201

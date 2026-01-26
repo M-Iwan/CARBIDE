@@ -1,0 +1,101 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Primary	PRR	Cvas	0	XGBClassifier	CDDD	Balanced Accuracy	0.5768
+Primary	PRR	Cvas	1	XGBClassifier	CDDD	Balanced Accuracy	0.57594
+Primary	PRR	Cvas	2	XGBClassifier	CDDD	Balanced Accuracy	0.61433
+Primary	PRR	Cvas	4	XGBClassifier	CDDD	Balanced Accuracy	0.57859
+Primary	PRR	Cvas	3	XGBClassifier	CDDD	Balanced Accuracy	0.61476
+Secondary	PRR	Cvas	0	XGBClassifier	CDDD	Balanced Accuracy	0.57288
+Secondary	PRR	Cvas	1	XGBClassifier	CDDD	Balanced Accuracy	0.58478
+Secondary	PRR	Cvas	2	XGBClassifier	CDDD	Balanced Accuracy	0.58542
+Secondary	PRR	Cvas	4	XGBClassifier	CDDD	Balanced Accuracy	0.56484
+Secondary	PRR	Cvas	3	XGBClassifier	CDDD	Balanced Accuracy	0.58798
+Primary	PRR	Cvas	0	XGBClassifier	CDDD	GeomRS	0.57621
+Primary	PRR	Cvas	1	XGBClassifier	CDDD	GeomRS	0.56475
+Primary	PRR	Cvas	2	XGBClassifier	CDDD	GeomRS	0.61368
+Primary	PRR	Cvas	4	XGBClassifier	CDDD	GeomRS	0.56947
+Primary	PRR	Cvas	3	XGBClassifier	CDDD	GeomRS	0.61449
+Secondary	PRR	Cvas	0	XGBClassifier	CDDD	GeomRS	0.57057
+Secondary	PRR	Cvas	1	XGBClassifier	CDDD	GeomRS	0.58456
+Secondary	PRR	Cvas	2	XGBClassifier	CDDD	GeomRS	0.58286
+Secondary	PRR	Cvas	4	XGBClassifier	CDDD	GeomRS	0.54835
+Secondary	PRR	Cvas	3	XGBClassifier	CDDD	GeomRS	0.58609
+Primary	PRR	Cvas	0	XGBClassifier	CDDD	HarmRS	0.57562
+Primary	PRR	Cvas	1	XGBClassifier	CDDD	HarmRS	0.55377
+Primary	PRR	Cvas	2	XGBClassifier	CDDD	HarmRS	0.61304
+Primary	PRR	Cvas	4	XGBClassifier	CDDD	HarmRS	0.5605
+Primary	PRR	Cvas	3	XGBClassifier	CDDD	HarmRS	0.61421
+Secondary	PRR	Cvas	0	XGBClassifier	CDDD	HarmRS	0.56827
+Secondary	PRR	Cvas	1	XGBClassifier	CDDD	HarmRS	0.58435
+Secondary	PRR	Cvas	2	XGBClassifier	CDDD	HarmRS	0.58031
+Secondary	PRR	Cvas	4	XGBClassifier	CDDD	HarmRS	0.53235
+Secondary	PRR	Cvas	3	XGBClassifier	CDDD	HarmRS	0.5842
+Primary	PRR	Cvas	0	XGBClassifier	CDDD	F1 Score	0.61992
+Primary	PRR	Cvas	1	XGBClassifier	CDDD	F1 Score	0.56562
+Primary	PRR	Cvas	2	XGBClassifier	CDDD	F1 Score	0.67392
+Primary	PRR	Cvas	4	XGBClassifier	CDDD	F1 Score	0.6594
+Primary	PRR	Cvas	3	XGBClassifier	CDDD	F1 Score	0.64277
+Secondary	PRR	Cvas	0	XGBClassifier	CDDD	F1 Score	0.62781
+Secondary	PRR	Cvas	1	XGBClassifier	CDDD	F1 Score	0.63477
+Secondary	PRR	Cvas	2	XGBClassifier	CDDD	F1 Score	0.66003
+Secondary	PRR	Cvas	4	XGBClassifier	CDDD	F1 Score	0.66098
+Secondary	PRR	Cvas	3	XGBClassifier	CDDD	F1 Score	0.64815
+Primary	PRR	Cvas	0	XGBClassifier	CDDD	ROC AUC	0.60779
+Primary	PRR	Cvas	1	XGBClassifier	CDDD	ROC AUC	0.61013
+Primary	PRR	Cvas	2	XGBClassifier	CDDD	ROC AUC	0.64749
+Primary	PRR	Cvas	4	XGBClassifier	CDDD	ROC AUC	0.62357
+Primary	PRR	Cvas	3	XGBClassifier	CDDD	ROC AUC	0.64733
+Secondary	PRR	Cvas	0	XGBClassifier	CDDD	ROC AUC	0.63202
+Secondary	PRR	Cvas	1	XGBClassifier	CDDD	ROC AUC	0.61647
+Secondary	PRR	Cvas	2	XGBClassifier	CDDD	ROC AUC	0.62742
+Secondary	PRR	Cvas	4	XGBClassifier	CDDD	ROC AUC	0.60863
+Secondary	PRR	Cvas	3	XGBClassifier	CDDD	ROC AUC	0.61445
+Primary	PRR	Cvas	0	XGBClassifier	CDDD	MCC	0.15259
+Primary	PRR	Cvas	1	XGBClassifier	CDDD	MCC	0.14819
+Primary	PRR	Cvas	2	XGBClassifier	CDDD	MCC	0.2243
+Primary	PRR	Cvas	4	XGBClassifier	CDDD	MCC	0.15954
+Primary	PRR	Cvas	3	XGBClassifier	CDDD	MCC	0.22611
+Secondary	PRR	Cvas	0	XGBClassifier	CDDD	MCC	0.14551
+Secondary	PRR	Cvas	1	XGBClassifier	CDDD	MCC	0.16268
+Secondary	PRR	Cvas	2	XGBClassifier	CDDD	MCC	0.16847
+Secondary	PRR	Cvas	4	XGBClassifier	CDDD	MCC	0.13393
+Secondary	PRR	Cvas	3	XGBClassifier	CDDD	MCC	0.1747
+Primary	PRR	Cvas	0	XGBClassifier	CDDD	Accuracy	0.58033
+Primary	PRR	Cvas	1	XGBClassifier	CDDD	Accuracy	0.54401
+Primary	PRR	Cvas	2	XGBClassifier	CDDD	Accuracy	0.62054
+Primary	PRR	Cvas	4	XGBClassifier	CDDD	Accuracy	0.5943
+Primary	PRR	Cvas	3	XGBClassifier	CDDD	Accuracy	0.61161
+Secondary	PRR	Cvas	0	XGBClassifier	CDDD	Accuracy	0.57983
+Secondary	PRR	Cvas	1	XGBClassifier	CDDD	Accuracy	0.58026
+Secondary	PRR	Cvas	2	XGBClassifier	CDDD	Accuracy	0.5975
+Secondary	PRR	Cvas	4	XGBClassifier	CDDD	Accuracy	0.58564
+Secondary	PRR	Cvas	3	XGBClassifier	CDDD	Accuracy	0.59606
+Primary	PRR	Cvas	0	XGBClassifier	CDDD	Recall	0.60287
+Primary	PRR	Cvas	1	XGBClassifier	CDDD	Recall	0.46294
+Primary	PRR	Cvas	2	XGBClassifier	CDDD	Recall	0.64247
+Primary	PRR	Cvas	4	XGBClassifier	CDDD	Recall	0.68087
+Primary	PRR	Cvas	3	XGBClassifier	CDDD	Recall	0.59644
+Secondary	PRR	Cvas	0	XGBClassifier	CDDD	Recall	0.62423
+Secondary	PRR	Cvas	1	XGBClassifier	CDDD	Recall	0.56878
+Secondary	PRR	Cvas	2	XGBClassifier	CDDD	Recall	0.64016
+Secondary	PRR	Cvas	4	XGBClassifier	CDDD	Recall	0.70031
+Secondary	PRR	Cvas	3	XGBClassifier	CDDD	Recall	0.63508
+Primary	PRR	Cvas	0	XGBClassifier	CDDD	Specificity	0.55073
+Primary	PRR	Cvas	1	XGBClassifier	CDDD	Specificity	0.68894
+Primary	PRR	Cvas	2	XGBClassifier	CDDD	Specificity	0.58619
+Primary	PRR	Cvas	4	XGBClassifier	CDDD	Specificity	0.4763
+Primary	PRR	Cvas	3	XGBClassifier	CDDD	Specificity	0.63308
+Secondary	PRR	Cvas	0	XGBClassifier	CDDD	Specificity	0.52152
+Secondary	PRR	Cvas	1	XGBClassifier	CDDD	Specificity	0.60079
+Secondary	PRR	Cvas	2	XGBClassifier	CDDD	Specificity	0.53069
+Secondary	PRR	Cvas	4	XGBClassifier	CDDD	Specificity	0.42937
+Secondary	PRR	Cvas	3	XGBClassifier	CDDD	Specificity	0.54087
+Primary	PRR	Cvas	0	XGBClassifier	CDDD	Precision	0.63797
+Primary	PRR	Cvas	1	XGBClassifier	CDDD	Precision	0.72682
+Primary	PRR	Cvas	2	XGBClassifier	CDDD	Precision	0.70861
+Primary	PRR	Cvas	4	XGBClassifier	CDDD	Precision	0.63924
+Primary	PRR	Cvas	3	XGBClassifier	CDDD	Precision	0.6969
+Secondary	PRR	Cvas	0	XGBClassifier	CDDD	Precision	0.63144
+Secondary	PRR	Cvas	1	XGBClassifier	CDDD	Precision	0.71808
+Secondary	PRR	Cvas	2	XGBClassifier	CDDD	Precision	0.68118
+Secondary	PRR	Cvas	4	XGBClassifier	CDDD	Precision	0.62584
+Secondary	PRR	Cvas	3	XGBClassifier	CDDD	Precision	0.66176

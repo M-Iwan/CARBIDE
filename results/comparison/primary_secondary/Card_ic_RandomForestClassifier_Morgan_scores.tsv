@@ -1,0 +1,101 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Primary	IC	Card	0	RandomForestClassifier	Morgan	Balanced Accuracy	0.55695
+Primary	IC	Card	1	RandomForestClassifier	Morgan	Balanced Accuracy	0.58387
+Primary	IC	Card	2	RandomForestClassifier	Morgan	Balanced Accuracy	0.58167
+Primary	IC	Card	3	RandomForestClassifier	Morgan	Balanced Accuracy	0.56176
+Primary	IC	Card	4	RandomForestClassifier	Morgan	Balanced Accuracy	0.53062
+Secondary	IC	Card	0	RandomForestClassifier	Morgan	Balanced Accuracy	0.55858
+Secondary	IC	Card	1	RandomForestClassifier	Morgan	Balanced Accuracy	0.56458
+Secondary	IC	Card	2	RandomForestClassifier	Morgan	Balanced Accuracy	0.54674
+Secondary	IC	Card	3	RandomForestClassifier	Morgan	Balanced Accuracy	0.50071
+Secondary	IC	Card	4	RandomForestClassifier	Morgan	Balanced Accuracy	0.52795
+Primary	IC	Card	0	RandomForestClassifier	Morgan	GeomRS	0.4679
+Primary	IC	Card	1	RandomForestClassifier	Morgan	GeomRS	0.56852
+Primary	IC	Card	2	RandomForestClassifier	Morgan	GeomRS	0.55772
+Primary	IC	Card	3	RandomForestClassifier	Morgan	GeomRS	0.51135
+Primary	IC	Card	4	RandomForestClassifier	Morgan	GeomRS	0.45259
+Secondary	IC	Card	0	RandomForestClassifier	Morgan	GeomRS	0.38866
+Secondary	IC	Card	1	RandomForestClassifier	Morgan	GeomRS	0.48105
+Secondary	IC	Card	2	RandomForestClassifier	Morgan	GeomRS	0.43472
+Secondary	IC	Card	3	RandomForestClassifier	Morgan	GeomRS	0.30779
+Secondary	IC	Card	4	RandomForestClassifier	Morgan	GeomRS	0.38353
+Primary	IC	Card	0	RandomForestClassifier	Morgan	HarmRS	0.39309
+Primary	IC	Card	1	RandomForestClassifier	Morgan	HarmRS	0.55357
+Primary	IC	Card	2	RandomForestClassifier	Morgan	HarmRS	0.53476
+Primary	IC	Card	3	RandomForestClassifier	Morgan	HarmRS	0.46547
+Primary	IC	Card	4	RandomForestClassifier	Morgan	HarmRS	0.38604
+Secondary	IC	Card	0	RandomForestClassifier	Morgan	HarmRS	0.27042
+Secondary	IC	Card	1	RandomForestClassifier	Morgan	HarmRS	0.40988
+Secondary	IC	Card	2	RandomForestClassifier	Morgan	HarmRS	0.34564
+Secondary	IC	Card	3	RandomForestClassifier	Morgan	HarmRS	0.1892
+Secondary	IC	Card	4	RandomForestClassifier	Morgan	HarmRS	0.27862
+Primary	IC	Card	0	RandomForestClassifier	Morgan	F1 Score	0.69369
+Primary	IC	Card	1	RandomForestClassifier	Morgan	F1 Score	0.69958
+Primary	IC	Card	2	RandomForestClassifier	Morgan	F1 Score	0.72154
+Primary	IC	Card	3	RandomForestClassifier	Morgan	F1 Score	0.70836
+Primary	IC	Card	4	RandomForestClassifier	Morgan	F1 Score	0.69093
+Secondary	IC	Card	0	RandomForestClassifier	Morgan	F1 Score	0.72211
+Secondary	IC	Card	1	RandomForestClassifier	Morgan	F1 Score	0.74701
+Secondary	IC	Card	2	RandomForestClassifier	Morgan	F1 Score	0.75941
+Secondary	IC	Card	3	RandomForestClassifier	Morgan	F1 Score	0.71842
+Secondary	IC	Card	4	RandomForestClassifier	Morgan	F1 Score	0.71728
+Primary	IC	Card	0	RandomForestClassifier	Morgan	ROC AUC	0.66102
+Primary	IC	Card	1	RandomForestClassifier	Morgan	ROC AUC	0.64221
+Primary	IC	Card	2	RandomForestClassifier	Morgan	ROC AUC	0.64527
+Primary	IC	Card	3	RandomForestClassifier	Morgan	ROC AUC	0.61805
+Primary	IC	Card	4	RandomForestClassifier	Morgan	ROC AUC	0.62314
+Secondary	IC	Card	0	RandomForestClassifier	Morgan	ROC AUC	0.67077
+Secondary	IC	Card	1	RandomForestClassifier	Morgan	ROC AUC	0.62964
+Secondary	IC	Card	2	RandomForestClassifier	Morgan	ROC AUC	0.64579
+Secondary	IC	Card	3	RandomForestClassifier	Morgan	ROC AUC	0.5771
+Secondary	IC	Card	4	RandomForestClassifier	Morgan	ROC AUC	0.63698
+Primary	IC	Card	0	RandomForestClassifier	Morgan	MCC	0.14378
+Primary	IC	Card	1	RandomForestClassifier	Morgan	MCC	0.17088
+Primary	IC	Card	2	RandomForestClassifier	Morgan	MCC	0.16896
+Primary	IC	Card	3	RandomForestClassifier	Morgan	MCC	0.13884
+Primary	IC	Card	4	RandomForestClassifier	Morgan	MCC	0.0731
+Secondary	IC	Card	0	RandomForestClassifier	Morgan	MCC	0.2005
+Secondary	IC	Card	1	RandomForestClassifier	Morgan	MCC	0.16003
+Secondary	IC	Card	2	RandomForestClassifier	Morgan	MCC	0.12373
+Secondary	IC	Card	3	RandomForestClassifier	Morgan	MCC	0.00227
+Secondary	IC	Card	4	RandomForestClassifier	Morgan	MCC	0.08126
+Primary	IC	Card	0	RandomForestClassifier	Morgan	Accuracy	0.5852
+Primary	IC	Card	1	RandomForestClassifier	Morgan	Accuracy	0.61654
+Primary	IC	Card	2	RandomForestClassifier	Morgan	Accuracy	0.62907
+Primary	IC	Card	3	RandomForestClassifier	Morgan	Accuracy	0.60798
+Primary	IC	Card	4	RandomForestClassifier	Morgan	Accuracy	0.57754
+Secondary	IC	Card	0	RandomForestClassifier	Morgan	Accuracy	0.5961
+Secondary	IC	Card	1	RandomForestClassifier	Morgan	Accuracy	0.63716
+Secondary	IC	Card	2	RandomForestClassifier	Morgan	Accuracy	0.64189
+Secondary	IC	Card	3	RandomForestClassifier	Morgan	Accuracy	0.5792
+Secondary	IC	Card	4	RandomForestClassifier	Morgan	Accuracy	0.58942
+Primary	IC	Card	0	RandomForestClassifier	Morgan	Recall	0.85904
+Primary	IC	Card	1	RandomForestClassifier	Morgan	Recall	0.71689
+Primary	IC	Card	2	RandomForestClassifier	Morgan	Recall	0.74686
+Primary	IC	Card	3	RandomForestClassifier	Morgan	Recall	0.79433
+Primary	IC	Card	4	RandomForestClassifier	Morgan	Recall	0.80759
+Secondary	IC	Card	0	RandomForestClassifier	Morgan	Recall	0.95978
+Secondary	IC	Card	1	RandomForestClassifier	Morgan	Recall	0.86012
+Secondary	IC	Card	2	RandomForestClassifier	Morgan	Recall	0.87833
+Secondary	IC	Card	3	RandomForestClassifier	Morgan	Recall	0.89565
+Secondary	IC	Card	4	RandomForestClassifier	Morgan	Recall	0.89076
+Primary	IC	Card	0	RandomForestClassifier	Morgan	Specificity	0.25485
+Primary	IC	Card	1	RandomForestClassifier	Morgan	Specificity	0.45086
+Primary	IC	Card	2	RandomForestClassifier	Morgan	Specificity	0.41648
+Primary	IC	Card	3	RandomForestClassifier	Morgan	Specificity	0.32919
+Primary	IC	Card	4	RandomForestClassifier	Morgan	Specificity	0.25364
+Secondary	IC	Card	0	RandomForestClassifier	Morgan	Specificity	0.15738
+Secondary	IC	Card	1	RandomForestClassifier	Morgan	Specificity	0.26904
+Secondary	IC	Card	2	RandomForestClassifier	Morgan	Specificity	0.21515
+Secondary	IC	Card	3	RandomForestClassifier	Morgan	Specificity	0.10577
+Secondary	IC	Card	4	RandomForestClassifier	Morgan	Specificity	0.16514
+Primary	IC	Card	0	RandomForestClassifier	Morgan	Precision	0.58171
+Primary	IC	Card	1	RandomForestClassifier	Morgan	Precision	0.68309
+Primary	IC	Card	2	RandomForestClassifier	Morgan	Precision	0.69788
+Primary	IC	Card	3	RandomForestClassifier	Morgan	Precision	0.63918
+Primary	IC	Card	4	RandomForestClassifier	Morgan	Precision	0.60372
+Secondary	IC	Card	0	RandomForestClassifier	Morgan	Precision	0.57878
+Secondary	IC	Card	1	RandomForestClassifier	Morgan	Precision	0.66019
+Secondary	IC	Card	2	RandomForestClassifier	Morgan	Precision	0.66884
+Secondary	IC	Card	3	RandomForestClassifier	Morgan	Precision	0.59975
+Secondary	IC	Card	4	RandomForestClassifier	Morgan	Precision	0.60036

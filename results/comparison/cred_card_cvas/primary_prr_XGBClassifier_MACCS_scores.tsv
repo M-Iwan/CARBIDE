@@ -1,0 +1,151 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Primary	PRR	Cred	0	XGBClassifier	MACCS	Balanced Accuracy	0.61429
+Primary	PRR	Cred	1	XGBClassifier	MACCS	Balanced Accuracy	0.53854
+Primary	PRR	Cred	3	XGBClassifier	MACCS	Balanced Accuracy	0.5668
+Primary	PRR	Cred	2	XGBClassifier	MACCS	Balanced Accuracy	0.61391
+Primary	PRR	Cred	4	XGBClassifier	MACCS	Balanced Accuracy	0.60415
+Primary	PRR	Card	0	XGBClassifier	MACCS	Balanced Accuracy	0.6207
+Primary	PRR	Card	1	XGBClassifier	MACCS	Balanced Accuracy	0.55348
+Primary	PRR	Card	3	XGBClassifier	MACCS	Balanced Accuracy	0.57915
+Primary	PRR	Card	2	XGBClassifier	MACCS	Balanced Accuracy	0.60882
+Primary	PRR	Card	4	XGBClassifier	MACCS	Balanced Accuracy	0.57168
+Primary	PRR	Cvas	0	XGBClassifier	MACCS	Balanced Accuracy	0.62708
+Primary	PRR	Cvas	1	XGBClassifier	MACCS	Balanced Accuracy	0.56024
+Primary	PRR	Cvas	3	XGBClassifier	MACCS	Balanced Accuracy	0.56189
+Primary	PRR	Cvas	2	XGBClassifier	MACCS	Balanced Accuracy	0.59829
+Primary	PRR	Cvas	4	XGBClassifier	MACCS	Balanced Accuracy	0.55797
+Primary	PRR	Cred	0	XGBClassifier	MACCS	GeomRS	0.61384
+Primary	PRR	Cred	1	XGBClassifier	MACCS	GeomRS	0.53626
+Primary	PRR	Cred	3	XGBClassifier	MACCS	GeomRS	0.56004
+Primary	PRR	Cred	2	XGBClassifier	MACCS	GeomRS	0.61378
+Primary	PRR	Cred	4	XGBClassifier	MACCS	GeomRS	0.60181
+Primary	PRR	Card	0	XGBClassifier	MACCS	GeomRS	0.61652
+Primary	PRR	Card	1	XGBClassifier	MACCS	GeomRS	0.55069
+Primary	PRR	Card	3	XGBClassifier	MACCS	GeomRS	0.57766
+Primary	PRR	Card	2	XGBClassifier	MACCS	GeomRS	0.60733
+Primary	PRR	Card	4	XGBClassifier	MACCS	GeomRS	0.57151
+Primary	PRR	Cvas	0	XGBClassifier	MACCS	GeomRS	0.62399
+Primary	PRR	Cvas	1	XGBClassifier	MACCS	GeomRS	0.55865
+Primary	PRR	Cvas	3	XGBClassifier	MACCS	GeomRS	0.56189
+Primary	PRR	Cvas	2	XGBClassifier	MACCS	GeomRS	0.59809
+Primary	PRR	Cvas	4	XGBClassifier	MACCS	GeomRS	0.5578
+Primary	PRR	Cred	0	XGBClassifier	MACCS	HarmRS	0.61339
+Primary	PRR	Cred	1	XGBClassifier	MACCS	HarmRS	0.53399
+Primary	PRR	Cred	3	XGBClassifier	MACCS	HarmRS	0.55335
+Primary	PRR	Cred	2	XGBClassifier	MACCS	HarmRS	0.61365
+Primary	PRR	Cred	4	XGBClassifier	MACCS	HarmRS	0.59948
+Primary	PRR	Card	0	XGBClassifier	MACCS	HarmRS	0.61237
+Primary	PRR	Card	1	XGBClassifier	MACCS	HarmRS	0.54792
+Primary	PRR	Card	3	XGBClassifier	MACCS	HarmRS	0.57617
+Primary	PRR	Card	2	XGBClassifier	MACCS	HarmRS	0.60584
+Primary	PRR	Card	4	XGBClassifier	MACCS	HarmRS	0.57134
+Primary	PRR	Cvas	0	XGBClassifier	MACCS	HarmRS	0.62092
+Primary	PRR	Cvas	1	XGBClassifier	MACCS	HarmRS	0.55706
+Primary	PRR	Cvas	3	XGBClassifier	MACCS	HarmRS	0.56189
+Primary	PRR	Cvas	2	XGBClassifier	MACCS	HarmRS	0.59788
+Primary	PRR	Cvas	4	XGBClassifier	MACCS	HarmRS	0.55763
+Primary	PRR	Cred	0	XGBClassifier	MACCS	F1 Score	0.64802
+Primary	PRR	Cred	1	XGBClassifier	MACCS	F1 Score	0.57071
+Primary	PRR	Cred	3	XGBClassifier	MACCS	F1 Score	0.56185
+Primary	PRR	Cred	2	XGBClassifier	MACCS	F1 Score	0.66384
+Primary	PRR	Cred	4	XGBClassifier	MACCS	F1 Score	0.61871
+Primary	PRR	Card	0	XGBClassifier	MACCS	F1 Score	0.6733
+Primary	PRR	Card	1	XGBClassifier	MACCS	F1 Score	0.58203
+Primary	PRR	Card	3	XGBClassifier	MACCS	F1 Score	0.60168
+Primary	PRR	Card	2	XGBClassifier	MACCS	F1 Score	0.6425
+Primary	PRR	Card	4	XGBClassifier	MACCS	F1 Score	0.60761
+Primary	PRR	Cvas	0	XGBClassifier	MACCS	F1 Score	0.67542
+Primary	PRR	Cvas	1	XGBClassifier	MACCS	F1 Score	0.5972
+Primary	PRR	Cvas	3	XGBClassifier	MACCS	F1 Score	0.60772
+Primary	PRR	Cvas	2	XGBClassifier	MACCS	F1 Score	0.66413
+Primary	PRR	Cvas	4	XGBClassifier	MACCS	F1 Score	0.59417
+Primary	PRR	Cred	0	XGBClassifier	MACCS	ROC AUC	0.65235
+Primary	PRR	Cred	1	XGBClassifier	MACCS	ROC AUC	0.55237
+Primary	PRR	Cred	3	XGBClassifier	MACCS	ROC AUC	0.58771
+Primary	PRR	Cred	2	XGBClassifier	MACCS	ROC AUC	0.63974
+Primary	PRR	Cred	4	XGBClassifier	MACCS	ROC AUC	0.63071
+Primary	PRR	Card	0	XGBClassifier	MACCS	ROC AUC	0.65626
+Primary	PRR	Card	1	XGBClassifier	MACCS	ROC AUC	0.55889
+Primary	PRR	Card	3	XGBClassifier	MACCS	ROC AUC	0.59208
+Primary	PRR	Card	2	XGBClassifier	MACCS	ROC AUC	0.61749
+Primary	PRR	Card	4	XGBClassifier	MACCS	ROC AUC	0.61644
+Primary	PRR	Cvas	0	XGBClassifier	MACCS	ROC AUC	0.66258
+Primary	PRR	Cvas	1	XGBClassifier	MACCS	ROC AUC	0.58713
+Primary	PRR	Cvas	3	XGBClassifier	MACCS	ROC AUC	0.58662
+Primary	PRR	Cvas	2	XGBClassifier	MACCS	ROC AUC	0.63206
+Primary	PRR	Cvas	4	XGBClassifier	MACCS	ROC AUC	0.59622
+Primary	PRR	Cred	0	XGBClassifier	MACCS	MCC	0.22788
+Primary	PRR	Cred	1	XGBClassifier	MACCS	MCC	0.07389
+Primary	PRR	Cred	3	XGBClassifier	MACCS	MCC	0.13215
+Primary	PRR	Cred	2	XGBClassifier	MACCS	MCC	0.21891
+Primary	PRR	Cred	4	XGBClassifier	MACCS	MCC	0.20468
+Primary	PRR	Card	0	XGBClassifier	MACCS	MCC	0.24356
+Primary	PRR	Card	1	XGBClassifier	MACCS	MCC	0.10255
+Primary	PRR	Card	3	XGBClassifier	MACCS	MCC	0.15509
+Primary	PRR	Card	2	XGBClassifier	MACCS	MCC	0.20904
+Primary	PRR	Card	4	XGBClassifier	MACCS	MCC	0.14056
+Primary	PRR	Cvas	0	XGBClassifier	MACCS	MCC	0.25567
+Primary	PRR	Cvas	1	XGBClassifier	MACCS	MCC	0.11529
+Primary	PRR	Cvas	3	XGBClassifier	MACCS	MCC	0.12115
+Primary	PRR	Cvas	2	XGBClassifier	MACCS	MCC	0.18947
+Primary	PRR	Cvas	4	XGBClassifier	MACCS	MCC	0.11369
+Primary	PRR	Cred	0	XGBClassifier	MACCS	Accuracy	0.61679
+Primary	PRR	Cred	1	XGBClassifier	MACCS	Accuracy	0.52398
+Primary	PRR	Cred	3	XGBClassifier	MACCS	Accuracy	0.54875
+Primary	PRR	Cred	2	XGBClassifier	MACCS	Accuracy	0.6104
+Primary	PRR	Cred	4	XGBClassifier	MACCS	Accuracy	0.5937
+Primary	PRR	Card	0	XGBClassifier	MACCS	Accuracy	0.62832
+Primary	PRR	Card	1	XGBClassifier	MACCS	Accuracy	0.53717
+Primary	PRR	Card	3	XGBClassifier	MACCS	Accuracy	0.57055
+Primary	PRR	Card	2	XGBClassifier	MACCS	Accuracy	0.59692
+Primary	PRR	Card	4	XGBClassifier	MACCS	Accuracy	0.56896
+Primary	PRR	Cvas	0	XGBClassifier	MACCS	Accuracy	0.63367
+Primary	PRR	Cvas	1	XGBClassifier	MACCS	Accuracy	0.54783
+Primary	PRR	Cvas	3	XGBClassifier	MACCS	Accuracy	0.56198
+Primary	PRR	Cvas	2	XGBClassifier	MACCS	Accuracy	0.6027
+Primary	PRR	Cvas	4	XGBClassifier	MACCS	Accuracy	0.55526
+Primary	PRR	Cred	0	XGBClassifier	MACCS	Recall	0.63789
+Primary	PRR	Cred	1	XGBClassifier	MACCS	Recall	0.48902
+Primary	PRR	Cred	3	XGBClassifier	MACCS	Recall	0.4795
+Primary	PRR	Cred	2	XGBClassifier	MACCS	Recall	0.60134
+Primary	PRR	Cred	4	XGBClassifier	MACCS	Recall	0.551
+Primary	PRR	Card	0	XGBClassifier	MACCS	Recall	0.69259
+Primary	PRR	Card	1	XGBClassifier	MACCS	Recall	0.49804
+Primary	PRR	Card	3	XGBClassifier	MACCS	Recall	0.53756
+Primary	PRR	Card	2	XGBClassifier	MACCS	Recall	0.56622
+Primary	PRR	Card	4	XGBClassifier	MACCS	Recall	0.55783
+Primary	PRR	Cvas	0	XGBClassifier	MACCS	Recall	0.68924
+Primary	PRR	Cvas	1	XGBClassifier	MACCS	Recall	0.51804
+Primary	PRR	Cvas	3	XGBClassifier	MACCS	Recall	0.56232
+Primary	PRR	Cvas	2	XGBClassifier	MACCS	Recall	0.61405
+Primary	PRR	Cvas	4	XGBClassifier	MACCS	Recall	0.54418
+Primary	PRR	Cred	0	XGBClassifier	MACCS	Specificity	0.5907
+Primary	PRR	Cred	1	XGBClassifier	MACCS	Specificity	0.58807
+Primary	PRR	Cred	3	XGBClassifier	MACCS	Specificity	0.65411
+Primary	PRR	Cred	2	XGBClassifier	MACCS	Specificity	0.62648
+Primary	PRR	Cred	4	XGBClassifier	MACCS	Specificity	0.6573
+Primary	PRR	Card	0	XGBClassifier	MACCS	Specificity	0.5488
+Primary	PRR	Card	1	XGBClassifier	MACCS	Specificity	0.60891
+Primary	PRR	Card	3	XGBClassifier	MACCS	Specificity	0.62075
+Primary	PRR	Card	2	XGBClassifier	MACCS	Specificity	0.65143
+Primary	PRR	Card	4	XGBClassifier	MACCS	Specificity	0.58553
+Primary	PRR	Cvas	0	XGBClassifier	MACCS	Specificity	0.56492
+Primary	PRR	Cvas	1	XGBClassifier	MACCS	Specificity	0.60244
+Primary	PRR	Cvas	3	XGBClassifier	MACCS	Specificity	0.56146
+Primary	PRR	Cvas	2	XGBClassifier	MACCS	Specificity	0.58254
+Primary	PRR	Cvas	4	XGBClassifier	MACCS	Specificity	0.57177
+Primary	PRR	Cred	0	XGBClassifier	MACCS	Precision	0.65847
+Primary	PRR	Cred	1	XGBClassifier	MACCS	Precision	0.68516
+Primary	PRR	Cred	3	XGBClassifier	MACCS	Precision	0.67835
+Primary	PRR	Cred	2	XGBClassifier	MACCS	Precision	0.74083
+Primary	PRR	Cred	4	XGBClassifier	MACCS	Precision	0.7054
+Primary	PRR	Card	0	XGBClassifier	MACCS	Precision	0.65505
+Primary	PRR	Card	1	XGBClassifier	MACCS	Precision	0.70011
+Primary	PRR	Card	3	XGBClassifier	MACCS	Precision	0.68318
+Primary	PRR	Card	2	XGBClassifier	MACCS	Precision	0.74254
+Primary	PRR	Card	4	XGBClassifier	MACCS	Precision	0.66715
+Primary	PRR	Cvas	0	XGBClassifier	MACCS	Precision	0.66214
+Primary	PRR	Cvas	1	XGBClassifier	MACCS	Precision	0.70491
+Primary	PRR	Cvas	3	XGBClassifier	MACCS	Precision	0.6611
+Primary	PRR	Cvas	2	XGBClassifier	MACCS	Precision	0.72312
+Primary	PRR	Cvas	4	XGBClassifier	MACCS	Precision	0.65427

@@ -1,0 +1,4 @@
+metric	null_hypothesis	null_rejected	outcome	effect_size	w_stat	p_value	r_stat
+ROC AUC	PRR == ROR	True	PRR > ROR	Medium	45078.0	1.2890377517522733e-14	0.38278907373177246
+ROC AUC	PRR == IC	False	PRR == IC	Negligible	71078.5	0.6411575990979415	0.02317735174878032
+ROC AUC	ROR == IC	True	ROR < IC	Medium	44323.0	5.735992060796172e-15	-0.3886103275375713
