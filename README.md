@@ -3,9 +3,8 @@
 ![repo version](https://img.shields.io/badge/Version-v.%201.0.0-green)
 ![python version](https://img.shields.io/badge/python-v.3.11-blue)
 ![license](https://img.shields.io/badge/license-CC_BY_4.0-orange)
-[![Static Badge](https://img.shields.io/badge/Paper-doi)](https://doi.org/)
 
-Repository accompanying paper "Beyond Molecular Structure: Investigating Demographic Factors in Drug-Induced Cardiotoxicity Prediction Models" 
+Repository accompanying paper "Beyond Molecular Structure: Investigating Demographic Factors in Drug-Induced Cardiotoxicity Prediction Models". https://doi.org/10.26434/chemrxiv.10001782/v1
 
 ## Prerequisites
 To download and run the code make sure you have installed the following:
@@ -48,4 +47,4 @@ This study was partially funded by the Horizon Europe funding programme, under t
 
 ## How to cite
 If you use this code or parts thereof, please cite the following paper: <div>
-Iwan M., Roncaglioni A., and Grisoni F. "Beyond Molecular Structure: Investigating Demographic Factors in Drug-Induced Cardiotoxicity Prediction Models"
+Iwan M., Roncaglioni A., and Grisoni F. "Beyond Molecular Structure: Investigating Demographic Factors in Drug-Induced Cardiotoxicity Prediction Models", https://doi.org/10.26434/chemrxiv.10001782/v1
