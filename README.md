@@ -34,7 +34,7 @@ The following require additional packages / setup:
 The prepared CARBIDE dataset is available in the repository under data/carbide.
 
 Additionally, the dataset, raw data, aggregated raw results, and other associated files required for reproducing this work are hosted at Zenodo for LTS:
-`` https://zenodo.org/records/18605832 ``
+https://zenodo.org/records/18605832
 
 ## Running the code
 We provide notebooks that allow to recreate the results of this study:
