@@ -31,8 +31,10 @@ The following require additional packages / setup:
 * Calculating CDDD embeddings requires creating a separate environment. The setup files are provided in src/cddd.
 
 ## Associated files
-The raw data, raw results, and other associated files can be currently downloaded from DropBox via:
-``https://www.dropbox.com/scl/fo/6q7ckogb2hla4dsyzco5o/AIBBKYuioZQV11IRtnl_Z1M?rlkey=bcy185om4bejf99helkm9szd7&st=ku1nhuxj&dl=0``
+The prepared CARBIDE dataset is available in the repository under data/carbide.
+
+Additionally, the dataset, raw data, aggregated raw results, and other associated files required for reproducing this work are hosted at Zenodo for LTS:
+`` https://zenodo.org/records/18605832 ``
 
 ## Running the code
 We provide notebooks that allow to recreate the results of this study:
