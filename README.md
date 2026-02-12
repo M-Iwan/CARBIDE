@@ -1,6 +1,6 @@
 ![](figures/Carbide.png)
 
-![repo version](https://img.shields.io/badge/Version-v.%201.0.0-green)
+![repo version](https://img.shields.io/badge/Version-v.%201.0.1-green)
 ![python version](https://img.shields.io/badge/python-v.3.11-blue)
 ![license](https://img.shields.io/badge/license-CC_BY_4.0-orange)
 
@@ -31,9 +31,11 @@ The following require additional packages / setup:
 * Calculating CDDD embeddings requires creating a separate environment. The setup files are provided in src/cddd.
 
 ## Associated files
-The prepared CARBIDE dataset is available in the repository under data/carbide.
+The prepared CARBIDE dataset is available in the repository under data/carbide in form of: <div>
+* .joblib files: compatibile with the rest of the code / notebooks
+* .tsv files: for non-Python users / easier access
 
-Additionally, the dataset, raw data, aggregated raw results, and other associated files required for reproducing this work are hosted at Zenodo for LTS:
+Additionally, the dataset, raw data, aggregated raw results, and other associated files are available at Zenodo for LTS: <div>
 https://zenodo.org/records/18605832
 
 ## Running the code
@@ -45,7 +47,7 @@ We provide notebooks that allow to recreate the results of this study:
 * 5_Figures.ipynb - Plotting of figures
 
 ## Funding
-This study was partially funded by the Horizon Europe funding programme, under the Marie Skłodowska-Curie Actions Doctoral Networks grant agreement “Explainable AI for Molecules - AiChemist” no. 101120466. This work used the Dutch national e-infrastructure with the support of the SURF Cooperative using grant no. EINF-14313 to MI. 
+This study was funded by the Horizon Europe funding programme, under the Marie Skłodowska-Curie Actions Doctoral Networks grant agreement “Explainable AI for Molecules - AiChemist” no. 101120466. This work used the Dutch national e-infrastructure with the support of the SURF Cooperative using grant no. EINF-14313 to MI. 
 
 ## How to cite
 If you use this code or parts thereof, please cite the following paper: <div>
