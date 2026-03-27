@@ -1,0 +1,321 @@
+Params	Value	Number	Test_Fold	Model	Descriptors
+solver_penalty: liblinear:l1 | C: 0.8589364	0.48154	0	0	LogisticRegression	ChemBERTa
+solver_penalty: saga:l2 | C: 0.01079941	0.32533	1	0	LogisticRegression	ChemBERTa
+solver_penalty: newton-cg:None | C: 1.149512	0.4968	2	0	LogisticRegression	ChemBERTa
+solver_penalty: liblinear:l2 | C: 0.03767723	0.41048	3	0	LogisticRegression	ChemBERTa
+solver_penalty: lbfgs:l2 | C: 0.1583328	0.45232	4	0	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:l2 | C: 0.12113	0.44703	5	0	LogisticRegression	ChemBERTa
+solver_penalty: sag:None | C: 0.1315552	0.50093	6	0	LogisticRegression	ChemBERTa
+solver_penalty: liblinear:l2 | C: 0.04857803	0.41929	7	0	LogisticRegression	ChemBERTa
+solver_penalty: lbfgs:None | C: 8.693188	0.51079	8	0	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:l2 | C: 1.053645	0.49203	9	0	LogisticRegression	ChemBERTa
+solver_penalty: newton-cg:l2 | C: 6.995489	0.5037	10	0	LogisticRegression	ChemBERTa
+solver_penalty: newton-cg:l2 | C: 9.524082	0.50526	11	0	LogisticRegression	ChemBERTa
+solver_penalty: sag:l2 | C: 9.748188	0.50021	12	0	LogisticRegression	ChemBERTa
+solver_penalty: lbfgs:None | C: 3.459459	0.51079	13	0	LogisticRegression	ChemBERTa
+solver_penalty: lbfgs:None | C: 2.468724	0.51079	14	0	LogisticRegression	ChemBERTa
+solver_penalty: lbfgs:None | C: 0.001666064	0.51079	15	0	LogisticRegression	ChemBERTa
+solver_penalty: saga:l1 | C: 2.880012	0.49281	16	0	LogisticRegression	ChemBERTa
+solver_penalty: saga:elasticnet | C: 0.5127844 | l1_ratio: 0.2044096	0.47561	17	0	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:None | C: 2.613039	0.47894	18	0	LogisticRegression	ChemBERTa
+solver_penalty: saga:None | C: 0.001149506	0.49618	19	0	LogisticRegression	ChemBERTa
+solver_penalty: lbfgs:None | C: 0.4909547	0.51079	20	0	LogisticRegression	ChemBERTa
+solver_penalty: lbfgs:None | C: 3.260191	0.51079	21	0	LogisticRegression	ChemBERTa
+solver_penalty: lbfgs:None | C: 3.823111	0.51079	22	0	LogisticRegression	ChemBERTa
+solver_penalty: lbfgs:None | C: 0.3422156	0.51079	23	0	LogisticRegression	ChemBERTa
+solver_penalty: lbfgs:None | C: 1.487226	0.51079	24	0	LogisticRegression	ChemBERTa
+solver_penalty: lbfgs:None | C: 4.640872	0.51079	25	0	LogisticRegression	ChemBERTa
+solver_penalty: saga:l2 | C: 1.917286	0.49352	26	0	LogisticRegression	ChemBERTa
+solver_penalty: saga:None | C: 5.748907	0.4962	27	0	LogisticRegression	ChemBERTa
+solver_penalty: newton-cg:None | C: 0.3081963	0.4968	28	0	LogisticRegression	ChemBERTa
+solver_penalty: liblinear:l1 | C: 0.6938628	0.47493	29	0	LogisticRegression	ChemBERTa
+solver_penalty: saga:elasticnet | C: 1.615325 | l1_ratio: 0.995185	0.48778	30	0	LogisticRegression	ChemBERTa
+solver_penalty: lbfgs:None | C: 0.001240827	0.51079	31	0	LogisticRegression	ChemBERTa
+solver_penalty: lbfgs:None | C: 0.00390663	0.51079	32	0	LogisticRegression	ChemBERTa
+solver_penalty: lbfgs:None | C: 0.009126401	0.51079	33	0	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:None | C: 0.03708844	0.47894	34	0	LogisticRegression	ChemBERTa
+solver_penalty: sag:l2 | C: 0.002663901	0.13959	35	0	LogisticRegression	ChemBERTa
+solver_penalty: saga:l1 | C: 0.06611594	0.37511	36	0	LogisticRegression	ChemBERTa
+solver_penalty: lbfgs:None | C: 0.01149562	0.51079	37	0	LogisticRegression	ChemBERTa
+solver_penalty: lbfgs:l2 | C: 0.02490053	0.3906	38	0	LogisticRegression	ChemBERTa
+solver_penalty: sag:None | C: 0.9955943	0.50087	39	0	LogisticRegression	ChemBERTa
+solver_penalty: liblinear:l2 | C: 0.2424145	0.46678	40	0	LogisticRegression	ChemBERTa
+solver_penalty: lbfgs:None | C: 0.6699758	0.51079	41	0	LogisticRegression	ChemBERTa
+solver_penalty: lbfgs:None | C: 6.099549	0.51079	42	0	LogisticRegression	ChemBERTa
+solver_penalty: liblinear:l1 | C: 2.271606	0.49975	43	0	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:l2 | C: 0.1847428	0.45678	44	0	LogisticRegression	ChemBERTa
+solver_penalty: newton-cg:None | C: 1.27543	0.4968	45	0	LogisticRegression	ChemBERTa
+solver_penalty: saga:l2 | C: 9.83731	0.4964	46	0	LogisticRegression	ChemBERTa
+solver_penalty: lbfgs:None | C: 0.5262143	0.51079	47	0	LogisticRegression	ChemBERTa
+solver_penalty: lbfgs:l2 | C: 0.07964736	0.43767	48	0	LogisticRegression	ChemBERTa
+solver_penalty: newton-cg:l2 | C: 4.504094	0.50174	49	0	LogisticRegression	ChemBERTa
+solver_penalty: sag:None | C: 2.221446	0.50095	50	0	LogisticRegression	ChemBERTa
+solver_penalty: lbfgs:None | C: 4.219757	0.51079	51	0	LogisticRegression	ChemBERTa
+solver_penalty: lbfgs:None | C: 3.315332	0.51079	52	0	LogisticRegression	ChemBERTa
+solver_penalty: lbfgs:None | C: 6.53832	0.51079	53	0	LogisticRegression	ChemBERTa
+solver_penalty: lbfgs:None | C: 3.501168	0.51079	54	0	LogisticRegression	ChemBERTa
+solver_penalty: lbfgs:None | C: 1.041402	0.51079	55	0	LogisticRegression	ChemBERTa
+solver_penalty: liblinear:l2 | C: 0.4359928	0.47928	56	0	LogisticRegression	ChemBERTa
+solver_penalty: saga:None | C: 7.489142	0.4962	57	0	LogisticRegression	ChemBERTa
+solver_penalty: saga:elasticnet | C: 2.741579 | l1_ratio: 0.7482699	0.49284	58	0	LogisticRegression	ChemBERTa
+solver_penalty: saga:l1 | C: 1.642694	0.48732	59	0	LogisticRegression	ChemBERTa
+solver_penalty: sag:l2 | C: 5.133844	0.49989	60	0	LogisticRegression	ChemBERTa
+solver_penalty: lbfgs:None | C: 3.472611	0.51079	61	0	LogisticRegression	ChemBERTa
+solver_penalty: lbfgs:None | C: 1.965652	0.51079	62	0	LogisticRegression	ChemBERTa
+solver_penalty: lbfgs:None | C: 7.733691	0.51079	63	0	LogisticRegression	ChemBERTa
+solver_penalty: lbfgs:l2 | C: 0.1328491	0.4594	0	3	LogisticRegression	ChemBERTa
+solver_penalty: lbfgs:l2 | C: 2.873246	0.48733	1	3	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:None | C: 0.03326107	0.50489	2	3	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:None | C: 5.088774	0.50489	3	3	LogisticRegression	ChemBERTa
+solver_penalty: saga:l2 | C: 0.1497851	0.46154	4	3	LogisticRegression	ChemBERTa
+solver_penalty: liblinear:l2 | C: 0.04770402	0.43354	5	3	LogisticRegression	ChemBERTa
+solver_penalty: saga:elasticnet | C: 0.004615778 | l1_ratio: 0.7060093	0.0	6	3	LogisticRegression	ChemBERTa
+solver_penalty: newton-cg:l2 | C: 0.004190904	0.23028	7	3	LogisticRegression	ChemBERTa
+solver_penalty: saga:l1 | C: 0.002838718	0.0	8	3	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:l2 | C: 0.002593515	0.16354	9	3	LogisticRegression	ChemBERTa
+solver_penalty: lbfgs:None | C: 0.02711169	0.49661	10	3	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:None | C: 9.45532	0.50489	11	3	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:None | C: 0.8737828	0.50489	12	3	LogisticRegression	ChemBERTa
+solver_penalty: saga:None | C: 0.5001453	0.48307	13	3	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:None | C: 0.01636136	0.50489	14	3	LogisticRegression	ChemBERTa
+solver_penalty: liblinear:l1 | C: 0.5040567	0.47835	15	3	LogisticRegression	ChemBERTa
+solver_penalty: sag:l2 | C: 0.01240232	0.34566	16	3	LogisticRegression	ChemBERTa
+solver_penalty: newton-cg:None | C: 9.839937	0.49586	17	3	LogisticRegression	ChemBERTa
+solver_penalty: sag:None | C: 1.825082	0.48748	18	3	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:None | C: 0.05572468	0.50489	19	3	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:None | C: 0.2492739	0.50489	20	3	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:None | C: 9.282496	0.50489	21	3	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:None | C: 2.960412	0.50489	22	3	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:None | C: 4.005891	0.50489	23	3	LogisticRegression	ChemBERTa
+solver_penalty: newton-cg:l2 | C: 0.9214789	0.48117	24	3	LogisticRegression	ChemBERTa
+solver_penalty: saga:elasticnet | C: 0.001217839 | l1_ratio: 0.006387956	0.0766	25	3	LogisticRegression	ChemBERTa
+solver_penalty: lbfgs:None | C: 7.171018	0.49661	26	3	LogisticRegression	ChemBERTa
+solver_penalty: sag:l2 | C: 1.434494	0.4817	27	3	LogisticRegression	ChemBERTa
+solver_penalty: liblinear:l1 | C: 5.390012	0.49478	28	3	LogisticRegression	ChemBERTa
+solver_penalty: saga:None | C: 0.1892598	0.48324	29	3	LogisticRegression	ChemBERTa
+solver_penalty: saga:l2 | C: 0.3760396	0.47476	30	3	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:None | C: 1.579042	0.50489	31	3	LogisticRegression	ChemBERTa
+solver_penalty: lbfgs:l2 | C: 0.0984853	0.45248	32	3	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:None | C: 4.100998	0.50489	33	3	LogisticRegression	ChemBERTa
+solver_penalty: liblinear:l2 | C: 0.9495921	0.48072	34	3	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:None | C: 0.105002	0.50489	35	3	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:l2 | C: 2.631525	0.48675	36	3	LogisticRegression	ChemBERTa
+solver_penalty: saga:l1 | C: 0.8605944	0.48323	37	3	LogisticRegression	ChemBERTa
+solver_penalty: sag:None | C: 0.04013337	0.48759	38	3	LogisticRegression	ChemBERTa
+solver_penalty: newton-cg:None | C: 0.01171642	0.49586	39	3	LogisticRegression	ChemBERTa
+solver_penalty: lbfgs:l2 | C: 2.342076	0.48596	40	3	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:None | C: 0.008707136	0.50489	41	3	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:None | C: 0.0191296	0.50489	42	3	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:None | C: 0.03260711	0.50489	43	3	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:None | C: 0.07138154	0.50489	44	3	LogisticRegression	ChemBERTa
+solver_penalty: saga:l2 | C: 0.02328658	0.39653	45	3	LogisticRegression	ChemBERTa
+solver_penalty: liblinear:l2 | C: 0.00790511	0.31141	46	3	LogisticRegression	ChemBERTa
+solver_penalty: newton-cg:l2 | C: 6.578482	0.49231	47	3	LogisticRegression	ChemBERTa
+solver_penalty: saga:elasticnet | C: 0.004815589 | l1_ratio: 0.99256	0.0	48	3	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:None | C: 0.01703257	0.50489	49	3	LogisticRegression	ChemBERTa
+solver_penalty: saga:l1 | C: 4.119548	0.48301	50	3	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:None | C: 0.06891016	0.50489	51	3	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:None | C: 0.05492931	0.50489	52	3	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:None | C: 0.1655275	0.50489	53	3	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:None | C: 0.03602538	0.50489	54	3	LogisticRegression	ChemBERTa
+solver_penalty: lbfgs:None | C: 0.4021914	0.49661	55	3	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:l2 | C: 8.718086	0.49729	56	3	LogisticRegression	ChemBERTa
+solver_penalty: saga:None | C: 0.0151398	0.48331	57	3	LogisticRegression	ChemBERTa
+solver_penalty: sag:l2 | C: 0.02552811	0.40324	58	3	LogisticRegression	ChemBERTa
+solver_penalty: newton-cg:None | C: 0.05266461	0.49586	59	3	LogisticRegression	ChemBERTa
+solver_penalty: liblinear:l1 | C: 0.2405442	0.46461	60	3	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:None | C: 0.2465755	0.50489	61	3	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:None | C: 0.1205864	0.50489	62	3	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:None | C: 0.5860244	0.50489	63	3	LogisticRegression	ChemBERTa
+solver_penalty: lbfgs:None | C: 0.2059839	0.47066	0	1	LogisticRegression	ChemBERTa
+solver_penalty: sag:None | C: 0.02771105	0.46903	1	1	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:l2 | C: 0.001866966	0.09996	2	1	LogisticRegression	ChemBERTa
+solver_penalty: saga:None | C: 0.186398	0.46739	3	1	LogisticRegression	ChemBERTa
+solver_penalty: lbfgs:l2 | C: 0.0191374	0.31471	4	1	LogisticRegression	ChemBERTa
+solver_penalty: lbfgs:l2 | C: 0.3528482	0.45105	5	1	LogisticRegression	ChemBERTa
+solver_penalty: lbfgs:None | C: 6.120696	0.47066	6	1	LogisticRegression	ChemBERTa
+solver_penalty: sag:None | C: 0.004455664	0.46885	7	1	LogisticRegression	ChemBERTa
+solver_penalty: sag:l2 | C: 0.01983502	0.31778	8	1	LogisticRegression	ChemBERTa
+solver_penalty: saga:l1 | C: 0.0115881	0.01186	9	1	LogisticRegression	ChemBERTa
+solver_penalty: newton-cg:None | C: 1.258018	0.47502	10	1	LogisticRegression	ChemBERTa
+solver_penalty: newton-cg:None | C: 1.445637	0.47502	11	1	LogisticRegression	ChemBERTa
+solver_penalty: newton-cg:None | C: 2.238035	0.47502	12	1	LogisticRegression	ChemBERTa
+solver_penalty: newton-cg:None | C: 1.190823	0.47502	13	1	LogisticRegression	ChemBERTa
+solver_penalty: newton-cg:None | C: 9.567712	0.47502	14	1	LogisticRegression	ChemBERTa
+solver_penalty: saga:l2 | C: 0.8520743	0.46097	15	1	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:None | C: 0.06959787	0.48415	16	1	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:None | C: 0.06963111	0.48415	17	1	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:None | C: 0.05566082	0.48415	18	1	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:None | C: 0.05286315	0.48415	19	1	LogisticRegression	ChemBERTa
+solver_penalty: newton-cg:l2 | C: 0.006402108	0.20342	20	1	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:None | C: 0.08826789	0.48415	21	1	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:None | C: 0.06026066	0.48415	22	1	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:None | C: 0.3318204	0.48415	23	1	LogisticRegression	ChemBERTa
+solver_penalty: saga:elasticnet | C: 0.1272924 | l1_ratio: 0.8786982	0.36311	24	1	LogisticRegression	ChemBERTa
+solver_penalty: liblinear:l2 | C: 0.04020583	0.37243	25	1	LogisticRegression	ChemBERTa
+solver_penalty: liblinear:l1 | C: 0.4584278	0.43435	26	1	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:None | C: 0.1043234	0.48415	27	1	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:None | C: 0.009185514	0.48415	28	1	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:None | C: 0.003039886	0.48415	29	1	LogisticRegression	ChemBERTa
+solver_penalty: saga:l1 | C: 0.1773752	0.38618	30	1	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:None | C: 0.05056117	0.48415	31	1	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:None | C: 0.03231023	0.48415	32	1	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:l2 | C: 0.07207596	0.40073	33	1	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:None | C: 0.02039812	0.48415	34	1	LogisticRegression	ChemBERTa
+solver_penalty: saga:None | C: 0.001267102	0.4674	35	1	LogisticRegression	ChemBERTa
+solver_penalty: saga:elasticnet | C: 0.2174094 | l1_ratio: 0.02836766	0.4373	36	1	LogisticRegression	ChemBERTa
+solver_penalty: lbfgs:None | C: 0.03549496	0.47066	37	1	LogisticRegression	ChemBERTa
+solver_penalty: saga:l2 | C: 0.01364872	0.28413	38	1	LogisticRegression	ChemBERTa
+solver_penalty: sag:None | C: 0.1349557	0.46893	39	1	LogisticRegression	ChemBERTa
+solver_penalty: sag:l2 | C: 0.02420807	0.33503	40	1	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:None | C: 0.08984	0.48415	41	1	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:None | C: 0.05658172	0.48415	42	1	LogisticRegression	ChemBERTa
+solver_penalty: liblinear:l2 | C: 0.2826304	0.4442	43	1	LogisticRegression	ChemBERTa
+solver_penalty: newton-cg:l2 | C: 0.5679614	0.46098	44	1	LogisticRegression	ChemBERTa
+solver_penalty: lbfgs:l2 | C: 0.08044936	0.4062	45	1	LogisticRegression	ChemBERTa
+solver_penalty: liblinear:l1 | C: 0.01448737	0.03082	46	1	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:None | C: 0.1767781	0.48415	47	1	LogisticRegression	ChemBERTa
+solver_penalty: saga:None | C: 0.04127812	0.46738	48	1	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:l2 | C: 0.02477959	0.33656	49	1	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:None | C: 0.00796229	0.48415	50	1	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:None | C: 0.05652974	0.48415	51	1	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:None | C: 0.06785756	0.48415	52	1	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:None | C: 0.1264831	0.48415	53	1	LogisticRegression	ChemBERTa
+solver_penalty: lbfgs:None | C: 0.100231	0.47066	54	1	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:None | C: 0.2406634	0.48415	55	1	LogisticRegression	ChemBERTa
+solver_penalty: sag:l2 | C: 0.04061441	0.37136	56	1	LogisticRegression	ChemBERTa
+solver_penalty: saga:l1 | C: 0.1539381	0.37319	57	1	LogisticRegression	ChemBERTa
+solver_penalty: sag:None | C: 0.01712312	0.46893	58	1	LogisticRegression	ChemBERTa
+solver_penalty: lbfgs:l2 | C: 0.02904572	0.34776	59	1	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:None | C: 0.4346367	0.48415	60	1	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:None | C: 2.796073	0.48415	61	1	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:None | C: 0.294175	0.48415	62	1	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:None | C: 0.05649564	0.48415	63	1	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:l2 | C: 0.3539271	0.46145	0	4	LogisticRegression	ChemBERTa
+solver_penalty: lbfgs:None | C: 0.001154231	0.47766	1	4	LogisticRegression	ChemBERTa
+solver_penalty: newton-cg:None | C: 0.001253104	0.48004	2	4	LogisticRegression	ChemBERTa
+solver_penalty: saga:l2 | C: 1.195701	0.46857	3	4	LogisticRegression	ChemBERTa
+solver_penalty: liblinear:l2 | C: 0.01474653	0.34336	4	4	LogisticRegression	ChemBERTa
+solver_penalty: saga:None | C: 0.003369638	0.47158	5	4	LogisticRegression	ChemBERTa
+solver_penalty: lbfgs:l2 | C: 0.04734742	0.41844	6	4	LogisticRegression	ChemBERTa
+solver_penalty: newton-cg:l2 | C: 0.3737514	0.46269	7	4	LogisticRegression	ChemBERTa
+solver_penalty: sag:None | C: 0.004826945	0.47173	8	4	LogisticRegression	ChemBERTa
+solver_penalty: newton-cg:l2 | C: 0.002857244	0.17159	9	4	LogisticRegression	ChemBERTa
+solver_penalty: newton-cg:None | C: 8.34751	0.48004	10	4	LogisticRegression	ChemBERTa
+solver_penalty: newton-cg:None | C: 6.598406	0.48004	11	4	LogisticRegression	ChemBERTa
+solver_penalty: newton-cg:None | C: 9.339778	0.48004	12	4	LogisticRegression	ChemBERTa
+solver_penalty: liblinear:l1 | C: 0.04893397	0.32292	13	4	LogisticRegression	ChemBERTa
+solver_penalty: newton-cg:None | C: 1.790117	0.48004	14	4	LogisticRegression	ChemBERTa
+solver_penalty: sag:l2 | C: 0.2029216	0.4542	15	4	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:None | C: 0.0119393	0.47245	16	4	LogisticRegression	ChemBERTa
+solver_penalty: saga:elasticnet | C: 1.745038 | l1_ratio: 0.4038773	0.46872	17	4	LogisticRegression	ChemBERTa
+solver_penalty: saga:l1 | C: 0.001017245	0.0	18	4	LogisticRegression	ChemBERTa
+solver_penalty: newton-cg:None | C: 0.08556384	0.48004	19	4	LogisticRegression	ChemBERTa
+solver_penalty: newton-cg:None | C: 0.01694368	0.48004	20	4	LogisticRegression	ChemBERTa
+solver_penalty: newton-cg:None | C: 7.818094	0.48004	21	4	LogisticRegression	ChemBERTa
+solver_penalty: newton-cg:None | C: 3.821244	0.48004	22	4	LogisticRegression	ChemBERTa
+solver_penalty: newton-cg:None | C: 3.802619	0.48004	23	4	LogisticRegression	ChemBERTa
+solver_penalty: lbfgs:l2 | C: 0.6121523	0.46788	24	4	LogisticRegression	ChemBERTa
+solver_penalty: saga:elasticnet | C: 5.271724 | l1_ratio: 0.9773348	0.47029	25	4	LogisticRegression	ChemBERTa
+solver_penalty: liblinear:l1 | C: 0.7452042	0.46826	26	4	LogisticRegression	ChemBERTa
+solver_penalty: saga:l1 | C: 2.802441	0.46868	27	4	LogisticRegression	ChemBERTa
+solver_penalty: lbfgs:None | C: 0.1525084	0.47766	28	4	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:l2 | C: 9.853827	0.47727	29	4	LogisticRegression	ChemBERTa
+solver_penalty: liblinear:l2 | C: 0.3365299	0.46231	30	4	LogisticRegression	ChemBERTa
+solver_penalty: newton-cg:None | C: 6.601581	0.48004	31	4	LogisticRegression	ChemBERTa
+solver_penalty: newton-cg:None | C: 2.069442	0.48004	32	4	LogisticRegression	ChemBERTa
+solver_penalty: saga:l2 | C: 0.900294	0.4673	33	4	LogisticRegression	ChemBERTa
+solver_penalty: newton-cg:None | C: 9.505374	0.48004	34	4	LogisticRegression	ChemBERTa
+solver_penalty: saga:None | C: 4.651097	0.47153	35	4	LogisticRegression	ChemBERTa
+solver_penalty: sag:None | C: 3.34762	0.47152	36	4	LogisticRegression	ChemBERTa
+solver_penalty: sag:l2 | C: 0.009082339	0.29274	37	4	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:None | C: 0.002026574	0.47245	38	4	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:l2 | C: 0.04224591	0.41299	39	4	LogisticRegression	ChemBERTa
+solver_penalty: lbfgs:None | C: 1.122387	0.47766	40	4	LogisticRegression	ChemBERTa
+solver_penalty: newton-cg:None | C: 1.376911	0.48004	41	4	LogisticRegression	ChemBERTa
+solver_penalty: newton-cg:None | C: 2.196851	0.48004	42	4	LogisticRegression	ChemBERTa
+solver_penalty: newton-cg:None | C: 6.298285	0.48004	43	4	LogisticRegression	ChemBERTa
+solver_penalty: newton-cg:l2 | C: 2.609658	0.47116	44	4	LogisticRegression	ChemBERTa
+solver_penalty: saga:l2 | C: 5.830243	0.46971	45	4	LogisticRegression	ChemBERTa
+solver_penalty: newton-cg:None | C: 0.03092864	0.48004	46	4	LogisticRegression	ChemBERTa
+solver_penalty: liblinear:l2 | C: 0.4651589	0.46706	47	4	LogisticRegression	ChemBERTa
+solver_penalty: saga:None | C: 1.416061	0.47153	48	4	LogisticRegression	ChemBERTa
+solver_penalty: newton-cg:None | C: 0.006696816	0.48004	49	4	LogisticRegression	ChemBERTa
+solver_penalty: lbfgs:l2 | C: 0.001663816	0.10402	50	4	LogisticRegression	ChemBERTa
+solver_penalty: newton-cg:None | C: 0.06946226	0.48004	51	4	LogisticRegression	ChemBERTa
+solver_penalty: newton-cg:None | C: 0.1234427	0.48004	52	4	LogisticRegression	ChemBERTa
+solver_penalty: newton-cg:None | C: 0.01907217	0.48004	53	4	LogisticRegression	ChemBERTa
+solver_penalty: liblinear:l1 | C: 4.517912	0.47599	54	4	LogisticRegression	ChemBERTa
+solver_penalty: sag:None | C: 0.004835461	0.47163	55	4	LogisticRegression	ChemBERTa
+solver_penalty: saga:elasticnet | C: 7.963012 | l1_ratio: 0.03043902	0.46972	56	4	LogisticRegression	ChemBERTa
+solver_penalty: newton-cg:None | C: 0.2145092	0.48004	57	4	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:None | C: 3.192625	0.47245	58	4	LogisticRegression	ChemBERTa
+solver_penalty: saga:l1 | C: 0.07365986	0.37099	59	4	LogisticRegression	ChemBERTa
+solver_penalty: sag:l2 | C: 0.02455405	0.37993	60	4	LogisticRegression	ChemBERTa
+solver_penalty: newton-cg:None | C: 0.2773064	0.48004	61	4	LogisticRegression	ChemBERTa
+solver_penalty: newton-cg:None | C: 0.002613111	0.48004	62	4	LogisticRegression	ChemBERTa
+solver_penalty: newton-cg:None | C: 0.01176754	0.48004	63	4	LogisticRegression	ChemBERTa
+solver_penalty: lbfgs:l2 | C: 0.07224377	0.45939	0	2	LogisticRegression	ChemBERTa
+solver_penalty: sag:None | C: 0.005857751	0.49722	1	2	LogisticRegression	ChemBERTa
+solver_penalty: sag:None | C: 0.009541731	0.4973	2	2	LogisticRegression	ChemBERTa
+solver_penalty: sag:None | C: 0.005590342	0.49716	3	2	LogisticRegression	ChemBERTa
+solver_penalty: liblinear:l1 | C: 2.783576	0.49315	4	2	LogisticRegression	ChemBERTa
+solver_penalty: saga:elasticnet | C: 3.706441 | l1_ratio: 0.5003028	0.49972	5	2	LogisticRegression	ChemBERTa
+solver_penalty: saga:l2 | C: 0.06902321	0.45605	6	2	LogisticRegression	ChemBERTa
+solver_penalty: sag:l2 | C: 9.328864	0.49762	7	2	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:None | C: 0.004738385	0.49451	8	2	LogisticRegression	ChemBERTa
+solver_penalty: lbfgs:l2 | C: 0.1840373	0.48888	9	2	LogisticRegression	ChemBERTa
+solver_penalty: saga:elasticnet | C: 0.8119841 | l1_ratio: 0.4614248	0.5008	10	2	LogisticRegression	ChemBERTa
+solver_penalty: saga:elasticnet | C: 0.8040276 | l1_ratio: 0.4798585	0.50057	11	2	LogisticRegression	ChemBERTa
+solver_penalty: saga:elasticnet | C: 0.5130998 | l1_ratio: 0.3945907	0.49546	12	2	LogisticRegression	ChemBERTa
+solver_penalty: saga:elasticnet | C: 0.9357914 | l1_ratio: 0.7011714	0.50016	13	2	LogisticRegression	ChemBERTa
+solver_penalty: lbfgs:None | C: 0.484298	0.49163	14	2	LogisticRegression	ChemBERTa
+solver_penalty: saga:l1 | C: 0.02410516	0.17387	15	2	LogisticRegression	ChemBERTa
+solver_penalty: saga:None | C: 0.001105273	0.49901	16	2	LogisticRegression	ChemBERTa
+solver_penalty: liblinear:l2 | C: 1.326525	0.49415	17	2	LogisticRegression	ChemBERTa
+solver_penalty: newton-cg:None | C: 0.1901122	0.49978	18	2	LogisticRegression	ChemBERTa
+solver_penalty: newton-cg:l2 | C: 3.138484	0.49277	19	2	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:l2 | C: 9.425161	0.49448	20	2	LogisticRegression	ChemBERTa
+solver_penalty: saga:elasticnet | C: 0.7745387 | l1_ratio: 0.7471224	0.49877	21	2	LogisticRegression	ChemBERTa
+solver_penalty: saga:elasticnet | C: 1.13449 | l1_ratio: 0.6128215	0.50073	22	2	LogisticRegression	ChemBERTa
+solver_penalty: saga:elasticnet | C: 0.2198689 | l1_ratio: 0.07275638	0.49047	23	2	LogisticRegression	ChemBERTa
+solver_penalty: saga:elasticnet | C: 1.606638 | l1_ratio: 0.4565563	0.49959	24	2	LogisticRegression	ChemBERTa
+solver_penalty: saga:elasticnet | C: 0.398077 | l1_ratio: 0.5616256	0.48942	25	2	LogisticRegression	ChemBERTa
+solver_penalty: liblinear:l2 | C: 2.136388	0.49383	26	2	LogisticRegression	ChemBERTa
+solver_penalty: newton-cg:l2 | C: 4.30968	0.49154	27	2	LogisticRegression	ChemBERTa
+solver_penalty: lbfgs:None | C: 0.3221822	0.49163	28	2	LogisticRegression	ChemBERTa
+solver_penalty: saga:None | C: 0.07922734	0.49887	29	2	LogisticRegression	ChemBERTa
+solver_penalty: saga:l2 | C: 0.03966107	0.42693	30	2	LogisticRegression	ChemBERTa
+solver_penalty: saga:elasticnet | C: 1.674168 | l1_ratio: 0.7352809	0.49974	31	2	LogisticRegression	ChemBERTa
+solver_penalty: saga:elasticnet | C: 0.8460312 | l1_ratio: 0.5977404	0.49991	32	2	LogisticRegression	ChemBERTa
+solver_penalty: saga:elasticnet | C: 0.8390686 | l1_ratio: 0.2792991	0.50149	33	2	LogisticRegression	ChemBERTa
+solver_penalty: saga:l1 | C: 0.670362	0.49476	34	2	LogisticRegression	ChemBERTa
+solver_penalty: sag:l2 | C: 5.202916	0.49745	35	2	LogisticRegression	ChemBERTa
+solver_penalty: liblinear:l1 | C: 0.1345025	0.42821	36	2	LogisticRegression	ChemBERTa
+solver_penalty: sag:None | C: 0.2973819	0.4973	37	2	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:l2 | C: 1.378014	0.49416	38	2	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:None | C: 1.056073	0.49451	39	2	LogisticRegression	ChemBERTa
+solver_penalty: newton-cg:None | C: 2.315478	0.49978	40	2	LogisticRegression	ChemBERTa
+solver_penalty: saga:elasticnet | C: 0.7624387 | l1_ratio: 0.2700933	0.50077	41	2	LogisticRegression	ChemBERTa
+solver_penalty: saga:elasticnet | C: 0.5424321 | l1_ratio: 0.2638445	0.49914	42	2	LogisticRegression	ChemBERTa
+solver_penalty: saga:elasticnet | C: 4.990311 | l1_ratio: 0.2651111	0.4991	43	2	LogisticRegression	ChemBERTa
+solver_penalty: lbfgs:l2 | C: 0.3193276	0.49558	44	2	LogisticRegression	ChemBERTa
+solver_penalty: saga:elasticnet | C: 0.122338 | l1_ratio: 0.2697056	0.45537	45	2	LogisticRegression	ChemBERTa
+solver_penalty: saga:elasticnet | C: 0.9826674 | l1_ratio: 0.3630699	0.50118	46	2	LogisticRegression	ChemBERTa
+solver_penalty: liblinear:l1 | C: 2.461339	0.49529	47	2	LogisticRegression	ChemBERTa
+solver_penalty: saga:elasticnet | C: 7.071323 | l1_ratio: 0.3491221	0.49924	48	2	LogisticRegression	ChemBERTa
+solver_penalty: saga:l2 | C: 0.5748044	0.49883	49	2	LogisticRegression	ChemBERTa
+solver_penalty: sag:None | C: 1.058392	0.49732	50	2	LogisticRegression	ChemBERTa
+solver_penalty: saga:elasticnet | C: 1.162224 | l1_ratio: 0.1738624	0.4996	51	2	LogisticRegression	ChemBERTa
+solver_penalty: saga:elasticnet | C: 1.833193 | l1_ratio: 0.3731352	0.4986	52	2	LogisticRegression	ChemBERTa
+solver_penalty: saga:elasticnet | C: 0.6954474 | l1_ratio: 0.9985847	0.49632	53	2	LogisticRegression	ChemBERTa
+solver_penalty: sag:l2 | C: 3.484837	0.49708	54	2	LogisticRegression	ChemBERTa
+solver_penalty: newton-cholesky:None | C: 0.2377907	0.49451	55	2	LogisticRegression	ChemBERTa
+solver_penalty: saga:elasticnet | C: 0.4757059 | l1_ratio: 0.5017379	0.49431	56	2	LogisticRegression	ChemBERTa
+solver_penalty: lbfgs:l2 | C: 0.3972261	0.49862	57	2	LogisticRegression	ChemBERTa
+solver_penalty: lbfgs:None | C: 0.00268903	0.49163	58	2	LogisticRegression	ChemBERTa
+solver_penalty: liblinear:l2 | C: 0.01261231	0.33898	59	2	LogisticRegression	ChemBERTa
+solver_penalty: saga:elasticnet | C: 0.8406337 | l1_ratio: 0.3438189	0.50103	60	2	LogisticRegression	ChemBERTa
+solver_penalty: saga:elasticnet | C: 0.9138263 | l1_ratio: 0.3524514	0.50122	61	2	LogisticRegression	ChemBERTa
+solver_penalty: saga:elasticnet | C: 0.9202291 | l1_ratio: 0.3434877	0.50169	62	2	LogisticRegression	ChemBERTa
+solver_penalty: saga:elasticnet | C: 0.7761623 | l1_ratio: 0.3244564	0.50071	63	2	LogisticRegression	ChemBERTa

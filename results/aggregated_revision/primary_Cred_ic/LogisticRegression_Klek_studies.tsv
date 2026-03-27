@@ -1,0 +1,321 @@
+Params	Value	Number	Test_Fold	Model	Descriptors
+solver_penalty: lbfgs:l2 | C: 8.009946	0.49084	0	0	LogisticRegression	Klek
+solver_penalty: newton-cg:l2 | C: 0.1565049	0.47703	1	0	LogisticRegression	Klek
+solver_penalty: saga:l2 | C: 4.056885	0.49814	2	0	LogisticRegression	Klek
+solver_penalty: newton-cg:l2 | C: 0.1083667	0.46447	3	0	LogisticRegression	Klek
+solver_penalty: saga:l2 | C: 0.001485126	0.03571	4	0	LogisticRegression	Klek
+solver_penalty: saga:elasticnet | C: 0.003536217 | l1_ratio: 0.4132898	0.0	5	0	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 0.1487716	0.44173	6	0	LogisticRegression	Klek
+solver_penalty: newton-cholesky:l2 | C: 0.8038636	0.49568	7	0	LogisticRegression	Klek
+solver_penalty: saga:elasticnet | C: 0.001280593 | l1_ratio: 0.7343584	0.0	8	0	LogisticRegression	Klek
+solver_penalty: saga:l1 | C: 0.05388387	0.19251	9	0	LogisticRegression	Klek
+solver_penalty: sag:None | C: 8.678144	0.49865	10	0	LogisticRegression	Klek
+solver_penalty: sag:None | C: 7.411441	0.49207	11	0	LogisticRegression	Klek
+solver_penalty: newton-cholesky:None | C: 1.817722	0.4799	12	0	LogisticRegression	Klek
+solver_penalty: sag:None | C: 1.748083	0.48519	13	0	LogisticRegression	Klek
+solver_penalty: sag:l2 | C: 0.7266434	0.4906	14	0	LogisticRegression	Klek
+solver_penalty: newton-cg:None | C: 9.67342	0.47266	15	0	LogisticRegression	Klek
+solver_penalty: liblinear:l2 | C: 0.0202535	0.35211	16	0	LogisticRegression	Klek
+solver_penalty: lbfgs:None | C: 2.748852	0.49629	17	0	LogisticRegression	Klek
+solver_penalty: saga:l2 | C: 3.118673	0.48982	18	0	LogisticRegression	Klek
+solver_penalty: saga:None | C: 0.4818491	0.4919	19	0	LogisticRegression	Klek
+solver_penalty: sag:None | C: 0.01393345	0.49458	20	0	LogisticRegression	Klek
+solver_penalty: lbfgs:None | C: 3.176234	0.47856	21	0	LogisticRegression	Klek
+solver_penalty: lbfgs:None | C: 3.666523	0.48182	22	0	LogisticRegression	Klek
+solver_penalty: saga:l2 | C: 0.3522332	0.4853	23	0	LogisticRegression	Klek
+solver_penalty: lbfgs:None | C: 1.542612	0.49008	24	0	LogisticRegression	Klek
+solver_penalty: newton-cg:None | C: 5.188074	0.46892	25	0	LogisticRegression	Klek
+solver_penalty: lbfgs:l2 | C: 0.9967051	0.49011	26	0	LogisticRegression	Klek
+solver_penalty: saga:None | C: 0.3160612	0.493	27	0	LogisticRegression	Klek
+solver_penalty: newton-cholesky:l2 | C: 2.273694	0.49662	28	0	LogisticRegression	Klek
+solver_penalty: newton-cholesky:l2 | C: 6.526396	0.49306	29	0	LogisticRegression	Klek
+solver_penalty: newton-cholesky:l2 | C: 5.076346	0.50166	30	0	LogisticRegression	Klek
+solver_penalty: newton-cholesky:l2 | C: 9.430102	0.49984	31	0	LogisticRegression	Klek
+solver_penalty: newton-cholesky:l2 | C: 4.93781	0.49528	32	0	LogisticRegression	Klek
+solver_penalty: newton-cholesky:l2 | C: 9.924225	0.50087	33	0	LogisticRegression	Klek
+solver_penalty: newton-cholesky:l2 | C: 9.489224	0.49681	34	0	LogisticRegression	Klek
+solver_penalty: newton-cholesky:l2 | C: 9.350022	0.49455	35	0	LogisticRegression	Klek
+solver_penalty: newton-cg:l2 | C: 5.095466	0.49239	36	0	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 1.263826	0.5115	37	0	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 1.286591	0.50431	38	0	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 1.033219	0.4982	39	0	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 0.2423424	0.47974	40	0	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 1.633393	0.50566	41	0	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 0.5534418	0.50777	42	0	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 0.5014029	0.50904	43	0	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 0.5406821	0.50648	44	0	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 0.08162712	0.31673	45	0	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 0.5929942	0.50797	46	0	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 0.486299	0.50822	47	0	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 0.22955	0.4716	48	0	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 0.1478176	0.43732	49	0	LogisticRegression	Klek
+solver_penalty: saga:l1 | C: 0.6393542	0.50953	50	0	LogisticRegression	Klek
+solver_penalty: saga:l1 | C: 0.5810171	0.50142	51	0	LogisticRegression	Klek
+solver_penalty: saga:l1 | C: 0.7848996	0.5041	52	0	LogisticRegression	Klek
+solver_penalty: newton-cholesky:None | C: 0.4038499	0.49078	53	0	LogisticRegression	Klek
+solver_penalty: sag:l2 | C: 0.191261	0.48132	54	0	LogisticRegression	Klek
+solver_penalty: liblinear:l2 | C: 0.08611244	0.46348	55	0	LogisticRegression	Klek
+solver_penalty: saga:elasticnet | C: 0.04521019 | l1_ratio: 0.008774399	0.40524	56	0	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 0.6584746	0.5105	57	0	LogisticRegression	Klek
+solver_penalty: saga:l1 | C: 1.037561	0.50362	58	0	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 0.2906353	0.4902	59	0	LogisticRegression	Klek
+solver_penalty: lbfgs:l2 | C: 2.252167	0.49508	60	0	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 0.6560957	0.51016	61	0	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 0.7249524	0.51083	62	0	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 0.74474	0.50635	63	0	LogisticRegression	Klek
+solver_penalty: newton-cg:l2 | C: 8.960513	0.46976	0	1	LogisticRegression	Klek
+solver_penalty: sag:l2 | C: 0.01448424	0.25808	1	1	LogisticRegression	Klek
+solver_penalty: saga:l2 | C: 0.001361298	0.00106	2	1	LogisticRegression	Klek
+solver_penalty: lbfgs:None | C: 4.73945	0.46979	3	1	LogisticRegression	Klek
+solver_penalty: saga:l1 | C: 0.3987361	0.47095	4	1	LogisticRegression	Klek
+solver_penalty: newton-cg:l2 | C: 0.001841739	0.01018	5	1	LogisticRegression	Klek
+solver_penalty: newton-cholesky:l2 | C: 1.181512	0.47515	6	1	LogisticRegression	Klek
+solver_penalty: newton-cg:None | C: 5.301224	0.46175	7	1	LogisticRegression	Klek
+solver_penalty: newton-cg:None | C: 0.1659867	0.45239	8	1	LogisticRegression	Klek
+solver_penalty: saga:l1 | C: 2.592484	0.4855	9	1	LogisticRegression	Klek
+solver_penalty: saga:elasticnet | C: 0.03873835 | l1_ratio: 0.4836377	0.19444	10	1	LogisticRegression	Klek
+solver_penalty: newton-cholesky:l2 | C: 0.8891325	0.47752	11	1	LogisticRegression	Klek
+solver_penalty: lbfgs:l2 | C: 1.29152	0.48348	12	1	LogisticRegression	Klek
+solver_penalty: lbfgs:l2 | C: 1.938947	0.47589	13	1	LogisticRegression	Klek
+solver_penalty: lbfgs:l2 | C: 0.219558	0.46456	14	1	LogisticRegression	Klek
+solver_penalty: saga:None | C: 0.04792433	0.46333	15	1	LogisticRegression	Klek
+solver_penalty: saga:l1 | C: 2.027057	0.48088	16	1	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 0.4936783	0.48114	17	1	LogisticRegression	Klek
+solver_penalty: liblinear:l2 | C: 2.823488	0.47563	18	1	LogisticRegression	Klek
+solver_penalty: newton-cholesky:None | C: 0.6085779	0.4689	19	1	LogisticRegression	Klek
+solver_penalty: lbfgs:l2 | C: 0.006980276	0.14038	20	1	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 0.2876733	0.46003	21	1	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 0.1053057	0.32668	22	1	LogisticRegression	Klek
+solver_penalty: sag:None | C: 0.7988863	0.4683	23	1	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 9.505244	0.4843	24	1	LogisticRegression	Klek
+solver_penalty: saga:l1 | C: 8.506382	0.48316	25	1	LogisticRegression	Klek
+solver_penalty: saga:None | C: 2.886588	0.46972	26	1	LogisticRegression	Klek
+solver_penalty: liblinear:l2 | C: 5.046086	0.477	27	1	LogisticRegression	Klek
+solver_penalty: lbfgs:None | C: 9.709498	0.46808	28	1	LogisticRegression	Klek
+solver_penalty: sag:None | C: 1.419085	0.46921	29	1	LogisticRegression	Klek
+solver_penalty: newton-cholesky:None | C: 4.582106	0.46016	30	1	LogisticRegression	Klek
+solver_penalty: saga:l1 | C: 9.56259	0.47342	31	1	LogisticRegression	Klek
+solver_penalty: saga:l1 | C: 5.923523	0.47516	32	1	LogisticRegression	Klek
+solver_penalty: sag:l2 | C: 2.902959	0.48013	33	1	LogisticRegression	Klek
+solver_penalty: saga:l1 | C: 9.357233	0.47762	34	1	LogisticRegression	Klek
+solver_penalty: saga:l2 | C: 2.809399	0.47602	35	1	LogisticRegression	Klek
+solver_penalty: saga:elasticnet | C: 1.447383 | l1_ratio: 0.9355846	0.48928	36	1	LogisticRegression	Klek
+solver_penalty: saga:elasticnet | C: 1.387055 | l1_ratio: 0.942282	0.48515	37	1	LogisticRegression	Klek
+solver_penalty: saga:elasticnet | C: 0.42452 | l1_ratio: 0.9995559	0.47785	38	1	LogisticRegression	Klek
+solver_penalty: saga:elasticnet | C: 1.682926 | l1_ratio: 0.9941737	0.48272	39	1	LogisticRegression	Klek
+solver_penalty: saga:elasticnet | C: 0.9724001 | l1_ratio: 0.7427666	0.47688	40	1	LogisticRegression	Klek
+solver_penalty: newton-cg:l2 | C: 1.271809	0.47639	41	1	LogisticRegression	Klek
+solver_penalty: saga:elasticnet | C: 4.079603 | l1_ratio: 0.08229054	0.47497	42	1	LogisticRegression	Klek
+solver_penalty: saga:elasticnet | C: 0.8068925 | l1_ratio: 0.693484	0.47051	43	1	LogisticRegression	Klek
+solver_penalty: lbfgs:l2 | C: 0.2916401	0.46542	44	1	LogisticRegression	Klek
+solver_penalty: newton-cg:None | C: 2.053564	0.4662	45	1	LogisticRegression	Klek
+solver_penalty: newton-cholesky:l2 | C: 0.01528826	0.2643	46	1	LogisticRegression	Klek
+solver_penalty: sag:l2 | C: 6.077481	0.47539	47	1	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 3.629132	0.47514	48	1	LogisticRegression	Klek
+solver_penalty: saga:l2 | C: 0.1365923	0.44576	49	1	LogisticRegression	Klek
+solver_penalty: newton-cg:l2 | C: 0.05583686	0.4065	50	1	LogisticRegression	Klek
+solver_penalty: saga:l1 | C: 6.411181	0.48632	51	1	LogisticRegression	Klek
+solver_penalty: saga:l1 | C: 6.39825	0.47918	52	1	LogisticRegression	Klek
+solver_penalty: lbfgs:l2 | C: 1.99332	0.47887	53	1	LogisticRegression	Klek
+solver_penalty: saga:elasticnet | C: 1.0863 | l1_ratio: 0.742256	0.4802	54	1	LogisticRegression	Klek
+solver_penalty: lbfgs:None | C: 3.371744	0.4708	55	1	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 0.5911686	0.48972	56	1	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 0.5010372	0.48868	57	1	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 0.6419779	0.49108	58	1	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 0.5937624	0.48876	59	1	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 0.3021745	0.46551	60	1	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 0.5171528	0.48452	61	1	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 0.61751	0.48765	62	1	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 0.6858734	0.49236	63	1	LogisticRegression	Klek
+solver_penalty: sag:l2 | C: 0.006659466	0.20914	0	2	LogisticRegression	Klek
+solver_penalty: saga:elasticnet | C: 1.338388 | l1_ratio: 0.5848246	0.49132	1	2	LogisticRegression	Klek
+solver_penalty: newton-cg:l2 | C: 4.513684	0.49276	2	2	LogisticRegression	Klek
+solver_penalty: newton-cg:l2 | C: 7.783192	0.49698	3	2	LogisticRegression	Klek
+solver_penalty: liblinear:l2 | C: 1.131051	0.49026	4	2	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 0.02351597	0.02899	5	2	LogisticRegression	Klek
+solver_penalty: saga:l1 | C: 0.007190292	0.0	6	2	LogisticRegression	Klek
+solver_penalty: newton-cg:l2 | C: 0.2127744	0.47083	7	2	LogisticRegression	Klek
+solver_penalty: lbfgs:None | C: 1.55607	0.47752	8	2	LogisticRegression	Klek
+solver_penalty: liblinear:l2 | C: 0.01175987	0.32205	9	2	LogisticRegression	Klek
+solver_penalty: newton-cg:None | C: 0.2680372	0.48111	10	2	LogisticRegression	Klek
+solver_penalty: newton-cg:l2 | C: 8.889153	0.49074	11	2	LogisticRegression	Klek
+solver_penalty: saga:l2 | C: 9.14797	0.48989	12	2	LogisticRegression	Klek
+solver_penalty: sag:None | C: 0.001481526	0.48751	13	2	LogisticRegression	Klek
+solver_penalty: newton-cg:l2 | C: 3.120555	0.49442	14	2	LogisticRegression	Klek
+solver_penalty: newton-cholesky:None | C: 0.492156	0.49177	15	2	LogisticRegression	Klek
+solver_penalty: lbfgs:l2 | C: 0.07300174	0.43516	16	2	LogisticRegression	Klek
+solver_penalty: newton-cholesky:l2 | C: 2.739375	0.48914	17	2	LogisticRegression	Klek
+solver_penalty: saga:None | C: 0.06136424	0.48938	18	2	LogisticRegression	Klek
+solver_penalty: newton-cg:l2 | C: 0.7259093	0.48382	19	2	LogisticRegression	Klek
+solver_penalty: newton-cg:l2 | C: 4.044078	0.49567	20	2	LogisticRegression	Klek
+solver_penalty: newton-cg:l2 | C: 3.722439	0.48576	21	2	LogisticRegression	Klek
+solver_penalty: newton-cg:l2 | C: 4.004257	0.48928	22	2	LogisticRegression	Klek
+solver_penalty: newton-cg:l2 | C: 9.929608	0.49555	23	2	LogisticRegression	Klek
+solver_penalty: saga:l1 | C: 7.34004	0.49445	24	2	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 1.33395	0.5027	25	2	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 0.4582595	0.49478	26	2	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 1.750374	0.50402	27	2	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 1.923543	0.50036	28	2	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 0.2844587	0.46683	29	2	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 0.1208574	0.39646	30	2	LogisticRegression	Klek
+solver_penalty: sag:l2 | C: 2.013443	0.49122	31	2	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 0.8457371	0.49649	32	2	LogisticRegression	Klek
+solver_penalty: saga:elasticnet | C: 1.717123 | l1_ratio: 0.0460482	0.48662	33	2	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 1.061531	0.49306	34	2	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 5.830947	0.48948	35	2	LogisticRegression	Klek
+solver_penalty: sag:None | C: 0.6225425	0.48154	36	2	LogisticRegression	Klek
+solver_penalty: newton-cholesky:l2 | C: 2.041889	0.4875	37	2	LogisticRegression	Klek
+solver_penalty: saga:None | C: 1.2109	0.49205	38	2	LogisticRegression	Klek
+solver_penalty: saga:l2 | C: 4.952895	0.49064	39	2	LogisticRegression	Klek
+solver_penalty: lbfgs:None | C: 0.0275655	0.48903	40	2	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 0.8634221	0.50206	41	2	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 2.442154	0.50532	42	2	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 0.3848111	0.48288	43	2	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 0.1582338	0.42226	44	2	LogisticRegression	Klek
+solver_penalty: newton-cg:None | C: 1.039495	0.46523	45	2	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 2.179024	0.49466	46	2	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 1.329762	0.49222	47	2	LogisticRegression	Klek
+solver_penalty: newton-cholesky:None | C: 0.001614302	0.47204	48	2	LogisticRegression	Klek
+solver_penalty: liblinear:l2 | C: 2.626332	0.49383	49	2	LogisticRegression	Klek
+solver_penalty: lbfgs:l2 | C: 0.7072968	0.48777	50	2	LogisticRegression	Klek
+solver_penalty: sag:l2 | C: 6.187622	0.4834	51	2	LogisticRegression	Klek
+solver_penalty: saga:elasticnet | C: 1.51801 | l1_ratio: 0.9879682	0.50036	52	2	LogisticRegression	Klek
+solver_penalty: saga:elasticnet | C: 1.582892 | l1_ratio: 0.9611514	0.49728	53	2	LogisticRegression	Klek
+solver_penalty: saga:elasticnet | C: 2.870632 | l1_ratio: 0.9429577	0.49934	54	2	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 0.5756537	0.49227	55	2	LogisticRegression	Klek
+solver_penalty: saga:elasticnet | C: 0.3138099 | l1_ratio: 0.5548229	0.47977	56	2	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 0.9174063	0.49593	57	2	LogisticRegression	Klek
+solver_penalty: saga:l1 | C: 1.49173	0.49252	58	2	LogisticRegression	Klek
+solver_penalty: lbfgs:None | C: 3.552823	0.47771	59	2	LogisticRegression	Klek
+solver_penalty: newton-cg:None | C: 0.1963253	0.4702	60	2	LogisticRegression	Klek
+solver_penalty: saga:elasticnet | C: 2.52877 | l1_ratio: 0.9399053	0.50096	61	2	LogisticRegression	Klek
+solver_penalty: saga:elasticnet | C: 2.413248 | l1_ratio: 0.9769234	0.50316	62	2	LogisticRegression	Klek
+solver_penalty: saga:elasticnet | C: 4.66292 | l1_ratio: 0.7616261	0.49503	63	2	LogisticRegression	Klek
+solver_penalty: lbfgs:None | C: 0.001387225	0.47213	0	4	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 0.001013505	0.0	1	4	LogisticRegression	Klek
+solver_penalty: newton-cg:None | C: 1.659129	0.48425	2	4	LogisticRegression	Klek
+solver_penalty: saga:l2 | C: 0.00112452	0.00348	3	4	LogisticRegression	Klek
+solver_penalty: liblinear:l2 | C: 0.005128735	0.16441	4	4	LogisticRegression	Klek
+solver_penalty: saga:None | C: 0.01638076	0.48629	5	4	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 0.001243824	0.0	6	4	LogisticRegression	Klek
+solver_penalty: lbfgs:None | C: 6.334773	0.46445	7	4	LogisticRegression	Klek
+solver_penalty: saga:l2 | C: 0.04725999	0.40442	8	4	LogisticRegression	Klek
+solver_penalty: saga:l1 | C: 0.0421032	0.11724	9	4	LogisticRegression	Klek
+solver_penalty: saga:None | C: 0.3111126	0.4862	10	4	LogisticRegression	Klek
+solver_penalty: saga:None | C: 0.2886468	0.48354	11	4	LogisticRegression	Klek
+solver_penalty: saga:None | C: 0.2198289	0.48951	12	4	LogisticRegression	Klek
+solver_penalty: saga:None | C: 0.01022866	0.4942	13	4	LogisticRegression	Klek
+solver_penalty: sag:l2 | C: 0.2919753	0.47525	14	4	LogisticRegression	Klek
+solver_penalty: saga:elasticnet | C: 0.00929265 | l1_ratio: 0.7076449	0.0	15	4	LogisticRegression	Klek
+solver_penalty: sag:None | C: 0.1046245	0.47756	16	4	LogisticRegression	Klek
+solver_penalty: newton-cg:l2 | C: 1.279033	0.48496	17	4	LogisticRegression	Klek
+solver_penalty: lbfgs:l2 | C: 0.004186163	0.09973	18	4	LogisticRegression	Klek
+solver_penalty: newton-cholesky:None | C: 0.02493441	0.47005	19	4	LogisticRegression	Klek
+solver_penalty: newton-cholesky:l2 | C: 0.09917904	0.43948	20	4	LogisticRegression	Klek
+solver_penalty: saga:None | C: 0.01277461	0.48895	21	4	LogisticRegression	Klek
+solver_penalty: saga:None | C: 0.003622953	0.48804	22	4	LogisticRegression	Klek
+solver_penalty: saga:None | C: 0.01361344	0.47937	23	4	LogisticRegression	Klek
+solver_penalty: saga:None | C: 0.05840429	0.47968	24	4	LogisticRegression	Klek
+solver_penalty: saga:None | C: 0.7205145	0.47606	25	4	LogisticRegression	Klek
+solver_penalty: sag:l2 | C: 0.008054431	0.2034	26	4	LogisticRegression	Klek
+solver_penalty: newton-cholesky:None | C: 0.1375328	0.48599	27	4	LogisticRegression	Klek
+solver_penalty: saga:elasticnet | C: 0.02215135 | l1_ratio: 0.01441915	0.33048	28	4	LogisticRegression	Klek
+solver_penalty: sag:None | C: 0.002378557	0.48352	29	4	LogisticRegression	Klek
+solver_penalty: newton-cg:None | C: 0.0288521	0.48297	30	4	LogisticRegression	Klek
+solver_penalty: saga:None | C: 0.002603023	0.49149	31	4	LogisticRegression	Klek
+solver_penalty: saga:None | C: 0.002588563	0.4932	32	4	LogisticRegression	Klek
+solver_penalty: saga:None | C: 0.002767489	0.48367	33	4	LogisticRegression	Klek
+solver_penalty: newton-cholesky:l2 | C: 0.001920205	0.02406	34	4	LogisticRegression	Klek
+solver_penalty: saga:l1 | C: 0.006455617	0.0	35	4	LogisticRegression	Klek
+solver_penalty: liblinear:l2 | C: 0.001619524	0.0298	36	4	LogisticRegression	Klek
+solver_penalty: newton-cg:l2 | C: 0.00109258	0.00213	37	4	LogisticRegression	Klek
+solver_penalty: lbfgs:None | C: 0.005336993	0.45539	38	4	LogisticRegression	Klek
+solver_penalty: lbfgs:l2 | C: 7.201714	0.49327	39	4	LogisticRegression	Klek
+solver_penalty: lbfgs:l2 | C: 6.332162	0.49161	40	4	LogisticRegression	Klek
+solver_penalty: lbfgs:l2 | C: 3.655609	0.49322	41	4	LogisticRegression	Klek
+solver_penalty: lbfgs:l2 | C: 9.642956	0.48688	42	4	LogisticRegression	Klek
+solver_penalty: lbfgs:l2 | C: 3.263174	0.48979	43	4	LogisticRegression	Klek
+solver_penalty: lbfgs:l2 | C: 3.820873	0.48974	44	4	LogisticRegression	Klek
+solver_penalty: lbfgs:l2 | C: 4.049187	0.48862	45	4	LogisticRegression	Klek
+solver_penalty: lbfgs:l2 | C: 1.819132	0.48599	46	4	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 9.722718	0.489	47	4	LogisticRegression	Klek
+solver_penalty: saga:l2 | C: 2.262706	0.48945	48	4	LogisticRegression	Klek
+solver_penalty: lbfgs:l2 | C: 5.960115	0.49696	49	4	LogisticRegression	Klek
+solver_penalty: newton-cg:None | C: 0.745018	0.49024	50	4	LogisticRegression	Klek
+solver_penalty: lbfgs:l2 | C: 5.589573	0.4892	51	4	LogisticRegression	Klek
+solver_penalty: lbfgs:l2 | C: 7.050532	0.48909	52	4	LogisticRegression	Klek
+solver_penalty: lbfgs:l2 | C: 2.709237	0.4867	53	4	LogisticRegression	Klek
+solver_penalty: lbfgs:l2 | C: 5.558363	0.49009	54	4	LogisticRegression	Klek
+solver_penalty: liblinear:l2 | C: 1.155954	0.48594	55	4	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 4.438514	0.49595	56	4	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 0.5990224	0.50037	57	4	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 0.6220164	0.49256	58	4	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 1.526935	0.51	59	4	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 0.4534943	0.4905	60	4	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 1.326041	0.50733	61	4	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 1.483144	0.50816	62	4	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 1.140389	0.50976	63	4	LogisticRegression	Klek
+solver_penalty: newton-cg:l2 | C: 0.844797	0.4748	0	3	LogisticRegression	Klek
+solver_penalty: newton-cholesky:l2 | C: 3.556469	0.47631	1	3	LogisticRegression	Klek
+solver_penalty: saga:l2 | C: 0.9593886	0.48459	2	3	LogisticRegression	Klek
+solver_penalty: lbfgs:l2 | C: 7.530872	0.47154	3	3	LogisticRegression	Klek
+solver_penalty: newton-cg:None | C: 7.97121	0.46943	4	3	LogisticRegression	Klek
+solver_penalty: newton-cg:None | C: 0.4081324	0.46014	5	3	LogisticRegression	Klek
+solver_penalty: newton-cg:l2 | C: 1.699254	0.47484	6	3	LogisticRegression	Klek
+solver_penalty: saga:elasticnet | C: 5.089457 | l1_ratio: 0.9816689	0.47509	7	3	LogisticRegression	Klek
+solver_penalty: saga:l2 | C: 8.171393	0.47616	8	3	LogisticRegression	Klek
+solver_penalty: liblinear:l2 | C: 0.004743193	0.165	9	3	LogisticRegression	Klek
+solver_penalty: sag:l2 | C: 0.04575785	0.40471	10	3	LogisticRegression	Klek
+solver_penalty: newton-cholesky:l2 | C: 0.1475401	0.45534	11	3	LogisticRegression	Klek
+solver_penalty: sag:None | C: 0.05170323	0.46465	12	3	LogisticRegression	Klek
+solver_penalty: saga:l1 | C: 1.60995	0.48203	13	3	LogisticRegression	Klek
+solver_penalty: saga:l1 | C: 0.2847646	0.45145	14	3	LogisticRegression	Klek
+solver_penalty: lbfgs:None | C: 0.001252935	0.46786	15	3	LogisticRegression	Klek
+solver_penalty: saga:l1 | C: 1.222583	0.4751	16	3	LogisticRegression	Klek
+solver_penalty: newton-cholesky:None | C: 0.02442904	0.45693	17	3	LogisticRegression	Klek
+solver_penalty: saga:l2 | C: 0.5103052	0.47921	18	3	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 2.186189	0.48215	19	3	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 0.1524617	0.401	20	3	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 2.233864	0.47749	21	3	LogisticRegression	Klek
+solver_penalty: saga:None | C: 1.062476	0.469	22	3	LogisticRegression	Klek
+solver_penalty: saga:l2 | C: 2.773944	0.47734	23	3	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 0.6686216	0.47557	24	3	LogisticRegression	Klek
+solver_penalty: saga:l1 | C: 0.2715198	0.44988	25	3	LogisticRegression	Klek
+solver_penalty: sag:None | C: 2.120356	0.45962	26	3	LogisticRegression	Klek
+solver_penalty: saga:None | C: 3.543734	0.47181	27	3	LogisticRegression	Klek
+solver_penalty: newton-cholesky:None | C: 0.01117975	0.46168	28	3	LogisticRegression	Klek
+solver_penalty: sag:l2 | C: 0.8145838	0.48066	29	3	LogisticRegression	Klek
+solver_penalty: saga:elasticnet | C: 1.158454 | l1_ratio: 0.09976799	0.48586	30	3	LogisticRegression	Klek
+solver_penalty: saga:elasticnet | C: 1.373815 | l1_ratio: 0.009446159	0.4796	31	3	LogisticRegression	Klek
+solver_penalty: saga:elasticnet | C: 0.7737382 | l1_ratio: 0.01868873	0.47886	32	3	LogisticRegression	Klek
+solver_penalty: saga:elasticnet | C: 4.250645 | l1_ratio: 0.4655765	0.48815	33	3	LogisticRegression	Klek
+solver_penalty: saga:elasticnet | C: 4.397901 | l1_ratio: 0.4745156	0.48054	34	3	LogisticRegression	Klek
+solver_penalty: lbfgs:l2 | C: 9.382315	0.47713	35	3	LogisticRegression	Klek
+solver_penalty: saga:elasticnet | C: 4.282887 | l1_ratio: 0.4160982	0.47559	36	3	LogisticRegression	Klek
+solver_penalty: newton-cg:l2 | C: 0.3640944	0.46952	37	3	LogisticRegression	Klek
+solver_penalty: lbfgs:None | C: 6.314152	0.46432	38	3	LogisticRegression	Klek
+solver_penalty: liblinear:l2 | C: 3.022887	0.47416	39	3	LogisticRegression	Klek
+solver_penalty: newton-cg:None | C: 0.1852551	0.45961	40	3	LogisticRegression	Klek
+solver_penalty: saga:l2 | C: 1.710779	0.47956	41	3	LogisticRegression	Klek
+solver_penalty: saga:elasticnet | C: 0.5524712 | l1_ratio: 0.2815771	0.47136	42	3	LogisticRegression	Klek
+solver_penalty: newton-cholesky:l2 | C: 1.617061	0.47931	43	3	LogisticRegression	Klek
+solver_penalty: saga:l1 | C: 5.646097	0.48579	44	3	LogisticRegression	Klek
+solver_penalty: liblinear:l1 | C: 9.662406	0.47414	45	3	LogisticRegression	Klek
+solver_penalty: lbfgs:l2 | C: 5.976014	0.47556	46	3	LogisticRegression	Klek
+solver_penalty: saga:elasticnet | C: 2.860504 | l1_ratio: 0.7803816	0.48095	47	3	LogisticRegression	Klek
+solver_penalty: saga:l1 | C: 5.154675	0.47933	48	3	LogisticRegression	Klek
+solver_penalty: saga:l2 | C: 1.040905	0.47778	49	3	LogisticRegression	Klek
+solver_penalty: sag:l2 | C: 6.588319	0.47416	50	3	LogisticRegression	Klek
+solver_penalty: saga:l1 | C: 2.166567	0.48365	51	3	LogisticRegression	Klek
+solver_penalty: saga:l1 | C: 2.191929	0.48492	52	3	LogisticRegression	Klek
+solver_penalty: saga:l1 | C: 3.698275	0.48687	53	3	LogisticRegression	Klek
+solver_penalty: saga:l1 | C: 3.795381	0.48264	54	3	LogisticRegression	Klek
+solver_penalty: saga:l1 | C: 7.033289	0.48148	55	3	LogisticRegression	Klek
+solver_penalty: saga:l1 | C: 1.308817	0.4919	56	3	LogisticRegression	Klek
+solver_penalty: saga:l1 | C: 0.07740801	0.31914	57	3	LogisticRegression	Klek
+solver_penalty: saga:l1 | C: 3.347708	0.48081	58	3	LogisticRegression	Klek
+solver_penalty: saga:l1 | C: 4.950787	0.47358	59	3	LogisticRegression	Klek
+solver_penalty: newton-cg:l2 | C: 1.093067	0.48167	60	3	LogisticRegression	Klek
+solver_penalty: newton-cg:None | C: 2.257077	0.4691	61	3	LogisticRegression	Klek
+solver_penalty: sag:None | C: 0.4849135	0.46627	62	3	LogisticRegression	Klek
+solver_penalty: liblinear:l2 | C: 1.362851	0.481	63	3	LogisticRegression	Klek

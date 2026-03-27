@@ -1,0 +1,321 @@
+Params	Value	Number	Test_Fold	Model	Descriptors
+solver_penalty: sag:l2 | C: 0.1813584	0.4938	0	0	LogisticRegression	Morgan
+solver_penalty: saga:None | C: 0.2324152	0.50744	1	0	LogisticRegression	Morgan
+solver_penalty: liblinear:l1 | C: 0.0828077	0.385	2	0	LogisticRegression	Morgan
+solver_penalty: newton-cg:l2 | C: 0.7887165	0.50696	3	0	LogisticRegression	Morgan
+solver_penalty: newton-cg:l2 | C: 0.01513675	0.3064	4	0	LogisticRegression	Morgan
+solver_penalty: saga:elasticnet | C: 0.7827786 | l1_ratio: 0.2034178	0.50848	5	0	LogisticRegression	Morgan
+solver_penalty: sag:l2 | C: 0.1553847	0.48811	6	0	LogisticRegression	Morgan
+solver_penalty: newton-cholesky:None | C: 7.956221	0.49868	7	0	LogisticRegression	Morgan
+solver_penalty: saga:l2 | C: 1.14654	0.50396	8	0	LogisticRegression	Morgan
+solver_penalty: sag:None | C: 0.003780354	0.5064	9	0	LogisticRegression	Morgan
+solver_penalty: saga:elasticnet | C: 4.499916 | l1_ratio: 0.1578429	0.50101	10	0	LogisticRegression	Morgan
+solver_penalty: saga:None | C: 0.7449302	0.50744	11	0	LogisticRegression	Morgan
+solver_penalty: newton-cg:None | C: 0.03345132	0.4989	12	0	LogisticRegression	Morgan
+solver_penalty: saga:elasticnet | C: 0.3633373 | l1_ratio: 0.6157213	0.49457	13	0	LogisticRegression	Morgan
+solver_penalty: saga:None | C: 2.340312	0.50732	14	0	LogisticRegression	Morgan
+solver_penalty: saga:l1 | C: 0.001274907	0.0	15	0	LogisticRegression	Morgan
+solver_penalty: newton-cholesky:l2 | C: 0.02505265	0.37204	16	0	LogisticRegression	Morgan
+solver_penalty: lbfgs:l2 | C: 0.3373432	0.5022	17	0	LogisticRegression	Morgan
+solver_penalty: lbfgs:None | C: 0.08153374	0.49992	18	0	LogisticRegression	Morgan
+solver_penalty: liblinear:l2 | C: 2.015443	0.5015	19	0	LogisticRegression	Morgan
+solver_penalty: saga:None | C: 0.3861789	0.5075	20	0	LogisticRegression	Morgan
+solver_penalty: saga:None | C: 0.5243495	0.5075	21	0	LogisticRegression	Morgan
+solver_penalty: saga:None | C: 0.5059826	0.50742	22	0	LogisticRegression	Morgan
+solver_penalty: saga:elasticnet | C: 1.735028 | l1_ratio: 0.005036893	0.50322	23	0	LogisticRegression	Morgan
+solver_penalty: saga:None | C: 3.763645	0.50715	24	0	LogisticRegression	Morgan
+solver_penalty: liblinear:l2 | C: 0.08060018	0.47132	25	0	LogisticRegression	Morgan
+solver_penalty: newton-cholesky:None | C: 1.105657	0.49992	26	0	LogisticRegression	Morgan
+solver_penalty: lbfgs:l2 | C: 0.4935637	0.50611	27	0	LogisticRegression	Morgan
+solver_penalty: lbfgs:None | C: 0.03854534	0.49868	28	0	LogisticRegression	Morgan
+solver_penalty: saga:l1 | C: 0.179765	0.4598	29	0	LogisticRegression	Morgan
+solver_penalty: saga:l2 | C: 8.486108	0.50116	30	0	LogisticRegression	Morgan
+solver_penalty: saga:None | C: 0.2609209	0.50772	31	0	LogisticRegression	Morgan
+solver_penalty: saga:None | C: 0.2361448	0.50764	32	0	LogisticRegression	Morgan
+solver_penalty: saga:None | C: 0.2042616	0.50728	33	0	LogisticRegression	Morgan
+solver_penalty: liblinear:l1 | C: 0.1076451	0.43973	34	0	LogisticRegression	Morgan
+solver_penalty: saga:None | C: 0.283474	0.50763	35	0	LogisticRegression	Morgan
+solver_penalty: sag:l2 | C: 0.04822657	0.43578	36	0	LogisticRegression	Morgan
+solver_penalty: sag:None | C: 0.25172	0.5057	37	0	LogisticRegression	Morgan
+solver_penalty: newton-cg:l2 | C: 0.1324774	0.48563	38	0	LogisticRegression	Morgan
+solver_penalty: newton-cholesky:l2 | C: 0.9011566	0.50431	39	0	LogisticRegression	Morgan
+solver_penalty: newton-cg:None | C: 0.007428795	0.4991	40	0	LogisticRegression	Morgan
+solver_penalty: saga:None | C: 0.3178319	0.50775	41	0	LogisticRegression	Morgan
+solver_penalty: saga:None | C: 0.2687208	0.50735	42	0	LogisticRegression	Morgan
+solver_penalty: saga:None | C: 0.724351	0.50743	43	0	LogisticRegression	Morgan
+solver_penalty: saga:elasticnet | C: 1.393639 | l1_ratio: 0.930969	0.51377	44	0	LogisticRegression	Morgan
+solver_penalty: saga:elasticnet | C: 1.632318 | l1_ratio: 0.9888431	0.51275	45	0	LogisticRegression	Morgan
+solver_penalty: saga:elasticnet | C: 1.319142 | l1_ratio: 0.9987471	0.51581	46	0	LogisticRegression	Morgan
+solver_penalty: saga:elasticnet | C: 3.633582 | l1_ratio: 0.9870449	0.51101	47	0	LogisticRegression	Morgan
+solver_penalty: saga:elasticnet | C: 4.910704 | l1_ratio: 0.9998973	0.51022	48	0	LogisticRegression	Morgan
+solver_penalty: saga:elasticnet | C: 4.243722 | l1_ratio: 0.9854394	0.51128	49	0	LogisticRegression	Morgan
+solver_penalty: saga:elasticnet | C: 2.978619 | l1_ratio: 0.9978992	0.5131	50	0	LogisticRegression	Morgan
+solver_penalty: saga:elasticnet | C: 3.437681 | l1_ratio: 0.9820189	0.51306	51	0	LogisticRegression	Morgan
+solver_penalty: saga:elasticnet | C: 2.563671 | l1_ratio: 0.9746245	0.51325	52	0	LogisticRegression	Morgan
+solver_penalty: saga:elasticnet | C: 2.769574 | l1_ratio: 0.8976837	0.51185	53	0	LogisticRegression	Morgan
+solver_penalty: saga:elasticnet | C: 1.530896 | l1_ratio: 0.873615	0.51545	54	0	LogisticRegression	Morgan
+solver_penalty: saga:elasticnet | C: 6.10468 | l1_ratio: 0.7525331	0.5125	55	0	LogisticRegression	Morgan
+solver_penalty: saga:elasticnet | C: 1.378012 | l1_ratio: 0.8204172	0.51958	56	0	LogisticRegression	Morgan
+solver_penalty: saga:elasticnet | C: 1.348813 | l1_ratio: 0.8055945	0.51765	57	0	LogisticRegression	Morgan
+solver_penalty: saga:elasticnet | C: 1.209248 | l1_ratio: 0.8153404	0.51641	58	0	LogisticRegression	Morgan
+solver_penalty: saga:elasticnet | C: 1.778598 | l1_ratio: 0.799276	0.51386	59	0	LogisticRegression	Morgan
+solver_penalty: liblinear:l1 | C: 1.163803	0.52024	60	0	LogisticRegression	Morgan
+solver_penalty: saga:elasticnet | C: 1.051936 | l1_ratio: 0.7926323	0.51481	61	0	LogisticRegression	Morgan
+solver_penalty: liblinear:l1 | C: 1.191586	0.51968	62	0	LogisticRegression	Morgan
+solver_penalty: liblinear:l1 | C: 0.6643514	0.51502	63	0	LogisticRegression	Morgan
+solver_penalty: saga:elasticnet | C: 1.71924 | l1_ratio: 0.8885502	0.491	0	1	LogisticRegression	Morgan
+solver_penalty: saga:None | C: 0.001885061	0.5078	1	1	LogisticRegression	Morgan
+solver_penalty: saga:l1 | C: 0.07753798	0.33176	2	1	LogisticRegression	Morgan
+solver_penalty: sag:None | C: 0.006133994	0.50127	3	1	LogisticRegression	Morgan
+solver_penalty: liblinear:l2 | C: 3.038905	0.52186	4	1	LogisticRegression	Morgan
+solver_penalty: newton-cg:l2 | C: 0.00373525	0.11556	5	1	LogisticRegression	Morgan
+solver_penalty: saga:l1 | C: 0.001823475	0.0	6	1	LogisticRegression	Morgan
+solver_penalty: saga:l1 | C: 0.009204689	0.0	7	1	LogisticRegression	Morgan
+solver_penalty: newton-cholesky:l2 | C: 0.1513882	0.47524	8	1	LogisticRegression	Morgan
+solver_penalty: newton-cholesky:l2 | C: 8.413532	0.51338	9	1	LogisticRegression	Morgan
+solver_penalty: liblinear:l2 | C: 0.6482545	0.51555	10	1	LogisticRegression	Morgan
+solver_penalty: liblinear:l2 | C: 0.9146344	0.51881	11	1	LogisticRegression	Morgan
+solver_penalty: liblinear:l2 | C: 9.618964	0.51211	12	1	LogisticRegression	Morgan
+solver_penalty: sag:l2 | C: 1.2831	0.52403	13	1	LogisticRegression	Morgan
+solver_penalty: sag:l2 | C: 2.481561	0.52192	14	1	LogisticRegression	Morgan
+solver_penalty: sag:l2 | C: 0.2992904	0.49624	15	1	LogisticRegression	Morgan
+solver_penalty: sag:l2 | C: 0.03535513	0.40678	16	1	LogisticRegression	Morgan
+solver_penalty: saga:l2 | C: 3.074778	0.52222	17	1	LogisticRegression	Morgan
+solver_penalty: saga:l2 | C: 0.4402162	0.50676	18	1	LogisticRegression	Morgan
+solver_penalty: newton-cholesky:None | C: 4.382815	0.49916	19	1	LogisticRegression	Morgan
+solver_penalty: liblinear:l1 | C: 1.029984	0.48576	20	1	LogisticRegression	Morgan
+solver_penalty: sag:l2 | C: 2.24333	0.52202	21	1	LogisticRegression	Morgan
+solver_penalty: lbfgs:l2 | C: 5.212863	0.51757	22	1	LogisticRegression	Morgan
+solver_penalty: saga:l2 | C: 1.812299	0.52453	23	1	LogisticRegression	Morgan
+solver_penalty: saga:l2 | C: 0.1678842	0.47704	24	1	LogisticRegression	Morgan
+solver_penalty: saga:l2 | C: 1.474126	0.52437	25	1	LogisticRegression	Morgan
+solver_penalty: lbfgs:None | C: 1.120639	0.49916	26	1	LogisticRegression	Morgan
+solver_penalty: newton-cg:None | C: 0.05279408	0.50325	27	1	LogisticRegression	Morgan
+solver_penalty: saga:l2 | C: 0.3082374	0.4984	28	1	LogisticRegression	Morgan
+solver_penalty: saga:l2 | C: 1.339309	0.52483	29	1	LogisticRegression	Morgan
+solver_penalty: saga:elasticnet | C: 0.02302137 | l1_ratio: 0.006660647	0.37113	30	1	LogisticRegression	Morgan
+solver_penalty: saga:l2 | C: 1.471705	0.524	31	1	LogisticRegression	Morgan
+solver_penalty: saga:l2 | C: 0.5904138	0.51114	32	1	LogisticRegression	Morgan
+solver_penalty: saga:None | C: 1.712474	0.50801	33	1	LogisticRegression	Morgan
+solver_penalty: sag:None | C: 0.2469054	0.50102	34	1	LogisticRegression	Morgan
+solver_penalty: saga:l2 | C: 4.445007	0.51798	35	1	LogisticRegression	Morgan
+solver_penalty: newton-cg:l2 | C: 0.6796665	0.5148	36	1	LogisticRegression	Morgan
+solver_penalty: newton-cholesky:None | C: 1.975805	0.49891	37	1	LogisticRegression	Morgan
+solver_penalty: liblinear:l1 | C: 0.1096778	0.42398	38	1	LogisticRegression	Morgan
+solver_penalty: newton-cg:None | C: 0.4891116	0.50325	39	1	LogisticRegression	Morgan
+solver_penalty: lbfgs:l2 | C: 6.137898	0.5173	40	1	LogisticRegression	Morgan
+solver_penalty: saga:l2 | C: 1.531853	0.52428	41	1	LogisticRegression	Morgan
+solver_penalty: saga:l2 | C: 1.300728	0.5241	42	1	LogisticRegression	Morgan
+solver_penalty: saga:l2 | C: 3.232958	0.52267	43	1	LogisticRegression	Morgan
+solver_penalty: saga:l2 | C: 0.8172017	0.51724	44	1	LogisticRegression	Morgan
+solver_penalty: saga:l2 | C: 1.539984	0.52428	45	1	LogisticRegression	Morgan
+solver_penalty: lbfgs:None | C: 7.39518	0.49891	46	1	LogisticRegression	Morgan
+solver_penalty: saga:l1 | C: 3.06412	0.49464	47	1	LogisticRegression	Morgan
+solver_penalty: saga:elasticnet | C: 0.372074 | l1_ratio: 0.2866399	0.47484	48	1	LogisticRegression	Morgan
+solver_penalty: saga:l2 | C: 1.781299	0.5249	49	1	LogisticRegression	Morgan
+solver_penalty: newton-cholesky:l2 | C: 0.7368	0.51723	50	1	LogisticRegression	Morgan
+solver_penalty: saga:l2 | C: 1.862832	0.5238	51	1	LogisticRegression	Morgan
+solver_penalty: saga:l2 | C: 4.138293	0.51866	52	1	LogisticRegression	Morgan
+solver_penalty: saga:l2 | C: 1.401363	0.5246	53	1	LogisticRegression	Morgan
+solver_penalty: saga:None | C: 0.003461251	0.50782	54	1	LogisticRegression	Morgan
+solver_penalty: sag:None | C: 2.561717	0.50047	55	1	LogisticRegression	Morgan
+solver_penalty: saga:l2 | C: 0.9324659	0.51884	56	1	LogisticRegression	Morgan
+solver_penalty: saga:l2 | C: 0.001061915	0.0	57	1	LogisticRegression	Morgan
+solver_penalty: saga:l2 | C: 9.83773	0.51235	58	1	LogisticRegression	Morgan
+solver_penalty: newton-cg:l2 | C: 0.5060227	0.51	59	1	LogisticRegression	Morgan
+solver_penalty: liblinear:l2 | C: 0.2095648	0.48851	60	1	LogisticRegression	Morgan
+solver_penalty: saga:l2 | C: 1.241846	0.52401	61	1	LogisticRegression	Morgan
+solver_penalty: saga:l2 | C: 1.972696	0.52399	62	1	LogisticRegression	Morgan
+solver_penalty: saga:l2 | C: 1.487619	0.52457	63	1	LogisticRegression	Morgan
+solver_penalty: newton-cholesky:None | C: 0.06901217	0.50758	0	3	LogisticRegression	Morgan
+solver_penalty: newton-cholesky:l2 | C: 0.003685907	0.10934	1	3	LogisticRegression	Morgan
+solver_penalty: newton-cg:l2 | C: 0.1215496	0.47283	2	3	LogisticRegression	Morgan
+solver_penalty: saga:None | C: 0.002327687	0.50893	3	3	LogisticRegression	Morgan
+solver_penalty: lbfgs:None | C: 0.01264161	0.50758	4	3	LogisticRegression	Morgan
+solver_penalty: saga:l2 | C: 0.001858074	0.03458	5	3	LogisticRegression	Morgan
+solver_penalty: sag:None | C: 0.07436892	0.50608	6	3	LogisticRegression	Morgan
+solver_penalty: saga:elasticnet | C: 6.617609 | l1_ratio: 0.9363178	0.50389	7	3	LogisticRegression	Morgan
+solver_penalty: saga:l2 | C: 0.02400568	0.36645	8	3	LogisticRegression	Morgan
+solver_penalty: newton-cholesky:None | C: 0.03629262	0.50758	9	3	LogisticRegression	Morgan
+solver_penalty: saga:None | C: 1.260094	0.50845	10	3	LogisticRegression	Morgan
+solver_penalty: saga:None | C: 0.8126002	0.50886	11	3	LogisticRegression	Morgan
+solver_penalty: saga:None | C: 0.5325802	0.50882	12	3	LogisticRegression	Morgan
+solver_penalty: saga:None | C: 0.5275027	0.5088	13	3	LogisticRegression	Morgan
+solver_penalty: saga:l1 | C: 7.755145	0.50619	14	3	LogisticRegression	Morgan
+solver_penalty: lbfgs:l2 | C: 0.001074096	0.00036	15	3	LogisticRegression	Morgan
+solver_penalty: newton-cg:None | C: 0.006935033	0.522	16	3	LogisticRegression	Morgan
+solver_penalty: newton-cg:None | C: 0.004002144	0.522	17	3	LogisticRegression	Morgan
+solver_penalty: newton-cg:None | C: 0.007583878	0.522	18	3	LogisticRegression	Morgan
+solver_penalty: newton-cg:None | C: 0.007175494	0.522	19	3	LogisticRegression	Morgan
+solver_penalty: newton-cg:None | C: 0.004910385	0.522	20	3	LogisticRegression	Morgan
+solver_penalty: newton-cg:None | C: 0.01267823	0.522	21	3	LogisticRegression	Morgan
+solver_penalty: liblinear:l2 | C: 0.009863915	0.31021	22	3	LogisticRegression	Morgan
+solver_penalty: newton-cg:None | C: 0.001115306	0.522	23	3	LogisticRegression	Morgan
+solver_penalty: sag:l2 | C: 0.02872646	0.3856	24	3	LogisticRegression	Morgan
+solver_penalty: liblinear:l1 | C: 0.002945329	0.0	25	3	LogisticRegression	Morgan
+solver_penalty: newton-cg:None | C: 0.176731	0.522	26	3	LogisticRegression	Morgan
+solver_penalty: newton-cg:None | C: 0.006468905	0.522	27	3	LogisticRegression	Morgan
+solver_penalty: newton-cg:None | C: 0.01792554	0.522	28	3	LogisticRegression	Morgan
+solver_penalty: sag:l2 | C: 0.05169192	0.43304	29	3	LogisticRegression	Morgan
+solver_penalty: sag:None | C: 0.004664105	0.50594	30	3	LogisticRegression	Morgan
+solver_penalty: newton-cg:None | C: 0.007877119	0.522	31	3	LogisticRegression	Morgan
+solver_penalty: newton-cholesky:l2 | C: 0.001892983	0.03644	32	3	LogisticRegression	Morgan
+solver_penalty: newton-cg:None | C: 0.003769109	0.522	33	3	LogisticRegression	Morgan
+solver_penalty: newton-cg:l2 | C: 0.01692764	0.32936	34	3	LogisticRegression	Morgan
+solver_penalty: lbfgs:None | C: 0.007291151	0.50758	35	3	LogisticRegression	Morgan
+solver_penalty: newton-cg:None | C: 0.1627083	0.522	36	3	LogisticRegression	Morgan
+solver_penalty: saga:elasticnet | C: 0.002109259 | l1_ratio: 0.0499071	0.0	37	3	LogisticRegression	Morgan
+solver_penalty: saga:l1 | C: 0.003143917	0.0	38	3	LogisticRegression	Morgan
+solver_penalty: liblinear:l1 | C: 0.01194196	0.0	39	3	LogisticRegression	Morgan
+solver_penalty: liblinear:l2 | C: 0.0879471	0.47269	40	3	LogisticRegression	Morgan
+solver_penalty: newton-cg:None | C: 0.005422046	0.522	41	3	LogisticRegression	Morgan
+solver_penalty: newton-cg:None | C: 0.004751485	0.522	42	3	LogisticRegression	Morgan
+solver_penalty: newton-cholesky:None | C: 0.04425914	0.50758	43	3	LogisticRegression	Morgan
+solver_penalty: lbfgs:l2 | C: 0.001904628	0.03692	44	3	LogisticRegression	Morgan
+solver_penalty: newton-cg:None | C: 0.01743571	0.522	45	3	LogisticRegression	Morgan
+solver_penalty: saga:l2 | C: 0.008159633	0.24226	46	3	LogisticRegression	Morgan
+solver_penalty: newton-cholesky:l2 | C: 0.002807565	0.07173	47	3	LogisticRegression	Morgan
+solver_penalty: newton-cg:l2 | C: 0.001519933	0.01532	48	3	LogisticRegression	Morgan
+solver_penalty: newton-cg:None | C: 0.02664687	0.522	49	3	LogisticRegression	Morgan
+solver_penalty: sag:None | C: 0.004113127	0.50642	50	3	LogisticRegression	Morgan
+solver_penalty: newton-cg:None | C: 0.01171975	0.522	51	3	LogisticRegression	Morgan
+solver_penalty: newton-cg:None | C: 4.435284	0.522	52	3	LogisticRegression	Morgan
+solver_penalty: lbfgs:None | C: 0.01593244	0.50758	53	3	LogisticRegression	Morgan
+solver_penalty: newton-cg:None | C: 0.009527255	0.522	54	3	LogisticRegression	Morgan
+solver_penalty: saga:elasticnet | C: 0.005974538 | l1_ratio: 0.4189179	0.0	55	3	LogisticRegression	Morgan
+solver_penalty: newton-cg:None | C: 0.001284155	0.522	56	3	LogisticRegression	Morgan
+solver_penalty: newton-cholesky:None | C: 0.02323984	0.50758	57	3	LogisticRegression	Morgan
+solver_penalty: newton-cg:None | C: 0.003348619	0.522	58	3	LogisticRegression	Morgan
+solver_penalty: saga:l1 | C: 0.01256225	0.0	59	3	LogisticRegression	Morgan
+solver_penalty: saga:l2 | C: 0.002562057	0.0637	60	3	LogisticRegression	Morgan
+solver_penalty: newton-cg:None | C: 0.001148079	0.522	61	3	LogisticRegression	Morgan
+solver_penalty: newton-cg:None | C: 0.001449862	0.522	62	3	LogisticRegression	Morgan
+solver_penalty: sag:l2 | C: 0.005499704	0.17852	63	3	LogisticRegression	Morgan
+solver_penalty: saga:elasticnet | C: 4.415578 | l1_ratio: 0.02722852	0.48059	0	4	LogisticRegression	Morgan
+solver_penalty: sag:None | C: 0.1055616	0.48232	1	4	LogisticRegression	Morgan
+solver_penalty: newton-cholesky:None | C: 1.237142	0.48593	2	4	LogisticRegression	Morgan
+solver_penalty: saga:l1 | C: 0.07489323	0.29544	3	4	LogisticRegression	Morgan
+solver_penalty: lbfgs:None | C: 0.04166152	0.48593	4	4	LogisticRegression	Morgan
+solver_penalty: newton-cg:l2 | C: 0.00154368	0.00316	5	4	LogisticRegression	Morgan
+solver_penalty: saga:l2 | C: 0.003888184	0.07274	6	4	LogisticRegression	Morgan
+solver_penalty: lbfgs:None | C: 6.475953	0.48593	7	4	LogisticRegression	Morgan
+solver_penalty: lbfgs:l2 | C: 0.1367313	0.45189	8	4	LogisticRegression	Morgan
+solver_penalty: sag:l2 | C: 4.184331	0.47962	9	4	LogisticRegression	Morgan
+solver_penalty: newton-cholesky:None | C: 0.7919052	0.48593	10	4	LogisticRegression	Morgan
+solver_penalty: newton-cg:None | C: 0.01972245	0.47742	11	4	LogisticRegression	Morgan
+solver_penalty: saga:None | C: 0.6701579	0.4822	12	4	LogisticRegression	Morgan
+solver_penalty: newton-cholesky:l2 | C: 0.01380466	0.31139	13	4	LogisticRegression	Morgan
+solver_penalty: liblinear:l1 | C: 0.5367778	0.48688	14	4	LogisticRegression	Morgan
+solver_penalty: liblinear:l1 | C: 0.627598	0.48669	15	4	LogisticRegression	Morgan
+solver_penalty: liblinear:l1 | C: 0.3135407	0.48137	16	4	LogisticRegression	Morgan
+solver_penalty: liblinear:l1 | C: 0.3140131	0.4815	17	4	LogisticRegression	Morgan
+solver_penalty: liblinear:l1 | C: 2.353151	0.49168	18	4	LogisticRegression	Morgan
+solver_penalty: liblinear:l2 | C: 1.964891	0.47196	19	4	LogisticRegression	Morgan
+solver_penalty: liblinear:l1 | C: 2.602677	0.49604	20	4	LogisticRegression	Morgan
+solver_penalty: liblinear:l1 | C: 9.504446	0.5138	21	4	LogisticRegression	Morgan
+solver_penalty: liblinear:l1 | C: 8.462551	0.51304	22	4	LogisticRegression	Morgan
+solver_penalty: liblinear:l1 | C: 9.878461	0.51368	23	4	LogisticRegression	Morgan
+solver_penalty: liblinear:l1 | C: 7.123452	0.50975	24	4	LogisticRegression	Morgan
+solver_penalty: liblinear:l2 | C: 8.740955	0.47885	25	4	LogisticRegression	Morgan
+solver_penalty: saga:l1 | C: 3.616368	0.49142	26	4	LogisticRegression	Morgan
+solver_penalty: lbfgs:l2 | C: 8.395414	0.47988	27	4	LogisticRegression	Morgan
+solver_penalty: newton-cholesky:l2 | C: 1.610264	0.47136	28	4	LogisticRegression	Morgan
+solver_penalty: saga:elasticnet | C: 4.023318 | l1_ratio: 0.9628646	0.49392	29	4	LogisticRegression	Morgan
+solver_penalty: saga:l2 | C: 9.319488	0.47908	30	4	LogisticRegression	Morgan
+solver_penalty: liblinear:l1 | C: 5.294256	0.50744	31	4	LogisticRegression	Morgan
+solver_penalty: sag:None | C: 9.799049	0.48227	32	4	LogisticRegression	Morgan
+solver_penalty: liblinear:l1 | C: 1.075646	0.48664	33	4	LogisticRegression	Morgan
+solver_penalty: liblinear:l1 | C: 3.270676	0.49976	34	4	LogisticRegression	Morgan
+solver_penalty: newton-cg:None | C: 5.454966	0.47742	35	4	LogisticRegression	Morgan
+solver_penalty: newton-cg:l2 | C: 1.559799	0.47091	36	4	LogisticRegression	Morgan
+solver_penalty: saga:None | C: 5.85012	0.48204	37	4	LogisticRegression	Morgan
+solver_penalty: sag:l2 | C: 2.846575	0.47808	38	4	LogisticRegression	Morgan
+solver_penalty: saga:elasticnet | C: 0.1634387 | l1_ratio: 0.4775835	0.45446	39	4	LogisticRegression	Morgan
+solver_penalty: lbfgs:None | C: 1.131489	0.48593	40	4	LogisticRegression	Morgan
+solver_penalty: liblinear:l1 | C: 5.197791	0.50652	41	4	LogisticRegression	Morgan
+solver_penalty: liblinear:l1 | C: 5.533097	0.50842	42	4	LogisticRegression	Morgan
+solver_penalty: liblinear:l1 | C: 0.001090795	0.0	43	4	LogisticRegression	Morgan
+solver_penalty: newton-cholesky:None | C: 9.870849	0.48593	44	4	LogisticRegression	Morgan
+solver_penalty: liblinear:l1 | C: 6.488315	0.50916	45	4	LogisticRegression	Morgan
+solver_penalty: sag:None | C: 0.007007658	0.4826	46	4	LogisticRegression	Morgan
+solver_penalty: newton-cg:l2 | C: 3.212945	0.47815	47	4	LogisticRegression	Morgan
+solver_penalty: liblinear:l1 | C: 6.824349	0.50954	48	4	LogisticRegression	Morgan
+solver_penalty: saga:l1 | C: 0.04094664	0.10137	49	4	LogisticRegression	Morgan
+solver_penalty: lbfgs:l2 | C: 2.251473	0.47512	50	4	LogisticRegression	Morgan
+solver_penalty: liblinear:l1 | C: 6.625212	0.50922	51	4	LogisticRegression	Morgan
+solver_penalty: liblinear:l1 | C: 7.383475	0.51074	52	4	LogisticRegression	Morgan
+solver_penalty: liblinear:l1 | C: 4.319577	0.50292	53	4	LogisticRegression	Morgan
+solver_penalty: liblinear:l1 | C: 6.925961	0.50956	54	4	LogisticRegression	Morgan
+solver_penalty: saga:l2 | C: 4.401052	0.4789	55	4	LogisticRegression	Morgan
+solver_penalty: liblinear:l1 | C: 1.783416	0.48776	56	4	LogisticRegression	Morgan
+solver_penalty: newton-cg:None | C: 0.3970046	0.47742	57	4	LogisticRegression	Morgan
+solver_penalty: sag:l2 | C: 7.460517	0.48062	58	4	LogisticRegression	Morgan
+solver_penalty: newton-cholesky:l2 | C: 0.002432752	0.02394	59	4	LogisticRegression	Morgan
+solver_penalty: lbfgs:None | C: 2.766622	0.48593	60	4	LogisticRegression	Morgan
+solver_penalty: liblinear:l1 | C: 8.473848	0.51253	61	4	LogisticRegression	Morgan
+solver_penalty: liblinear:l1 | C: 9.65412	0.51339	62	4	LogisticRegression	Morgan
+solver_penalty: liblinear:l1 | C: 9.505273	0.51397	63	4	LogisticRegression	Morgan
+solver_penalty: lbfgs:None | C: 7.416938	0.49744	0	2	LogisticRegression	Morgan
+solver_penalty: saga:elasticnet | C: 0.2854198 | l1_ratio: 0.3478773	0.47297	1	2	LogisticRegression	Morgan
+solver_penalty: newton-cg:None | C: 0.006822718	0.50245	2	2	LogisticRegression	Morgan
+solver_penalty: newton-cg:None | C: 4.659406	0.50245	3	2	LogisticRegression	Morgan
+solver_penalty: liblinear:l2 | C: 0.002794675	0.12425	4	2	LogisticRegression	Morgan
+solver_penalty: liblinear:l2 | C: 0.4311553	0.49445	5	2	LogisticRegression	Morgan
+solver_penalty: newton-cholesky:None | C: 0.5280395	0.49744	6	2	LogisticRegression	Morgan
+solver_penalty: newton-cg:None | C: 0.006492585	0.50245	7	2	LogisticRegression	Morgan
+solver_penalty: saga:None | C: 0.1717895	0.50156	8	2	LogisticRegression	Morgan
+solver_penalty: saga:elasticnet | C: 0.1428053 | l1_ratio: 0.5557482	0.43429	9	2	LogisticRegression	Morgan
+solver_penalty: sag:None | C: 0.01539003	0.49411	10	2	LogisticRegression	Morgan
+solver_penalty: newton-cg:None | C: 7.050759	0.50245	11	2	LogisticRegression	Morgan
+solver_penalty: saga:l1 | C: 0.02974678	0.00322	12	2	LogisticRegression	Morgan
+solver_penalty: lbfgs:l2 | C: 0.001358702	0.00036	13	2	LogisticRegression	Morgan
+solver_penalty: newton-cg:None | C: 2.978734	0.50245	14	2	LogisticRegression	Morgan
+solver_penalty: saga:l2 | C: 0.03284436	0.37351	15	2	LogisticRegression	Morgan
+solver_penalty: sag:l2 | C: 1.220896	0.50126	16	2	LogisticRegression	Morgan
+solver_penalty: newton-cg:l2 | C: 0.006173575	0.13975	17	2	LogisticRegression	Morgan
+solver_penalty: liblinear:l1 | C: 0.05598343	0.21462	18	2	LogisticRegression	Morgan
+solver_penalty: newton-cholesky:l2 | C: 0.001031363	0.0	19	2	LogisticRegression	Morgan
+solver_penalty: newton-cg:None | C: 1.465367	0.50245	20	2	LogisticRegression	Morgan
+solver_penalty: newton-cg:None | C: 0.00909443	0.50245	21	2	LogisticRegression	Morgan
+solver_penalty: newton-cg:None | C: 0.00455378	0.50245	22	2	LogisticRegression	Morgan
+solver_penalty: newton-cg:None | C: 0.01583281	0.50245	23	2	LogisticRegression	Morgan
+solver_penalty: newton-cg:None | C: 0.07319522	0.50245	24	2	LogisticRegression	Morgan
+solver_penalty: lbfgs:None | C: 0.002649802	0.49744	25	2	LogisticRegression	Morgan
+solver_penalty: newton-cholesky:None | C: 0.01073443	0.49744	26	2	LogisticRegression	Morgan
+solver_penalty: newton-cholesky:l2 | C: 0.03533868	0.38071	27	2	LogisticRegression	Morgan
+solver_penalty: lbfgs:l2 | C: 0.002341298	0.01245	28	2	LogisticRegression	Morgan
+solver_penalty: saga:None | C: 0.0054357	0.50166	29	2	LogisticRegression	Morgan
+solver_penalty: saga:l2 | C: 9.656234	0.50423	30	2	LogisticRegression	Morgan
+solver_penalty: saga:l2 | C: 9.937297	0.50392	31	2	LogisticRegression	Morgan
+solver_penalty: saga:l2 | C: 8.053801	0.5049	32	2	LogisticRegression	Morgan
+solver_penalty: saga:l2 | C: 8.765858	0.50448	33	2	LogisticRegression	Morgan
+solver_penalty: saga:l2 | C: 9.867114	0.50392	34	2	LogisticRegression	Morgan
+solver_penalty: saga:l2 | C: 3.451946	0.50491	35	2	LogisticRegression	Morgan
+solver_penalty: saga:l2 | C: 2.870979	0.50458	36	2	LogisticRegression	Morgan
+solver_penalty: saga:l2 | C: 3.116892	0.50409	37	2	LogisticRegression	Morgan
+solver_penalty: saga:l2 | C: 1.040522	0.50112	38	2	LogisticRegression	Morgan
+solver_penalty: saga:l2 | C: 4.433214	0.50517	39	2	LogisticRegression	Morgan
+solver_penalty: saga:l2 | C: 4.167716	0.50489	40	2	LogisticRegression	Morgan
+solver_penalty: saga:l2 | C: 3.227758	0.50447	41	2	LogisticRegression	Morgan
+solver_penalty: saga:l2 | C: 1.909427	0.50311	42	2	LogisticRegression	Morgan
+solver_penalty: liblinear:l2 | C: 4.924982	0.50643	43	2	LogisticRegression	Morgan
+solver_penalty: liblinear:l2 | C: 5.176217	0.50563	44	2	LogisticRegression	Morgan
+solver_penalty: liblinear:l2 | C: 6.015396	0.50636	45	2	LogisticRegression	Morgan
+solver_penalty: liblinear:l2 | C: 0.7006129	0.49818	46	2	LogisticRegression	Morgan
+solver_penalty: liblinear:l2 | C: 5.173615	0.50563	47	2	LogisticRegression	Morgan
+solver_penalty: liblinear:l2 | C: 5.595453	0.5061	48	2	LogisticRegression	Morgan
+solver_penalty: liblinear:l2 | C: 0.3290566	0.49291	49	2	LogisticRegression	Morgan
+solver_penalty: liblinear:l2 | C: 5.887448	0.5066	50	2	LogisticRegression	Morgan
+solver_penalty: liblinear:l2 | C: 5.14311	0.50556	51	2	LogisticRegression	Morgan
+solver_penalty: liblinear:l2 | C: 1.941995	0.50412	52	2	LogisticRegression	Morgan
+solver_penalty: liblinear:l2 | C: 5.968281	0.50662	53	2	LogisticRegression	Morgan
+solver_penalty: liblinear:l2 | C: 6.173811	0.50622	54	2	LogisticRegression	Morgan
+solver_penalty: liblinear:l2 | C: 6.182179	0.50618	55	2	LogisticRegression	Morgan
+solver_penalty: liblinear:l2 | C: 2.019398	0.50468	56	2	LogisticRegression	Morgan
+solver_penalty: sag:None | C: 6.580123	0.49463	57	2	LogisticRegression	Morgan
+solver_penalty: liblinear:l2 | C: 0.8804719	0.4995	58	2	LogisticRegression	Morgan
+solver_penalty: saga:elasticnet | C: 2.370967 | l1_ratio: 0.9424041	0.50758	59	2	LogisticRegression	Morgan
+solver_penalty: saga:elasticnet | C: 2.286346 | l1_ratio: 0.9750408	0.50851	60	2	LogisticRegression	Morgan
+solver_penalty: saga:elasticnet | C: 2.529001 | l1_ratio: 0.9532706	0.5056	61	2	LogisticRegression	Morgan
+solver_penalty: saga:elasticnet | C: 1.538978 | l1_ratio: 0.9784669	0.51602	62	2	LogisticRegression	Morgan
+solver_penalty: saga:elasticnet | C: 1.466379 | l1_ratio: 0.9829541	0.51692	63	2	LogisticRegression	Morgan

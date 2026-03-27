@@ -1,0 +1,321 @@
+Params	Value	Number	Test_Fold	Model	Descriptors
+solver_penalty: saga:None | C: 0.01019125	0.51787	0	0	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.02627459	0.5438	1	0	LogisticRegression	MACCS
+solver_penalty: newton-cg:l2 | C: 1.707607	0.51277	2	0	LogisticRegression	MACCS
+solver_penalty: newton-cholesky:l2 | C: 0.3294149	0.51365	3	0	LogisticRegression	MACCS
+solver_penalty: saga:l2 | C: 4.392824	0.51403	4	0	LogisticRegression	MACCS
+solver_penalty: saga:None | C: 0.4311306	0.51847	5	0	LogisticRegression	MACCS
+solver_penalty: saga:l2 | C: 0.4108351	0.51289	6	0	LogisticRegression	MACCS
+solver_penalty: saga:None | C: 0.01426732	0.51598	7	0	LogisticRegression	MACCS
+solver_penalty: sag:None | C: 0.1526391	0.51791	8	0	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.7375379	0.51086	9	0	LogisticRegression	MACCS
+solver_penalty: saga:elasticnet | C: 0.001703705 | l1_ratio: 0.006198137	0.53162	10	0	LogisticRegression	MACCS
+solver_penalty: saga:elasticnet | C: 0.00116634 | l1_ratio: 0.00103821	0.52833	11	0	LogisticRegression	MACCS
+solver_penalty: liblinear:l2 | C: 0.001155201	0.52489	12	0	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.02078675	0.54078	13	0	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.02703079	0.54108	14	0	LogisticRegression	MACCS
+solver_penalty: lbfgs:l2 | C: 0.05380761	0.52383	15	0	LogisticRegression	MACCS
+solver_penalty: saga:l1 | C: 0.005207885	0.0	16	0	LogisticRegression	MACCS
+solver_penalty: lbfgs:None | C: 0.04716448	0.5164	17	0	LogisticRegression	MACCS
+solver_penalty: newton-cg:None | C: 0.003715114	0.5163	18	0	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.09241367	0.53641	19	0	LogisticRegression	MACCS
+solver_penalty: newton-cholesky:None | C: 0.03544143	0.51549	20	0	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.01466499	0.54486	21	0	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.00679596	0.29979	22	0	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.02369346	0.54199	23	0	LogisticRegression	MACCS
+solver_penalty: sag:l2 | C: 0.1197803	0.51994	24	0	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.002981974	0.0	25	0	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.01161054	0.53704	26	0	LogisticRegression	MACCS
+solver_penalty: lbfgs:None | C: 0.07097395	0.51646	27	0	LogisticRegression	MACCS
+solver_penalty: newton-cg:None | C: 0.02482517	0.51375	28	0	LogisticRegression	MACCS
+solver_penalty: newton-cholesky:None | C: 0.009136351	0.51583	29	0	LogisticRegression	MACCS
+solver_penalty: liblinear:l2 | C: 0.1841086	0.51539	30	0	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.01739238	0.5418	31	0	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.01573299	0.54496	32	0	LogisticRegression	MACCS
+solver_penalty: newton-cg:l2 | C: 0.00952201	0.5342	33	0	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.03944221	0.53926	34	0	LogisticRegression	MACCS
+solver_penalty: saga:l1 | C: 9.665764	0.51505	35	0	LogisticRegression	MACCS
+solver_penalty: newton-cholesky:l2 | C: 0.00287327	0.53493	36	0	LogisticRegression	MACCS
+solver_penalty: sag:None | C: 0.005574211	0.5178	37	0	LogisticRegression	MACCS
+solver_penalty: lbfgs:l2 | C: 0.01512851	0.53221	38	0	LogisticRegression	MACCS
+solver_penalty: sag:l2 | C: 0.2688541	0.51517	39	0	LogisticRegression	MACCS
+solver_penalty: saga:l2 | C: 1.212784	0.51364	40	0	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.01797236	0.54051	41	0	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.0310416	0.54049	42	0	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.06770593	0.53676	43	0	LogisticRegression	MACCS
+solver_penalty: saga:None | C: 0.01346866	0.51789	44	0	LogisticRegression	MACCS
+solver_penalty: newton-cg:l2 | C: 0.007516112	0.53459	45	0	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.02256374	0.54421	46	0	LogisticRegression	MACCS
+solver_penalty: newton-cholesky:l2 | C: 0.02170719	0.53083	47	0	LogisticRegression	MACCS
+solver_penalty: saga:elasticnet | C: 0.05440241 | l1_ratio: 0.8901768	0.54029	48	0	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.001972684	0.0	49	0	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.004502215	0.0	50	0	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.01286767	0.53714	51	0	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.02243069	0.54218	52	0	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.03152425	0.54101	53	0	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.07816671	0.53871	54	0	LogisticRegression	MACCS
+solver_penalty: sag:None | C: 0.04165501	0.51924	55	0	LogisticRegression	MACCS
+solver_penalty: saga:l2 | C: 0.1183638	0.52066	56	0	LogisticRegression	MACCS
+solver_penalty: saga:None | C: 0.0252199	0.51292	57	0	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.007455799	0.42219	58	0	LogisticRegression	MACCS
+solver_penalty: liblinear:l2 | C: 0.01067743	0.52757	59	0	LogisticRegression	MACCS
+solver_penalty: lbfgs:l2 | C: 0.02054399	0.53262	60	0	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.01623325	0.54547	61	0	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.05194698	0.53761	62	0	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.01562643	0.54516	63	0	LogisticRegression	MACCS
+solver_penalty: sag:None | C: 0.4034712	0.51924	0	1	LogisticRegression	MACCS
+solver_penalty: saga:elasticnet | C: 0.1033235 | l1_ratio: 0.3513269	0.52084	1	1	LogisticRegression	MACCS
+solver_penalty: sag:None | C: 0.3133023	0.52065	2	1	LogisticRegression	MACCS
+solver_penalty: sag:None | C: 0.1258962	0.5186	3	1	LogisticRegression	MACCS
+solver_penalty: liblinear:l2 | C: 0.004014465	0.51008	4	1	LogisticRegression	MACCS
+solver_penalty: sag:l2 | C: 0.7954601	0.52076	5	1	LogisticRegression	MACCS
+solver_penalty: lbfgs:l2 | C: 0.02750247	0.5215	6	1	LogisticRegression	MACCS
+solver_penalty: saga:elasticnet | C: 0.004056991 | l1_ratio: 0.3304484	0.43421	7	1	LogisticRegression	MACCS
+solver_penalty: lbfgs:None | C: 4.150613	0.52004	8	1	LogisticRegression	MACCS
+solver_penalty: liblinear:l2 | C: 0.9326222	0.52027	9	1	LogisticRegression	MACCS
+solver_penalty: lbfgs:l2 | C: 0.01944369	0.52075	10	1	LogisticRegression	MACCS
+solver_penalty: saga:None | C: 0.03122122	0.51824	11	1	LogisticRegression	MACCS
+solver_penalty: newton-cholesky:l2 | C: 0.02897133	0.52048	12	1	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.08528129	0.52325	13	1	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.0123934	0.52221	14	1	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.001215475	0.0	15	1	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.007110099	0.4835	16	1	LogisticRegression	MACCS
+solver_penalty: newton-cg:l2 | C: 9.676576	0.52302	17	1	LogisticRegression	MACCS
+solver_penalty: saga:l2 | C: 5.572995	0.5228	18	1	LogisticRegression	MACCS
+solver_penalty: newton-cg:l2 | C: 2.193005	0.51978	19	1	LogisticRegression	MACCS
+solver_penalty: newton-cg:l2 | C: 8.27309	0.5188	20	1	LogisticRegression	MACCS
+solver_penalty: saga:l2 | C: 7.971329	0.51923	21	1	LogisticRegression	MACCS
+solver_penalty: saga:l2 | C: 2.273819	0.52434	22	1	LogisticRegression	MACCS
+solver_penalty: newton-cg:l2 | C: 2.350543	0.51826	23	1	LogisticRegression	MACCS
+solver_penalty: saga:l1 | C: 1.727431	0.52012	24	1	LogisticRegression	MACCS
+solver_penalty: newton-cholesky:None | C: 0.3397674	0.51818	25	1	LogisticRegression	MACCS
+solver_penalty: saga:l2 | C: 0.1973207	0.51818	26	1	LogisticRegression	MACCS
+solver_penalty: newton-cg:None | C: 0.06028515	0.5192	27	1	LogisticRegression	MACCS
+solver_penalty: lbfgs:None | C: 0.956587	0.51786	28	1	LogisticRegression	MACCS
+solver_penalty: saga:None | C: 3.843422	0.51958	29	1	LogisticRegression	MACCS
+solver_penalty: newton-cg:None | C: 0.05837457	0.52053	30	1	LogisticRegression	MACCS
+solver_penalty: saga:l1 | C: 4.547081	0.52262	31	1	LogisticRegression	MACCS
+solver_penalty: saga:l2 | C: 5.983145	0.51951	32	1	LogisticRegression	MACCS
+solver_penalty: saga:l2 | C: 9.958883	0.51878	33	1	LogisticRegression	MACCS
+solver_penalty: saga:l2 | C: 0.6446579	0.51668	34	1	LogisticRegression	MACCS
+solver_penalty: sag:l2 | C: 1.940498	0.52135	35	1	LogisticRegression	MACCS
+solver_penalty: sag:None | C: 0.1317655	0.5209	36	1	LogisticRegression	MACCS
+solver_penalty: newton-cholesky:None | C: 0.4729339	0.5211	37	1	LogisticRegression	MACCS
+solver_penalty: newton-cholesky:l2 | C: 1.406547	0.52235	38	1	LogisticRegression	MACCS
+solver_penalty: newton-cg:l2 | C: 3.080552	0.52158	39	1	LogisticRegression	MACCS
+solver_penalty: saga:elasticnet | C: 0.2131756 | l1_ratio: 0.9127297	0.52187	40	1	LogisticRegression	MACCS
+solver_penalty: saga:l1 | C: 5.619461	0.51944	41	1	LogisticRegression	MACCS
+solver_penalty: saga:l1 | C: 5.101165	0.51781	42	1	LogisticRegression	MACCS
+solver_penalty: liblinear:l2 | C: 3.048881	0.51868	43	1	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 1.431163	0.52014	44	1	LogisticRegression	MACCS
+solver_penalty: saga:l1 | C: 6.486312	0.5208	45	1	LogisticRegression	MACCS
+solver_penalty: lbfgs:l2 | C: 0.07235571	0.52328	46	1	LogisticRegression	MACCS
+solver_penalty: lbfgs:l2 | C: 0.06303462	0.52149	47	1	LogisticRegression	MACCS
+solver_penalty: lbfgs:l2 | C: 0.0790048	0.52266	48	1	LogisticRegression	MACCS
+solver_penalty: lbfgs:l2 | C: 0.03475761	0.51978	49	1	LogisticRegression	MACCS
+solver_penalty: saga:l2 | C: 0.01692446	0.5177	50	1	LogisticRegression	MACCS
+solver_penalty: lbfgs:l2 | C: 0.08964192	0.52267	51	1	LogisticRegression	MACCS
+solver_penalty: lbfgs:l2 | C: 0.1039233	0.51999	52	1	LogisticRegression	MACCS
+solver_penalty: lbfgs:l2 | C: 0.155236	0.5217	53	1	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.04170318	0.53384	54	1	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.03659953	0.53591	55	1	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.04401554	0.53196	56	1	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.0412616	0.53428	57	1	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.04406179	0.53216	58	1	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.04461034	0.53314	59	1	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.0378774	0.53517	60	1	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.04189341	0.53499	61	1	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.01875503	0.53856	62	1	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.01073724	0.51292	63	1	LogisticRegression	MACCS
+solver_penalty: saga:elasticnet | C: 0.1804903 | l1_ratio: 0.08250533	0.54062	0	3	LogisticRegression	MACCS
+solver_penalty: sag:l2 | C: 0.4349153	0.53959	1	3	LogisticRegression	MACCS
+solver_penalty: liblinear:l2 | C: 0.002596514	0.53644	2	3	LogisticRegression	MACCS
+solver_penalty: newton-cholesky:l2 | C: 0.1874234	0.53902	3	3	LogisticRegression	MACCS
+solver_penalty: saga:elasticnet | C: 0.04890357 | l1_ratio: 0.02649431	0.53981	4	3	LogisticRegression	MACCS
+solver_penalty: saga:elasticnet | C: 0.06559213 | l1_ratio: 0.4395436	0.54441	5	3	LogisticRegression	MACCS
+solver_penalty: newton-cg:l2 | C: 0.3704149	0.53773	6	3	LogisticRegression	MACCS
+solver_penalty: saga:l1 | C: 0.9680628	0.53848	7	3	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 1.446919	0.53752	8	3	LogisticRegression	MACCS
+solver_penalty: lbfgs:l2 | C: 0.009848442	0.54188	9	3	LogisticRegression	MACCS
+solver_penalty: saga:None | C: 8.937845	0.53478	10	3	LogisticRegression	MACCS
+solver_penalty: lbfgs:l2 | C: 0.01327162	0.54306	11	3	LogisticRegression	MACCS
+solver_penalty: newton-cg:None | C: 0.02471514	0.53564	12	3	LogisticRegression	MACCS
+solver_penalty: sag:None | C: 0.001572912	0.53548	13	3	LogisticRegression	MACCS
+solver_penalty: lbfgs:l2 | C: 0.007315224	0.54086	14	3	LogisticRegression	MACCS
+solver_penalty: newton-cholesky:None | C: 0.04062134	0.53407	15	3	LogisticRegression	MACCS
+solver_penalty: lbfgs:None | C: 0.01176281	0.53351	16	3	LogisticRegression	MACCS
+solver_penalty: lbfgs:l2 | C: 0.003685485	0.53832	17	3	LogisticRegression	MACCS
+solver_penalty: saga:l2 | C: 0.06098866	0.54178	18	3	LogisticRegression	MACCS
+solver_penalty: saga:elasticnet | C: 0.001008518 | l1_ratio: 0.8077591	0.0	19	3	LogisticRegression	MACCS
+solver_penalty: lbfgs:None | C: 0.01675462	0.53519	20	3	LogisticRegression	MACCS
+solver_penalty: lbfgs:l2 | C: 0.008564057	0.5432	21	3	LogisticRegression	MACCS
+solver_penalty: lbfgs:l2 | C: 0.003938033	0.53739	22	3	LogisticRegression	MACCS
+solver_penalty: lbfgs:l2 | C: 0.1172414	0.53987	23	3	LogisticRegression	MACCS
+solver_penalty: saga:l2 | C: 0.005525173	0.53896	24	3	LogisticRegression	MACCS
+solver_penalty: newton-cholesky:l2 | C: 0.02367192	0.54117	25	3	LogisticRegression	MACCS
+solver_penalty: liblinear:l2 | C: 0.07797561	0.53849	26	3	LogisticRegression	MACCS
+solver_penalty: saga:None | C: 0.03481177	0.53477	27	3	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.0148618	0.54856	28	3	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.1416257	0.54989	29	3	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.2228121	0.54659	30	3	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.1481187	0.5468	31	3	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.2875918	0.54047	32	3	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.7426446	0.53716	33	3	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.1447063	0.54892	34	3	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.5326131	0.5405	35	3	LogisticRegression	MACCS
+solver_penalty: sag:l2 | C: 0.1408425	0.53743	36	3	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 2.13543	0.53627	37	3	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.1061365	0.55025	38	3	LogisticRegression	MACCS
+solver_penalty: newton-cg:l2 | C: 0.2465223	0.53568	39	3	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.1097945	0.55049	40	3	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.1026078	0.5478	41	3	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.3466132	0.54093	42	3	LogisticRegression	MACCS
+solver_penalty: saga:l1 | C: 0.0807326	0.55368	43	3	LogisticRegression	MACCS
+solver_penalty: saga:l1 | C: 0.08015139	0.55312	44	3	LogisticRegression	MACCS
+solver_penalty: saga:l1 | C: 0.08147399	0.55121	45	3	LogisticRegression	MACCS
+solver_penalty: saga:l1 | C: 0.06704101	0.55508	46	3	LogisticRegression	MACCS
+solver_penalty: saga:l1 | C: 0.06171769	0.55712	47	3	LogisticRegression	MACCS
+solver_penalty: saga:l1 | C: 0.062529	0.55636	48	3	LogisticRegression	MACCS
+solver_penalty: saga:l1 | C: 0.04683157	0.56492	49	3	LogisticRegression	MACCS
+solver_penalty: saga:l1 | C: 0.02971529	0.56477	50	3	LogisticRegression	MACCS
+solver_penalty: saga:l1 | C: 0.04938593	0.56214	51	3	LogisticRegression	MACCS
+solver_penalty: saga:l1 | C: 0.03237875	0.5646	52	3	LogisticRegression	MACCS
+solver_penalty: saga:l1 | C: 0.02917732	0.56516	53	3	LogisticRegression	MACCS
+solver_penalty: saga:l1 | C: 0.023335	0.56376	54	3	LogisticRegression	MACCS
+solver_penalty: saga:l1 | C: 0.02929218	0.56462	55	3	LogisticRegression	MACCS
+solver_penalty: saga:l1 | C: 0.02825459	0.56544	56	3	LogisticRegression	MACCS
+solver_penalty: sag:None | C: 0.03586096	0.53495	57	3	LogisticRegression	MACCS
+solver_penalty: newton-cg:None | C: 0.02101916	0.535	58	3	LogisticRegression	MACCS
+solver_penalty: saga:l1 | C: 0.03144906	0.56431	59	3	LogisticRegression	MACCS
+solver_penalty: newton-cholesky:None | C: 0.01031997	0.53124	60	3	LogisticRegression	MACCS
+solver_penalty: saga:l1 | C: 0.03200273	0.56356	61	3	LogisticRegression	MACCS
+solver_penalty: saga:l1 | C: 0.01561076	0.55829	62	3	LogisticRegression	MACCS
+solver_penalty: saga:l1 | C: 0.04338367	0.5639	63	3	LogisticRegression	MACCS
+solver_penalty: saga:l2 | C: 0.001005105	0.49914	0	2	LogisticRegression	MACCS
+solver_penalty: saga:l2 | C: 0.02383285	0.52534	1	2	LogisticRegression	MACCS
+solver_penalty: newton-cg:None | C: 4.381652	0.52245	2	2	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.965727	0.52511	3	2	LogisticRegression	MACCS
+solver_penalty: saga:elasticnet | C: 1.785804 | l1_ratio: 0.2736659	0.52374	4	2	LogisticRegression	MACCS
+solver_penalty: lbfgs:None | C: 4.478107	0.5297	5	2	LogisticRegression	MACCS
+solver_penalty: lbfgs:None | C: 0.02121028	0.52298	6	2	LogisticRegression	MACCS
+solver_penalty: newton-cholesky:l2 | C: 0.01154479	0.52484	7	2	LogisticRegression	MACCS
+solver_penalty: saga:elasticnet | C: 0.0217681 | l1_ratio: 0.02904578	0.52424	8	2	LogisticRegression	MACCS
+solver_penalty: saga:l1 | C: 0.5521328	0.52481	9	2	LogisticRegression	MACCS
+solver_penalty: newton-cg:l2 | C: 9.638116	0.52796	10	2	LogisticRegression	MACCS
+solver_penalty: newton-cg:l2 | C: 9.035991	0.52789	11	2	LogisticRegression	MACCS
+solver_penalty: saga:None | C: 0.2659625	0.52552	12	2	LogisticRegression	MACCS
+solver_penalty: sag:l2 | C: 3.195069	0.52846	13	2	LogisticRegression	MACCS
+solver_penalty: sag:l2 | C: 0.1615165	0.5213	14	2	LogisticRegression	MACCS
+solver_penalty: sag:None | C: 2.303113	0.52434	15	2	LogisticRegression	MACCS
+solver_penalty: lbfgs:l2 | C: 0.4192132	0.52328	16	2	LogisticRegression	MACCS
+solver_penalty: liblinear:l2 | C: 0.07540234	0.523	17	2	LogisticRegression	MACCS
+solver_penalty: lbfgs:None | C: 3.205123	0.52881	18	2	LogisticRegression	MACCS
+solver_penalty: lbfgs:None | C: 1.048764	0.52443	19	2	LogisticRegression	MACCS
+solver_penalty: lbfgs:None | C: 0.09297502	0.52271	20	2	LogisticRegression	MACCS
+solver_penalty: sag:l2 | C: 3.220891	0.52829	21	2	LogisticRegression	MACCS
+solver_penalty: newton-cholesky:None | C: 5.563905	0.52618	22	2	LogisticRegression	MACCS
+solver_penalty: lbfgs:None | C: 1.271597	0.52668	23	2	LogisticRegression	MACCS
+solver_penalty: sag:l2 | C: 3.556462	0.52504	24	2	LogisticRegression	MACCS
+solver_penalty: lbfgs:None | C: 0.700748	0.52714	25	2	LogisticRegression	MACCS
+solver_penalty: newton-cg:None | C: 1.729999	0.52645	26	2	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 6.594457	0.52622	27	2	LogisticRegression	MACCS
+solver_penalty: lbfgs:l2 | C: 0.003424751	0.52069	28	2	LogisticRegression	MACCS
+solver_penalty: saga:l1 | C: 0.001026507	0.0	29	2	LogisticRegression	MACCS
+solver_penalty: newton-cholesky:l2 | C: 0.347062	0.52918	30	2	LogisticRegression	MACCS
+solver_penalty: newton-cholesky:l2 | C: 0.2795523	0.52233	31	2	LogisticRegression	MACCS
+solver_penalty: newton-cholesky:l2 | C: 2.66236	0.52614	32	2	LogisticRegression	MACCS
+solver_penalty: liblinear:l2 | C: 4.131332	0.52502	33	2	LogisticRegression	MACCS
+solver_penalty: saga:l2 | C: 0.05929894	0.52834	34	2	LogisticRegression	MACCS
+solver_penalty: sag:None | C: 1.39682	0.5259	35	2	LogisticRegression	MACCS
+solver_penalty: newton-cholesky:None | C: 0.1802103	0.5261	36	2	LogisticRegression	MACCS
+solver_penalty: saga:None | C: 0.04369265	0.5267	37	2	LogisticRegression	MACCS
+solver_penalty: newton-cholesky:l2 | C: 0.7098957	0.52595	38	2	LogisticRegression	MACCS
+solver_penalty: lbfgs:None | C: 5.768563	0.52549	39	2	LogisticRegression	MACCS
+solver_penalty: sag:l2 | C: 2.35433	0.52498	40	2	LogisticRegression	MACCS
+solver_penalty: saga:l2 | C: 0.05500691	0.52499	41	2	LogisticRegression	MACCS
+solver_penalty: saga:elasticnet | C: 0.03471173 | l1_ratio: 0.9838822	0.54558	42	2	LogisticRegression	MACCS
+solver_penalty: saga:elasticnet | C: 0.008828473 | l1_ratio: 0.934051	0.47195	43	2	LogisticRegression	MACCS
+solver_penalty: saga:elasticnet | C: 0.009112814 | l1_ratio: 0.9804557	0.47253	44	2	LogisticRegression	MACCS
+solver_penalty: saga:elasticnet | C: 0.0313298 | l1_ratio: 0.6710889	0.53939	45	2	LogisticRegression	MACCS
+solver_penalty: newton-cg:None | C: 0.03183448	0.52366	46	2	LogisticRegression	MACCS
+solver_penalty: saga:elasticnet | C: 0.01528532 | l1_ratio: 0.6923732	0.53837	47	2	LogisticRegression	MACCS
+solver_penalty: saga:elasticnet | C: 0.01808232 | l1_ratio: 0.6546742	0.54091	48	2	LogisticRegression	MACCS
+solver_penalty: saga:elasticnet | C: 0.01563252 | l1_ratio: 0.652008	0.54024	49	2	LogisticRegression	MACCS
+solver_penalty: saga:elasticnet | C: 0.01598801 | l1_ratio: 0.6707223	0.54005	50	2	LogisticRegression	MACCS
+solver_penalty: saga:elasticnet | C: 0.01405818 | l1_ratio: 0.6224711	0.53727	51	2	LogisticRegression	MACCS
+solver_penalty: saga:elasticnet | C: 0.004963241 | l1_ratio: 0.6566417	0.41794	52	2	LogisticRegression	MACCS
+solver_penalty: saga:elasticnet | C: 0.01941186 | l1_ratio: 0.6867073	0.54292	53	2	LogisticRegression	MACCS
+solver_penalty: saga:elasticnet | C: 0.0283209 | l1_ratio: 0.6744816	0.54243	54	2	LogisticRegression	MACCS
+solver_penalty: saga:elasticnet | C: 0.02030126 | l1_ratio: 0.7691909	0.54276	55	2	LogisticRegression	MACCS
+solver_penalty: saga:elasticnet | C: 0.02543155 | l1_ratio: 0.8270929	0.5429	56	2	LogisticRegression	MACCS
+solver_penalty: saga:elasticnet | C: 0.02583589 | l1_ratio: 0.8175044	0.5429	57	2	LogisticRegression	MACCS
+solver_penalty: saga:elasticnet | C: 0.02804656 | l1_ratio: 0.860415	0.5433	58	2	LogisticRegression	MACCS
+solver_penalty: saga:elasticnet | C: 0.1298444 | l1_ratio: 0.8528964	0.52777	59	2	LogisticRegression	MACCS
+solver_penalty: newton-cg:l2 | C: 0.004339361	0.52276	60	2	LogisticRegression	MACCS
+solver_penalty: saga:elasticnet | C: 0.02710925 | l1_ratio: 0.8058637	0.54326	61	2	LogisticRegression	MACCS
+solver_penalty: saga:elasticnet | C: 0.04316291 | l1_ratio: 0.8423755	0.54036	62	2	LogisticRegression	MACCS
+solver_penalty: saga:elasticnet | C: 0.009086922 | l1_ratio: 0.8264595	0.50322	63	2	LogisticRegression	MACCS
+solver_penalty: newton-cholesky:None | C: 0.003108052	0.53741	0	4	LogisticRegression	MACCS
+solver_penalty: sag:l2 | C: 5.564446	0.53701	1	4	LogisticRegression	MACCS
+solver_penalty: newton-cholesky:l2 | C: 0.164362	0.53894	2	4	LogisticRegression	MACCS
+solver_penalty: saga:l2 | C: 0.00161806	0.51132	3	4	LogisticRegression	MACCS
+solver_penalty: newton-cholesky:None | C: 0.01343399	0.53963	4	4	LogisticRegression	MACCS
+solver_penalty: sag:l2 | C: 0.05039104	0.5355	5	4	LogisticRegression	MACCS
+solver_penalty: lbfgs:l2 | C: 0.3832983	0.53726	6	4	LogisticRegression	MACCS
+solver_penalty: sag:l2 | C: 0.001769045	0.51462	7	4	LogisticRegression	MACCS
+solver_penalty: saga:None | C: 0.3937944	0.53787	8	4	LogisticRegression	MACCS
+solver_penalty: newton-cholesky:None | C: 0.001213311	0.53736	9	4	LogisticRegression	MACCS
+solver_penalty: sag:None | C: 0.0174592	0.5386	10	4	LogisticRegression	MACCS
+solver_penalty: newton-cholesky:l2 | C: 0.01525557	0.53842	11	4	LogisticRegression	MACCS
+solver_penalty: lbfgs:None | C: 0.2020056	0.53896	12	4	LogisticRegression	MACCS
+solver_penalty: lbfgs:None | C: 2.231502	0.53764	13	4	LogisticRegression	MACCS
+solver_penalty: newton-cg:None | C: 0.02429001	0.53908	14	4	LogisticRegression	MACCS
+solver_penalty: newton-cg:None | C: 0.009680106	0.53866	15	4	LogisticRegression	MACCS
+solver_penalty: saga:l1 | C: 0.03586405	0.54787	16	4	LogisticRegression	MACCS
+solver_penalty: saga:l1 | C: 0.005681263	0.25933	17	4	LogisticRegression	MACCS
+solver_penalty: liblinear:l2 | C: 0.06525826	0.53421	18	4	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.03880231	0.54943	19	4	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 1.219281	0.53917	20	4	LogisticRegression	MACCS
+solver_penalty: saga:l1 | C: 0.04136661	0.54766	21	4	LogisticRegression	MACCS
+solver_penalty: saga:l1 | C: 0.04748305	0.54751	22	4	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.1136078	0.54024	23	4	LogisticRegression	MACCS
+solver_penalty: saga:l1 | C: 0.03261621	0.54885	24	4	LogisticRegression	MACCS
+solver_penalty: saga:elasticnet | C: 0.005908369 | l1_ratio: 0.5043405	0.50618	25	4	LogisticRegression	MACCS
+solver_penalty: newton-cg:l2 | C: 0.03348433	0.53442	26	4	LogisticRegression	MACCS
+solver_penalty: saga:l1 | C: 0.09110775	0.53875	27	4	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.3156415	0.53906	28	4	LogisticRegression	MACCS
+solver_penalty: saga:l1 | C: 0.006062948	0.36625	29	4	LogisticRegression	MACCS
+solver_penalty: liblinear:l2 | C: 0.003058944	0.53094	30	4	LogisticRegression	MACCS
+solver_penalty: saga:l1 | C: 0.02629051	0.54905	31	4	LogisticRegression	MACCS
+solver_penalty: saga:l1 | C: 0.02613521	0.54657	32	4	LogisticRegression	MACCS
+solver_penalty: saga:l1 | C: 0.08279724	0.54071	33	4	LogisticRegression	MACCS
+solver_penalty: saga:l2 | C: 0.1852353	0.53702	34	4	LogisticRegression	MACCS
+solver_penalty: saga:elasticnet | C: 0.008712086 | l1_ratio: 0.007876274	0.53774	35	4	LogisticRegression	MACCS
+solver_penalty: sag:None | C: 0.02198889	0.53984	36	4	LogisticRegression	MACCS
+solver_penalty: saga:None | C: 0.003222235	0.53767	37	4	LogisticRegression	MACCS
+solver_penalty: lbfgs:l2 | C: 9.691475	0.5372	38	4	LogisticRegression	MACCS
+solver_penalty: newton-cg:l2 | C: 0.1281263	0.53936	39	4	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.009877975	0.54053	40	4	LogisticRegression	MACCS
+solver_penalty: saga:l1 | C: 0.05080015	0.54657	41	4	LogisticRegression	MACCS
+solver_penalty: saga:l1 | C: 0.02857754	0.54783	42	4	LogisticRegression	MACCS
+solver_penalty: saga:l1 | C: 0.02950926	0.54765	43	4	LogisticRegression	MACCS
+solver_penalty: newton-cholesky:l2 | C: 0.06774771	0.5379	44	4	LogisticRegression	MACCS
+solver_penalty: sag:l2 | C: 0.0123405	0.53629	45	4	LogisticRegression	MACCS
+solver_penalty: newton-cholesky:None | C: 0.01725893	0.53674	46	4	LogisticRegression	MACCS
+solver_penalty: saga:l2 | C: 0.03594256	0.53666	47	4	LogisticRegression	MACCS
+solver_penalty: saga:l1 | C: 0.2451804	0.53943	48	4	LogisticRegression	MACCS
+solver_penalty: lbfgs:None | C: 0.01892882	0.53846	49	4	LogisticRegression	MACCS
+solver_penalty: lbfgs:l2 | C: 0.5130056	0.53825	50	4	LogisticRegression	MACCS
+solver_penalty: saga:l1 | C: 0.04274666	0.54629	51	4	LogisticRegression	MACCS
+solver_penalty: saga:l1 | C: 0.05565814	0.54515	52	4	LogisticRegression	MACCS
+solver_penalty: saga:l1 | C: 0.03713804	0.54903	53	4	LogisticRegression	MACCS
+solver_penalty: newton-cg:None | C: 0.1359324	0.54045	54	4	LogisticRegression	MACCS
+solver_penalty: saga:l1 | C: 0.01290809	0.53487	55	4	LogisticRegression	MACCS
+solver_penalty: sag:None | C: 0.07754233	0.53823	56	4	LogisticRegression	MACCS
+solver_penalty: saga:None | C: 0.0269657	0.53954	57	4	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.02056064	0.55218	58	4	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.008286073	0.48917	59	4	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.05763711	0.54414	60	4	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.03662749	0.55038	61	4	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.02034924	0.5509	62	4	LogisticRegression	MACCS
+solver_penalty: liblinear:l1 | C: 0.01818629	0.54962	63	4	LogisticRegression	MACCS
