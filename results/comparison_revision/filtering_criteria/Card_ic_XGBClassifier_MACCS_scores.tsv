@@ -1,0 +1,196 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Mono	IC	Card	0	XGBClassifier	MACCS	Balanced Accuracy	0.51398
+Mono	IC	Card	1	XGBClassifier	MACCS	Balanced Accuracy	0.51409
+Mono	IC	Card	3	XGBClassifier	MACCS	Balanced Accuracy	0.5092
+Mono	IC	Card	4	XGBClassifier	MACCS	Balanced Accuracy	0.5028
+Mono	IC	Card	2	XGBClassifier	MACCS	Balanced Accuracy	0.56231
+Primary	IC	Card	0	XGBClassifier	MACCS	Balanced Accuracy	0.50104
+Primary	IC	Card	1	XGBClassifier	MACCS	Balanced Accuracy	0.55686
+Primary	IC	Card	3	XGBClassifier	MACCS	Balanced Accuracy	0.5042
+Primary	IC	Card	4	XGBClassifier	MACCS	Balanced Accuracy	0.51545
+Primary	IC	Card	2	XGBClassifier	MACCS	Balanced Accuracy	0.56731
+Secondary	IC	Card	0	XGBClassifier	MACCS	Balanced Accuracy	0.51063
+Secondary	IC	Card	1	XGBClassifier	MACCS	Balanced Accuracy	0.55106
+Secondary	IC	Card	3	XGBClassifier	MACCS	Balanced Accuracy	0.47766
+Secondary	IC	Card	4	XGBClassifier	MACCS	Balanced Accuracy	0.55438
+Secondary	IC	Card	2	XGBClassifier	MACCS	Balanced Accuracy	0.56406
+Mono	IC	Card	0	XGBClassifier	MACCS	GeomRS	0.48141
+Mono	IC	Card	1	XGBClassifier	MACCS	GeomRS	0.48573
+Mono	IC	Card	3	XGBClassifier	MACCS	GeomRS	0.49904
+Mono	IC	Card	4	XGBClassifier	MACCS	GeomRS	0.46659
+Mono	IC	Card	2	XGBClassifier	MACCS	GeomRS	0.53614
+Primary	IC	Card	0	XGBClassifier	MACCS	GeomRS	0.45894
+Primary	IC	Card	1	XGBClassifier	MACCS	GeomRS	0.51581
+Primary	IC	Card	3	XGBClassifier	MACCS	GeomRS	0.46261
+Primary	IC	Card	4	XGBClassifier	MACCS	GeomRS	0.48159
+Primary	IC	Card	2	XGBClassifier	MACCS	GeomRS	0.55156
+Secondary	IC	Card	0	XGBClassifier	MACCS	GeomRS	0.40933
+Secondary	IC	Card	1	XGBClassifier	MACCS	GeomRS	0.45915
+Secondary	IC	Card	3	XGBClassifier	MACCS	GeomRS	0.35491
+Secondary	IC	Card	4	XGBClassifier	MACCS	GeomRS	0.5105
+Secondary	IC	Card	2	XGBClassifier	MACCS	GeomRS	0.48809
+Mono	IC	Card	0	XGBClassifier	MACCS	HarmRS	0.45091
+Mono	IC	Card	1	XGBClassifier	MACCS	HarmRS	0.45893
+Mono	IC	Card	3	XGBClassifier	MACCS	HarmRS	0.48908
+Mono	IC	Card	4	XGBClassifier	MACCS	HarmRS	0.43299
+Mono	IC	Card	2	XGBClassifier	MACCS	HarmRS	0.51119
+Primary	IC	Card	0	XGBClassifier	MACCS	HarmRS	0.42037
+Primary	IC	Card	1	XGBClassifier	MACCS	HarmRS	0.47779
+Primary	IC	Card	3	XGBClassifier	MACCS	HarmRS	0.42445
+Primary	IC	Card	4	XGBClassifier	MACCS	HarmRS	0.44995
+Primary	IC	Card	2	XGBClassifier	MACCS	HarmRS	0.53624
+Secondary	IC	Card	0	XGBClassifier	MACCS	HarmRS	0.32813
+Secondary	IC	Card	1	XGBClassifier	MACCS	HarmRS	0.38258
+Secondary	IC	Card	3	XGBClassifier	MACCS	HarmRS	0.2637
+Secondary	IC	Card	4	XGBClassifier	MACCS	HarmRS	0.47009
+Secondary	IC	Card	2	XGBClassifier	MACCS	HarmRS	0.42235
+Mono	IC	Card	0	XGBClassifier	MACCS	F1 Score	0.69067
+Mono	IC	Card	1	XGBClassifier	MACCS	F1 Score	0.63172
+Mono	IC	Card	3	XGBClassifier	MACCS	F1 Score	0.63266
+Mono	IC	Card	4	XGBClassifier	MACCS	F1 Score	0.66667
+Mono	IC	Card	2	XGBClassifier	MACCS	F1 Score	0.70129
+Primary	IC	Card	0	XGBClassifier	MACCS	F1 Score	0.69039
+Primary	IC	Card	1	XGBClassifier	MACCS	F1 Score	0.68335
+Primary	IC	Card	3	XGBClassifier	MACCS	F1 Score	0.67753
+Primary	IC	Card	4	XGBClassifier	MACCS	F1 Score	0.67539
+Primary	IC	Card	2	XGBClassifier	MACCS	F1 Score	0.68941
+Secondary	IC	Card	0	XGBClassifier	MACCS	F1 Score	0.74426
+Secondary	IC	Card	1	XGBClassifier	MACCS	F1 Score	0.71118
+Secondary	IC	Card	3	XGBClassifier	MACCS	F1 Score	0.7083
+Secondary	IC	Card	4	XGBClassifier	MACCS	F1 Score	0.72074
+Secondary	IC	Card	2	XGBClassifier	MACCS	F1 Score	0.74694
+Mono	IC	Card	0	XGBClassifier	MACCS	ROC AUC	0.52906
+Mono	IC	Card	1	XGBClassifier	MACCS	ROC AUC	0.57443
+Mono	IC	Card	3	XGBClassifier	MACCS	ROC AUC	0.52577
+Mono	IC	Card	4	XGBClassifier	MACCS	ROC AUC	0.51955
+Mono	IC	Card	2	XGBClassifier	MACCS	ROC AUC	0.60317
+Primary	IC	Card	0	XGBClassifier	MACCS	ROC AUC	0.5245
+Primary	IC	Card	1	XGBClassifier	MACCS	ROC AUC	0.62138
+Primary	IC	Card	3	XGBClassifier	MACCS	ROC AUC	0.54348
+Primary	IC	Card	4	XGBClassifier	MACCS	ROC AUC	0.54985
+Primary	IC	Card	2	XGBClassifier	MACCS	ROC AUC	0.6242
+Secondary	IC	Card	0	XGBClassifier	MACCS	ROC AUC	0.54355
+Secondary	IC	Card	1	XGBClassifier	MACCS	ROC AUC	0.64898
+Secondary	IC	Card	3	XGBClassifier	MACCS	ROC AUC	0.50635
+Secondary	IC	Card	4	XGBClassifier	MACCS	ROC AUC	0.58773
+Secondary	IC	Card	2	XGBClassifier	MACCS	ROC AUC	0.62882
+Mono	IC	Card	0	XGBClassifier	MACCS	MCC	0.02812
+Mono	IC	Card	1	XGBClassifier	MACCS	MCC	0.02961
+Mono	IC	Card	3	XGBClassifier	MACCS	MCC	0.01795
+Mono	IC	Card	4	XGBClassifier	MACCS	MCC	0.00579
+Mono	IC	Card	2	XGBClassifier	MACCS	MCC	0.12956
+Primary	IC	Card	0	XGBClassifier	MACCS	MCC	0.00212
+Primary	IC	Card	1	XGBClassifier	MACCS	MCC	0.12492
+Primary	IC	Card	3	XGBClassifier	MACCS	MCC	0.00876
+Primary	IC	Card	4	XGBClassifier	MACCS	MCC	0.03196
+Primary	IC	Card	2	XGBClassifier	MACCS	MCC	0.13624
+Secondary	IC	Card	0	XGBClassifier	MACCS	MCC	0.02528
+Secondary	IC	Card	1	XGBClassifier	MACCS	MCC	0.12926
+Secondary	IC	Card	3	XGBClassifier	MACCS	MCC	-0.05466
+Secondary	IC	Card	4	XGBClassifier	MACCS	MCC	0.11762
+Secondary	IC	Card	2	XGBClassifier	MACCS	MCC	0.15442
+Mono	IC	Card	0	XGBClassifier	MACCS	Accuracy	0.57824
+Mono	IC	Card	1	XGBClassifier	MACCS	Accuracy	0.54027
+Mono	IC	Card	3	XGBClassifier	MACCS	Accuracy	0.53949
+Mono	IC	Card	4	XGBClassifier	MACCS	Accuracy	0.55633
+Mono	IC	Card	2	XGBClassifier	MACCS	Accuracy	0.60668
+Primary	IC	Card	0	XGBClassifier	MACCS	Accuracy	0.57278
+Primary	IC	Card	1	XGBClassifier	MACCS	Accuracy	0.58949
+Primary	IC	Card	3	XGBClassifier	MACCS	Accuracy	0.56421
+Primary	IC	Card	4	XGBClassifier	MACCS	Accuracy	0.56794
+Primary	IC	Card	2	XGBClassifier	MACCS	Accuracy	0.60206
+Secondary	IC	Card	0	XGBClassifier	MACCS	Accuracy	0.61958
+Secondary	IC	Card	1	XGBClassifier	MACCS	Accuracy	0.59843
+Secondary	IC	Card	3	XGBClassifier	MACCS	Accuracy	0.57335
+Secondary	IC	Card	4	XGBClassifier	MACCS	Accuracy	0.61614
+Secondary	IC	Card	2	XGBClassifier	MACCS	Accuracy	0.63805
+Mono	IC	Card	0	XGBClassifier	MACCS	Recall	0.69403
+Mono	IC	Card	1	XGBClassifier	MACCS	Recall	0.68248
+Mono	IC	Card	3	XGBClassifier	MACCS	Recall	0.61042
+Mono	IC	Card	4	XGBClassifier	MACCS	Recall	0.69015
+Mono	IC	Card	2	XGBClassifier	MACCS	Recall	0.73187
+Primary	IC	Card	0	XGBClassifier	MACCS	Recall	0.70207
+Primary	IC	Card	1	XGBClassifier	MACCS	Recall	0.7667
+Primary	IC	Card	3	XGBClassifier	MACCS	Recall	0.70471
+Primary	IC	Card	4	XGBClassifier	MACCS	Recall	0.69919
+Primary	IC	Card	2	XGBClassifier	MACCS	Recall	0.70008
+Secondary	IC	Card	0	XGBClassifier	MACCS	Recall	0.81591
+Secondary	IC	Card	1	XGBClassifier	MACCS	Recall	0.85576
+Secondary	IC	Card	3	XGBClassifier	MACCS	Recall	0.79735
+Secondary	IC	Card	4	XGBClassifier	MACCS	Recall	0.77055
+Secondary	IC	Card	2	XGBClassifier	MACCS	Recall	0.84678
+Mono	IC	Card	0	XGBClassifier	MACCS	Specificity	0.33393
+Mono	IC	Card	1	XGBClassifier	MACCS	Specificity	0.3457
+Mono	IC	Card	3	XGBClassifier	MACCS	Specificity	0.40798
+Mono	IC	Card	4	XGBClassifier	MACCS	Specificity	0.31545
+Mono	IC	Card	2	XGBClassifier	MACCS	Specificity	0.39276
+Primary	IC	Card	0	XGBClassifier	MACCS	Specificity	0.3
+Primary	IC	Card	1	XGBClassifier	MACCS	Specificity	0.34702
+Primary	IC	Card	3	XGBClassifier	MACCS	Specificity	0.30368
+Primary	IC	Card	4	XGBClassifier	MACCS	Specificity	0.33171
+Primary	IC	Card	2	XGBClassifier	MACCS	Specificity	0.43454
+Secondary	IC	Card	0	XGBClassifier	MACCS	Specificity	0.20536
+Secondary	IC	Card	1	XGBClassifier	MACCS	Specificity	0.24636
+Secondary	IC	Card	3	XGBClassifier	MACCS	Specificity	0.15798
+Secondary	IC	Card	4	XGBClassifier	MACCS	Specificity	0.33821
+Secondary	IC	Card	2	XGBClassifier	MACCS	Specificity	0.28134
+Mono	IC	Card	0	XGBClassifier	MACCS	Precision	0.68734
+Mono	IC	Card	1	XGBClassifier	MACCS	Precision	0.58799
+Mono	IC	Card	3	XGBClassifier	MACCS	Precision	0.65658
+Mono	IC	Card	4	XGBClassifier	MACCS	Precision	0.64473
+Mono	IC	Card	2	XGBClassifier	MACCS	Precision	0.67316
+Primary	IC	Card	0	XGBClassifier	MACCS	Precision	0.67908
+Primary	IC	Card	1	XGBClassifier	MACCS	Precision	0.61634
+Primary	IC	Card	3	XGBClassifier	MACCS	Precision	0.65237
+Primary	IC	Card	4	XGBClassifier	MACCS	Precision	0.65316
+Primary	IC	Card	2	XGBClassifier	MACCS	Precision	0.67905
+Secondary	IC	Card	0	XGBClassifier	MACCS	Precision	0.68417
+Secondary	IC	Card	1	XGBClassifier	MACCS	Precision	0.6084
+Secondary	IC	Card	3	XGBClassifier	MACCS	Precision	0.63714
+Secondary	IC	Card	4	XGBClassifier	MACCS	Precision	0.67698
+Secondary	IC	Card	2	XGBClassifier	MACCS	Precision	0.66817
+Mono	IC	Card	0	XGBClassifier	MACCS	PRC AUC	0.70176
+Mono	IC	Card	1	XGBClassifier	MACCS	PRC AUC	0.67433
+Mono	IC	Card	3	XGBClassifier	MACCS	PRC AUC	0.69557
+Mono	IC	Card	4	XGBClassifier	MACCS	PRC AUC	0.6745
+Mono	IC	Card	2	XGBClassifier	MACCS	PRC AUC	0.7268
+Primary	IC	Card	0	XGBClassifier	MACCS	PRC AUC	0.70993
+Primary	IC	Card	1	XGBClassifier	MACCS	PRC AUC	0.69997
+Primary	IC	Card	3	XGBClassifier	MACCS	PRC AUC	0.70477
+Primary	IC	Card	4	XGBClassifier	MACCS	PRC AUC	0.70488
+Primary	IC	Card	2	XGBClassifier	MACCS	PRC AUC	0.73789
+Secondary	IC	Card	0	XGBClassifier	MACCS	PRC AUC	0.71493
+Secondary	IC	Card	1	XGBClassifier	MACCS	PRC AUC	0.71382
+Secondary	IC	Card	3	XGBClassifier	MACCS	PRC AUC	0.67581
+Secondary	IC	Card	4	XGBClassifier	MACCS	PRC AUC	0.70959
+Secondary	IC	Card	2	XGBClassifier	MACCS	PRC AUC	0.73253
+Mono	IC	Card	0	XGBClassifier	MACCS	Brier	0.25342
+Mono	IC	Card	1	XGBClassifier	MACCS	Brier	0.25372
+Mono	IC	Card	3	XGBClassifier	MACCS	Brier	0.25788
+Mono	IC	Card	4	XGBClassifier	MACCS	Brier	0.26755
+Mono	IC	Card	2	XGBClassifier	MACCS	Brier	0.241
+Primary	IC	Card	0	XGBClassifier	MACCS	Brier	0.25278
+Primary	IC	Card	1	XGBClassifier	MACCS	Brier	0.24467
+Primary	IC	Card	3	XGBClassifier	MACCS	Brier	0.2607
+Primary	IC	Card	4	XGBClassifier	MACCS	Brier	0.2719
+Primary	IC	Card	2	XGBClassifier	MACCS	Brier	0.24078
+Secondary	IC	Card	0	XGBClassifier	MACCS	Brier	0.23963
+Secondary	IC	Card	1	XGBClassifier	MACCS	Brier	0.23873
+Secondary	IC	Card	3	XGBClassifier	MACCS	Brier	0.26856
+Secondary	IC	Card	4	XGBClassifier	MACCS	Brier	0.25703
+Secondary	IC	Card	2	XGBClassifier	MACCS	Brier	0.23175
+Mono	IC	Card	0	XGBClassifier	MACCS	ECE	0.14683
+Mono	IC	Card	1	XGBClassifier	MACCS	ECE	0.1321
+Mono	IC	Card	3	XGBClassifier	MACCS	ECE	0.13392
+Mono	IC	Card	4	XGBClassifier	MACCS	ECE	0.18744
+Mono	IC	Card	2	XGBClassifier	MACCS	ECE	0.11824
+Primary	IC	Card	0	XGBClassifier	MACCS	ECE	0.1572
+Primary	IC	Card	1	XGBClassifier	MACCS	ECE	0.10339
+Primary	IC	Card	3	XGBClassifier	MACCS	ECE	0.12586
+Primary	IC	Card	4	XGBClassifier	MACCS	ECE	0.19062
+Primary	IC	Card	2	XGBClassifier	MACCS	ECE	0.1143
+Secondary	IC	Card	0	XGBClassifier	MACCS	ECE	0.13194
+Secondary	IC	Card	1	XGBClassifier	MACCS	ECE	0.11303
+Secondary	IC	Card	3	XGBClassifier	MACCS	ECE	0.15572
+Secondary	IC	Card	4	XGBClassifier	MACCS	ECE	0.15235
+Secondary	IC	Card	2	XGBClassifier	MACCS	ECE	0.09257

@@ -1,0 +1,196 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Mono	PRR	Card	0	LogisticRegression	Klek	Balanced Accuracy	0.54753
+Mono	PRR	Card	1	LogisticRegression	Klek	Balanced Accuracy	0.54956
+Mono	PRR	Card	3	LogisticRegression	Klek	Balanced Accuracy	0.52525
+Mono	PRR	Card	2	LogisticRegression	Klek	Balanced Accuracy	0.59118
+Mono	PRR	Card	4	LogisticRegression	Klek	Balanced Accuracy	0.52213
+Primary	PRR	Card	0	LogisticRegression	Klek	Balanced Accuracy	0.52761
+Primary	PRR	Card	1	LogisticRegression	Klek	Balanced Accuracy	0.6146
+Primary	PRR	Card	3	LogisticRegression	Klek	Balanced Accuracy	0.52426
+Primary	PRR	Card	2	LogisticRegression	Klek	Balanced Accuracy	0.57157
+Primary	PRR	Card	4	LogisticRegression	Klek	Balanced Accuracy	0.50208
+Secondary	PRR	Card	0	LogisticRegression	Klek	Balanced Accuracy	0.51856
+Secondary	PRR	Card	1	LogisticRegression	Klek	Balanced Accuracy	0.61923
+Secondary	PRR	Card	3	LogisticRegression	Klek	Balanced Accuracy	0.51936
+Secondary	PRR	Card	2	LogisticRegression	Klek	Balanced Accuracy	0.59621
+Secondary	PRR	Card	4	LogisticRegression	Klek	Balanced Accuracy	0.54715
+Mono	PRR	Card	0	LogisticRegression	Klek	GeomRS	0.51948
+Mono	PRR	Card	1	LogisticRegression	Klek	GeomRS	0.54686
+Mono	PRR	Card	3	LogisticRegression	Klek	GeomRS	0.49608
+Mono	PRR	Card	2	LogisticRegression	Klek	GeomRS	0.59055
+Mono	PRR	Card	4	LogisticRegression	Klek	GeomRS	0.51723
+Primary	PRR	Card	0	LogisticRegression	Klek	GeomRS	0.52298
+Primary	PRR	Card	1	LogisticRegression	Klek	GeomRS	0.61243
+Primary	PRR	Card	3	LogisticRegression	Klek	GeomRS	0.51142
+Primary	PRR	Card	2	LogisticRegression	Klek	GeomRS	0.56649
+Primary	PRR	Card	4	LogisticRegression	Klek	GeomRS	0.50207
+Secondary	PRR	Card	0	LogisticRegression	Klek	GeomRS	0.51849
+Secondary	PRR	Card	1	LogisticRegression	Klek	GeomRS	0.6188
+Secondary	PRR	Card	3	LogisticRegression	Klek	GeomRS	0.51152
+Secondary	PRR	Card	2	LogisticRegression	Klek	GeomRS	0.59535
+Secondary	PRR	Card	4	LogisticRegression	Klek	GeomRS	0.53206
+Mono	PRR	Card	0	LogisticRegression	Klek	HarmRS	0.49286
+Mono	PRR	Card	1	LogisticRegression	Klek	HarmRS	0.54418
+Mono	PRR	Card	3	LogisticRegression	Klek	HarmRS	0.46853
+Mono	PRR	Card	2	LogisticRegression	Klek	HarmRS	0.58993
+Mono	PRR	Card	4	LogisticRegression	Klek	HarmRS	0.51238
+Primary	PRR	Card	0	LogisticRegression	Klek	HarmRS	0.5184
+Primary	PRR	Card	1	LogisticRegression	Klek	HarmRS	0.61027
+Primary	PRR	Card	3	LogisticRegression	Klek	HarmRS	0.49889
+Primary	PRR	Card	2	LogisticRegression	Klek	HarmRS	0.56145
+Primary	PRR	Card	4	LogisticRegression	Klek	HarmRS	0.50206
+Secondary	PRR	Card	0	LogisticRegression	Klek	HarmRS	0.51841
+Secondary	PRR	Card	1	LogisticRegression	Klek	HarmRS	0.61836
+Secondary	PRR	Card	3	LogisticRegression	Klek	HarmRS	0.50379
+Secondary	PRR	Card	2	LogisticRegression	Klek	HarmRS	0.59448
+Secondary	PRR	Card	4	LogisticRegression	Klek	HarmRS	0.51738
+Mono	PRR	Card	0	LogisticRegression	Klek	F1 Score	0.49705
+Mono	PRR	Card	1	LogisticRegression	Klek	F1 Score	0.55483
+Mono	PRR	Card	3	LogisticRegression	Klek	F1 Score	0.46532
+Mono	PRR	Card	2	LogisticRegression	Klek	F1 Score	0.6311
+Mono	PRR	Card	4	LogisticRegression	Klek	F1 Score	0.53772
+Primary	PRR	Card	0	LogisticRegression	Klek	F1 Score	0.55544
+Primary	PRR	Card	1	LogisticRegression	Klek	F1 Score	0.62306
+Primary	PRR	Card	3	LogisticRegression	Klek	F1 Score	0.51007
+Primary	PRR	Card	2	LogisticRegression	Klek	F1 Score	0.58238
+Primary	PRR	Card	4	LogisticRegression	Klek	F1 Score	0.56636
+Secondary	PRR	Card	0	LogisticRegression	Klek	F1 Score	0.59933
+Secondary	PRR	Card	1	LogisticRegression	Klek	F1 Score	0.663
+Secondary	PRR	Card	3	LogisticRegression	Klek	F1 Score	0.63558
+Secondary	PRR	Card	2	LogisticRegression	Klek	F1 Score	0.66724
+Secondary	PRR	Card	4	LogisticRegression	Klek	F1 Score	0.67571
+Mono	PRR	Card	0	LogisticRegression	Klek	ROC AUC	0.57221
+Mono	PRR	Card	1	LogisticRegression	Klek	ROC AUC	0.59007
+Mono	PRR	Card	3	LogisticRegression	Klek	ROC AUC	0.48961
+Mono	PRR	Card	2	LogisticRegression	Klek	ROC AUC	0.60743
+Mono	PRR	Card	4	LogisticRegression	Klek	ROC AUC	0.5104
+Primary	PRR	Card	0	LogisticRegression	Klek	ROC AUC	0.5472
+Primary	PRR	Card	1	LogisticRegression	Klek	ROC AUC	0.65828
+Primary	PRR	Card	3	LogisticRegression	Klek	ROC AUC	0.52365
+Primary	PRR	Card	2	LogisticRegression	Klek	ROC AUC	0.58974
+Primary	PRR	Card	4	LogisticRegression	Klek	ROC AUC	0.51165
+Secondary	PRR	Card	0	LogisticRegression	Klek	ROC AUC	0.54183
+Secondary	PRR	Card	1	LogisticRegression	Klek	ROC AUC	0.65402
+Secondary	PRR	Card	3	LogisticRegression	Klek	ROC AUC	0.52215
+Secondary	PRR	Card	2	LogisticRegression	Klek	ROC AUC	0.6212
+Secondary	PRR	Card	4	LogisticRegression	Klek	ROC AUC	0.57984
+Mono	PRR	Card	0	LogisticRegression	Klek	MCC	0.09347
+Mono	PRR	Card	1	LogisticRegression	Klek	MCC	0.09836
+Mono	PRR	Card	3	LogisticRegression	Klek	MCC	0.05105
+Mono	PRR	Card	2	LogisticRegression	Klek	MCC	0.17601
+Mono	PRR	Card	4	LogisticRegression	Klek	MCC	0.04278
+Primary	PRR	Card	0	LogisticRegression	Klek	MCC	0.05195
+Primary	PRR	Card	1	LogisticRegression	Klek	MCC	0.22696
+Primary	PRR	Card	3	LogisticRegression	Klek	MCC	0.04741
+Primary	PRR	Card	2	LogisticRegression	Klek	MCC	0.13908
+Primary	PRR	Card	4	LogisticRegression	Klek	MCC	0.00398
+Secondary	PRR	Card	0	LogisticRegression	Klek	MCC	0.03469
+Secondary	PRR	Card	1	LogisticRegression	Klek	MCC	0.23641
+Secondary	PRR	Card	3	LogisticRegression	Klek	MCC	0.03764
+Secondary	PRR	Card	2	LogisticRegression	Klek	MCC	0.18696
+Secondary	PRR	Card	4	LogisticRegression	Klek	MCC	0.09421
+Mono	PRR	Card	0	LogisticRegression	Klek	Accuracy	0.48579
+Mono	PRR	Card	1	LogisticRegression	Klek	Accuracy	0.54113
+Mono	PRR	Card	3	LogisticRegression	Klek	Accuracy	0.47366
+Mono	PRR	Card	2	LogisticRegression	Klek	Accuracy	0.58406
+Mono	PRR	Card	4	LogisticRegression	Klek	Accuracy	0.50174
+Primary	PRR	Card	0	LogisticRegression	Klek	Accuracy	0.50273
+Primary	PRR	Card	1	LogisticRegression	Klek	Accuracy	0.6066
+Primary	PRR	Card	3	LogisticRegression	Klek	Accuracy	0.48978
+Primary	PRR	Card	2	LogisticRegression	Klek	Accuracy	0.55167
+Primary	PRR	Card	4	LogisticRegression	Klek	Accuracy	0.5029
+Secondary	PRR	Card	0	LogisticRegression	Klek	Accuracy	0.52168
+Secondary	PRR	Card	1	LogisticRegression	Klek	Accuracy	0.62283
+Secondary	PRR	Card	3	LogisticRegression	Klek	Accuracy	0.54624
+Secondary	PRR	Card	2	LogisticRegression	Klek	Accuracy	0.60463
+Secondary	PRR	Card	4	LogisticRegression	Klek	Accuracy	0.58362
+Mono	PRR	Card	0	LogisticRegression	Klek	Recall	0.37452
+Mono	PRR	Card	1	LogisticRegression	Klek	Recall	0.49516
+Mono	PRR	Card	3	LogisticRegression	Klek	Recall	0.35265
+Mono	PRR	Card	2	LogisticRegression	Klek	Recall	0.56398
+Mono	PRR	Card	4	LogisticRegression	Klek	Recall	0.45077
+Primary	PRR	Card	0	LogisticRegression	Klek	Recall	0.45789
+Primary	PRR	Card	1	LogisticRegression	Klek	Recall	0.56298
+Primary	PRR	Card	3	LogisticRegression	Klek	Recall	0.40894
+Primary	PRR	Card	2	LogisticRegression	Klek	Recall	0.49552
+Primary	PRR	Card	4	LogisticRegression	Klek	Recall	0.50497
+Secondary	PRR	Card	0	LogisticRegression	Klek	Recall	0.5273
+Secondary	PRR	Card	1	LogisticRegression	Klek	Recall	0.64244
+Secondary	PRR	Card	3	LogisticRegression	Klek	Recall	0.60927
+Secondary	PRR	Card	2	LogisticRegression	Klek	Recall	0.62836
+Secondary	PRR	Card	4	LogisticRegression	Klek	Recall	0.6748
+Mono	PRR	Card	0	LogisticRegression	Klek	Specificity	0.72054
+Mono	PRR	Card	1	LogisticRegression	Klek	Specificity	0.60397
+Mono	PRR	Card	3	LogisticRegression	Klek	Specificity	0.69785
+Mono	PRR	Card	2	LogisticRegression	Klek	Specificity	0.61838
+Mono	PRR	Card	4	LogisticRegression	Klek	Specificity	0.5935
+Primary	PRR	Card	0	LogisticRegression	Klek	Specificity	0.59732
+Primary	PRR	Card	1	LogisticRegression	Klek	Specificity	0.66623
+Primary	PRR	Card	3	LogisticRegression	Klek	Specificity	0.63957
+Primary	PRR	Card	2	LogisticRegression	Klek	Specificity	0.64763
+Primary	PRR	Card	4	LogisticRegression	Klek	Specificity	0.49919
+Secondary	PRR	Card	0	LogisticRegression	Klek	Specificity	0.50982
+Secondary	PRR	Card	1	LogisticRegression	Klek	Specificity	0.59603
+Secondary	PRR	Card	3	LogisticRegression	Klek	Specificity	0.42945
+Secondary	PRR	Card	2	LogisticRegression	Klek	Specificity	0.56407
+Secondary	PRR	Card	4	LogisticRegression	Klek	Specificity	0.41951
+Mono	PRR	Card	0	LogisticRegression	Klek	Precision	0.73873
+Mono	PRR	Card	1	LogisticRegression	Klek	Precision	0.63086
+Mono	PRR	Card	3	LogisticRegression	Klek	Precision	0.68379
+Mono	PRR	Card	2	LogisticRegression	Klek	Precision	0.71636
+Mono	PRR	Card	4	LogisticRegression	Klek	Precision	0.66622
+Primary	PRR	Card	0	LogisticRegression	Klek	Precision	0.70581
+Primary	PRR	Card	1	LogisticRegression	Klek	Precision	0.69748
+Primary	PRR	Card	3	LogisticRegression	Klek	Precision	0.67764
+Primary	PRR	Card	2	LogisticRegression	Klek	Precision	0.70616
+Primary	PRR	Card	4	LogisticRegression	Klek	Precision	0.64475
+Secondary	PRR	Card	0	LogisticRegression	Klek	Precision	0.69415
+Secondary	PRR	Card	1	LogisticRegression	Klek	Precision	0.68492
+Secondary	PRR	Card	3	LogisticRegression	Klek	Precision	0.66426
+Secondary	PRR	Card	2	LogisticRegression	Klek	Precision	0.71125
+Secondary	PRR	Card	4	LogisticRegression	Klek	Precision	0.67663
+Mono	PRR	Card	0	LogisticRegression	Klek	PRC AUC	0.72404
+Mono	PRR	Card	1	LogisticRegression	Klek	PRC AUC	0.68251
+Mono	PRR	Card	3	LogisticRegression	Klek	PRC AUC	0.65407
+Mono	PRR	Card	2	LogisticRegression	Klek	PRC AUC	0.72023
+Mono	PRR	Card	4	LogisticRegression	Klek	PRC AUC	0.67613
+Primary	PRR	Card	0	LogisticRegression	Klek	PRC AUC	0.72073
+Primary	PRR	Card	1	LogisticRegression	Klek	PRC AUC	0.71526
+Primary	PRR	Card	3	LogisticRegression	Klek	PRC AUC	0.67832
+Primary	PRR	Card	2	LogisticRegression	Klek	PRC AUC	0.691
+Primary	PRR	Card	4	LogisticRegression	Klek	PRC AUC	0.67038
+Secondary	PRR	Card	0	LogisticRegression	Klek	PRC AUC	0.71051
+Secondary	PRR	Card	1	LogisticRegression	Klek	PRC AUC	0.70212
+Secondary	PRR	Card	3	LogisticRegression	Klek	PRC AUC	0.67843
+Secondary	PRR	Card	2	LogisticRegression	Klek	PRC AUC	0.72616
+Secondary	PRR	Card	4	LogisticRegression	Klek	PRC AUC	0.714
+Mono	PRR	Card	0	LogisticRegression	Klek	Brier	0.32991
+Mono	PRR	Card	1	LogisticRegression	Klek	Brier	0.27081
+Mono	PRR	Card	3	LogisticRegression	Klek	Brier	0.35319
+Mono	PRR	Card	2	LogisticRegression	Klek	Brier	0.26176
+Mono	PRR	Card	4	LogisticRegression	Klek	Brier	0.31072
+Primary	PRR	Card	0	LogisticRegression	Klek	Brier	0.27421
+Primary	PRR	Card	1	LogisticRegression	Klek	Brier	0.23589
+Primary	PRR	Card	3	LogisticRegression	Klek	Brier	0.27492
+Primary	PRR	Card	2	LogisticRegression	Klek	Brier	0.2532
+Primary	PRR	Card	4	LogisticRegression	Klek	Brier	0.26506
+Secondary	PRR	Card	0	LogisticRegression	Klek	Brier	0.24833
+Secondary	PRR	Card	1	LogisticRegression	Klek	Brier	0.23193
+Secondary	PRR	Card	3	LogisticRegression	Klek	Brier	0.24758
+Secondary	PRR	Card	2	LogisticRegression	Klek	Brier	0.23671
+Secondary	PRR	Card	4	LogisticRegression	Klek	Brier	0.23742
+Mono	PRR	Card	0	LogisticRegression	Klek	ECE	0.31531
+Mono	PRR	Card	1	LogisticRegression	Klek	ECE	0.16756
+Mono	PRR	Card	3	LogisticRegression	Klek	ECE	0.29611
+Mono	PRR	Card	2	LogisticRegression	Klek	ECE	0.15807
+Mono	PRR	Card	4	LogisticRegression	Klek	ECE	0.25255
+Primary	PRR	Card	0	LogisticRegression	Klek	ECE	0.19766
+Primary	PRR	Card	1	LogisticRegression	Klek	ECE	0.09397
+Primary	PRR	Card	3	LogisticRegression	Klek	ECE	0.19546
+Primary	PRR	Card	2	LogisticRegression	Klek	ECE	0.15666
+Primary	PRR	Card	4	LogisticRegression	Klek	ECE	0.1518
+Secondary	PRR	Card	0	LogisticRegression	Klek	ECE	0.1716
+Secondary	PRR	Card	1	LogisticRegression	Klek	ECE	0.06515
+Secondary	PRR	Card	3	LogisticRegression	Klek	ECE	0.12619
+Secondary	PRR	Card	2	LogisticRegression	Klek	ECE	0.10956
+Secondary	PRR	Card	4	LogisticRegression	Klek	ECE	0.09464

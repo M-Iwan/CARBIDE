@@ -1,0 +1,196 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Primary	PRR	Cred	1	LogisticRegression	RDKit	Balanced Accuracy	0.55349
+Primary	PRR	Cred	0	LogisticRegression	RDKit	Balanced Accuracy	0.51257
+Primary	PRR	Cred	2	LogisticRegression	RDKit	Balanced Accuracy	0.55118
+Primary	PRR	Cred	3	LogisticRegression	RDKit	Balanced Accuracy	0.53898
+Primary	PRR	Cred	4	LogisticRegression	RDKit	Balanced Accuracy	0.50696
+Primary	PRR	Card	1	LogisticRegression	RDKit	Balanced Accuracy	0.54311
+Primary	PRR	Card	0	LogisticRegression	RDKit	Balanced Accuracy	0.51111
+Primary	PRR	Card	2	LogisticRegression	RDKit	Balanced Accuracy	0.55038
+Primary	PRR	Card	3	LogisticRegression	RDKit	Balanced Accuracy	0.53506
+Primary	PRR	Card	4	LogisticRegression	RDKit	Balanced Accuracy	0.50827
+Primary	PRR	Cvas	1	LogisticRegression	RDKit	Balanced Accuracy	0.57977
+Primary	PRR	Cvas	0	LogisticRegression	RDKit	Balanced Accuracy	0.51298
+Primary	PRR	Cvas	2	LogisticRegression	RDKit	Balanced Accuracy	0.58083
+Primary	PRR	Cvas	3	LogisticRegression	RDKit	Balanced Accuracy	0.55151
+Primary	PRR	Cvas	4	LogisticRegression	RDKit	Balanced Accuracy	0.50666
+Primary	PRR	Cred	1	LogisticRegression	RDKit	GeomRS	0.5481
+Primary	PRR	Cred	0	LogisticRegression	RDKit	GeomRS	0.49095
+Primary	PRR	Cred	2	LogisticRegression	RDKit	GeomRS	0.54708
+Primary	PRR	Cred	3	LogisticRegression	RDKit	GeomRS	0.51702
+Primary	PRR	Cred	4	LogisticRegression	RDKit	GeomRS	0.50473
+Primary	PRR	Card	1	LogisticRegression	RDKit	GeomRS	0.54058
+Primary	PRR	Card	0	LogisticRegression	RDKit	GeomRS	0.49596
+Primary	PRR	Card	2	LogisticRegression	RDKit	GeomRS	0.55034
+Primary	PRR	Card	3	LogisticRegression	RDKit	GeomRS	0.51555
+Primary	PRR	Card	4	LogisticRegression	RDKit	GeomRS	0.5064
+Primary	PRR	Cvas	1	LogisticRegression	RDKit	GeomRS	0.57958
+Primary	PRR	Cvas	0	LogisticRegression	RDKit	GeomRS	0.49292
+Primary	PRR	Cvas	2	LogisticRegression	RDKit	GeomRS	0.5801
+Primary	PRR	Cvas	3	LogisticRegression	RDKit	GeomRS	0.54402
+Primary	PRR	Cvas	4	LogisticRegression	RDKit	GeomRS	0.50476
+Primary	PRR	Cred	1	LogisticRegression	RDKit	HarmRS	0.54277
+Primary	PRR	Cred	0	LogisticRegression	RDKit	HarmRS	0.47024
+Primary	PRR	Cred	2	LogisticRegression	RDKit	HarmRS	0.543
+Primary	PRR	Cred	3	LogisticRegression	RDKit	HarmRS	0.49596
+Primary	PRR	Cred	4	LogisticRegression	RDKit	HarmRS	0.50252
+Primary	PRR	Card	1	LogisticRegression	RDKit	HarmRS	0.53805
+Primary	PRR	Card	0	LogisticRegression	RDKit	HarmRS	0.48126
+Primary	PRR	Card	2	LogisticRegression	RDKit	HarmRS	0.55029
+Primary	PRR	Card	3	LogisticRegression	RDKit	HarmRS	0.49675
+Primary	PRR	Card	4	LogisticRegression	RDKit	HarmRS	0.50454
+Primary	PRR	Cvas	1	LogisticRegression	RDKit	HarmRS	0.5794
+Primary	PRR	Cvas	0	LogisticRegression	RDKit	HarmRS	0.47364
+Primary	PRR	Cvas	2	LogisticRegression	RDKit	HarmRS	0.57937
+Primary	PRR	Cvas	3	LogisticRegression	RDKit	HarmRS	0.53664
+Primary	PRR	Cvas	4	LogisticRegression	RDKit	HarmRS	0.50287
+Primary	PRR	Cred	1	LogisticRegression	RDKit	F1 Score	0.53628
+Primary	PRR	Cred	0	LogisticRegression	RDKit	F1 Score	0.46929
+Primary	PRR	Cred	2	LogisticRegression	RDKit	F1 Score	0.56136
+Primary	PRR	Cred	3	LogisticRegression	RDKit	F1 Score	0.49231
+Primary	PRR	Cred	4	LogisticRegression	RDKit	F1 Score	0.51535
+Primary	PRR	Card	1	LogisticRegression	RDKit	F1 Score	0.53933
+Primary	PRR	Card	0	LogisticRegression	RDKit	F1 Score	0.48656
+Primary	PRR	Card	2	LogisticRegression	RDKit	F1 Score	0.59645
+Primary	PRR	Card	3	LogisticRegression	RDKit	F1 Score	0.49482
+Primary	PRR	Card	4	LogisticRegression	RDKit	F1 Score	0.51915
+Primary	PRR	Cvas	1	LogisticRegression	RDKit	F1 Score	0.59648
+Primary	PRR	Cvas	0	LogisticRegression	RDKit	F1 Score	0.474
+Primary	PRR	Cvas	2	LogisticRegression	RDKit	F1 Score	0.64464
+Primary	PRR	Cvas	3	LogisticRegression	RDKit	F1 Score	0.55052
+Primary	PRR	Cvas	4	LogisticRegression	RDKit	F1 Score	0.5173
+Primary	PRR	Cred	1	LogisticRegression	RDKit	ROC AUC	0.58878
+Primary	PRR	Cred	0	LogisticRegression	RDKit	ROC AUC	0.51968
+Primary	PRR	Cred	2	LogisticRegression	RDKit	ROC AUC	0.55837
+Primary	PRR	Cred	3	LogisticRegression	RDKit	ROC AUC	0.54106
+Primary	PRR	Cred	4	LogisticRegression	RDKit	ROC AUC	0.50563
+Primary	PRR	Card	1	LogisticRegression	RDKit	ROC AUC	0.59282
+Primary	PRR	Card	0	LogisticRegression	RDKit	ROC AUC	0.52371
+Primary	PRR	Card	2	LogisticRegression	RDKit	ROC AUC	0.56067
+Primary	PRR	Card	3	LogisticRegression	RDKit	ROC AUC	0.52961
+Primary	PRR	Card	4	LogisticRegression	RDKit	ROC AUC	0.50541
+Primary	PRR	Cvas	1	LogisticRegression	RDKit	ROC AUC	0.60882
+Primary	PRR	Cvas	0	LogisticRegression	RDKit	ROC AUC	0.53222
+Primary	PRR	Cvas	2	LogisticRegression	RDKit	ROC AUC	0.58279
+Primary	PRR	Cvas	3	LogisticRegression	RDKit	ROC AUC	0.55688
+Primary	PRR	Cvas	4	LogisticRegression	RDKit	ROC AUC	0.50271
+Primary	PRR	Cred	1	LogisticRegression	RDKit	MCC	0.10751
+Primary	PRR	Cred	0	LogisticRegression	RDKit	MCC	0.02519
+Primary	PRR	Cred	2	LogisticRegression	RDKit	MCC	0.10031
+Primary	PRR	Cred	3	LogisticRegression	RDKit	MCC	0.07869
+Primary	PRR	Cred	4	LogisticRegression	RDKit	MCC	0.0138
+Primary	PRR	Card	1	LogisticRegression	RDKit	MCC	0.08616
+Primary	PRR	Card	0	LogisticRegression	RDKit	MCC	0.02197
+Primary	PRR	Card	2	LogisticRegression	RDKit	MCC	0.09813
+Primary	PRR	Card	3	LogisticRegression	RDKit	MCC	0.07044
+Primary	PRR	Card	4	LogisticRegression	RDKit	MCC	0.01638
+Primary	PRR	Cvas	1	LogisticRegression	RDKit	MCC	0.15869
+Primary	PRR	Cvas	0	LogisticRegression	RDKit	MCC	0.02594
+Primary	PRR	Cvas	2	LogisticRegression	RDKit	MCC	0.15817
+Primary	PRR	Cvas	3	LogisticRegression	RDKit	MCC	0.10091
+Primary	PRR	Cvas	4	LogisticRegression	RDKit	MCC	0.0132
+Primary	PRR	Cred	1	LogisticRegression	RDKit	Accuracy	0.54555
+Primary	PRR	Cred	0	LogisticRegression	RDKit	Accuracy	0.47136
+Primary	PRR	Cred	2	LogisticRegression	RDKit	Accuracy	0.53594
+Primary	PRR	Cred	3	LogisticRegression	RDKit	Accuracy	0.50054
+Primary	PRR	Cred	4	LogisticRegression	RDKit	Accuracy	0.49945
+Primary	PRR	Card	1	LogisticRegression	RDKit	Accuracy	0.53771
+Primary	PRR	Card	0	LogisticRegression	RDKit	Accuracy	0.47655
+Primary	PRR	Card	2	LogisticRegression	RDKit	Accuracy	0.54882
+Primary	PRR	Card	3	LogisticRegression	RDKit	Accuracy	0.49892
+Primary	PRR	Card	4	LogisticRegression	RDKit	Accuracy	0.50138
+Primary	PRR	Cvas	1	LogisticRegression	RDKit	Accuracy	0.57826
+Primary	PRR	Cvas	0	LogisticRegression	RDKit	Accuracy	0.47324
+Primary	PRR	Cvas	2	LogisticRegression	RDKit	Accuracy	0.58745
+Primary	PRR	Cvas	3	LogisticRegression	RDKit	Accuracy	0.52865
+Primary	PRR	Cvas	4	LogisticRegression	RDKit	Accuracy	0.49972
+Primary	PRR	Cred	1	LogisticRegression	RDKit	Recall	0.47647
+Primary	PRR	Cred	0	LogisticRegression	RDKit	Recall	0.36528
+Primary	PRR	Cred	2	LogisticRegression	RDKit	Recall	0.48404
+Primary	PRR	Cred	3	LogisticRegression	RDKit	Recall	0.38671
+Primary	PRR	Cred	4	LogisticRegression	RDKit	Recall	0.45952
+Primary	PRR	Card	1	LogisticRegression	RDKit	Recall	0.49069
+Primary	PRR	Card	0	LogisticRegression	RDKit	Recall	0.3876
+Primary	PRR	Card	2	LogisticRegression	RDKit	Recall	0.54351
+Primary	PRR	Card	3	LogisticRegression	RDKit	Recall	0.39189
+Primary	PRR	Card	4	LogisticRegression	RDKit	Recall	0.46476
+Primary	PRR	Cvas	1	LogisticRegression	RDKit	Recall	0.5652
+Primary	PRR	Cvas	0	LogisticRegression	RDKit	Recall	0.37091
+Primary	PRR	Cvas	2	LogisticRegression	RDKit	Recall	0.60997
+Primary	PRR	Cvas	3	LogisticRegression	RDKit	Recall	0.46094
+Primary	PRR	Cvas	4	LogisticRegression	RDKit	Recall	0.46286
+Primary	PRR	Cred	1	LogisticRegression	RDKit	Specificity	0.6305
+Primary	PRR	Cred	0	LogisticRegression	RDKit	Specificity	0.65986
+Primary	PRR	Cred	2	LogisticRegression	RDKit	Specificity	0.61832
+Primary	PRR	Cred	3	LogisticRegression	RDKit	Specificity	0.69125
+Primary	PRR	Cred	4	LogisticRegression	RDKit	Specificity	0.55439
+Primary	PRR	Card	1	LogisticRegression	RDKit	Specificity	0.59554
+Primary	PRR	Card	0	LogisticRegression	RDKit	Specificity	0.63462
+Primary	PRR	Card	2	LogisticRegression	RDKit	Specificity	0.55725
+Primary	PRR	Card	3	LogisticRegression	RDKit	Specificity	0.67824
+Primary	PRR	Card	4	LogisticRegression	RDKit	Specificity	0.55177
+Primary	PRR	Cvas	1	LogisticRegression	RDKit	Specificity	0.59433
+Primary	PRR	Cvas	0	LogisticRegression	RDKit	Specificity	0.65505
+Primary	PRR	Cvas	2	LogisticRegression	RDKit	Specificity	0.5517
+Primary	PRR	Cvas	3	LogisticRegression	RDKit	Specificity	0.64208
+Primary	PRR	Cvas	4	LogisticRegression	RDKit	Specificity	0.55046
+Primary	PRR	Cred	1	LogisticRegression	RDKit	Precision	0.61325
+Primary	PRR	Cred	0	LogisticRegression	RDKit	Precision	0.65614
+Primary	PRR	Cred	2	LogisticRegression	RDKit	Precision	0.66807
+Primary	PRR	Cred	3	LogisticRegression	RDKit	Precision	0.67725
+Primary	PRR	Cred	4	LogisticRegression	RDKit	Precision	0.58663
+Primary	PRR	Card	1	LogisticRegression	RDKit	Precision	0.59868
+Primary	PRR	Card	0	LogisticRegression	RDKit	Precision	0.65336
+Primary	PRR	Card	2	LogisticRegression	RDKit	Precision	0.66082
+Primary	PRR	Card	3	LogisticRegression	RDKit	Precision	0.6711
+Primary	PRR	Card	4	LogisticRegression	RDKit	Precision	0.58795
+Primary	PRR	Cvas	1	LogisticRegression	RDKit	Precision	0.63143
+Primary	PRR	Cvas	0	LogisticRegression	RDKit	Precision	0.65642
+Primary	PRR	Cvas	2	LogisticRegression	RDKit	Precision	0.68349
+Primary	PRR	Cvas	3	LogisticRegression	RDKit	Precision	0.6833
+Primary	PRR	Cvas	4	LogisticRegression	RDKit	Precision	0.58625
+Primary	PRR	Cred	1	LogisticRegression	RDKit	PRC AUC	0.61417
+Primary	PRR	Cred	0	LogisticRegression	RDKit	PRC AUC	0.6583
+Primary	PRR	Cred	2	LogisticRegression	RDKit	PRC AUC	0.66751
+Primary	PRR	Cred	3	LogisticRegression	RDKit	PRC AUC	0.64988
+Primary	PRR	Cred	4	LogisticRegression	RDKit	PRC AUC	0.58379
+Primary	PRR	Card	1	LogisticRegression	RDKit	PRC AUC	0.62475
+Primary	PRR	Card	0	LogisticRegression	RDKit	PRC AUC	0.66048
+Primary	PRR	Card	2	LogisticRegression	RDKit	PRC AUC	0.67465
+Primary	PRR	Card	3	LogisticRegression	RDKit	PRC AUC	0.63881
+Primary	PRR	Card	4	LogisticRegression	RDKit	PRC AUC	0.57811
+Primary	PRR	Cvas	1	LogisticRegression	RDKit	PRC AUC	0.6274
+Primary	PRR	Cvas	0	LogisticRegression	RDKit	PRC AUC	0.65253
+Primary	PRR	Cvas	2	LogisticRegression	RDKit	PRC AUC	0.66112
+Primary	PRR	Cvas	3	LogisticRegression	RDKit	PRC AUC	0.65606
+Primary	PRR	Cvas	4	LogisticRegression	RDKit	PRC AUC	0.58401
+Primary	PRR	Cred	1	LogisticRegression	RDKit	ECE	0.14765
+Primary	PRR	Cred	0	LogisticRegression	RDKit	ECE	0.25349
+Primary	PRR	Cred	2	LogisticRegression	RDKit	ECE	0.1773
+Primary	PRR	Cred	3	LogisticRegression	RDKit	ECE	0.26378
+Primary	PRR	Cred	4	LogisticRegression	RDKit	ECE	0.16275
+Primary	PRR	Card	1	LogisticRegression	RDKit	ECE	0.14093
+Primary	PRR	Card	0	LogisticRegression	RDKit	ECE	0.23871
+Primary	PRR	Card	2	LogisticRegression	RDKit	ECE	0.14852
+Primary	PRR	Card	3	LogisticRegression	RDKit	ECE	0.24999
+Primary	PRR	Card	4	LogisticRegression	RDKit	ECE	0.16174
+Primary	PRR	Cvas	1	LogisticRegression	RDKit	ECE	0.11254
+Primary	PRR	Cvas	0	LogisticRegression	RDKit	ECE	0.2322
+Primary	PRR	Cvas	2	LogisticRegression	RDKit	ECE	0.163
+Primary	PRR	Cvas	3	LogisticRegression	RDKit	ECE	0.24191
+Primary	PRR	Cvas	4	LogisticRegression	RDKit	ECE	0.18867
+Primary	PRR	Cred	1	LogisticRegression	RDKit	Brier	0.26535
+Primary	PRR	Cred	0	LogisticRegression	RDKit	Brier	0.32346
+Primary	PRR	Cred	2	LogisticRegression	RDKit	Brier	0.28261
+Primary	PRR	Cred	3	LogisticRegression	RDKit	Brier	0.31554
+Primary	PRR	Cred	4	LogisticRegression	RDKit	Brier	0.28629
+Primary	PRR	Card	1	LogisticRegression	RDKit	Brier	0.26151
+Primary	PRR	Card	0	LogisticRegression	RDKit	Brier	0.31457
+Primary	PRR	Card	2	LogisticRegression	RDKit	Brier	0.27171
+Primary	PRR	Card	3	LogisticRegression	RDKit	Brier	0.31507
+Primary	PRR	Card	4	LogisticRegression	RDKit	Brier	0.2842
+Primary	PRR	Cvas	1	LogisticRegression	RDKit	Brier	0.25406
+Primary	PRR	Cvas	0	LogisticRegression	RDKit	Brier	0.29665
+Primary	PRR	Cvas	2	LogisticRegression	RDKit	Brier	0.27109
+Primary	PRR	Cvas	3	LogisticRegression	RDKit	Brier	0.30031
+Primary	PRR	Cvas	4	LogisticRegression	RDKit	Brier	0.2932

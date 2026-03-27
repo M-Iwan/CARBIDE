@@ -1,0 +1,196 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Mono	PRR	Card	0	XGBClassifier	Klek	Balanced Accuracy	0.51993
+Mono	PRR	Card	1	XGBClassifier	Klek	Balanced Accuracy	0.53243
+Mono	PRR	Card	3	XGBClassifier	Klek	Balanced Accuracy	0.51826
+Mono	PRR	Card	4	XGBClassifier	Klek	Balanced Accuracy	0.52647
+Mono	PRR	Card	2	XGBClassifier	Klek	Balanced Accuracy	0.58162
+Primary	PRR	Card	0	XGBClassifier	Klek	Balanced Accuracy	0.53098
+Primary	PRR	Card	1	XGBClassifier	Klek	Balanced Accuracy	0.59837
+Primary	PRR	Card	3	XGBClassifier	Klek	Balanced Accuracy	0.53326
+Primary	PRR	Card	4	XGBClassifier	Klek	Balanced Accuracy	0.557
+Primary	PRR	Card	2	XGBClassifier	Klek	Balanced Accuracy	0.58142
+Secondary	PRR	Card	0	XGBClassifier	Klek	Balanced Accuracy	0.52424
+Secondary	PRR	Card	1	XGBClassifier	Klek	Balanced Accuracy	0.59339
+Secondary	PRR	Card	3	XGBClassifier	Klek	Balanced Accuracy	0.54375
+Secondary	PRR	Card	4	XGBClassifier	Klek	Balanced Accuracy	0.5748
+Secondary	PRR	Card	2	XGBClassifier	Klek	Balanced Accuracy	0.60188
+Mono	PRR	Card	0	XGBClassifier	Klek	GeomRS	0.50497
+Mono	PRR	Card	1	XGBClassifier	Klek	GeomRS	0.52778
+Mono	PRR	Card	3	XGBClassifier	Klek	GeomRS	0.48265
+Mono	PRR	Card	4	XGBClassifier	Klek	GeomRS	0.52528
+Mono	PRR	Card	2	XGBClassifier	Klek	GeomRS	0.58153
+Primary	PRR	Card	0	XGBClassifier	Klek	GeomRS	0.52177
+Primary	PRR	Card	1	XGBClassifier	Klek	GeomRS	0.59645
+Primary	PRR	Card	3	XGBClassifier	Klek	GeomRS	0.51454
+Primary	PRR	Card	4	XGBClassifier	Klek	GeomRS	0.55432
+Primary	PRR	Card	2	XGBClassifier	Klek	GeomRS	0.58078
+Secondary	PRR	Card	0	XGBClassifier	Klek	GeomRS	0.5212
+Secondary	PRR	Card	1	XGBClassifier	Klek	GeomRS	0.59291
+Secondary	PRR	Card	3	XGBClassifier	Klek	GeomRS	0.54363
+Secondary	PRR	Card	4	XGBClassifier	Klek	GeomRS	0.56118
+Secondary	PRR	Card	2	XGBClassifier	Klek	GeomRS	0.59965
+Mono	PRR	Card	0	XGBClassifier	Klek	HarmRS	0.49044
+Mono	PRR	Card	1	XGBClassifier	Klek	HarmRS	0.52317
+Mono	PRR	Card	3	XGBClassifier	Klek	HarmRS	0.44949
+Mono	PRR	Card	4	XGBClassifier	Klek	HarmRS	0.52409
+Mono	PRR	Card	2	XGBClassifier	Klek	HarmRS	0.58143
+Primary	PRR	Card	0	XGBClassifier	Klek	HarmRS	0.51272
+Primary	PRR	Card	1	XGBClassifier	Klek	HarmRS	0.59452
+Primary	PRR	Card	3	XGBClassifier	Klek	HarmRS	0.49648
+Primary	PRR	Card	4	XGBClassifier	Klek	HarmRS	0.55166
+Primary	PRR	Card	2	XGBClassifier	Klek	HarmRS	0.58014
+Secondary	PRR	Card	0	XGBClassifier	Klek	HarmRS	0.51817
+Secondary	PRR	Card	1	XGBClassifier	Klek	HarmRS	0.59243
+Secondary	PRR	Card	3	XGBClassifier	Klek	HarmRS	0.54351
+Secondary	PRR	Card	4	XGBClassifier	Klek	HarmRS	0.54788
+Secondary	PRR	Card	2	XGBClassifier	Klek	HarmRS	0.59743
+Mono	PRR	Card	0	XGBClassifier	Klek	F1 Score	0.50622
+Mono	PRR	Card	1	XGBClassifier	Klek	F1 Score	0.52736
+Mono	PRR	Card	3	XGBClassifier	Klek	F1 Score	0.44296
+Mono	PRR	Card	4	XGBClassifier	Klek	F1 Score	0.60921
+Mono	PRR	Card	2	XGBClassifier	Klek	F1 Score	0.63125
+Primary	PRR	Card	0	XGBClassifier	Klek	F1 Score	0.53789
+Primary	PRR	Card	1	XGBClassifier	Klek	F1 Score	0.60846
+Primary	PRR	Card	3	XGBClassifier	Klek	F1 Score	0.50105
+Primary	PRR	Card	4	XGBClassifier	Klek	F1 Score	0.64785
+Primary	PRR	Card	2	XGBClassifier	Klek	F1 Score	0.62157
+Secondary	PRR	Card	0	XGBClassifier	Klek	F1 Score	0.63357
+Secondary	PRR	Card	1	XGBClassifier	Klek	F1 Score	0.63892
+Secondary	PRR	Card	3	XGBClassifier	Klek	F1 Score	0.60065
+Secondary	PRR	Card	4	XGBClassifier	Klek	F1 Score	0.69761
+Secondary	PRR	Card	2	XGBClassifier	Klek	F1 Score	0.68197
+Mono	PRR	Card	0	XGBClassifier	Klek	ROC AUC	0.54561
+Mono	PRR	Card	1	XGBClassifier	Klek	ROC AUC	0.58128
+Mono	PRR	Card	3	XGBClassifier	Klek	ROC AUC	0.54516
+Mono	PRR	Card	4	XGBClassifier	Klek	ROC AUC	0.55272
+Mono	PRR	Card	2	XGBClassifier	Klek	ROC AUC	0.60373
+Primary	PRR	Card	0	XGBClassifier	Klek	ROC AUC	0.54331
+Primary	PRR	Card	1	XGBClassifier	Klek	ROC AUC	0.64495
+Primary	PRR	Card	3	XGBClassifier	Klek	ROC AUC	0.5409
+Primary	PRR	Card	4	XGBClassifier	Klek	ROC AUC	0.56777
+Primary	PRR	Card	2	XGBClassifier	Klek	ROC AUC	0.62884
+Secondary	PRR	Card	0	XGBClassifier	Klek	ROC AUC	0.54694
+Secondary	PRR	Card	1	XGBClassifier	Klek	ROC AUC	0.62896
+Secondary	PRR	Card	3	XGBClassifier	Klek	ROC AUC	0.5391
+Secondary	PRR	Card	4	XGBClassifier	Klek	ROC AUC	0.59524
+Secondary	PRR	Card	2	XGBClassifier	Klek	ROC AUC	0.64548
+Mono	PRR	Card	0	XGBClassifier	Klek	MCC	0.03829
+Mono	PRR	Card	1	XGBClassifier	Klek	MCC	0.06463
+Mono	PRR	Card	3	XGBClassifier	Klek	MCC	0.03746
+Mono	PRR	Card	4	XGBClassifier	Klek	MCC	0.05092
+Mono	PRR	Card	2	XGBClassifier	Klek	MCC	0.15758
+Primary	PRR	Card	0	XGBClassifier	Klek	MCC	0.05879
+Primary	PRR	Card	1	XGBClassifier	Klek	MCC	0.19479
+Primary	PRR	Card	3	XGBClassifier	Klek	MCC	0.06575
+Primary	PRR	Card	4	XGBClassifier	Klek	MCC	0.11036
+Primary	PRR	Card	2	XGBClassifier	Klek	MCC	0.15717
+Secondary	PRR	Card	0	XGBClassifier	Klek	MCC	0.04567
+Secondary	PRR	Card	1	XGBClassifier	Klek	MCC	0.18507
+Secondary	PRR	Card	3	XGBClassifier	Klek	MCC	0.0835
+Secondary	PRR	Card	4	XGBClassifier	Klek	MCC	0.14987
+Secondary	PRR	Card	2	XGBClassifier	Klek	MCC	0.19913
+Mono	PRR	Card	0	XGBClassifier	Klek	Accuracy	0.47574
+Mono	PRR	Card	1	XGBClassifier	Klek	Accuracy	0.52154
+Mono	PRR	Card	3	XGBClassifier	Klek	Accuracy	0.46183
+Mono	PRR	Card	4	XGBClassifier	Klek	Accuracy	0.53659
+Mono	PRR	Card	2	XGBClassifier	Klek	Accuracy	0.57892
+Primary	PRR	Card	0	XGBClassifier	Klek	Accuracy	0.49584
+Primary	PRR	Card	1	XGBClassifier	Klek	Accuracy	0.59093
+Primary	PRR	Card	3	XGBClassifier	Klek	Accuracy	0.4914
+Primary	PRR	Card	4	XGBClassifier	Klek	Accuracy	0.57259
+Primary	PRR	Card	2	XGBClassifier	Klek	Accuracy	0.57429
+Secondary	PRR	Card	0	XGBClassifier	Klek	Accuracy	0.54436
+Secondary	PRR	Card	1	XGBClassifier	Klek	Accuracy	0.59709
+Secondary	PRR	Card	3	XGBClassifier	Klek	Accuracy	0.54032
+Secondary	PRR	Card	4	XGBClassifier	Klek	Accuracy	0.61034
+Secondary	PRR	Card	2	XGBClassifier	Klek	Accuracy	0.61542
+Mono	PRR	Card	0	XGBClassifier	Klek	Recall	0.39611
+Mono	PRR	Card	1	XGBClassifier	Klek	Recall	0.46221
+Mono	PRR	Card	3	XGBClassifier	Klek	Recall	0.32947
+Mono	PRR	Card	4	XGBClassifier	Klek	Recall	0.56188
+Mono	PRR	Card	2	XGBClassifier	Klek	Recall	0.57131
+Primary	PRR	Card	0	XGBClassifier	Klek	Recall	0.4325
+Primary	PRR	Card	1	XGBClassifier	Klek	Recall	0.55039
+Primary	PRR	Card	3	XGBClassifier	Klek	Recall	0.39321
+Primary	PRR	Card	4	XGBClassifier	Klek	Recall	0.61156
+Primary	PRR	Card	2	XGBClassifier	Klek	Recall	0.5542
+Secondary	PRR	Card	0	XGBClassifier	Klek	Recall	0.58062
+Secondary	PRR	Card	1	XGBClassifier	Klek	Recall	0.61725
+Secondary	PRR	Card	3	XGBClassifier	Klek	Recall	0.53228
+Secondary	PRR	Card	4	XGBClassifier	Klek	Recall	0.69919
+Secondary	PRR	Card	2	XGBClassifier	Klek	Recall	0.65363
+Mono	PRR	Card	0	XGBClassifier	Klek	Specificity	0.64375
+Mono	PRR	Card	1	XGBClassifier	Klek	Specificity	0.60265
+Mono	PRR	Card	3	XGBClassifier	Klek	Specificity	0.70706
+Mono	PRR	Card	4	XGBClassifier	Klek	Specificity	0.49106
+Mono	PRR	Card	2	XGBClassifier	Klek	Specificity	0.59192
+Primary	PRR	Card	0	XGBClassifier	Klek	Specificity	0.62946
+Primary	PRR	Card	1	XGBClassifier	Klek	Specificity	0.64636
+Primary	PRR	Card	3	XGBClassifier	Klek	Specificity	0.67331
+Primary	PRR	Card	4	XGBClassifier	Klek	Specificity	0.50244
+Primary	PRR	Card	2	XGBClassifier	Klek	Specificity	0.60864
+Secondary	PRR	Card	0	XGBClassifier	Klek	Specificity	0.46786
+Secondary	PRR	Card	1	XGBClassifier	Klek	Specificity	0.56954
+Secondary	PRR	Card	3	XGBClassifier	Klek	Specificity	0.55521
+Secondary	PRR	Card	4	XGBClassifier	Klek	Specificity	0.45041
+Secondary	PRR	Card	2	XGBClassifier	Klek	Specificity	0.55014
+Mono	PRR	Card	0	XGBClassifier	Klek	Precision	0.70112
+Mono	PRR	Card	1	XGBClassifier	Klek	Precision	0.6139
+Mono	PRR	Card	3	XGBClassifier	Klek	Precision	0.67572
+Mono	PRR	Card	4	XGBClassifier	Klek	Precision	0.66524
+Mono	PRR	Card	2	XGBClassifier	Klek	Precision	0.70523
+Primary	PRR	Card	0	XGBClassifier	Klek	Precision	0.7112
+Primary	PRR	Card	1	XGBClassifier	Klek	Precision	0.68024
+Primary	PRR	Card	3	XGBClassifier	Klek	Precision	0.69041
+Primary	PRR	Card	4	XGBClassifier	Klek	Precision	0.68871
+Primary	PRR	Card	2	XGBClassifier	Klek	Precision	0.7076
+Secondary	PRR	Card	0	XGBClassifier	Klek	Precision	0.69715
+Secondary	PRR	Card	1	XGBClassifier	Klek	Precision	0.66216
+Secondary	PRR	Card	3	XGBClassifier	Klek	Precision	0.68917
+Secondary	PRR	Card	4	XGBClassifier	Klek	Precision	0.69604
+Secondary	PRR	Card	2	XGBClassifier	Klek	Precision	0.71289
+Mono	PRR	Card	0	XGBClassifier	Klek	PRC AUC	0.70526
+Mono	PRR	Card	1	XGBClassifier	Klek	PRC AUC	0.68157
+Mono	PRR	Card	3	XGBClassifier	Klek	PRC AUC	0.68932
+Mono	PRR	Card	4	XGBClassifier	Klek	PRC AUC	0.72324
+Mono	PRR	Card	2	XGBClassifier	Klek	PRC AUC	0.71252
+Primary	PRR	Card	0	XGBClassifier	Klek	PRC AUC	0.72023
+Primary	PRR	Card	1	XGBClassifier	Klek	PRC AUC	0.70273
+Primary	PRR	Card	3	XGBClassifier	Klek	PRC AUC	0.70165
+Primary	PRR	Card	4	XGBClassifier	Klek	PRC AUC	0.69554
+Primary	PRR	Card	2	XGBClassifier	Klek	PRC AUC	0.73449
+Secondary	PRR	Card	0	XGBClassifier	Klek	PRC AUC	0.71081
+Secondary	PRR	Card	1	XGBClassifier	Klek	PRC AUC	0.68697
+Secondary	PRR	Card	3	XGBClassifier	Klek	PRC AUC	0.70001
+Secondary	PRR	Card	4	XGBClassifier	Klek	PRC AUC	0.70622
+Secondary	PRR	Card	2	XGBClassifier	Klek	PRC AUC	0.74514
+Mono	PRR	Card	0	XGBClassifier	Klek	Brier	0.29507
+Mono	PRR	Card	1	XGBClassifier	Klek	Brier	0.27456
+Mono	PRR	Card	3	XGBClassifier	Klek	Brier	0.30148
+Mono	PRR	Card	4	XGBClassifier	Klek	Brier	0.26191
+Mono	PRR	Card	2	XGBClassifier	Klek	Brier	0.25603
+Primary	PRR	Card	0	XGBClassifier	Klek	Brier	0.2693
+Primary	PRR	Card	1	XGBClassifier	Klek	Brier	0.23726
+Primary	PRR	Card	3	XGBClassifier	Klek	Brier	0.26982
+Primary	PRR	Card	4	XGBClassifier	Klek	Brier	0.24371
+Primary	PRR	Card	2	XGBClassifier	Klek	Brier	0.23995
+Secondary	PRR	Card	0	XGBClassifier	Klek	Brier	0.24469
+Secondary	PRR	Card	1	XGBClassifier	Klek	Brier	0.23647
+Secondary	PRR	Card	3	XGBClassifier	Klek	Brier	0.26031
+Secondary	PRR	Card	4	XGBClassifier	Klek	Brier	0.23541
+Secondary	PRR	Card	2	XGBClassifier	Klek	Brier	0.23114
+Mono	PRR	Card	0	XGBClassifier	Klek	ECE	0.25205
+Mono	PRR	Card	1	XGBClassifier	Klek	ECE	0.18023
+Mono	PRR	Card	3	XGBClassifier	Klek	ECE	0.25566
+Mono	PRR	Card	4	XGBClassifier	Klek	ECE	0.15407
+Mono	PRR	Card	2	XGBClassifier	Klek	ECE	0.15073
+Primary	PRR	Card	0	XGBClassifier	Klek	ECE	0.20165
+Primary	PRR	Card	1	XGBClassifier	Klek	ECE	0.07871
+Primary	PRR	Card	3	XGBClassifier	Klek	ECE	0.1863
+Primary	PRR	Card	4	XGBClassifier	Klek	ECE	0.11528
+Primary	PRR	Card	2	XGBClassifier	Klek	ECE	0.13083
+Secondary	PRR	Card	0	XGBClassifier	Klek	ECE	0.15548
+Secondary	PRR	Card	1	XGBClassifier	Klek	ECE	0.05346
+Secondary	PRR	Card	3	XGBClassifier	Klek	ECE	0.14977
+Secondary	PRR	Card	4	XGBClassifier	Klek	ECE	0.1037
+Secondary	PRR	Card	2	XGBClassifier	Klek	ECE	0.10306

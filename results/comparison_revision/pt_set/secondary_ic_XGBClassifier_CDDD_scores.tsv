@@ -1,0 +1,196 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Secondary	IC	Cred	0	XGBClassifier	CDDD	Balanced Accuracy	0.54175
+Secondary	IC	Cred	1	XGBClassifier	CDDD	Balanced Accuracy	0.57785
+Secondary	IC	Cred	3	XGBClassifier	CDDD	Balanced Accuracy	0.53832
+Secondary	IC	Cred	2	XGBClassifier	CDDD	Balanced Accuracy	0.51629
+Secondary	IC	Cred	4	XGBClassifier	CDDD	Balanced Accuracy	0.53463
+Secondary	IC	Card	0	XGBClassifier	CDDD	Balanced Accuracy	0.53156
+Secondary	IC	Card	1	XGBClassifier	CDDD	Balanced Accuracy	0.5768
+Secondary	IC	Card	3	XGBClassifier	CDDD	Balanced Accuracy	0.53021
+Secondary	IC	Card	2	XGBClassifier	CDDD	Balanced Accuracy	0.52285
+Secondary	IC	Card	4	XGBClassifier	CDDD	Balanced Accuracy	0.5397
+Secondary	IC	Cvas	0	XGBClassifier	CDDD	Balanced Accuracy	0.53068
+Secondary	IC	Cvas	1	XGBClassifier	CDDD	Balanced Accuracy	0.57822
+Secondary	IC	Cvas	3	XGBClassifier	CDDD	Balanced Accuracy	0.54379
+Secondary	IC	Cvas	2	XGBClassifier	CDDD	Balanced Accuracy	0.5281
+Secondary	IC	Cvas	4	XGBClassifier	CDDD	Balanced Accuracy	0.54623
+Secondary	IC	Cred	0	XGBClassifier	CDDD	GeomRS	0.48103
+Secondary	IC	Cred	1	XGBClassifier	CDDD	GeomRS	0.52283
+Secondary	IC	Cred	3	XGBClassifier	CDDD	GeomRS	0.49557
+Secondary	IC	Cred	2	XGBClassifier	CDDD	GeomRS	0.41721
+Secondary	IC	Cred	4	XGBClassifier	CDDD	GeomRS	0.4529
+Secondary	IC	Card	0	XGBClassifier	CDDD	GeomRS	0.46222
+Secondary	IC	Card	1	XGBClassifier	CDDD	GeomRS	0.52435
+Secondary	IC	Card	3	XGBClassifier	CDDD	GeomRS	0.493
+Secondary	IC	Card	2	XGBClassifier	CDDD	GeomRS	0.42134
+Secondary	IC	Card	4	XGBClassifier	CDDD	GeomRS	0.47398
+Secondary	IC	Cvas	0	XGBClassifier	CDDD	GeomRS	0.47709
+Secondary	IC	Cvas	1	XGBClassifier	CDDD	GeomRS	0.54647
+Secondary	IC	Cvas	3	XGBClassifier	CDDD	GeomRS	0.50839
+Secondary	IC	Cvas	2	XGBClassifier	CDDD	GeomRS	0.43684
+Secondary	IC	Cvas	4	XGBClassifier	CDDD	GeomRS	0.48305
+Secondary	IC	Cred	0	XGBClassifier	CDDD	HarmRS	0.42713
+Secondary	IC	Cred	1	XGBClassifier	CDDD	HarmRS	0.47305
+Secondary	IC	Cred	3	XGBClassifier	CDDD	HarmRS	0.45622
+Secondary	IC	Cred	2	XGBClassifier	CDDD	HarmRS	0.33715
+Secondary	IC	Cred	4	XGBClassifier	CDDD	HarmRS	0.38367
+Secondary	IC	Card	0	XGBClassifier	CDDD	HarmRS	0.40193
+Secondary	IC	Card	1	XGBClassifier	CDDD	HarmRS	0.47667
+Secondary	IC	Card	3	XGBClassifier	CDDD	HarmRS	0.4584
+Secondary	IC	Card	2	XGBClassifier	CDDD	HarmRS	0.33954
+Secondary	IC	Card	4	XGBClassifier	CDDD	HarmRS	0.41625
+Secondary	IC	Cvas	0	XGBClassifier	CDDD	HarmRS	0.42891
+Secondary	IC	Cvas	1	XGBClassifier	CDDD	HarmRS	0.51647
+Secondary	IC	Cvas	3	XGBClassifier	CDDD	HarmRS	0.47529
+Secondary	IC	Cvas	2	XGBClassifier	CDDD	HarmRS	0.36136
+Secondary	IC	Cvas	4	XGBClassifier	CDDD	HarmRS	0.42718
+Secondary	IC	Cred	0	XGBClassifier	CDDD	F1 Score	0.74453
+Secondary	IC	Cred	1	XGBClassifier	CDDD	F1 Score	0.72157
+Secondary	IC	Cred	3	XGBClassifier	CDDD	F1 Score	0.72278
+Secondary	IC	Cred	2	XGBClassifier	CDDD	F1 Score	0.72105
+Secondary	IC	Cred	4	XGBClassifier	CDDD	F1 Score	0.72596
+Secondary	IC	Card	0	XGBClassifier	CDDD	F1 Score	0.74251
+Secondary	IC	Card	1	XGBClassifier	CDDD	F1 Score	0.71877
+Secondary	IC	Card	3	XGBClassifier	CDDD	F1 Score	0.70948
+Secondary	IC	Card	2	XGBClassifier	CDDD	F1 Score	0.72798
+Secondary	IC	Card	4	XGBClassifier	CDDD	F1 Score	0.71988
+Secondary	IC	Cvas	0	XGBClassifier	CDDD	F1 Score	0.72879
+Secondary	IC	Cvas	1	XGBClassifier	CDDD	F1 Score	0.70145
+Secondary	IC	Cvas	3	XGBClassifier	CDDD	F1 Score	0.71931
+Secondary	IC	Cvas	2	XGBClassifier	CDDD	F1 Score	0.72707
+Secondary	IC	Cvas	4	XGBClassifier	CDDD	F1 Score	0.72369
+Secondary	IC	Cred	0	XGBClassifier	CDDD	ROC AUC	0.59827
+Secondary	IC	Cred	1	XGBClassifier	CDDD	ROC AUC	0.65966
+Secondary	IC	Cred	3	XGBClassifier	CDDD	ROC AUC	0.59924
+Secondary	IC	Cred	2	XGBClassifier	CDDD	ROC AUC	0.59987
+Secondary	IC	Cred	4	XGBClassifier	CDDD	ROC AUC	0.6096
+Secondary	IC	Card	0	XGBClassifier	CDDD	ROC AUC	0.58466
+Secondary	IC	Card	1	XGBClassifier	CDDD	ROC AUC	0.653
+Secondary	IC	Card	3	XGBClassifier	CDDD	ROC AUC	0.58477
+Secondary	IC	Card	2	XGBClassifier	CDDD	ROC AUC	0.60451
+Secondary	IC	Card	4	XGBClassifier	CDDD	ROC AUC	0.61509
+Secondary	IC	Cvas	0	XGBClassifier	CDDD	ROC AUC	0.58791
+Secondary	IC	Cvas	1	XGBClassifier	CDDD	ROC AUC	0.64041
+Secondary	IC	Cvas	3	XGBClassifier	CDDD	ROC AUC	0.5992
+Secondary	IC	Cvas	2	XGBClassifier	CDDD	ROC AUC	0.60772
+Secondary	IC	Cvas	4	XGBClassifier	CDDD	ROC AUC	0.61688
+Secondary	IC	Cred	0	XGBClassifier	CDDD	MCC	0.09178
+Secondary	IC	Cred	1	XGBClassifier	CDDD	MCC	0.17926
+Secondary	IC	Cred	3	XGBClassifier	CDDD	MCC	0.08023
+Secondary	IC	Cred	2	XGBClassifier	CDDD	MCC	0.03988
+Secondary	IC	Cred	4	XGBClassifier	CDDD	MCC	0.08248
+Secondary	IC	Card	0	XGBClassifier	CDDD	MCC	0.07041
+Secondary	IC	Card	1	XGBClassifier	CDDD	MCC	0.17537
+Secondary	IC	Card	3	XGBClassifier	CDDD	MCC	0.06207
+Secondary	IC	Card	2	XGBClassifier	CDDD	MCC	0.05679
+Secondary	IC	Card	4	XGBClassifier	CDDD	MCC	0.09081
+Secondary	IC	Cvas	0	XGBClassifier	CDDD	MCC	0.06556
+Secondary	IC	Cvas	1	XGBClassifier	CDDD	MCC	0.16831
+Secondary	IC	Cvas	3	XGBClassifier	CDDD	MCC	0.09022
+Secondary	IC	Cvas	2	XGBClassifier	CDDD	MCC	0.06823
+Secondary	IC	Cvas	4	XGBClassifier	CDDD	MCC	0.10553
+Secondary	IC	Cred	0	XGBClassifier	CDDD	Accuracy	0.63119
+Secondary	IC	Cred	1	XGBClassifier	CDDD	Accuracy	0.62332
+Secondary	IC	Cred	3	XGBClassifier	CDDD	Accuracy	0.61212
+Secondary	IC	Cred	2	XGBClassifier	CDDD	Accuracy	0.59767
+Secondary	IC	Cred	4	XGBClassifier	CDDD	Accuracy	0.6095
+Secondary	IC	Card	0	XGBClassifier	CDDD	Accuracy	0.62578
+Secondary	IC	Card	1	XGBClassifier	CDDD	Accuracy	0.62121
+Secondary	IC	Card	3	XGBClassifier	CDDD	Accuracy	0.59872
+Secondary	IC	Card	2	XGBClassifier	CDDD	Accuracy	0.6057
+Secondary	IC	Card	4	XGBClassifier	CDDD	Accuracy	0.60773
+Secondary	IC	Cvas	0	XGBClassifier	CDDD	Accuracy	0.6141
+Secondary	IC	Cvas	1	XGBClassifier	CDDD	Accuracy	0.61314
+Secondary	IC	Cvas	3	XGBClassifier	CDDD	Accuracy	0.61155
+Secondary	IC	Cvas	2	XGBClassifier	CDDD	Accuracy	0.60751
+Secondary	IC	Cvas	4	XGBClassifier	CDDD	Accuracy	0.61344
+Secondary	IC	Cred	0	XGBClassifier	CDDD	Recall	0.79093
+Secondary	IC	Cred	1	XGBClassifier	CDDD	Recall	0.82393
+Secondary	IC	Cred	3	XGBClassifier	CDDD	Recall	0.74853
+Secondary	IC	Cred	2	XGBClassifier	CDDD	Recall	0.8204
+Secondary	IC	Cred	4	XGBClassifier	CDDD	Recall	0.81872
+Secondary	IC	Card	0	XGBClassifier	CDDD	Recall	0.79406
+Secondary	IC	Card	1	XGBClassifier	CDDD	Recall	0.81712
+Secondary	IC	Card	3	XGBClassifier	CDDD	Recall	0.72534
+Secondary	IC	Card	2	XGBClassifier	CDDD	Recall	0.83244
+Secondary	IC	Card	4	XGBClassifier	CDDD	Recall	0.79782
+Secondary	IC	Cvas	0	XGBClassifier	CDDD	Recall	0.76308
+Secondary	IC	Cvas	1	XGBClassifier	CDDD	Recall	0.76719
+Secondary	IC	Cvas	3	XGBClassifier	CDDD	Recall	0.7368
+Secondary	IC	Cvas	2	XGBClassifier	CDDD	Recall	0.82483
+Secondary	IC	Cvas	4	XGBClassifier	CDDD	Recall	0.80125
+Secondary	IC	Cred	0	XGBClassifier	CDDD	Specificity	0.29256
+Secondary	IC	Cred	1	XGBClassifier	CDDD	Specificity	0.33176
+Secondary	IC	Cred	3	XGBClassifier	CDDD	Specificity	0.3281
+Secondary	IC	Cred	2	XGBClassifier	CDDD	Specificity	0.21217
+Secondary	IC	Cred	4	XGBClassifier	CDDD	Specificity	0.25054
+Secondary	IC	Card	0	XGBClassifier	CDDD	Specificity	0.26906
+Secondary	IC	Card	1	XGBClassifier	CDDD	Specificity	0.33648
+Secondary	IC	Card	3	XGBClassifier	CDDD	Specificity	0.33508
+Secondary	IC	Card	2	XGBClassifier	CDDD	Specificity	0.21327
+Secondary	IC	Card	4	XGBClassifier	CDDD	Specificity	0.28158
+Secondary	IC	Cvas	0	XGBClassifier	CDDD	Specificity	0.29828
+Secondary	IC	Cvas	1	XGBClassifier	CDDD	Specificity	0.38926
+Secondary	IC	Cvas	3	XGBClassifier	CDDD	Specificity	0.35079
+Secondary	IC	Cvas	2	XGBClassifier	CDDD	Specificity	0.23136
+Secondary	IC	Cvas	4	XGBClassifier	CDDD	Specificity	0.29122
+Secondary	IC	Cred	0	XGBClassifier	CDDD	Precision	0.70327
+Secondary	IC	Cred	1	XGBClassifier	CDDD	Precision	0.64183
+Secondary	IC	Cred	3	XGBClassifier	CDDD	Precision	0.69875
+Secondary	IC	Cred	2	XGBClassifier	CDDD	Precision	0.64316
+Secondary	IC	Cred	4	XGBClassifier	CDDD	Precision	0.65209
+Secondary	IC	Card	0	XGBClassifier	CDDD	Precision	0.69724
+Secondary	IC	Card	1	XGBClassifier	CDDD	Precision	0.64155
+Secondary	IC	Card	3	XGBClassifier	CDDD	Precision	0.6943
+Secondary	IC	Card	2	XGBClassifier	CDDD	Precision	0.64681
+Secondary	IC	Card	4	XGBClassifier	CDDD	Precision	0.65581
+Secondary	IC	Cvas	0	XGBClassifier	CDDD	Precision	0.69745
+Secondary	IC	Cvas	1	XGBClassifier	CDDD	Precision	0.6461
+Secondary	IC	Cvas	3	XGBClassifier	CDDD	Precision	0.70264
+Secondary	IC	Cvas	2	XGBClassifier	CDDD	Precision	0.65002
+Secondary	IC	Cvas	4	XGBClassifier	CDDD	Precision	0.65982
+Secondary	IC	Cred	0	XGBClassifier	CDDD	PRC AUC	0.76242
+Secondary	IC	Cred	1	XGBClassifier	CDDD	PRC AUC	0.73624
+Secondary	IC	Cred	3	XGBClassifier	CDDD	PRC AUC	0.76733
+Secondary	IC	Cred	2	XGBClassifier	CDDD	PRC AUC	0.74408
+Secondary	IC	Cred	4	XGBClassifier	CDDD	PRC AUC	0.73374
+Secondary	IC	Card	0	XGBClassifier	CDDD	PRC AUC	0.7544
+Secondary	IC	Card	1	XGBClassifier	CDDD	PRC AUC	0.73137
+Secondary	IC	Card	3	XGBClassifier	CDDD	PRC AUC	0.76011
+Secondary	IC	Card	2	XGBClassifier	CDDD	PRC AUC	0.74171
+Secondary	IC	Card	4	XGBClassifier	CDDD	PRC AUC	0.73806
+Secondary	IC	Cvas	0	XGBClassifier	CDDD	PRC AUC	0.76211
+Secondary	IC	Cvas	1	XGBClassifier	CDDD	PRC AUC	0.72382
+Secondary	IC	Cvas	3	XGBClassifier	CDDD	PRC AUC	0.76794
+Secondary	IC	Cvas	2	XGBClassifier	CDDD	PRC AUC	0.74076
+Secondary	IC	Cvas	4	XGBClassifier	CDDD	PRC AUC	0.73608
+Secondary	IC	Cred	0	XGBClassifier	CDDD	ECE	0.11882
+Secondary	IC	Cred	1	XGBClassifier	CDDD	ECE	0.09211
+Secondary	IC	Cred	3	XGBClassifier	CDDD	ECE	0.12506
+Secondary	IC	Cred	2	XGBClassifier	CDDD	ECE	0.13861
+Secondary	IC	Cred	4	XGBClassifier	CDDD	ECE	0.10779
+Secondary	IC	Card	0	XGBClassifier	CDDD	ECE	0.12824
+Secondary	IC	Card	1	XGBClassifier	CDDD	ECE	0.10208
+Secondary	IC	Card	3	XGBClassifier	CDDD	ECE	0.14615
+Secondary	IC	Card	2	XGBClassifier	CDDD	ECE	0.14016
+Secondary	IC	Card	4	XGBClassifier	CDDD	ECE	0.10843
+Secondary	IC	Cvas	0	XGBClassifier	CDDD	ECE	0.1382
+Secondary	IC	Cvas	1	XGBClassifier	CDDD	ECE	0.10992
+Secondary	IC	Cvas	3	XGBClassifier	CDDD	ECE	0.13272
+Secondary	IC	Cvas	2	XGBClassifier	CDDD	ECE	0.13545
+Secondary	IC	Cvas	4	XGBClassifier	CDDD	ECE	0.1079
+Secondary	IC	Cred	0	XGBClassifier	CDDD	Brier	0.23179
+Secondary	IC	Cred	1	XGBClassifier	CDDD	Brier	0.23347
+Secondary	IC	Cred	3	XGBClassifier	CDDD	Brier	0.23221
+Secondary	IC	Cred	2	XGBClassifier	CDDD	Brier	0.24519
+Secondary	IC	Cred	4	XGBClassifier	CDDD	Brier	0.23867
+Secondary	IC	Card	0	XGBClassifier	CDDD	Brier	0.23586
+Secondary	IC	Card	1	XGBClassifier	CDDD	Brier	0.23743
+Secondary	IC	Card	3	XGBClassifier	CDDD	Brier	0.24184
+Secondary	IC	Card	2	XGBClassifier	CDDD	Brier	0.24374
+Secondary	IC	Card	4	XGBClassifier	CDDD	Brier	0.23747
+Secondary	IC	Cvas	0	XGBClassifier	CDDD	Brier	0.23888
+Secondary	IC	Cvas	1	XGBClassifier	CDDD	Brier	0.24281
+Secondary	IC	Cvas	3	XGBClassifier	CDDD	Brier	0.23764
+Secondary	IC	Cvas	2	XGBClassifier	CDDD	Brier	0.24418
+Secondary	IC	Cvas	4	XGBClassifier	CDDD	Brier	0.23907

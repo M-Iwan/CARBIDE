@@ -1,0 +1,196 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Mono	PRR	Cvas	0	XGBClassifier	MACCS	Balanced Accuracy	0.51557
+Mono	PRR	Cvas	1	XGBClassifier	MACCS	Balanced Accuracy	0.53486
+Mono	PRR	Cvas	3	XGBClassifier	MACCS	Balanced Accuracy	0.51438
+Mono	PRR	Cvas	2	XGBClassifier	MACCS	Balanced Accuracy	0.55058
+Mono	PRR	Cvas	4	XGBClassifier	MACCS	Balanced Accuracy	0.47025
+Mono	ROR	Cvas	0	XGBClassifier	MACCS	Balanced Accuracy	0.52542
+Mono	ROR	Cvas	1	XGBClassifier	MACCS	Balanced Accuracy	0.54325
+Mono	ROR	Cvas	3	XGBClassifier	MACCS	Balanced Accuracy	0.54061
+Mono	ROR	Cvas	2	XGBClassifier	MACCS	Balanced Accuracy	0.54639
+Mono	ROR	Cvas	4	XGBClassifier	MACCS	Balanced Accuracy	0.49388
+Mono	IC	Cvas	0	XGBClassifier	MACCS	Balanced Accuracy	0.4993
+Mono	IC	Cvas	1	XGBClassifier	MACCS	Balanced Accuracy	0.51046
+Mono	IC	Cvas	3	XGBClassifier	MACCS	Balanced Accuracy	0.51048
+Mono	IC	Cvas	2	XGBClassifier	MACCS	Balanced Accuracy	0.52434
+Mono	IC	Cvas	4	XGBClassifier	MACCS	Balanced Accuracy	0.51586
+Mono	PRR	Cvas	0	XGBClassifier	MACCS	GeomRS	0.51412
+Mono	PRR	Cvas	1	XGBClassifier	MACCS	GeomRS	0.5151
+Mono	PRR	Cvas	3	XGBClassifier	MACCS	GeomRS	0.51336
+Mono	PRR	Cvas	2	XGBClassifier	MACCS	GeomRS	0.54834
+Mono	PRR	Cvas	4	XGBClassifier	MACCS	GeomRS	0.46951
+Mono	ROR	Cvas	0	XGBClassifier	MACCS	GeomRS	0.52131
+Mono	ROR	Cvas	1	XGBClassifier	MACCS	GeomRS	0.52946
+Mono	ROR	Cvas	3	XGBClassifier	MACCS	GeomRS	0.53349
+Mono	ROR	Cvas	2	XGBClassifier	MACCS	GeomRS	0.54479
+Mono	ROR	Cvas	4	XGBClassifier	MACCS	GeomRS	0.49384
+Mono	IC	Cvas	0	XGBClassifier	MACCS	GeomRS	0.45423
+Mono	IC	Cvas	1	XGBClassifier	MACCS	GeomRS	0.49633
+Mono	IC	Cvas	3	XGBClassifier	MACCS	GeomRS	0.46359
+Mono	IC	Cvas	2	XGBClassifier	MACCS	GeomRS	0.47957
+Mono	IC	Cvas	4	XGBClassifier	MACCS	GeomRS	0.45361
+Mono	PRR	Cvas	0	XGBClassifier	MACCS	HarmRS	0.51268
+Mono	PRR	Cvas	1	XGBClassifier	MACCS	HarmRS	0.49606
+Mono	PRR	Cvas	3	XGBClassifier	MACCS	HarmRS	0.51234
+Mono	PRR	Cvas	2	XGBClassifier	MACCS	HarmRS	0.54611
+Mono	PRR	Cvas	4	XGBClassifier	MACCS	HarmRS	0.46878
+Mono	ROR	Cvas	0	XGBClassifier	MACCS	HarmRS	0.51723
+Mono	ROR	Cvas	1	XGBClassifier	MACCS	HarmRS	0.51602
+Mono	ROR	Cvas	3	XGBClassifier	MACCS	HarmRS	0.52646
+Mono	ROR	Cvas	2	XGBClassifier	MACCS	HarmRS	0.54319
+Mono	ROR	Cvas	4	XGBClassifier	MACCS	HarmRS	0.49379
+Mono	IC	Cvas	0	XGBClassifier	MACCS	HarmRS	0.41324
+Mono	IC	Cvas	1	XGBClassifier	MACCS	HarmRS	0.48259
+Mono	IC	Cvas	3	XGBClassifier	MACCS	HarmRS	0.42102
+Mono	IC	Cvas	2	XGBClassifier	MACCS	HarmRS	0.43861
+Mono	IC	Cvas	4	XGBClassifier	MACCS	HarmRS	0.39887
+Mono	PRR	Cvas	0	XGBClassifier	MACCS	F1 Score	0.58439
+Mono	PRR	Cvas	1	XGBClassifier	MACCS	F1 Score	0.47348
+Mono	PRR	Cvas	3	XGBClassifier	MACCS	F1 Score	0.54585
+Mono	PRR	Cvas	2	XGBClassifier	MACCS	F1 Score	0.55998
+Mono	PRR	Cvas	4	XGBClassifier	MACCS	F1 Score	0.50296
+Mono	ROR	Cvas	0	XGBClassifier	MACCS	F1 Score	0.53231
+Mono	ROR	Cvas	1	XGBClassifier	MACCS	F1 Score	0.49808
+Mono	ROR	Cvas	3	XGBClassifier	MACCS	F1 Score	0.53748
+Mono	ROR	Cvas	2	XGBClassifier	MACCS	F1 Score	0.56013
+Mono	ROR	Cvas	4	XGBClassifier	MACCS	F1 Score	0.5085
+Mono	IC	Cvas	0	XGBClassifier	MACCS	F1 Score	0.65117
+Mono	IC	Cvas	1	XGBClassifier	MACCS	F1 Score	0.59333
+Mono	IC	Cvas	3	XGBClassifier	MACCS	F1 Score	0.66903
+Mono	IC	Cvas	2	XGBClassifier	MACCS	F1 Score	0.65973
+Mono	IC	Cvas	4	XGBClassifier	MACCS	F1 Score	0.63751
+Mono	PRR	Cvas	0	XGBClassifier	MACCS	ROC AUC	0.5252
+Mono	PRR	Cvas	1	XGBClassifier	MACCS	ROC AUC	0.56489
+Mono	PRR	Cvas	3	XGBClassifier	MACCS	ROC AUC	0.51472
+Mono	PRR	Cvas	2	XGBClassifier	MACCS	ROC AUC	0.54801
+Mono	PRR	Cvas	4	XGBClassifier	MACCS	ROC AUC	0.48586
+Mono	ROR	Cvas	0	XGBClassifier	MACCS	ROC AUC	0.54326
+Mono	ROR	Cvas	1	XGBClassifier	MACCS	ROC AUC	0.56903
+Mono	ROR	Cvas	3	XGBClassifier	MACCS	ROC AUC	0.5624
+Mono	ROR	Cvas	2	XGBClassifier	MACCS	ROC AUC	0.54044
+Mono	ROR	Cvas	4	XGBClassifier	MACCS	ROC AUC	0.51211
+Mono	IC	Cvas	0	XGBClassifier	MACCS	ROC AUC	0.50331
+Mono	IC	Cvas	1	XGBClassifier	MACCS	ROC AUC	0.53693
+Mono	IC	Cvas	3	XGBClassifier	MACCS	ROC AUC	0.52873
+Mono	IC	Cvas	2	XGBClassifier	MACCS	ROC AUC	0.54465
+Mono	IC	Cvas	4	XGBClassifier	MACCS	ROC AUC	0.50922
+Mono	PRR	Cvas	0	XGBClassifier	MACCS	MCC	0.03057
+Mono	PRR	Cvas	1	XGBClassifier	MACCS	MCC	0.07224
+Mono	PRR	Cvas	3	XGBClassifier	MACCS	MCC	0.02804
+Mono	PRR	Cvas	2	XGBClassifier	MACCS	MCC	0.10016
+Mono	PRR	Cvas	4	XGBClassifier	MACCS	MCC	-0.05939
+Mono	ROR	Cvas	0	XGBClassifier	MACCS	MCC	0.05009
+Mono	ROR	Cvas	1	XGBClassifier	MACCS	MCC	0.08849
+Mono	ROR	Cvas	3	XGBClassifier	MACCS	MCC	0.08003
+Mono	ROR	Cvas	2	XGBClassifier	MACCS	MCC	0.09177
+Mono	ROR	Cvas	4	XGBClassifier	MACCS	MCC	-0.01221
+Mono	IC	Cvas	0	XGBClassifier	MACCS	MCC	-0.00151
+Mono	IC	Cvas	1	XGBClassifier	MACCS	MCC	0.02143
+Mono	IC	Cvas	3	XGBClassifier	MACCS	MCC	0.02261
+Mono	IC	Cvas	2	XGBClassifier	MACCS	MCC	0.05327
+Mono	IC	Cvas	4	XGBClassifier	MACCS	MCC	0.03637
+Mono	PRR	Cvas	0	XGBClassifier	MACCS	Accuracy	0.52363
+Mono	PRR	Cvas	1	XGBClassifier	MACCS	Accuracy	0.51971
+Mono	PRR	Cvas	3	XGBClassifier	MACCS	Accuracy	0.50694
+Mono	PRR	Cvas	2	XGBClassifier	MACCS	Accuracy	0.54255
+Mono	PRR	Cvas	4	XGBClassifier	MACCS	Accuracy	0.47224
+Mono	ROR	Cvas	0	XGBClassifier	MACCS	Accuracy	0.51173
+Mono	ROR	Cvas	1	XGBClassifier	MACCS	Accuracy	0.53047
+Mono	ROR	Cvas	3	XGBClassifier	MACCS	Accuracy	0.52053
+Mono	ROR	Cvas	2	XGBClassifier	MACCS	Accuracy	0.53961
+Mono	ROR	Cvas	4	XGBClassifier	MACCS	Accuracy	0.49339
+Mono	IC	Cvas	0	XGBClassifier	MACCS	Accuracy	0.54254
+Mono	IC	Cvas	1	XGBClassifier	MACCS	Accuracy	0.523
+Mono	IC	Cvas	3	XGBClassifier	MACCS	Accuracy	0.55953
+Mono	IC	Cvas	2	XGBClassifier	MACCS	Accuracy	0.55869
+Mono	IC	Cvas	4	XGBClassifier	MACCS	Accuracy	0.53437
+Mono	PRR	Cvas	0	XGBClassifier	MACCS	Recall	0.55421
+Mono	PRR	Cvas	1	XGBClassifier	MACCS	Recall	0.39081
+Mono	PRR	Cvas	3	XGBClassifier	MACCS	Recall	0.48198
+Mono	PRR	Cvas	2	XGBClassifier	MACCS	Recall	0.50101
+Mono	PRR	Cvas	4	XGBClassifier	MACCS	Recall	0.49662
+Mono	ROR	Cvas	0	XGBClassifier	MACCS	Recall	0.45982
+Mono	ROR	Cvas	1	XGBClassifier	MACCS	Recall	0.42162
+Mono	ROR	Cvas	3	XGBClassifier	MACCS	Recall	0.45315
+Mono	ROR	Cvas	2	XGBClassifier	MACCS	Recall	0.50455
+Mono	ROR	Cvas	4	XGBClassifier	MACCS	Recall	0.4874
+Mono	IC	Cvas	0	XGBClassifier	MACCS	Recall	0.70658
+Mono	IC	Cvas	1	XGBClassifier	MACCS	Recall	0.62973
+Mono	IC	Cvas	3	XGBClassifier	MACCS	Recall	0.72417
+Mono	IC	Cvas	2	XGBClassifier	MACCS	Recall	0.73636
+Mono	IC	Cvas	4	XGBClassifier	MACCS	Recall	0.76152
+Mono	PRR	Cvas	0	XGBClassifier	MACCS	Specificity	0.47694
+Mono	PRR	Cvas	1	XGBClassifier	MACCS	Specificity	0.67891
+Mono	PRR	Cvas	3	XGBClassifier	MACCS	Specificity	0.54678
+Mono	PRR	Cvas	2	XGBClassifier	MACCS	Specificity	0.60014
+Mono	PRR	Cvas	4	XGBClassifier	MACCS	Specificity	0.44389
+Mono	ROR	Cvas	0	XGBClassifier	MACCS	Specificity	0.59102
+Mono	ROR	Cvas	1	XGBClassifier	MACCS	Specificity	0.66489
+Mono	ROR	Cvas	3	XGBClassifier	MACCS	Specificity	0.62807
+Mono	ROR	Cvas	2	XGBClassifier	MACCS	Specificity	0.58824
+Mono	ROR	Cvas	4	XGBClassifier	MACCS	Specificity	0.50036
+Mono	IC	Cvas	0	XGBClassifier	MACCS	Specificity	0.29201
+Mono	IC	Cvas	1	XGBClassifier	MACCS	Specificity	0.39119
+Mono	IC	Cvas	3	XGBClassifier	MACCS	Specificity	0.29678
+Mono	IC	Cvas	2	XGBClassifier	MACCS	Specificity	0.31232
+Mono	IC	Cvas	4	XGBClassifier	MACCS	Specificity	0.27019
+Mono	PRR	Cvas	0	XGBClassifier	MACCS	Precision	0.61805
+Mono	PRR	Cvas	1	XGBClassifier	MACCS	Precision	0.6005
+Mono	PRR	Cvas	3	XGBClassifier	MACCS	Precision	0.62923
+Mono	PRR	Cvas	2	XGBClassifier	MACCS	Precision	0.63468
+Mono	PRR	Cvas	4	XGBClassifier	MACCS	Precision	0.50946
+Mono	ROR	Cvas	0	XGBClassifier	MACCS	Precision	0.63195
+Mono	ROR	Cvas	1	XGBClassifier	MACCS	Precision	0.60842
+Mono	ROR	Cvas	3	XGBClassifier	MACCS	Precision	0.66036
+Mono	ROR	Cvas	2	XGBClassifier	MACCS	Precision	0.62949
+Mono	ROR	Cvas	4	XGBClassifier	MACCS	Precision	0.5315
+Mono	IC	Cvas	0	XGBClassifier	MACCS	Precision	0.60383
+Mono	IC	Cvas	1	XGBClassifier	MACCS	Precision	0.56091
+Mono	IC	Cvas	3	XGBClassifier	MACCS	Precision	0.6217
+Mono	IC	Cvas	2	XGBClassifier	MACCS	Precision	0.59754
+Mono	IC	Cvas	4	XGBClassifier	MACCS	Precision	0.54823
+Mono	PRR	Cvas	0	XGBClassifier	MACCS	PRC AUC	0.6282
+Mono	PRR	Cvas	1	XGBClassifier	MACCS	PRC AUC	0.63136
+Mono	PRR	Cvas	3	XGBClassifier	MACCS	PRC AUC	0.64468
+Mono	PRR	Cvas	2	XGBClassifier	MACCS	PRC AUC	0.61355
+Mono	PRR	Cvas	4	XGBClassifier	MACCS	PRC AUC	0.5413
+Mono	ROR	Cvas	0	XGBClassifier	MACCS	PRC AUC	0.63883
+Mono	ROR	Cvas	1	XGBClassifier	MACCS	PRC AUC	0.63391
+Mono	ROR	Cvas	3	XGBClassifier	MACCS	PRC AUC	0.67411
+Mono	ROR	Cvas	2	XGBClassifier	MACCS	PRC AUC	0.61474
+Mono	ROR	Cvas	4	XGBClassifier	MACCS	PRC AUC	0.56703
+Mono	IC	Cvas	0	XGBClassifier	MACCS	PRC AUC	0.61286
+Mono	IC	Cvas	1	XGBClassifier	MACCS	PRC AUC	0.60411
+Mono	IC	Cvas	3	XGBClassifier	MACCS	PRC AUC	0.65576
+Mono	IC	Cvas	2	XGBClassifier	MACCS	PRC AUC	0.62803
+Mono	IC	Cvas	4	XGBClassifier	MACCS	PRC AUC	0.54368
+Mono	PRR	Cvas	0	XGBClassifier	MACCS	Brier	0.26811
+Mono	PRR	Cvas	1	XGBClassifier	MACCS	Brier	0.2581
+Mono	PRR	Cvas	3	XGBClassifier	MACCS	Brier	0.26918
+Mono	PRR	Cvas	2	XGBClassifier	MACCS	Brier	0.26766
+Mono	PRR	Cvas	4	XGBClassifier	MACCS	Brier	0.29419
+Mono	ROR	Cvas	0	XGBClassifier	MACCS	Brier	0.27065
+Mono	ROR	Cvas	1	XGBClassifier	MACCS	Brier	0.27053
+Mono	ROR	Cvas	3	XGBClassifier	MACCS	Brier	0.26792
+Mono	ROR	Cvas	2	XGBClassifier	MACCS	Brier	0.28099
+Mono	ROR	Cvas	4	XGBClassifier	MACCS	Brier	0.29305
+Mono	IC	Cvas	0	XGBClassifier	MACCS	Brier	0.27962
+Mono	IC	Cvas	1	XGBClassifier	MACCS	Brier	0.26867
+Mono	IC	Cvas	3	XGBClassifier	MACCS	Brier	0.25209
+Mono	IC	Cvas	2	XGBClassifier	MACCS	Brier	0.26408
+Mono	IC	Cvas	4	XGBClassifier	MACCS	Brier	0.28519
+Mono	PRR	Cvas	0	XGBClassifier	MACCS	ECE	0.13842
+Mono	PRR	Cvas	1	XGBClassifier	MACCS	ECE	0.10422
+Mono	PRR	Cvas	3	XGBClassifier	MACCS	ECE	0.16002
+Mono	PRR	Cvas	2	XGBClassifier	MACCS	ECE	0.12781
+Mono	PRR	Cvas	4	XGBClassifier	MACCS	ECE	0.20087
+Mono	ROR	Cvas	0	XGBClassifier	MACCS	ECE	0.15368
+Mono	ROR	Cvas	1	XGBClassifier	MACCS	ECE	0.13597
+Mono	ROR	Cvas	3	XGBClassifier	MACCS	ECE	0.15371
+Mono	ROR	Cvas	2	XGBClassifier	MACCS	ECE	0.16148
+Mono	ROR	Cvas	4	XGBClassifier	MACCS	ECE	0.19555
+Mono	IC	Cvas	0	XGBClassifier	MACCS	ECE	0.17246
+Mono	IC	Cvas	1	XGBClassifier	MACCS	ECE	0.14422
+Mono	IC	Cvas	3	XGBClassifier	MACCS	ECE	0.10034
+Mono	IC	Cvas	2	XGBClassifier	MACCS	ECE	0.12717
+Mono	IC	Cvas	4	XGBClassifier	MACCS	ECE	0.1621

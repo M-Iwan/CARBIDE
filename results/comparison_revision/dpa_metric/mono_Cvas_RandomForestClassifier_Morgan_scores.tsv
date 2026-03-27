@@ -1,0 +1,196 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Mono	PRR	Cvas	0	RandomForestClassifier	Morgan	Balanced Accuracy	0.49535
+Mono	PRR	Cvas	1	RandomForestClassifier	Morgan	Balanced Accuracy	0.49925
+Mono	PRR	Cvas	3	RandomForestClassifier	Morgan	Balanced Accuracy	0.53061
+Mono	PRR	Cvas	4	RandomForestClassifier	Morgan	Balanced Accuracy	0.47972
+Mono	PRR	Cvas	2	RandomForestClassifier	Morgan	Balanced Accuracy	0.50505
+Mono	ROR	Cvas	0	RandomForestClassifier	Morgan	Balanced Accuracy	0.49951
+Mono	ROR	Cvas	1	RandomForestClassifier	Morgan	Balanced Accuracy	0.48157
+Mono	ROR	Cvas	3	RandomForestClassifier	Morgan	Balanced Accuracy	0.5316
+Mono	ROR	Cvas	4	RandomForestClassifier	Morgan	Balanced Accuracy	0.4689
+Mono	ROR	Cvas	2	RandomForestClassifier	Morgan	Balanced Accuracy	0.52531
+Mono	IC	Cvas	0	RandomForestClassifier	Morgan	Balanced Accuracy	0.51038
+Mono	IC	Cvas	1	RandomForestClassifier	Morgan	Balanced Accuracy	0.51069
+Mono	IC	Cvas	3	RandomForestClassifier	Morgan	Balanced Accuracy	0.48351
+Mono	IC	Cvas	4	RandomForestClassifier	Morgan	Balanced Accuracy	0.51551
+Mono	IC	Cvas	2	RandomForestClassifier	Morgan	Balanced Accuracy	0.5361
+Mono	PRR	Cvas	0	RandomForestClassifier	Morgan	GeomRS	0.46754
+Mono	PRR	Cvas	1	RandomForestClassifier	Morgan	GeomRS	0.41348
+Mono	PRR	Cvas	3	RandomForestClassifier	Morgan	GeomRS	0.51273
+Mono	PRR	Cvas	4	RandomForestClassifier	Morgan	GeomRS	0.45044
+Mono	PRR	Cvas	2	RandomForestClassifier	Morgan	GeomRS	0.50377
+Mono	ROR	Cvas	0	RandomForestClassifier	Morgan	GeomRS	0.44945
+Mono	ROR	Cvas	1	RandomForestClassifier	Morgan	GeomRS	0.37282
+Mono	ROR	Cvas	3	RandomForestClassifier	Morgan	GeomRS	0.48185
+Mono	ROR	Cvas	4	RandomForestClassifier	Morgan	GeomRS	0.39702
+Mono	ROR	Cvas	2	RandomForestClassifier	Morgan	GeomRS	0.52415
+Mono	IC	Cvas	0	RandomForestClassifier	Morgan	GeomRS	0.48629
+Mono	IC	Cvas	1	RandomForestClassifier	Morgan	GeomRS	0.41201
+Mono	IC	Cvas	3	RandomForestClassifier	Morgan	GeomRS	0.41223
+Mono	IC	Cvas	4	RandomForestClassifier	Morgan	GeomRS	0.43215
+Mono	IC	Cvas	2	RandomForestClassifier	Morgan	GeomRS	0.47329
+Mono	PRR	Cvas	0	RandomForestClassifier	Morgan	HarmRS	0.44129
+Mono	PRR	Cvas	1	RandomForestClassifier	Morgan	HarmRS	0.34245
+Mono	PRR	Cvas	3	RandomForestClassifier	Morgan	HarmRS	0.49546
+Mono	PRR	Cvas	4	RandomForestClassifier	Morgan	HarmRS	0.42295
+Mono	PRR	Cvas	2	RandomForestClassifier	Morgan	HarmRS	0.5025
+Mono	ROR	Cvas	0	RandomForestClassifier	Morgan	HarmRS	0.40441
+Mono	ROR	Cvas	1	RandomForestClassifier	Morgan	HarmRS	0.28864
+Mono	ROR	Cvas	3	RandomForestClassifier	Morgan	HarmRS	0.43676
+Mono	ROR	Cvas	4	RandomForestClassifier	Morgan	HarmRS	0.33616
+Mono	ROR	Cvas	2	RandomForestClassifier	Morgan	HarmRS	0.52299
+Mono	IC	Cvas	0	RandomForestClassifier	Morgan	HarmRS	0.46334
+Mono	IC	Cvas	1	RandomForestClassifier	Morgan	HarmRS	0.3324
+Mono	IC	Cvas	3	RandomForestClassifier	Morgan	HarmRS	0.35146
+Mono	IC	Cvas	4	RandomForestClassifier	Morgan	HarmRS	0.36228
+Mono	IC	Cvas	2	RandomForestClassifier	Morgan	HarmRS	0.41784
+Mono	PRR	Cvas	0	RandomForestClassifier	Morgan	F1 Score	0.42664
+Mono	PRR	Cvas	1	RandomForestClassifier	Morgan	F1 Score	0.31388
+Mono	PRR	Cvas	3	RandomForestClassifier	Morgan	F1 Score	0.49175
+Mono	PRR	Cvas	4	RandomForestClassifier	Morgan	F1 Score	0.38847
+Mono	PRR	Cvas	2	RandomForestClassifier	Morgan	F1 Score	0.56235
+Mono	ROR	Cvas	0	RandomForestClassifier	Morgan	F1 Score	0.38396
+Mono	ROR	Cvas	1	RandomForestClassifier	Morgan	F1 Score	0.26191
+Mono	ROR	Cvas	3	RandomForestClassifier	Morgan	F1 Score	0.42067
+Mono	ROR	Cvas	4	RandomForestClassifier	Morgan	F1 Score	0.30025
+Mono	ROR	Cvas	2	RandomForestClassifier	Morgan	F1 Score	0.54261
+Mono	IC	Cvas	0	RandomForestClassifier	Morgan	F1 Score	0.63747
+Mono	IC	Cvas	1	RandomForestClassifier	Morgan	F1 Score	0.66241
+Mono	IC	Cvas	3	RandomForestClassifier	Morgan	F1 Score	0.66378
+Mono	IC	Cvas	4	RandomForestClassifier	Morgan	F1 Score	0.64897
+Mono	IC	Cvas	2	RandomForestClassifier	Morgan	F1 Score	0.68391
+Mono	PRR	Cvas	0	RandomForestClassifier	Morgan	ROC AUC	0.47815
+Mono	PRR	Cvas	1	RandomForestClassifier	Morgan	ROC AUC	0.48553
+Mono	PRR	Cvas	3	RandomForestClassifier	Morgan	ROC AUC	0.54528
+Mono	PRR	Cvas	4	RandomForestClassifier	Morgan	ROC AUC	0.46173
+Mono	PRR	Cvas	2	RandomForestClassifier	Morgan	ROC AUC	0.50003
+Mono	ROR	Cvas	0	RandomForestClassifier	Morgan	ROC AUC	0.50623
+Mono	ROR	Cvas	1	RandomForestClassifier	Morgan	ROC AUC	0.47235
+Mono	ROR	Cvas	3	RandomForestClassifier	Morgan	ROC AUC	0.53098
+Mono	ROR	Cvas	4	RandomForestClassifier	Morgan	ROC AUC	0.47231
+Mono	ROR	Cvas	2	RandomForestClassifier	Morgan	ROC AUC	0.52219
+Mono	IC	Cvas	0	RandomForestClassifier	Morgan	ROC AUC	0.50607
+Mono	IC	Cvas	1	RandomForestClassifier	Morgan	ROC AUC	0.53481
+Mono	IC	Cvas	3	RandomForestClassifier	Morgan	ROC AUC	0.49782
+Mono	IC	Cvas	4	RandomForestClassifier	Morgan	ROC AUC	0.51545
+Mono	IC	Cvas	2	RandomForestClassifier	Morgan	ROC AUC	0.54158
+Mono	PRR	Cvas	0	RandomForestClassifier	Morgan	MCC	-0.00964
+Mono	PRR	Cvas	1	RandomForestClassifier	Morgan	MCC	-0.0018
+Mono	PRR	Cvas	3	RandomForestClassifier	Morgan	MCC	0.06169
+Mono	PRR	Cvas	4	RandomForestClassifier	Morgan	MCC	-0.0429
+Mono	PRR	Cvas	2	RandomForestClassifier	Morgan	MCC	0.00999
+Mono	ROR	Cvas	0	RandomForestClassifier	Morgan	MCC	-0.00107
+Mono	ROR	Cvas	1	RandomForestClassifier	Morgan	MCC	-0.04642
+Mono	ROR	Cvas	3	RandomForestClassifier	Morgan	MCC	0.0683
+Mono	ROR	Cvas	4	RandomForestClassifier	Morgan	MCC	-0.0718
+Mono	ROR	Cvas	2	RandomForestClassifier	Morgan	MCC	0.05005
+Mono	IC	Cvas	0	RandomForestClassifier	Morgan	MCC	0.02138
+Mono	IC	Cvas	1	RandomForestClassifier	Morgan	MCC	0.02672
+Mono	IC	Cvas	3	RandomForestClassifier	Morgan	MCC	-0.03702
+Mono	IC	Cvas	4	RandomForestClassifier	Morgan	MCC	0.03746
+Mono	IC	Cvas	2	RandomForestClassifier	Morgan	MCC	0.08312
+Mono	PRR	Cvas	0	RandomForestClassifier	Morgan	Accuracy	0.46121
+Mono	PRR	Cvas	1	RandomForestClassifier	Morgan	Accuracy	0.46983
+Mono	PRR	Cvas	3	RandomForestClassifier	Morgan	Accuracy	0.49926
+Mono	PRR	Cvas	4	RandomForestClassifier	Morgan	Accuracy	0.46728
+Mono	PRR	Cvas	2	RandomForestClassifier	Morgan	Accuracy	0.51086
+Mono	ROR	Cvas	0	RandomForestClassifier	Morgan	Accuracy	0.45404
+Mono	ROR	Cvas	1	RandomForestClassifier	Morgan	Accuracy	0.44952
+Mono	ROR	Cvas	3	RandomForestClassifier	Morgan	Accuracy	0.48006
+Mono	ROR	Cvas	4	RandomForestClassifier	Morgan	Accuracy	0.4501
+Mono	ROR	Cvas	2	RandomForestClassifier	Morgan	Accuracy	0.51966
+Mono	IC	Cvas	0	RandomForestClassifier	Morgan	Accuracy	0.5427
+Mono	IC	Cvas	1	RandomForestClassifier	Morgan	Accuracy	0.54241
+Mono	IC	Cvas	3	RandomForestClassifier	Morgan	Accuracy	0.54151
+Mono	IC	Cvas	4	RandomForestClassifier	Morgan	Accuracy	0.53668
+Mono	IC	Cvas	2	RandomForestClassifier	Morgan	Accuracy	0.57688
+Mono	PRR	Cvas	0	RandomForestClassifier	Morgan	Recall	0.33172
+Mono	PRR	Cvas	1	RandomForestClassifier	Morgan	Recall	0.21946
+Mono	PRR	Cvas	3	RandomForestClassifier	Morgan	Recall	0.39404
+Mono	PRR	Cvas	4	RandomForestClassifier	Morgan	Recall	0.31469
+Mono	PRR	Cvas	2	RandomForestClassifier	Morgan	Recall	0.54091
+Mono	ROR	Cvas	0	RandomForestClassifier	Morgan	Recall	0.28155
+Mono	ROR	Cvas	1	RandomForestClassifier	Morgan	Recall	0.17676
+Mono	ROR	Cvas	3	RandomForestClassifier	Morgan	Recall	0.30706
+Mono	ROR	Cvas	4	RandomForestClassifier	Morgan	Recall	0.21942
+Mono	ROR	Cvas	2	RandomForestClassifier	Morgan	Recall	0.4904
+Mono	IC	Cvas	0	RandomForestClassifier	Morgan	Recall	0.66532
+Mono	IC	Cvas	1	RandomForestClassifier	Morgan	Recall	0.81243
+Mono	IC	Cvas	3	RandomForestClassifier	Morgan	Recall	0.73618
+Mono	IC	Cvas	4	RandomForestClassifier	Morgan	Recall	0.79656
+Mono	IC	Cvas	2	RandomForestClassifier	Morgan	Recall	0.78788
+Mono	PRR	Cvas	0	RandomForestClassifier	Morgan	Specificity	0.65898
+Mono	PRR	Cvas	1	RandomForestClassifier	Morgan	Specificity	0.77904
+Mono	PRR	Cvas	3	RandomForestClassifier	Morgan	Specificity	0.66718
+Mono	PRR	Cvas	4	RandomForestClassifier	Morgan	Specificity	0.64475
+Mono	PRR	Cvas	2	RandomForestClassifier	Morgan	Specificity	0.46919
+Mono	ROR	Cvas	0	RandomForestClassifier	Morgan	Specificity	0.71746
+Mono	ROR	Cvas	1	RandomForestClassifier	Morgan	Specificity	0.78638
+Mono	ROR	Cvas	3	RandomForestClassifier	Morgan	Specificity	0.75613
+Mono	ROR	Cvas	4	RandomForestClassifier	Morgan	Specificity	0.71837
+Mono	ROR	Cvas	2	RandomForestClassifier	Morgan	Specificity	0.56022
+Mono	IC	Cvas	0	RandomForestClassifier	Morgan	Specificity	0.35544
+Mono	IC	Cvas	1	RandomForestClassifier	Morgan	Specificity	0.20895
+Mono	IC	Cvas	3	RandomForestClassifier	Morgan	Specificity	0.23083
+Mono	IC	Cvas	4	RandomForestClassifier	Morgan	Specificity	0.23445
+Mono	IC	Cvas	2	RandomForestClassifier	Morgan	Specificity	0.28431
+Mono	PRR	Cvas	0	RandomForestClassifier	Morgan	Precision	0.59767
+Mono	PRR	Cvas	1	RandomForestClassifier	Morgan	Precision	0.55088
+Mono	PRR	Cvas	3	RandomForestClassifier	Morgan	Precision	0.65391
+Mono	PRR	Cvas	4	RandomForestClassifier	Morgan	Precision	0.50743
+Mono	PRR	Cvas	2	RandomForestClassifier	Morgan	Precision	0.58557
+Mono	ROR	Cvas	0	RandomForestClassifier	Morgan	Precision	0.60347
+Mono	ROR	Cvas	1	RandomForestClassifier	Morgan	Precision	0.50541
+Mono	ROR	Cvas	3	RandomForestClassifier	Morgan	Precision	0.66771
+Mono	ROR	Cvas	4	RandomForestClassifier	Morgan	Precision	0.47537
+Mono	ROR	Cvas	2	RandomForestClassifier	Morgan	Precision	0.60725
+Mono	IC	Cvas	0	RandomForestClassifier	Morgan	Precision	0.61186
+Mono	IC	Cvas	1	RandomForestClassifier	Morgan	Precision	0.55915
+Mono	IC	Cvas	3	RandomForestClassifier	Morgan	Precision	0.60434
+Mono	IC	Cvas	4	RandomForestClassifier	Morgan	Precision	0.54753
+Mono	IC	Cvas	2	RandomForestClassifier	Morgan	Precision	0.60418
+Mono	PRR	Cvas	0	RandomForestClassifier	Morgan	PRC AUC	0.58931
+Mono	PRR	Cvas	1	RandomForestClassifier	Morgan	PRC AUC	0.54763
+Mono	PRR	Cvas	3	RandomForestClassifier	Morgan	PRC AUC	0.66874
+Mono	PRR	Cvas	4	RandomForestClassifier	Morgan	PRC AUC	0.49618
+Mono	PRR	Cvas	2	RandomForestClassifier	Morgan	PRC AUC	0.5654
+Mono	ROR	Cvas	0	RandomForestClassifier	Morgan	PRC AUC	0.60243
+Mono	ROR	Cvas	1	RandomForestClassifier	Morgan	PRC AUC	0.53494
+Mono	ROR	Cvas	3	RandomForestClassifier	Morgan	PRC AUC	0.66456
+Mono	ROR	Cvas	4	RandomForestClassifier	Morgan	PRC AUC	0.50154
+Mono	ROR	Cvas	2	RandomForestClassifier	Morgan	PRC AUC	0.57744
+Mono	IC	Cvas	0	RandomForestClassifier	Morgan	PRC AUC	0.60168
+Mono	IC	Cvas	1	RandomForestClassifier	Morgan	PRC AUC	0.58854
+Mono	IC	Cvas	3	RandomForestClassifier	Morgan	PRC AUC	0.65116
+Mono	IC	Cvas	4	RandomForestClassifier	Morgan	PRC AUC	0.53159
+Mono	IC	Cvas	2	RandomForestClassifier	Morgan	PRC AUC	0.60105
+Mono	PRR	Cvas	0	RandomForestClassifier	Morgan	Brier	0.28163
+Mono	PRR	Cvas	1	RandomForestClassifier	Morgan	Brier	0.27137
+Mono	PRR	Cvas	3	RandomForestClassifier	Morgan	Brier	0.25894
+Mono	PRR	Cvas	4	RandomForestClassifier	Morgan	Brier	0.27452
+Mono	PRR	Cvas	2	RandomForestClassifier	Morgan	Brier	0.26639
+Mono	ROR	Cvas	0	RandomForestClassifier	Morgan	Brier	0.27901
+Mono	ROR	Cvas	1	RandomForestClassifier	Morgan	Brier	0.27724
+Mono	ROR	Cvas	3	RandomForestClassifier	Morgan	Brier	0.27014
+Mono	ROR	Cvas	4	RandomForestClassifier	Morgan	Brier	0.27936
+Mono	ROR	Cvas	2	RandomForestClassifier	Morgan	Brier	0.26738
+Mono	IC	Cvas	0	RandomForestClassifier	Morgan	Brier	0.25195
+Mono	IC	Cvas	1	RandomForestClassifier	Morgan	Brier	0.24854
+Mono	IC	Cvas	3	RandomForestClassifier	Morgan	Brier	0.24602
+Mono	IC	Cvas	4	RandomForestClassifier	Morgan	Brier	0.25454
+Mono	IC	Cvas	2	RandomForestClassifier	Morgan	Brier	0.24708
+Mono	PRR	Cvas	0	RandomForestClassifier	Morgan	ECE	0.19747
+Mono	PRR	Cvas	1	RandomForestClassifier	Morgan	ECE	0.12808
+Mono	PRR	Cvas	3	RandomForestClassifier	Morgan	ECE	0.14543
+Mono	PRR	Cvas	4	RandomForestClassifier	Morgan	ECE	0.13171
+Mono	PRR	Cvas	2	RandomForestClassifier	Morgan	ECE	0.14178
+Mono	ROR	Cvas	0	RandomForestClassifier	Morgan	ECE	0.18975
+Mono	ROR	Cvas	1	RandomForestClassifier	Morgan	ECE	0.15481
+Mono	ROR	Cvas	3	RandomForestClassifier	Morgan	ECE	0.17282
+Mono	ROR	Cvas	4	RandomForestClassifier	Morgan	ECE	0.15668
+Mono	ROR	Cvas	2	RandomForestClassifier	Morgan	ECE	0.14204
+Mono	IC	Cvas	0	RandomForestClassifier	Morgan	ECE	0.09125
+Mono	IC	Cvas	1	RandomForestClassifier	Morgan	ECE	0.03123
+Mono	IC	Cvas	3	RandomForestClassifier	Morgan	ECE	0.09827
+Mono	IC	Cvas	4	RandomForestClassifier	Morgan	ECE	0.05551
+Mono	IC	Cvas	2	RandomForestClassifier	Morgan	ECE	0.05697

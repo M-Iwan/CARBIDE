@@ -1,0 +1,196 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Mono	PRR	Card	0	RandomForestClassifier	MACCS	Balanced Accuracy	0.50117
+Mono	PRR	Card	1	RandomForestClassifier	MACCS	Balanced Accuracy	0.54672
+Mono	PRR	Card	3	RandomForestClassifier	MACCS	Balanced Accuracy	0.47557
+Mono	PRR	Card	4	RandomForestClassifier	MACCS	Balanced Accuracy	0.53099
+Mono	PRR	Card	2	RandomForestClassifier	MACCS	Balanced Accuracy	0.61302
+Mono	ROR	Card	0	RandomForestClassifier	MACCS	Balanced Accuracy	0.52281
+Mono	ROR	Card	1	RandomForestClassifier	MACCS	Balanced Accuracy	0.54605
+Mono	ROR	Card	3	RandomForestClassifier	MACCS	Balanced Accuracy	0.50782
+Mono	ROR	Card	4	RandomForestClassifier	MACCS	Balanced Accuracy	0.52817
+Mono	ROR	Card	2	RandomForestClassifier	MACCS	Balanced Accuracy	0.61018
+Mono	IC	Card	0	RandomForestClassifier	MACCS	Balanced Accuracy	0.50437
+Mono	IC	Card	1	RandomForestClassifier	MACCS	Balanced Accuracy	0.54858
+Mono	IC	Card	3	RandomForestClassifier	MACCS	Balanced Accuracy	0.48308
+Mono	IC	Card	4	RandomForestClassifier	MACCS	Balanced Accuracy	0.50793
+Mono	IC	Card	2	RandomForestClassifier	MACCS	Balanced Accuracy	0.62431
+Mono	PRR	Card	0	RandomForestClassifier	MACCS	GeomRS	0.49673
+Mono	PRR	Card	1	RandomForestClassifier	MACCS	GeomRS	0.54671
+Mono	PRR	Card	3	RandomForestClassifier	MACCS	GeomRS	0.46123
+Mono	PRR	Card	4	RandomForestClassifier	MACCS	GeomRS	0.52137
+Mono	PRR	Card	2	RandomForestClassifier	MACCS	GeomRS	0.61292
+Mono	ROR	Card	0	RandomForestClassifier	MACCS	GeomRS	0.52084
+Mono	ROR	Card	1	RandomForestClassifier	MACCS	GeomRS	0.54582
+Mono	ROR	Card	3	RandomForestClassifier	MACCS	GeomRS	0.49379
+Mono	ROR	Card	4	RandomForestClassifier	MACCS	GeomRS	0.51724
+Mono	ROR	Card	2	RandomForestClassifier	MACCS	GeomRS	0.60979
+Mono	IC	Card	0	RandomForestClassifier	MACCS	GeomRS	0.50339
+Mono	IC	Card	1	RandomForestClassifier	MACCS	GeomRS	0.54571
+Mono	IC	Card	3	RandomForestClassifier	MACCS	GeomRS	0.48297
+Mono	IC	Card	4	RandomForestClassifier	MACCS	GeomRS	0.47687
+Mono	IC	Card	2	RandomForestClassifier	MACCS	GeomRS	0.6199
+Mono	PRR	Card	0	RandomForestClassifier	MACCS	HarmRS	0.49234
+Mono	PRR	Card	1	RandomForestClassifier	MACCS	HarmRS	0.54671
+Mono	PRR	Card	3	RandomForestClassifier	MACCS	HarmRS	0.44732
+Mono	PRR	Card	4	RandomForestClassifier	MACCS	HarmRS	0.51193
+Mono	PRR	Card	2	RandomForestClassifier	MACCS	HarmRS	0.61282
+Mono	ROR	Card	0	RandomForestClassifier	MACCS	HarmRS	0.51888
+Mono	ROR	Card	1	RandomForestClassifier	MACCS	HarmRS	0.54559
+Mono	ROR	Card	3	RandomForestClassifier	MACCS	HarmRS	0.48015
+Mono	ROR	Card	4	RandomForestClassifier	MACCS	HarmRS	0.50654
+Mono	ROR	Card	2	RandomForestClassifier	MACCS	HarmRS	0.60941
+Mono	IC	Card	0	RandomForestClassifier	MACCS	HarmRS	0.5024
+Mono	IC	Card	1	RandomForestClassifier	MACCS	HarmRS	0.54285
+Mono	IC	Card	3	RandomForestClassifier	MACCS	HarmRS	0.48285
+Mono	IC	Card	4	RandomForestClassifier	MACCS	HarmRS	0.4477
+Mono	IC	Card	2	RandomForestClassifier	MACCS	HarmRS	0.61553
+Mono	PRR	Card	0	RandomForestClassifier	MACCS	F1 Score	0.50189
+Mono	PRR	Card	1	RandomForestClassifier	MACCS	F1 Score	0.56561
+Mono	PRR	Card	3	RandomForestClassifier	MACCS	F1 Score	0.43443
+Mono	PRR	Card	4	RandomForestClassifier	MACCS	F1 Score	0.61167
+Mono	PRR	Card	2	RandomForestClassifier	MACCS	F1 Score	0.64541
+Mono	ROR	Card	0	RandomForestClassifier	MACCS	F1 Score	0.53812
+Mono	ROR	Card	1	RandomForestClassifier	MACCS	F1 Score	0.55824
+Mono	ROR	Card	3	RandomForestClassifier	MACCS	F1 Score	0.46897
+Mono	ROR	Card	4	RandomForestClassifier	MACCS	F1 Score	0.61195
+Mono	ROR	Card	2	RandomForestClassifier	MACCS	F1 Score	0.62763
+Mono	IC	Card	0	RandomForestClassifier	MACCS	F1 Score	0.52772
+Mono	IC	Card	1	RandomForestClassifier	MACCS	F1 Score	0.59497
+Mono	IC	Card	3	RandomForestClassifier	MACCS	F1 Score	0.51375
+Mono	IC	Card	4	RandomForestClassifier	MACCS	F1 Score	0.62346
+Mono	IC	Card	2	RandomForestClassifier	MACCS	F1 Score	0.68172
+Mono	PRR	Card	0	RandomForestClassifier	MACCS	ROC AUC	0.50684
+Mono	PRR	Card	1	RandomForestClassifier	MACCS	ROC AUC	0.57536
+Mono	PRR	Card	3	RandomForestClassifier	MACCS	ROC AUC	0.48105
+Mono	PRR	Card	4	RandomForestClassifier	MACCS	ROC AUC	0.55536
+Mono	PRR	Card	2	RandomForestClassifier	MACCS	ROC AUC	0.65743
+Mono	ROR	Card	0	RandomForestClassifier	MACCS	ROC AUC	0.53418
+Mono	ROR	Card	1	RandomForestClassifier	MACCS	ROC AUC	0.57857
+Mono	ROR	Card	3	RandomForestClassifier	MACCS	ROC AUC	0.51689
+Mono	ROR	Card	4	RandomForestClassifier	MACCS	ROC AUC	0.55816
+Mono	ROR	Card	2	RandomForestClassifier	MACCS	ROC AUC	0.65065
+Mono	IC	Card	0	RandomForestClassifier	MACCS	ROC AUC	0.5083
+Mono	IC	Card	1	RandomForestClassifier	MACCS	ROC AUC	0.57738
+Mono	IC	Card	3	RandomForestClassifier	MACCS	ROC AUC	0.48193
+Mono	IC	Card	4	RandomForestClassifier	MACCS	ROC AUC	0.53838
+Mono	IC	Card	2	RandomForestClassifier	MACCS	ROC AUC	0.68755
+Mono	PRR	Card	0	RandomForestClassifier	MACCS	MCC	0.00232
+Mono	PRR	Card	1	RandomForestClassifier	MACCS	MCC	0.0931
+Mono	PRR	Card	3	RandomForestClassifier	MACCS	MCC	-0.04968
+Mono	PRR	Card	4	RandomForestClassifier	MACCS	MCC	0.06279
+Mono	PRR	Card	2	RandomForestClassifier	MACCS	MCC	0.22459
+Mono	ROR	Card	0	RandomForestClassifier	MACCS	MCC	0.04499
+Mono	ROR	Card	1	RandomForestClassifier	MACCS	MCC	0.09178
+Mono	ROR	Card	3	RandomForestClassifier	MACCS	MCC	0.01589
+Mono	ROR	Card	4	RandomForestClassifier	MACCS	MCC	0.05723
+Mono	ROR	Card	2	RandomForestClassifier	MACCS	MCC	0.21868
+Mono	IC	Card	0	RandomForestClassifier	MACCS	MCC	0.00861
+Mono	IC	Card	1	RandomForestClassifier	MACCS	MCC	0.09752
+Mono	IC	Card	3	RandomForestClassifier	MACCS	MCC	-0.03341
+Mono	IC	Card	4	RandomForestClassifier	MACCS	MCC	0.01678
+Mono	IC	Card	2	RandomForestClassifier	MACCS	MCC	0.25073
+Mono	PRR	Card	0	RandomForestClassifier	MACCS	Accuracy	0.48887
+Mono	PRR	Card	1	RandomForestClassifier	MACCS	Accuracy	0.5465
+Mono	PRR	Card	3	RandomForestClassifier	MACCS	Accuracy	0.45708
+Mono	PRR	Card	4	RandomForestClassifier	MACCS	Accuracy	0.54463
+Mono	PRR	Card	2	RandomForestClassifier	MACCS	Accuracy	0.61442
+Mono	ROR	Card	0	RandomForestClassifier	MACCS	Accuracy	0.51442
+Mono	ROR	Card	1	RandomForestClassifier	MACCS	Accuracy	0.5447
+Mono	ROR	Card	3	RandomForestClassifier	MACCS	Accuracy	0.48891
+Mono	ROR	Card	4	RandomForestClassifier	MACCS	Accuracy	0.54267
+Mono	ROR	Card	2	RandomForestClassifier	MACCS	Accuracy	0.60749
+Mono	IC	Card	0	RandomForestClassifier	MACCS	Accuracy	0.49855
+Mono	IC	Card	1	RandomForestClassifier	MACCS	Accuracy	0.55335
+Mono	IC	Card	3	RandomForestClassifier	MACCS	Accuracy	0.4814
+Mono	IC	Card	4	RandomForestClassifier	MACCS	Accuracy	0.53166
+Mono	IC	Card	2	RandomForestClassifier	MACCS	Accuracy	0.6335
+Mono	PRR	Card	0	RandomForestClassifier	MACCS	Recall	0.43464
+Mono	PRR	Card	1	RandomForestClassifier	MACCS	Recall	0.54419
+Mono	PRR	Card	3	RandomForestClassifier	MACCS	Recall	0.35965
+Mono	PRR	Card	4	RandomForestClassifier	MACCS	Recall	0.63158
+Mono	PRR	Card	2	RandomForestClassifier	MACCS	Recall	0.62431
+Mono	ROR	Card	0	RandomForestClassifier	MACCS	Recall	0.47745
+Mono	ROR	Card	1	RandomForestClassifier	MACCS	Recall	0.53023
+Mono	ROR	Card	3	RandomForestClassifier	MACCS	Recall	0.38927
+Mono	ROR	Card	4	RandomForestClassifier	MACCS	Recall	0.63504
+Mono	ROR	Card	2	RandomForestClassifier	MACCS	Recall	0.58853
+Mono	IC	Card	0	RandomForestClassifier	MACCS	Recall	0.47288
+Mono	IC	Card	1	RandomForestClassifier	MACCS	Recall	0.60465
+Mono	IC	Card	3	RandomForestClassifier	MACCS	Recall	0.47255
+Mono	IC	Card	4	RandomForestClassifier	MACCS	Recall	0.68283
+Mono	IC	Card	2	RandomForestClassifier	MACCS	Recall	0.69833
+Mono	PRR	Card	0	RandomForestClassifier	MACCS	Specificity	0.5677
+Mono	PRR	Card	1	RandomForestClassifier	MACCS	Specificity	0.54925
+Mono	PRR	Card	3	RandomForestClassifier	MACCS	Specificity	0.59149
+Mono	PRR	Card	4	RandomForestClassifier	MACCS	Specificity	0.43039
+Mono	PRR	Card	2	RandomForestClassifier	MACCS	Specificity	0.60174
+Mono	ROR	Card	0	RandomForestClassifier	MACCS	Specificity	0.56817
+Mono	ROR	Card	1	RandomForestClassifier	MACCS	Specificity	0.56186
+Mono	ROR	Card	3	RandomForestClassifier	MACCS	Specificity	0.62638
+Mono	ROR	Card	4	RandomForestClassifier	MACCS	Specificity	0.42129
+Mono	ROR	Card	2	RandomForestClassifier	MACCS	Specificity	0.63183
+Mono	IC	Card	0	RandomForestClassifier	MACCS	Specificity	0.53587
+Mono	IC	Card	1	RandomForestClassifier	MACCS	Specificity	0.49251
+Mono	IC	Card	3	RandomForestClassifier	MACCS	Specificity	0.49362
+Mono	IC	Card	4	RandomForestClassifier	MACCS	Specificity	0.33303
+Mono	IC	Card	2	RandomForestClassifier	MACCS	Specificity	0.55028
+Mono	PRR	Card	0	RandomForestClassifier	MACCS	Precision	0.59375
+Mono	PRR	Card	1	RandomForestClassifier	MACCS	Precision	0.58879
+Mono	PRR	Card	3	RandomForestClassifier	MACCS	Precision	0.54845
+Mono	PRR	Card	4	RandomForestClassifier	MACCS	Precision	0.59298
+Mono	PRR	Card	2	RandomForestClassifier	MACCS	Precision	0.66799
+Mono	ROR	Card	0	RandomForestClassifier	MACCS	Precision	0.61646
+Mono	ROR	Card	1	RandomForestClassifier	MACCS	Precision	0.58936
+Mono	ROR	Card	3	RandomForestClassifier	MACCS	Precision	0.58972
+Mono	ROR	Card	4	RandomForestClassifier	MACCS	Precision	0.59047
+Mono	ROR	Card	2	RandomForestClassifier	MACCS	Precision	0.6723
+Mono	IC	Card	0	RandomForestClassifier	MACCS	Precision	0.59695
+Mono	IC	Card	1	RandomForestClassifier	MACCS	Precision	0.58559
+Mono	IC	Card	3	RandomForestClassifier	MACCS	Precision	0.56282
+Mono	IC	Card	4	RandomForestClassifier	MACCS	Precision	0.57359
+Mono	IC	Card	2	RandomForestClassifier	MACCS	Precision	0.66588
+Mono	PRR	Card	0	RandomForestClassifier	MACCS	PRC AUC	0.59362
+Mono	PRR	Card	1	RandomForestClassifier	MACCS	PRC AUC	0.63804
+Mono	PRR	Card	3	RandomForestClassifier	MACCS	PRC AUC	0.60122
+Mono	PRR	Card	4	RandomForestClassifier	MACCS	PRC AUC	0.62397
+Mono	PRR	Card	2	RandomForestClassifier	MACCS	PRC AUC	0.702
+Mono	ROR	Card	0	RandomForestClassifier	MACCS	PRC AUC	0.60948
+Mono	ROR	Card	1	RandomForestClassifier	MACCS	PRC AUC	0.63659
+Mono	ROR	Card	3	RandomForestClassifier	MACCS	PRC AUC	0.61549
+Mono	ROR	Card	4	RandomForestClassifier	MACCS	PRC AUC	0.63316
+Mono	ROR	Card	2	RandomForestClassifier	MACCS	PRC AUC	0.6956
+Mono	IC	Card	0	RandomForestClassifier	MACCS	PRC AUC	0.59443
+Mono	IC	Card	1	RandomForestClassifier	MACCS	PRC AUC	0.63848
+Mono	IC	Card	3	RandomForestClassifier	MACCS	PRC AUC	0.60298
+Mono	IC	Card	4	RandomForestClassifier	MACCS	PRC AUC	0.60564
+Mono	IC	Card	2	RandomForestClassifier	MACCS	PRC AUC	0.71959
+Mono	PRR	Card	0	RandomForestClassifier	MACCS	Brier	0.26991
+Mono	PRR	Card	1	RandomForestClassifier	MACCS	Brier	0.24506
+Mono	PRR	Card	3	RandomForestClassifier	MACCS	Brier	0.26212
+Mono	PRR	Card	4	RandomForestClassifier	MACCS	Brier	0.2514
+Mono	PRR	Card	2	RandomForestClassifier	MACCS	Brier	0.23379
+Mono	ROR	Card	0	RandomForestClassifier	MACCS	Brier	0.26336
+Mono	ROR	Card	1	RandomForestClassifier	MACCS	Brier	0.24535
+Mono	ROR	Card	3	RandomForestClassifier	MACCS	Brier	0.2602
+Mono	ROR	Card	4	RandomForestClassifier	MACCS	Brier	0.25007
+Mono	ROR	Card	2	RandomForestClassifier	MACCS	Brier	0.23572
+Mono	IC	Card	0	RandomForestClassifier	MACCS	Brier	0.26597
+Mono	IC	Card	1	RandomForestClassifier	MACCS	Brier	0.24394
+Mono	IC	Card	3	RandomForestClassifier	MACCS	Brier	0.25866
+Mono	IC	Card	4	RandomForestClassifier	MACCS	Brier	0.25288
+Mono	IC	Card	2	RandomForestClassifier	MACCS	Brier	0.22266
+Mono	PRR	Card	0	RandomForestClassifier	MACCS	ECE	0.14781
+Mono	PRR	Card	1	RandomForestClassifier	MACCS	ECE	0.05664
+Mono	PRR	Card	3	RandomForestClassifier	MACCS	ECE	0.12367
+Mono	PRR	Card	4	RandomForestClassifier	MACCS	ECE	0.07259
+Mono	PRR	Card	2	RandomForestClassifier	MACCS	ECE	0.06357
+Mono	ROR	Card	0	RandomForestClassifier	MACCS	ECE	0.13021
+Mono	ROR	Card	1	RandomForestClassifier	MACCS	ECE	0.06019
+Mono	ROR	Card	3	RandomForestClassifier	MACCS	ECE	0.11282
+Mono	ROR	Card	4	RandomForestClassifier	MACCS	ECE	0.07379
+Mono	ROR	Card	2	RandomForestClassifier	MACCS	ECE	0.07261
+Mono	IC	Card	0	RandomForestClassifier	MACCS	ECE	0.13949
+Mono	IC	Card	1	RandomForestClassifier	MACCS	ECE	0.04581
+Mono	IC	Card	3	RandomForestClassifier	MACCS	ECE	0.09604
+Mono	IC	Card	4	RandomForestClassifier	MACCS	ECE	0.09189
+Mono	IC	Card	2	RandomForestClassifier	MACCS	ECE	0.0521

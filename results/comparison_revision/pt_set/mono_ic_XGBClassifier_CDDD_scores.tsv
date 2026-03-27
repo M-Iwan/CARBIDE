@@ -1,0 +1,196 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Mono	IC	Cred	0	XGBClassifier	CDDD	Balanced Accuracy	0.52534
+Mono	IC	Cred	1	XGBClassifier	CDDD	Balanced Accuracy	0.54625
+Mono	IC	Cred	3	XGBClassifier	CDDD	Balanced Accuracy	0.54889
+Mono	IC	Cred	4	XGBClassifier	CDDD	Balanced Accuracy	0.55073
+Mono	IC	Cred	2	XGBClassifier	CDDD	Balanced Accuracy	0.52465
+Mono	IC	Card	0	XGBClassifier	CDDD	Balanced Accuracy	0.51637
+Mono	IC	Card	1	XGBClassifier	CDDD	Balanced Accuracy	0.5633
+Mono	IC	Card	3	XGBClassifier	CDDD	Balanced Accuracy	0.53043
+Mono	IC	Card	4	XGBClassifier	CDDD	Balanced Accuracy	0.53312
+Mono	IC	Card	2	XGBClassifier	CDDD	Balanced Accuracy	0.55541
+Mono	IC	Cvas	0	XGBClassifier	CDDD	Balanced Accuracy	0.51366
+Mono	IC	Cvas	1	XGBClassifier	CDDD	Balanced Accuracy	0.52602
+Mono	IC	Cvas	3	XGBClassifier	CDDD	Balanced Accuracy	0.52388
+Mono	IC	Cvas	4	XGBClassifier	CDDD	Balanced Accuracy	0.51102
+Mono	IC	Cvas	2	XGBClassifier	CDDD	Balanced Accuracy	0.51858
+Mono	IC	Cred	0	XGBClassifier	CDDD	GeomRS	0.50023
+Mono	IC	Cred	1	XGBClassifier	CDDD	GeomRS	0.52311
+Mono	IC	Cred	3	XGBClassifier	CDDD	GeomRS	0.54173
+Mono	IC	Cred	4	XGBClassifier	CDDD	GeomRS	0.46995
+Mono	IC	Cred	2	XGBClassifier	CDDD	GeomRS	0.49379
+Mono	IC	Card	0	XGBClassifier	CDDD	GeomRS	0.47998
+Mono	IC	Card	1	XGBClassifier	CDDD	GeomRS	0.54796
+Mono	IC	Card	3	XGBClassifier	CDDD	GeomRS	0.52512
+Mono	IC	Card	4	XGBClassifier	CDDD	GeomRS	0.49596
+Mono	IC	Card	2	XGBClassifier	CDDD	GeomRS	0.52431
+Mono	IC	Cvas	0	XGBClassifier	CDDD	GeomRS	0.47969
+Mono	IC	Cvas	1	XGBClassifier	CDDD	GeomRS	0.46738
+Mono	IC	Cvas	3	XGBClassifier	CDDD	GeomRS	0.50872
+Mono	IC	Cvas	4	XGBClassifier	CDDD	GeomRS	0.45392
+Mono	IC	Cvas	2	XGBClassifier	CDDD	GeomRS	0.44762
+Mono	IC	Cred	0	XGBClassifier	CDDD	HarmRS	0.47632
+Mono	IC	Cred	1	XGBClassifier	CDDD	HarmRS	0.50095
+Mono	IC	Cred	3	XGBClassifier	CDDD	HarmRS	0.53465
+Mono	IC	Cred	4	XGBClassifier	CDDD	HarmRS	0.40102
+Mono	IC	Cred	2	XGBClassifier	CDDD	HarmRS	0.46474
+Mono	IC	Card	0	XGBClassifier	CDDD	HarmRS	0.44615
+Mono	IC	Card	1	XGBClassifier	CDDD	HarmRS	0.53304
+Mono	IC	Card	3	XGBClassifier	CDDD	HarmRS	0.51986
+Mono	IC	Card	4	XGBClassifier	CDDD	HarmRS	0.46139
+Mono	IC	Card	2	XGBClassifier	CDDD	HarmRS	0.49496
+Mono	IC	Cvas	0	XGBClassifier	CDDD	HarmRS	0.44798
+Mono	IC	Cvas	1	XGBClassifier	CDDD	HarmRS	0.41528
+Mono	IC	Cvas	3	XGBClassifier	CDDD	HarmRS	0.494
+Mono	IC	Cvas	4	XGBClassifier	CDDD	HarmRS	0.40321
+Mono	IC	Cvas	2	XGBClassifier	CDDD	HarmRS	0.38637
+Mono	IC	Cred	0	XGBClassifier	CDDD	F1 Score	0.66112
+Mono	IC	Cred	1	XGBClassifier	CDDD	F1 Score	0.64638
+Mono	IC	Cred	3	XGBClassifier	CDDD	F1 Score	0.64432
+Mono	IC	Cred	4	XGBClassifier	CDDD	F1 Score	0.70369
+Mono	IC	Cred	2	XGBClassifier	CDDD	F1 Score	0.65679
+Mono	IC	Card	0	XGBClassifier	CDDD	F1 Score	0.66693
+Mono	IC	Card	1	XGBClassifier	CDDD	F1 Score	0.65051
+Mono	IC	Card	3	XGBClassifier	CDDD	F1 Score	0.62105
+Mono	IC	Card	4	XGBClassifier	CDDD	F1 Score	0.65718
+Mono	IC	Card	2	XGBClassifier	CDDD	F1 Score	0.68468
+Mono	IC	Cvas	0	XGBClassifier	CDDD	F1 Score	0.66173
+Mono	IC	Cvas	1	XGBClassifier	CDDD	F1 Score	0.6611
+Mono	IC	Cvas	3	XGBClassifier	CDDD	F1 Score	0.63975
+Mono	IC	Cvas	4	XGBClassifier	CDDD	F1 Score	0.65419
+Mono	IC	Cvas	2	XGBClassifier	CDDD	F1 Score	0.68564
+Mono	IC	Cred	0	XGBClassifier	CDDD	ROC AUC	0.55402
+Mono	IC	Cred	1	XGBClassifier	CDDD	ROC AUC	0.57314
+Mono	IC	Cred	3	XGBClassifier	CDDD	ROC AUC	0.57211
+Mono	IC	Cred	4	XGBClassifier	CDDD	ROC AUC	0.60384
+Mono	IC	Cred	2	XGBClassifier	CDDD	ROC AUC	0.5767
+Mono	IC	Card	0	XGBClassifier	CDDD	ROC AUC	0.53567
+Mono	IC	Card	1	XGBClassifier	CDDD	ROC AUC	0.58785
+Mono	IC	Card	3	XGBClassifier	CDDD	ROC AUC	0.53736
+Mono	IC	Card	4	XGBClassifier	CDDD	ROC AUC	0.57306
+Mono	IC	Card	2	XGBClassifier	CDDD	ROC AUC	0.59293
+Mono	IC	Cvas	0	XGBClassifier	CDDD	ROC AUC	0.52562
+Mono	IC	Cvas	1	XGBClassifier	CDDD	ROC AUC	0.54553
+Mono	IC	Cvas	3	XGBClassifier	CDDD	ROC AUC	0.54824
+Mono	IC	Cvas	4	XGBClassifier	CDDD	ROC AUC	0.52545
+Mono	IC	Cvas	2	XGBClassifier	CDDD	ROC AUC	0.56381
+Mono	IC	Cred	0	XGBClassifier	CDDD	MCC	0.05218
+Mono	IC	Cred	1	XGBClassifier	CDDD	MCC	0.09707
+Mono	IC	Cred	3	XGBClassifier	CDDD	MCC	0.0972
+Mono	IC	Cred	4	XGBClassifier	CDDD	MCC	0.12419
+Mono	IC	Cred	2	XGBClassifier	CDDD	MCC	0.05188
+Mono	IC	Card	0	XGBClassifier	CDDD	MCC	0.03448
+Mono	IC	Card	1	XGBClassifier	CDDD	MCC	0.1307
+Mono	IC	Card	3	XGBClassifier	CDDD	MCC	0.0601
+Mono	IC	Card	4	XGBClassifier	CDDD	MCC	0.07149
+Mono	IC	Card	2	XGBClassifier	CDDD	MCC	0.11787
+Mono	IC	Cvas	0	XGBClassifier	CDDD	MCC	0.02858
+Mono	IC	Cvas	1	XGBClassifier	CDDD	MCC	0.05919
+Mono	IC	Cvas	3	XGBClassifier	CDDD	MCC	0.04819
+Mono	IC	Cvas	4	XGBClassifier	CDDD	MCC	0.02472
+Mono	IC	Cvas	2	XGBClassifier	CDDD	MCC	0.04297
+Mono	IC	Cred	0	XGBClassifier	CDDD	Accuracy	0.56393
+Mono	IC	Cred	1	XGBClassifier	CDDD	Accuracy	0.56623
+Mono	IC	Cred	3	XGBClassifier	CDDD	Accuracy	0.56883
+Mono	IC	Cred	4	XGBClassifier	CDDD	Accuracy	0.59401
+Mono	IC	Cred	2	XGBClassifier	CDDD	Accuracy	0.56002
+Mono	IC	Card	0	XGBClassifier	CDDD	Accuracy	0.56215
+Mono	IC	Card	1	XGBClassifier	CDDD	Accuracy	0.57988
+Mono	IC	Card	3	XGBClassifier	CDDD	Accuracy	0.54732
+Mono	IC	Card	4	XGBClassifier	CDDD	Accuracy	0.56259
+Mono	IC	Card	2	XGBClassifier	CDDD	Accuracy	0.59197
+Mono	IC	Cvas	0	XGBClassifier	CDDD	Accuracy	0.55782
+Mono	IC	Cvas	1	XGBClassifier	CDDD	Accuracy	0.55667
+Mono	IC	Cvas	3	XGBClassifier	CDDD	Accuracy	0.5521
+Mono	IC	Cvas	4	XGBClassifier	CDDD	Accuracy	0.54639
+Mono	IC	Cvas	2	XGBClassifier	CDDD	Accuracy	0.57081
+Mono	IC	Cred	0	XGBClassifier	CDDD	Recall	0.68583
+Mono	IC	Cred	1	XGBClassifier	CDDD	Recall	0.70355
+Mono	IC	Cred	3	XGBClassifier	CDDD	Recall	0.63729
+Mono	IC	Cred	4	XGBClassifier	CDDD	Recall	0.83788
+Mono	IC	Cred	2	XGBClassifier	CDDD	Recall	0.70194
+Mono	IC	Card	0	XGBClassifier	CDDD	Recall	0.70678
+Mono	IC	Card	1	XGBClassifier	CDDD	Recall	0.69386
+Mono	IC	Card	3	XGBClassifier	CDDD	Recall	0.6053
+Mono	IC	Card	4	XGBClassifier	CDDD	Recall	0.72867
+Mono	IC	Card	2	XGBClassifier	CDDD	Recall	0.73866
+Mono	IC	Cvas	0	XGBClassifier	CDDD	Recall	0.69733
+Mono	IC	Cvas	1	XGBClassifier	CDDD	Recall	0.76737
+Mono	IC	Cvas	3	XGBClassifier	CDDD	Recall	0.64899
+Mono	IC	Cvas	4	XGBClassifier	CDDD	Recall	0.74573
+Mono	IC	Cvas	2	XGBClassifier	CDDD	Recall	0.78042
+Mono	IC	Cred	0	XGBClassifier	CDDD	Specificity	0.36486
+Mono	IC	Cred	1	XGBClassifier	CDDD	Specificity	0.38895
+Mono	IC	Cred	3	XGBClassifier	CDDD	Specificity	0.46049
+Mono	IC	Cred	4	XGBClassifier	CDDD	Specificity	0.26358
+Mono	IC	Cred	2	XGBClassifier	CDDD	Specificity	0.34736
+Mono	IC	Card	0	XGBClassifier	CDDD	Specificity	0.32596
+Mono	IC	Card	1	XGBClassifier	CDDD	Specificity	0.43274
+Mono	IC	Card	3	XGBClassifier	CDDD	Specificity	0.45556
+Mono	IC	Card	4	XGBClassifier	CDDD	Specificity	0.33757
+Mono	IC	Card	2	XGBClassifier	CDDD	Specificity	0.37217
+Mono	IC	Cvas	0	XGBClassifier	CDDD	Specificity	0.32998
+Mono	IC	Cvas	1	XGBClassifier	CDDD	Specificity	0.28467
+Mono	IC	Cvas	3	XGBClassifier	CDDD	Specificity	0.39877
+Mono	IC	Cvas	4	XGBClassifier	CDDD	Specificity	0.2763
+Mono	IC	Cvas	2	XGBClassifier	CDDD	Specificity	0.25674
+Mono	IC	Cred	0	XGBClassifier	CDDD	Precision	0.63814
+Mono	IC	Cred	1	XGBClassifier	CDDD	Precision	0.5978
+Mono	IC	Cred	3	XGBClassifier	CDDD	Precision	0.65152
+Mono	IC	Cred	4	XGBClassifier	CDDD	Precision	0.60655
+Mono	IC	Cred	2	XGBClassifier	CDDD	Precision	0.61709
+Mono	IC	Card	0	XGBClassifier	CDDD	Precision	0.63133
+Mono	IC	Card	1	XGBClassifier	CDDD	Precision	0.61226
+Mono	IC	Card	3	XGBClassifier	CDDD	Precision	0.63763
+Mono	IC	Card	4	XGBClassifier	CDDD	Precision	0.59846
+Mono	IC	Card	2	XGBClassifier	CDDD	Precision	0.63806
+Mono	IC	Cvas	0	XGBClassifier	CDDD	Precision	0.62959
+Mono	IC	Cvas	1	XGBClassifier	CDDD	Precision	0.58068
+Mono	IC	Cvas	3	XGBClassifier	CDDD	Precision	0.63078
+Mono	IC	Cvas	4	XGBClassifier	CDDD	Precision	0.58267
+Mono	IC	Cvas	2	XGBClassifier	CDDD	Precision	0.61139
+Mono	IC	Cred	0	XGBClassifier	CDDD	PRC AUC	0.68869
+Mono	IC	Cred	1	XGBClassifier	CDDD	PRC AUC	0.62771
+Mono	IC	Cred	3	XGBClassifier	CDDD	PRC AUC	0.67992
+Mono	IC	Cred	4	XGBClassifier	CDDD	PRC AUC	0.66633
+Mono	IC	Cred	2	XGBClassifier	CDDD	PRC AUC	0.70304
+Mono	IC	Card	0	XGBClassifier	CDDD	PRC AUC	0.6641
+Mono	IC	Card	1	XGBClassifier	CDDD	PRC AUC	0.65501
+Mono	IC	Card	3	XGBClassifier	CDDD	PRC AUC	0.64174
+Mono	IC	Card	4	XGBClassifier	CDDD	PRC AUC	0.65071
+Mono	IC	Card	2	XGBClassifier	CDDD	PRC AUC	0.69646
+Mono	IC	Cvas	0	XGBClassifier	CDDD	PRC AUC	0.64911
+Mono	IC	Cvas	1	XGBClassifier	CDDD	PRC AUC	0.61334
+Mono	IC	Cvas	3	XGBClassifier	CDDD	PRC AUC	0.66088
+Mono	IC	Cvas	4	XGBClassifier	CDDD	PRC AUC	0.59361
+Mono	IC	Cvas	2	XGBClassifier	CDDD	PRC AUC	0.6748
+Mono	IC	Cred	0	XGBClassifier	CDDD	ECE	0.11144
+Mono	IC	Cred	1	XGBClassifier	CDDD	ECE	0.12393
+Mono	IC	Cred	3	XGBClassifier	CDDD	ECE	0.12009
+Mono	IC	Cred	4	XGBClassifier	CDDD	ECE	0.06872
+Mono	IC	Cred	2	XGBClassifier	CDDD	ECE	0.1212
+Mono	IC	Card	0	XGBClassifier	CDDD	ECE	0.13304
+Mono	IC	Card	1	XGBClassifier	CDDD	ECE	0.12094
+Mono	IC	Card	3	XGBClassifier	CDDD	ECE	0.15339
+Mono	IC	Card	4	XGBClassifier	CDDD	ECE	0.10595
+Mono	IC	Card	2	XGBClassifier	CDDD	ECE	0.11412
+Mono	IC	Cvas	0	XGBClassifier	CDDD	ECE	0.14238
+Mono	IC	Cvas	1	XGBClassifier	CDDD	ECE	0.13196
+Mono	IC	Cvas	3	XGBClassifier	CDDD	ECE	0.13559
+Mono	IC	Cvas	4	XGBClassifier	CDDD	ECE	0.11568
+Mono	IC	Cvas	2	XGBClassifier	CDDD	ECE	0.12381
+Mono	IC	Cred	0	XGBClassifier	CDDD	Brier	0.25766
+Mono	IC	Cred	1	XGBClassifier	CDDD	Brier	0.25656
+Mono	IC	Cred	3	XGBClassifier	CDDD	Brier	0.25145
+Mono	IC	Cred	4	XGBClassifier	CDDD	Brier	0.24241
+Mono	IC	Cred	2	XGBClassifier	CDDD	Brier	0.25226
+Mono	IC	Card	0	XGBClassifier	CDDD	Brier	0.26271
+Mono	IC	Card	1	XGBClassifier	CDDD	Brier	0.25331
+Mono	IC	Card	3	XGBClassifier	CDDD	Brier	0.26828
+Mono	IC	Card	4	XGBClassifier	CDDD	Brier	0.25407
+Mono	IC	Card	2	XGBClassifier	CDDD	Brier	0.24961
+Mono	IC	Cvas	0	XGBClassifier	CDDD	Brier	0.26645
+Mono	IC	Cvas	1	XGBClassifier	CDDD	Brier	0.26783
+Mono	IC	Cvas	3	XGBClassifier	CDDD	Brier	0.25895
+Mono	IC	Cvas	4	XGBClassifier	CDDD	Brier	0.26482
+Mono	IC	Cvas	2	XGBClassifier	CDDD	Brier	0.25586

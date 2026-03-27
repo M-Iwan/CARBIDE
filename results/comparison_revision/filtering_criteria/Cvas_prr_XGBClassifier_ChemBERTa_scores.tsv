@@ -1,0 +1,196 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Mono	PRR	Cvas	0	XGBClassifier	ChemBERTa	Balanced Accuracy	0.53649
+Mono	PRR	Cvas	1	XGBClassifier	ChemBERTa	Balanced Accuracy	0.55375
+Mono	PRR	Cvas	3	XGBClassifier	ChemBERTa	Balanced Accuracy	0.4861
+Mono	PRR	Cvas	4	XGBClassifier	ChemBERTa	Balanced Accuracy	0.50239
+Mono	PRR	Cvas	2	XGBClassifier	ChemBERTa	Balanced Accuracy	0.49621
+Primary	PRR	Cvas	0	XGBClassifier	ChemBERTa	Balanced Accuracy	0.55463
+Primary	PRR	Cvas	1	XGBClassifier	ChemBERTa	Balanced Accuracy	0.61412
+Primary	PRR	Cvas	3	XGBClassifier	ChemBERTa	Balanced Accuracy	0.51125
+Primary	PRR	Cvas	4	XGBClassifier	ChemBERTa	Balanced Accuracy	0.52252
+Primary	PRR	Cvas	2	XGBClassifier	ChemBERTa	Balanced Accuracy	0.53378
+Secondary	PRR	Cvas	0	XGBClassifier	ChemBERTa	Balanced Accuracy	0.54691
+Secondary	PRR	Cvas	1	XGBClassifier	ChemBERTa	Balanced Accuracy	0.55965
+Secondary	PRR	Cvas	3	XGBClassifier	ChemBERTa	Balanced Accuracy	0.48595
+Secondary	PRR	Cvas	4	XGBClassifier	ChemBERTa	Balanced Accuracy	0.52921
+Secondary	PRR	Cvas	2	XGBClassifier	ChemBERTa	Balanced Accuracy	0.53995
+Mono	PRR	Cvas	0	XGBClassifier	ChemBERTa	GeomRS	0.53036
+Mono	PRR	Cvas	1	XGBClassifier	ChemBERTa	GeomRS	0.54188
+Mono	PRR	Cvas	3	XGBClassifier	ChemBERTa	GeomRS	0.48588
+Mono	PRR	Cvas	4	XGBClassifier	ChemBERTa	GeomRS	0.50161
+Mono	PRR	Cvas	2	XGBClassifier	ChemBERTa	GeomRS	0.49387
+Primary	PRR	Cvas	0	XGBClassifier	ChemBERTa	GeomRS	0.54946
+Primary	PRR	Cvas	1	XGBClassifier	ChemBERTa	GeomRS	0.61404
+Primary	PRR	Cvas	3	XGBClassifier	ChemBERTa	GeomRS	0.5036
+Primary	PRR	Cvas	4	XGBClassifier	ChemBERTa	GeomRS	0.51684
+Primary	PRR	Cvas	2	XGBClassifier	ChemBERTa	GeomRS	0.53375
+Secondary	PRR	Cvas	0	XGBClassifier	ChemBERTa	GeomRS	0.52534
+Secondary	PRR	Cvas	1	XGBClassifier	ChemBERTa	GeomRS	0.55962
+Secondary	PRR	Cvas	3	XGBClassifier	ChemBERTa	GeomRS	0.46684
+Secondary	PRR	Cvas	4	XGBClassifier	ChemBERTa	GeomRS	0.514
+Secondary	PRR	Cvas	2	XGBClassifier	ChemBERTa	GeomRS	0.53452
+Mono	PRR	Cvas	0	XGBClassifier	ChemBERTa	HarmRS	0.52431
+Mono	PRR	Cvas	1	XGBClassifier	ChemBERTa	HarmRS	0.53026
+Mono	PRR	Cvas	3	XGBClassifier	ChemBERTa	HarmRS	0.48566
+Mono	PRR	Cvas	4	XGBClassifier	ChemBERTa	HarmRS	0.50083
+Mono	PRR	Cvas	2	XGBClassifier	ChemBERTa	HarmRS	0.49153
+Primary	PRR	Cvas	0	XGBClassifier	ChemBERTa	HarmRS	0.54435
+Primary	PRR	Cvas	1	XGBClassifier	ChemBERTa	HarmRS	0.61395
+Primary	PRR	Cvas	3	XGBClassifier	ChemBERTa	HarmRS	0.49606
+Primary	PRR	Cvas	4	XGBClassifier	ChemBERTa	HarmRS	0.51122
+Primary	PRR	Cvas	2	XGBClassifier	ChemBERTa	HarmRS	0.53371
+Secondary	PRR	Cvas	0	XGBClassifier	ChemBERTa	HarmRS	0.50463
+Secondary	PRR	Cvas	1	XGBClassifier	ChemBERTa	HarmRS	0.55959
+Secondary	PRR	Cvas	3	XGBClassifier	ChemBERTa	HarmRS	0.44849
+Secondary	PRR	Cvas	4	XGBClassifier	ChemBERTa	HarmRS	0.49923
+Secondary	PRR	Cvas	2	XGBClassifier	ChemBERTa	HarmRS	0.52914
+Mono	PRR	Cvas	0	XGBClassifier	ChemBERTa	F1 Score	0.55658
+Mono	PRR	Cvas	1	XGBClassifier	ChemBERTa	F1 Score	0.52917
+Mono	PRR	Cvas	3	XGBClassifier	ChemBERTa	F1 Score	0.55349
+Mono	PRR	Cvas	4	XGBClassifier	ChemBERTa	F1 Score	0.56543
+Mono	PRR	Cvas	2	XGBClassifier	ChemBERTa	F1 Score	0.59051
+Primary	PRR	Cvas	0	XGBClassifier	ChemBERTa	F1 Score	0.67127
+Primary	PRR	Cvas	1	XGBClassifier	ChemBERTa	F1 Score	0.65103
+Primary	PRR	Cvas	3	XGBClassifier	ChemBERTa	F1 Score	0.64182
+Primary	PRR	Cvas	4	XGBClassifier	ChemBERTa	F1 Score	0.61037
+Primary	PRR	Cvas	2	XGBClassifier	ChemBERTa	F1 Score	0.59373
+Secondary	PRR	Cvas	0	XGBClassifier	ChemBERTa	F1 Score	0.70381
+Secondary	PRR	Cvas	1	XGBClassifier	ChemBERTa	F1 Score	0.60688
+Secondary	PRR	Cvas	3	XGBClassifier	ChemBERTa	F1 Score	0.64582
+Secondary	PRR	Cvas	4	XGBClassifier	ChemBERTa	F1 Score	0.63994
+Secondary	PRR	Cvas	2	XGBClassifier	ChemBERTa	F1 Score	0.64628
+Mono	PRR	Cvas	0	XGBClassifier	ChemBERTa	ROC AUC	0.54212
+Mono	PRR	Cvas	1	XGBClassifier	ChemBERTa	ROC AUC	0.56746
+Mono	PRR	Cvas	3	XGBClassifier	ChemBERTa	ROC AUC	0.50257
+Mono	PRR	Cvas	4	XGBClassifier	ChemBERTa	ROC AUC	0.48619
+Mono	PRR	Cvas	2	XGBClassifier	ChemBERTa	ROC AUC	0.5202
+Primary	PRR	Cvas	0	XGBClassifier	ChemBERTa	ROC AUC	0.57702
+Primary	PRR	Cvas	1	XGBClassifier	ChemBERTa	ROC AUC	0.62984
+Primary	PRR	Cvas	3	XGBClassifier	ChemBERTa	ROC AUC	0.53789
+Primary	PRR	Cvas	4	XGBClassifier	ChemBERTa	ROC AUC	0.5336
+Primary	PRR	Cvas	2	XGBClassifier	ChemBERTa	ROC AUC	0.5675
+Secondary	PRR	Cvas	0	XGBClassifier	ChemBERTa	ROC AUC	0.5889
+Secondary	PRR	Cvas	1	XGBClassifier	ChemBERTa	ROC AUC	0.58739
+Secondary	PRR	Cvas	3	XGBClassifier	ChemBERTa	ROC AUC	0.4912
+Secondary	PRR	Cvas	4	XGBClassifier	ChemBERTa	ROC AUC	0.54319
+Secondary	PRR	Cvas	2	XGBClassifier	ChemBERTa	ROC AUC	0.5619
+Mono	PRR	Cvas	0	XGBClassifier	ChemBERTa	MCC	0.06882
+Mono	PRR	Cvas	1	XGBClassifier	ChemBERTa	MCC	0.10769
+Mono	PRR	Cvas	3	XGBClassifier	ChemBERTa	MCC	-0.0259
+Mono	PRR	Cvas	4	XGBClassifier	ChemBERTa	MCC	0.00469
+Mono	PRR	Cvas	2	XGBClassifier	ChemBERTa	MCC	-0.00727
+Primary	PRR	Cvas	0	XGBClassifier	ChemBERTa	MCC	0.10398
+Primary	PRR	Cvas	1	XGBClassifier	ChemBERTa	MCC	0.22377
+Primary	PRR	Cvas	3	XGBClassifier	ChemBERTa	MCC	0.02131
+Primary	PRR	Cvas	4	XGBClassifier	ChemBERTa	MCC	0.04466
+Primary	PRR	Cvas	2	XGBClassifier	ChemBERTa	MCC	0.06453
+Secondary	PRR	Cvas	0	XGBClassifier	ChemBERTa	MCC	0.09314
+Secondary	PRR	Cvas	1	XGBClassifier	ChemBERTa	MCC	0.117
+Secondary	PRR	Cvas	3	XGBClassifier	ChemBERTa	MCC	-0.02708
+Secondary	PRR	Cvas	4	XGBClassifier	ChemBERTa	MCC	0.05926
+Secondary	PRR	Cvas	2	XGBClassifier	ChemBERTa	MCC	0.07751
+Mono	PRR	Cvas	0	XGBClassifier	ChemBERTa	Accuracy	0.5077
+Mono	PRR	Cvas	1	XGBClassifier	ChemBERTa	Accuracy	0.53111
+Mono	PRR	Cvas	3	XGBClassifier	ChemBERTa	Accuracy	0.48078
+Mono	PRR	Cvas	4	XGBClassifier	ChemBERTa	Accuracy	0.50817
+Mono	PRR	Cvas	2	XGBClassifier	ChemBERTa	Accuracy	0.5105
+Primary	PRR	Cvas	0	XGBClassifier	ChemBERTa	Accuracy	0.58152
+Primary	PRR	Cvas	1	XGBClassifier	ChemBERTa	Accuracy	0.61208
+Primary	PRR	Cvas	3	XGBClassifier	ChemBERTa	Accuracy	0.54341
+Primary	PRR	Cvas	4	XGBClassifier	ChemBERTa	Accuracy	0.53839
+Primary	PRR	Cvas	2	XGBClassifier	ChemBERTa	Accuracy	0.53193
+Secondary	PRR	Cvas	0	XGBClassifier	ChemBERTa	Accuracy	0.60108
+Secondary	PRR	Cvas	1	XGBClassifier	ChemBERTa	Accuracy	0.56084
+Secondary	PRR	Cvas	3	XGBClassifier	ChemBERTa	Accuracy	0.53521
+Secondary	PRR	Cvas	4	XGBClassifier	ChemBERTa	Accuracy	0.55523
+Secondary	PRR	Cvas	2	XGBClassifier	ChemBERTa	Accuracy	0.56261
+Mono	PRR	Cvas	0	XGBClassifier	ChemBERTa	Recall	0.45566
+Mono	PRR	Cvas	1	XGBClassifier	ChemBERTa	Recall	0.43969
+Mono	PRR	Cvas	3	XGBClassifier	ChemBERTa	Recall	0.47152
+Mono	PRR	Cvas	4	XGBClassifier	ChemBERTa	Recall	0.53038
+Mono	PRR	Cvas	2	XGBClassifier	ChemBERTa	Recall	0.54439
+Primary	PRR	Cvas	0	XGBClassifier	ChemBERTa	Recall	0.63014
+Primary	PRR	Cvas	1	XGBClassifier	ChemBERTa	Recall	0.60382
+Primary	PRR	Cvas	3	XGBClassifier	ChemBERTa	Recall	0.59937
+Primary	PRR	Cvas	4	XGBClassifier	ChemBERTa	Recall	0.59934
+Primary	PRR	Cvas	2	XGBClassifier	ChemBERTa	Recall	0.52754
+Secondary	PRR	Cvas	0	XGBClassifier	ChemBERTa	Recall	0.69899
+Secondary	PRR	Cvas	1	XGBClassifier	ChemBERTa	Recall	0.56565
+Secondary	PRR	Cvas	3	XGBClassifier	ChemBERTa	Recall	0.62089
+Secondary	PRR	Cvas	4	XGBClassifier	ChemBERTa	Recall	0.65517
+Secondary	PRR	Cvas	2	XGBClassifier	ChemBERTa	Recall	0.61633
+Mono	PRR	Cvas	0	XGBClassifier	ChemBERTa	Specificity	0.61731
+Mono	PRR	Cvas	1	XGBClassifier	ChemBERTa	Specificity	0.66781
+Mono	PRR	Cvas	3	XGBClassifier	ChemBERTa	Specificity	0.50068
+Mono	PRR	Cvas	4	XGBClassifier	ChemBERTa	Specificity	0.47441
+Mono	PRR	Cvas	2	XGBClassifier	ChemBERTa	Specificity	0.44803
+Primary	PRR	Cvas	0	XGBClassifier	ChemBERTa	Specificity	0.47912
+Primary	PRR	Cvas	1	XGBClassifier	ChemBERTa	Specificity	0.62443
+Primary	PRR	Cvas	3	XGBClassifier	ChemBERTa	Specificity	0.42313
+Primary	PRR	Cvas	4	XGBClassifier	ChemBERTa	Specificity	0.44569
+Primary	PRR	Cvas	2	XGBClassifier	ChemBERTa	Specificity	0.54002
+Secondary	PRR	Cvas	0	XGBClassifier	ChemBERTa	Specificity	0.39484
+Secondary	PRR	Cvas	1	XGBClassifier	ChemBERTa	Specificity	0.55365
+Secondary	PRR	Cvas	3	XGBClassifier	ChemBERTa	Specificity	0.35102
+Secondary	PRR	Cvas	4	XGBClassifier	ChemBERTa	Specificity	0.40325
+Secondary	PRR	Cvas	2	XGBClassifier	ChemBERTa	Specificity	0.46356
+Mono	PRR	Cvas	0	XGBClassifier	ChemBERTa	Precision	0.71493
+Mono	PRR	Cvas	1	XGBClassifier	ChemBERTa	Precision	0.66436
+Mono	PRR	Cvas	3	XGBClassifier	ChemBERTa	Precision	0.66996
+Mono	PRR	Cvas	4	XGBClassifier	ChemBERTa	Precision	0.60544
+Mono	PRR	Cvas	2	XGBClassifier	ChemBERTa	Precision	0.64516
+Primary	PRR	Cvas	0	XGBClassifier	ChemBERTa	Precision	0.71816
+Primary	PRR	Cvas	1	XGBClassifier	ChemBERTa	Precision	0.70625
+Primary	PRR	Cvas	3	XGBClassifier	ChemBERTa	Precision	0.69074
+Primary	PRR	Cvas	4	XGBClassifier	ChemBERTa	Precision	0.62181
+Primary	PRR	Cvas	2	XGBClassifier	ChemBERTa	Precision	0.6789
+Secondary	PRR	Cvas	0	XGBClassifier	ChemBERTa	Precision	0.7087
+Secondary	PRR	Cvas	1	XGBClassifier	ChemBERTa	Precision	0.65459
+Secondary	PRR	Cvas	3	XGBClassifier	ChemBERTa	Precision	0.67284
+Secondary	PRR	Cvas	4	XGBClassifier	ChemBERTa	Precision	0.62539
+Secondary	PRR	Cvas	2	XGBClassifier	ChemBERTa	Precision	0.67929
+Mono	PRR	Cvas	0	XGBClassifier	ChemBERTa	PRC AUC	0.69536
+Mono	PRR	Cvas	1	XGBClassifier	ChemBERTa	PRC AUC	0.64966
+Mono	PRR	Cvas	3	XGBClassifier	ChemBERTa	PRC AUC	0.69562
+Mono	PRR	Cvas	4	XGBClassifier	ChemBERTa	PRC AUC	0.57183
+Mono	PRR	Cvas	2	XGBClassifier	ChemBERTa	PRC AUC	0.69447
+Primary	PRR	Cvas	0	XGBClassifier	ChemBERTa	PRC AUC	0.73793
+Primary	PRR	Cvas	1	XGBClassifier	ChemBERTa	PRC AUC	0.72021
+Primary	PRR	Cvas	3	XGBClassifier	ChemBERTa	PRC AUC	0.72577
+Primary	PRR	Cvas	4	XGBClassifier	ChemBERTa	PRC AUC	0.61757
+Primary	PRR	Cvas	2	XGBClassifier	ChemBERTa	PRC AUC	0.72168
+Secondary	PRR	Cvas	0	XGBClassifier	ChemBERTa	PRC AUC	0.74812
+Secondary	PRR	Cvas	1	XGBClassifier	ChemBERTa	PRC AUC	0.69651
+Secondary	PRR	Cvas	3	XGBClassifier	ChemBERTa	PRC AUC	0.69922
+Secondary	PRR	Cvas	4	XGBClassifier	ChemBERTa	PRC AUC	0.63469
+Secondary	PRR	Cvas	2	XGBClassifier	ChemBERTa	PRC AUC	0.70009
+Mono	PRR	Cvas	0	XGBClassifier	ChemBERTa	Brier	0.26403
+Mono	PRR	Cvas	1	XGBClassifier	ChemBERTa	Brier	0.25686
+Mono	PRR	Cvas	3	XGBClassifier	ChemBERTa	Brier	0.26919
+Mono	PRR	Cvas	4	XGBClassifier	ChemBERTa	Brier	0.27087
+Mono	PRR	Cvas	2	XGBClassifier	ChemBERTa	Brier	0.25962
+Primary	PRR	Cvas	0	XGBClassifier	ChemBERTa	Brier	0.24148
+Primary	PRR	Cvas	1	XGBClassifier	ChemBERTa	Brier	0.23935
+Primary	PRR	Cvas	3	XGBClassifier	ChemBERTa	Brier	0.24877
+Primary	PRR	Cvas	4	XGBClassifier	ChemBERTa	Brier	0.26099
+Primary	PRR	Cvas	2	XGBClassifier	ChemBERTa	Brier	0.26351
+Secondary	PRR	Cvas	0	XGBClassifier	ChemBERTa	Brier	0.22969
+Secondary	PRR	Cvas	1	XGBClassifier	ChemBERTa	Brier	0.25608
+Secondary	PRR	Cvas	3	XGBClassifier	ChemBERTa	Brier	0.25495
+Secondary	PRR	Cvas	4	XGBClassifier	ChemBERTa	Brier	0.26434
+Secondary	PRR	Cvas	2	XGBClassifier	ChemBERTa	Brier	0.25379
+Mono	PRR	Cvas	0	XGBClassifier	ChemBERTa	ECE	0.21571
+Mono	PRR	Cvas	1	XGBClassifier	ChemBERTa	ECE	0.13796
+Mono	PRR	Cvas	3	XGBClassifier	ChemBERTa	ECE	0.19078
+Mono	PRR	Cvas	4	XGBClassifier	ChemBERTa	ECE	0.14473
+Mono	PRR	Cvas	2	XGBClassifier	ChemBERTa	ECE	0.13322
+Primary	PRR	Cvas	0	XGBClassifier	ChemBERTa	ECE	0.14284
+Primary	PRR	Cvas	1	XGBClassifier	ChemBERTa	ECE	0.0914
+Primary	PRR	Cvas	3	XGBClassifier	ChemBERTa	ECE	0.15005
+Primary	PRR	Cvas	4	XGBClassifier	ChemBERTa	ECE	0.11515
+Primary	PRR	Cvas	2	XGBClassifier	ChemBERTa	ECE	0.15004
+Secondary	PRR	Cvas	0	XGBClassifier	ChemBERTa	ECE	0.10135
+Secondary	PRR	Cvas	1	XGBClassifier	ChemBERTa	ECE	0.11504
+Secondary	PRR	Cvas	3	XGBClassifier	ChemBERTa	ECE	0.14623
+Secondary	PRR	Cvas	4	XGBClassifier	ChemBERTa	ECE	0.12902
+Secondary	PRR	Cvas	2	XGBClassifier	ChemBERTa	ECE	0.12457

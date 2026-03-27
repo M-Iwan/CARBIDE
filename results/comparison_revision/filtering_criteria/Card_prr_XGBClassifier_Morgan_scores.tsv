@@ -1,0 +1,196 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Mono	PRR	Card	0	XGBClassifier	Morgan	Balanced Accuracy	0.51335
+Mono	PRR	Card	1	XGBClassifier	Morgan	Balanced Accuracy	0.50973
+Mono	PRR	Card	3	XGBClassifier	Morgan	Balanced Accuracy	0.51688
+Mono	PRR	Card	4	XGBClassifier	Morgan	Balanced Accuracy	0.50949
+Mono	PRR	Card	2	XGBClassifier	Morgan	Balanced Accuracy	0.55152
+Primary	PRR	Card	0	XGBClassifier	Morgan	Balanced Accuracy	0.50736
+Primary	PRR	Card	1	XGBClassifier	Morgan	Balanced Accuracy	0.58361
+Primary	PRR	Card	3	XGBClassifier	Morgan	Balanced Accuracy	0.51266
+Primary	PRR	Card	4	XGBClassifier	Morgan	Balanced Accuracy	0.56658
+Primary	PRR	Card	2	XGBClassifier	Morgan	Balanced Accuracy	0.56018
+Secondary	PRR	Card	0	XGBClassifier	Morgan	Balanced Accuracy	0.51256
+Secondary	PRR	Card	1	XGBClassifier	Morgan	Balanced Accuracy	0.56396
+Secondary	PRR	Card	3	XGBClassifier	Morgan	Balanced Accuracy	0.51422
+Secondary	PRR	Card	4	XGBClassifier	Morgan	Balanced Accuracy	0.54797
+Secondary	PRR	Card	2	XGBClassifier	Morgan	Balanced Accuracy	0.63946
+Mono	PRR	Card	0	XGBClassifier	Morgan	GeomRS	0.49877
+Mono	PRR	Card	1	XGBClassifier	Morgan	GeomRS	0.5076
+Mono	PRR	Card	3	XGBClassifier	Morgan	GeomRS	0.49064
+Mono	PRR	Card	4	XGBClassifier	Morgan	GeomRS	0.50876
+Mono	PRR	Card	2	XGBClassifier	Morgan	GeomRS	0.55152
+Primary	PRR	Card	0	XGBClassifier	Morgan	GeomRS	0.49727
+Primary	PRR	Card	1	XGBClassifier	Morgan	GeomRS	0.58334
+Primary	PRR	Card	3	XGBClassifier	Morgan	GeomRS	0.51232
+Primary	PRR	Card	4	XGBClassifier	Morgan	GeomRS	0.56636
+Primary	PRR	Card	2	XGBClassifier	Morgan	GeomRS	0.55925
+Secondary	PRR	Card	0	XGBClassifier	Morgan	GeomRS	0.51256
+Secondary	PRR	Card	1	XGBClassifier	Morgan	GeomRS	0.56276
+Secondary	PRR	Card	3	XGBClassifier	Morgan	GeomRS	0.51276
+Secondary	PRR	Card	4	XGBClassifier	Morgan	GeomRS	0.54115
+Secondary	PRR	Card	2	XGBClassifier	Morgan	GeomRS	0.62214
+Mono	PRR	Card	0	XGBClassifier	Morgan	HarmRS	0.4846
+Mono	PRR	Card	1	XGBClassifier	Morgan	HarmRS	0.50548
+Mono	PRR	Card	3	XGBClassifier	Morgan	HarmRS	0.46574
+Mono	PRR	Card	4	XGBClassifier	Morgan	HarmRS	0.50804
+Mono	PRR	Card	2	XGBClassifier	Morgan	HarmRS	0.55152
+Primary	PRR	Card	0	XGBClassifier	Morgan	HarmRS	0.48738
+Primary	PRR	Card	1	XGBClassifier	Morgan	HarmRS	0.58307
+Primary	PRR	Card	3	XGBClassifier	Morgan	HarmRS	0.51197
+Primary	PRR	Card	4	XGBClassifier	Morgan	HarmRS	0.56615
+Primary	PRR	Card	2	XGBClassifier	Morgan	HarmRS	0.55831
+Secondary	PRR	Card	0	XGBClassifier	Morgan	HarmRS	0.51255
+Secondary	PRR	Card	1	XGBClassifier	Morgan	HarmRS	0.56156
+Secondary	PRR	Card	3	XGBClassifier	Morgan	HarmRS	0.5113
+Secondary	PRR	Card	4	XGBClassifier	Morgan	HarmRS	0.53441
+Secondary	PRR	Card	2	XGBClassifier	Morgan	HarmRS	0.60529
+Mono	PRR	Card	0	XGBClassifier	Morgan	F1 Score	0.50081
+Mono	PRR	Card	1	XGBClassifier	Morgan	F1 Score	0.51816
+Mono	PRR	Card	3	XGBClassifier	Morgan	F1 Score	0.46396
+Mono	PRR	Card	4	XGBClassifier	Morgan	F1 Score	0.55452
+Mono	PRR	Card	2	XGBClassifier	Morgan	F1 Score	0.60729
+Primary	PRR	Card	0	XGBClassifier	Morgan	F1 Score	0.51076
+Primary	PRR	Card	1	XGBClassifier	Morgan	F1 Score	0.60929
+Primary	PRR	Card	3	XGBClassifier	Morgan	F1 Score	0.58899
+Primary	PRR	Card	4	XGBClassifier	Morgan	F1 Score	0.61803
+Primary	PRR	Card	2	XGBClassifier	Morgan	F1 Score	0.6341
+Secondary	PRR	Card	0	XGBClassifier	Morgan	F1 Score	0.58623
+Secondary	PRR	Card	1	XGBClassifier	Morgan	F1 Score	0.61722
+Secondary	PRR	Card	3	XGBClassifier	Morgan	F1 Score	0.60234
+Secondary	PRR	Card	4	XGBClassifier	Morgan	F1 Score	0.65607
+Secondary	PRR	Card	2	XGBClassifier	Morgan	F1 Score	0.75528
+Mono	PRR	Card	0	XGBClassifier	Morgan	ROC AUC	0.52043
+Mono	PRR	Card	1	XGBClassifier	Morgan	ROC AUC	0.52458
+Mono	PRR	Card	3	XGBClassifier	Morgan	ROC AUC	0.53153
+Mono	PRR	Card	4	XGBClassifier	Morgan	ROC AUC	0.51799
+Mono	PRR	Card	2	XGBClassifier	Morgan	ROC AUC	0.59023
+Primary	PRR	Card	0	XGBClassifier	Morgan	ROC AUC	0.52132
+Primary	PRR	Card	1	XGBClassifier	Morgan	ROC AUC	0.59581
+Primary	PRR	Card	3	XGBClassifier	Morgan	ROC AUC	0.54439
+Primary	PRR	Card	4	XGBClassifier	Morgan	ROC AUC	0.58734
+Primary	PRR	Card	2	XGBClassifier	Morgan	ROC AUC	0.59795
+Secondary	PRR	Card	0	XGBClassifier	Morgan	ROC AUC	0.50538
+Secondary	PRR	Card	1	XGBClassifier	Morgan	ROC AUC	0.60682
+Secondary	PRR	Card	3	XGBClassifier	Morgan	ROC AUC	0.52696
+Secondary	PRR	Card	4	XGBClassifier	Morgan	ROC AUC	0.5836
+Secondary	PRR	Card	2	XGBClassifier	Morgan	ROC AUC	0.68716
+Mono	PRR	Card	0	XGBClassifier	Morgan	MCC	0.02565
+Mono	PRR	Card	1	XGBClassifier	Morgan	MCC	0.01931
+Mono	PRR	Card	3	XGBClassifier	Morgan	MCC	0.03394
+Mono	PRR	Card	4	XGBClassifier	Morgan	MCC	0.0182
+Mono	PRR	Card	2	XGBClassifier	Morgan	MCC	0.09948
+Primary	PRR	Card	0	XGBClassifier	Morgan	MCC	0.01402
+Primary	PRR	Card	1	XGBClassifier	Morgan	MCC	0.1652
+Primary	PRR	Card	3	XGBClassifier	Morgan	MCC	0.02419
+Primary	PRR	Card	4	XGBClassifier	Morgan	MCC	0.12761
+Primary	PRR	Card	2	XGBClassifier	Morgan	MCC	0.1167
+Secondary	PRR	Card	0	XGBClassifier	Morgan	MCC	0.02347
+Secondary	PRR	Card	1	XGBClassifier	Morgan	MCC	0.12694
+Secondary	PRR	Card	3	XGBClassifier	Morgan	MCC	0.02724
+Secondary	PRR	Card	4	XGBClassifier	Morgan	MCC	0.09383
+Secondary	PRR	Card	2	XGBClassifier	Morgan	MCC	0.2896
+Mono	PRR	Card	0	XGBClassifier	Morgan	Accuracy	0.47
+Mono	PRR	Card	1	XGBClassifier	Morgan	Accuracy	0.50252
+Mono	PRR	Card	3	XGBClassifier	Morgan	Accuracy	0.46828
+Mono	PRR	Card	4	XGBClassifier	Morgan	Accuracy	0.50174
+Mono	PRR	Card	2	XGBClassifier	Morgan	Accuracy	0.55116
+Primary	PRR	Card	0	XGBClassifier	Morgan	Accuracy	0.47143
+Primary	PRR	Card	1	XGBClassifier	Morgan	Accuracy	0.58086
+Primary	PRR	Card	3	XGBClassifier	Morgan	Accuracy	0.51828
+Primary	PRR	Card	4	XGBClassifier	Morgan	Accuracy	0.56214
+Primary	PRR	Card	2	XGBClassifier	Morgan	Accuracy	0.56864
+Secondary	PRR	Card	0	XGBClassifier	Morgan	Accuracy	0.51163
+Secondary	PRR	Card	1	XGBClassifier	Morgan	Accuracy	0.56967
+Secondary	PRR	Card	3	XGBClassifier	Morgan	Accuracy	0.52581
+Secondary	PRR	Card	4	XGBClassifier	Morgan	Accuracy	0.57259
+Secondary	PRR	Card	2	XGBClassifier	Morgan	Accuracy	0.67815
+Mono	PRR	Card	0	XGBClassifier	Morgan	Recall	0.39187
+Mono	PRR	Card	1	XGBClassifier	Morgan	Recall	0.46318
+Mono	PRR	Card	3	XGBClassifier	Morgan	Recall	0.3543
+Mono	PRR	Card	4	XGBClassifier	Morgan	Recall	0.48238
+Mono	PRR	Card	2	XGBClassifier	Morgan	Recall	0.55012
+Primary	PRR	Card	0	XGBClassifier	Morgan	Recall	0.40669
+Primary	PRR	Card	1	XGBClassifier	Morgan	Recall	0.56589
+Primary	PRR	Card	3	XGBClassifier	Morgan	Recall	0.53146
+Primary	PRR	Card	4	XGBClassifier	Morgan	Recall	0.55104
+Primary	PRR	Card	2	XGBClassifier	Morgan	Recall	0.5925
+Secondary	PRR	Card	0	XGBClassifier	Morgan	Recall	0.50994
+Secondary	PRR	Card	1	XGBClassifier	Morgan	Recall	0.60078
+Secondary	PRR	Card	3	XGBClassifier	Morgan	Recall	0.55298
+Secondary	PRR	Card	4	XGBClassifier	Morgan	Recall	0.63415
+Secondary	PRR	Card	2	XGBClassifier	Morgan	Recall	0.78729
+Mono	PRR	Card	0	XGBClassifier	Morgan	Specificity	0.63482
+Mono	PRR	Card	1	XGBClassifier	Morgan	Specificity	0.55629
+Mono	PRR	Card	3	XGBClassifier	Morgan	Specificity	0.67945
+Mono	PRR	Card	4	XGBClassifier	Morgan	Specificity	0.53659
+Mono	PRR	Card	2	XGBClassifier	Morgan	Specificity	0.55292
+Primary	PRR	Card	0	XGBClassifier	Morgan	Specificity	0.60804
+Primary	PRR	Card	1	XGBClassifier	Morgan	Specificity	0.60132
+Primary	PRR	Card	3	XGBClassifier	Morgan	Specificity	0.49387
+Primary	PRR	Card	4	XGBClassifier	Morgan	Specificity	0.58211
+Primary	PRR	Card	2	XGBClassifier	Morgan	Specificity	0.52786
+Secondary	PRR	Card	0	XGBClassifier	Morgan	Specificity	0.51518
+Secondary	PRR	Card	1	XGBClassifier	Morgan	Specificity	0.52715
+Secondary	PRR	Card	3	XGBClassifier	Morgan	Specificity	0.47546
+Secondary	PRR	Card	4	XGBClassifier	Morgan	Specificity	0.46179
+Secondary	PRR	Card	2	XGBClassifier	Morgan	Specificity	0.49164
+Mono	PRR	Card	0	XGBClassifier	Morgan	Precision	0.69363
+Mono	PRR	Card	1	XGBClassifier	Morgan	Precision	0.58795
+Mono	PRR	Card	3	XGBClassifier	Morgan	Precision	0.6719
+Mono	PRR	Card	4	XGBClassifier	Morgan	Precision	0.65201
+Mono	PRR	Card	2	XGBClassifier	Morgan	Precision	0.67771
+Primary	PRR	Card	0	XGBClassifier	Morgan	Precision	0.68643
+Primary	PRR	Card	1	XGBClassifier	Morgan	Precision	0.65989
+Primary	PRR	Card	3	XGBClassifier	Morgan	Precision	0.66049
+Primary	PRR	Card	4	XGBClassifier	Morgan	Precision	0.70358
+Primary	PRR	Card	2	XGBClassifier	Morgan	Precision	0.68199
+Secondary	PRR	Card	0	XGBClassifier	Morgan	Precision	0.68936
+Secondary	PRR	Card	1	XGBClassifier	Morgan	Precision	0.6346
+Secondary	PRR	Card	3	XGBClassifier	Morgan	Precision	0.66139
+Secondary	PRR	Card	4	XGBClassifier	Morgan	Precision	0.67957
+Secondary	PRR	Card	2	XGBClassifier	Morgan	Precision	0.72577
+Mono	PRR	Card	0	XGBClassifier	Morgan	PRC AUC	0.69484
+Mono	PRR	Card	1	XGBClassifier	Morgan	PRC AUC	0.62207
+Mono	PRR	Card	3	XGBClassifier	Morgan	PRC AUC	0.69234
+Mono	PRR	Card	4	XGBClassifier	Morgan	PRC AUC	0.66147
+Mono	PRR	Card	2	XGBClassifier	Morgan	PRC AUC	0.69385
+Primary	PRR	Card	0	XGBClassifier	Morgan	PRC AUC	0.70022
+Primary	PRR	Card	1	XGBClassifier	Morgan	PRC AUC	0.6479
+Primary	PRR	Card	3	XGBClassifier	Morgan	PRC AUC	0.71151
+Primary	PRR	Card	4	XGBClassifier	Morgan	PRC AUC	0.69115
+Primary	PRR	Card	2	XGBClassifier	Morgan	PRC AUC	0.6952
+Secondary	PRR	Card	0	XGBClassifier	Morgan	PRC AUC	0.69463
+Secondary	PRR	Card	1	XGBClassifier	Morgan	PRC AUC	0.69684
+Secondary	PRR	Card	3	XGBClassifier	Morgan	PRC AUC	0.71121
+Secondary	PRR	Card	4	XGBClassifier	Morgan	PRC AUC	0.71506
+Secondary	PRR	Card	2	XGBClassifier	Morgan	PRC AUC	0.77416
+Mono	PRR	Card	0	XGBClassifier	Morgan	Brier	0.29975
+Mono	PRR	Card	1	XGBClassifier	Morgan	Brier	0.29724
+Mono	PRR	Card	3	XGBClassifier	Morgan	Brier	0.29969
+Mono	PRR	Card	4	XGBClassifier	Morgan	Brier	0.29016
+Mono	PRR	Card	2	XGBClassifier	Morgan	Brier	0.25249
+Primary	PRR	Card	0	XGBClassifier	Morgan	Brier	0.2903
+Primary	PRR	Card	1	XGBClassifier	Morgan	Brier	0.25316
+Primary	PRR	Card	3	XGBClassifier	Morgan	Brier	0.26467
+Primary	PRR	Card	4	XGBClassifier	Morgan	Brier	0.24843
+Primary	PRR	Card	2	XGBClassifier	Morgan	Brier	0.24489
+Secondary	PRR	Card	0	XGBClassifier	Morgan	Brier	0.266
+Secondary	PRR	Card	1	XGBClassifier	Morgan	Brier	0.24567
+Secondary	PRR	Card	3	XGBClassifier	Morgan	Brier	0.25791
+Secondary	PRR	Card	4	XGBClassifier	Morgan	Brier	0.23954
+Secondary	PRR	Card	2	XGBClassifier	Morgan	Brier	0.2117
+Mono	PRR	Card	0	XGBClassifier	Morgan	ECE	0.24802
+Mono	PRR	Card	1	XGBClassifier	Morgan	ECE	0.20707
+Mono	PRR	Card	3	XGBClassifier	Morgan	ECE	0.2281
+Mono	PRR	Card	4	XGBClassifier	Morgan	ECE	0.20906
+Mono	PRR	Card	2	XGBClassifier	Morgan	ECE	0.1583
+Primary	PRR	Card	0	XGBClassifier	Morgan	ECE	0.22494
+Primary	PRR	Card	1	XGBClassifier	Morgan	ECE	0.11278
+Primary	PRR	Card	3	XGBClassifier	Morgan	ECE	0.14779
+Primary	PRR	Card	4	XGBClassifier	Morgan	ECE	0.15491
+Primary	PRR	Card	2	XGBClassifier	Morgan	ECE	0.13315
+Secondary	PRR	Card	0	XGBClassifier	Morgan	ECE	0.18215
+Secondary	PRR	Card	1	XGBClassifier	Morgan	ECE	0.08716
+Secondary	PRR	Card	3	XGBClassifier	Morgan	ECE	0.12404
+Secondary	PRR	Card	4	XGBClassifier	Morgan	ECE	0.10504
+Secondary	PRR	Card	2	XGBClassifier	Morgan	ECE	0.05806

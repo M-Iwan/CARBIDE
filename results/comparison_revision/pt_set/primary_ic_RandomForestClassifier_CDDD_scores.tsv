@@ -1,0 +1,196 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Primary	IC	Cred	1	RandomForestClassifier	CDDD	Balanced Accuracy	0.55554
+Primary	IC	Cred	0	RandomForestClassifier	CDDD	Balanced Accuracy	0.54892
+Primary	IC	Cred	2	RandomForestClassifier	CDDD	Balanced Accuracy	0.55205
+Primary	IC	Cred	3	RandomForestClassifier	CDDD	Balanced Accuracy	0.53216
+Primary	IC	Cred	4	RandomForestClassifier	CDDD	Balanced Accuracy	0.51572
+Primary	IC	Card	1	RandomForestClassifier	CDDD	Balanced Accuracy	0.57654
+Primary	IC	Card	0	RandomForestClassifier	CDDD	Balanced Accuracy	0.53522
+Primary	IC	Card	2	RandomForestClassifier	CDDD	Balanced Accuracy	0.55253
+Primary	IC	Card	3	RandomForestClassifier	CDDD	Balanced Accuracy	0.52007
+Primary	IC	Card	4	RandomForestClassifier	CDDD	Balanced Accuracy	0.54589
+Primary	IC	Cvas	1	RandomForestClassifier	CDDD	Balanced Accuracy	0.53713
+Primary	IC	Cvas	0	RandomForestClassifier	CDDD	Balanced Accuracy	0.55648
+Primary	IC	Cvas	2	RandomForestClassifier	CDDD	Balanced Accuracy	0.54139
+Primary	IC	Cvas	3	RandomForestClassifier	CDDD	Balanced Accuracy	0.53741
+Primary	IC	Cvas	4	RandomForestClassifier	CDDD	Balanced Accuracy	0.54023
+Primary	IC	Cred	1	RandomForestClassifier	CDDD	GeomRS	0.51099
+Primary	IC	Cred	0	RandomForestClassifier	CDDD	GeomRS	0.53059
+Primary	IC	Cred	2	RandomForestClassifier	CDDD	GeomRS	0.49489
+Primary	IC	Cred	3	RandomForestClassifier	CDDD	GeomRS	0.49675
+Primary	IC	Cred	4	RandomForestClassifier	CDDD	GeomRS	0.4391
+Primary	IC	Card	1	RandomForestClassifier	CDDD	GeomRS	0.54343
+Primary	IC	Card	0	RandomForestClassifier	CDDD	GeomRS	0.47598
+Primary	IC	Card	2	RandomForestClassifier	CDDD	GeomRS	0.48357
+Primary	IC	Card	3	RandomForestClassifier	CDDD	GeomRS	0.47679
+Primary	IC	Card	4	RandomForestClassifier	CDDD	GeomRS	0.47152
+Primary	IC	Cvas	1	RandomForestClassifier	CDDD	GeomRS	0.49419
+Primary	IC	Cvas	0	RandomForestClassifier	CDDD	GeomRS	0.51553
+Primary	IC	Cvas	2	RandomForestClassifier	CDDD	GeomRS	0.47042
+Primary	IC	Cvas	3	RandomForestClassifier	CDDD	GeomRS	0.50905
+Primary	IC	Cvas	4	RandomForestClassifier	CDDD	GeomRS	0.4705
+Primary	IC	Cred	1	RandomForestClassifier	CDDD	HarmRS	0.47
+Primary	IC	Cred	0	RandomForestClassifier	CDDD	HarmRS	0.51287
+Primary	IC	Cred	2	RandomForestClassifier	CDDD	HarmRS	0.44365
+Primary	IC	Cred	3	RandomForestClassifier	CDDD	HarmRS	0.4637
+Primary	IC	Cred	4	RandomForestClassifier	CDDD	HarmRS	0.37387
+Primary	IC	Card	1	RandomForestClassifier	CDDD	HarmRS	0.51222
+Primary	IC	Card	0	RandomForestClassifier	CDDD	HarmRS	0.42329
+Primary	IC	Card	2	RandomForestClassifier	CDDD	HarmRS	0.42321
+Primary	IC	Card	3	RandomForestClassifier	CDDD	HarmRS	0.43712
+Primary	IC	Card	4	RandomForestClassifier	CDDD	HarmRS	0.40728
+Primary	IC	Cvas	1	RandomForestClassifier	CDDD	HarmRS	0.45469
+Primary	IC	Cvas	0	RandomForestClassifier	CDDD	HarmRS	0.47759
+Primary	IC	Cvas	2	RandomForestClassifier	CDDD	HarmRS	0.40875
+Primary	IC	Cvas	3	RandomForestClassifier	CDDD	HarmRS	0.48219
+Primary	IC	Cvas	4	RandomForestClassifier	CDDD	HarmRS	0.40977
+Primary	IC	Cred	1	RandomForestClassifier	CDDD	F1 Score	0.66907
+Primary	IC	Cred	0	RandomForestClassifier	CDDD	F1 Score	0.6819
+Primary	IC	Cred	2	RandomForestClassifier	CDDD	F1 Score	0.71353
+Primary	IC	Cred	3	RandomForestClassifier	CDDD	F1 Score	0.68338
+Primary	IC	Cred	4	RandomForestClassifier	CDDD	F1 Score	0.6736
+Primary	IC	Card	1	RandomForestClassifier	CDDD	F1 Score	0.67761
+Primary	IC	Card	0	RandomForestClassifier	CDDD	F1 Score	0.71584
+Primary	IC	Card	2	RandomForestClassifier	CDDD	F1 Score	0.72227
+Primary	IC	Card	3	RandomForestClassifier	CDDD	F1 Score	0.68079
+Primary	IC	Card	4	RandomForestClassifier	CDDD	F1 Score	0.69854
+Primary	IC	Cvas	1	RandomForestClassifier	CDDD	F1 Score	0.65143
+Primary	IC	Cvas	0	RandomForestClassifier	CDDD	F1 Score	0.71809
+Primary	IC	Cvas	2	RandomForestClassifier	CDDD	F1 Score	0.71398
+Primary	IC	Cvas	3	RandomForestClassifier	CDDD	F1 Score	0.67961
+Primary	IC	Cvas	4	RandomForestClassifier	CDDD	F1 Score	0.69089
+Primary	IC	Cred	1	RandomForestClassifier	CDDD	ROC AUC	0.59941
+Primary	IC	Cred	0	RandomForestClassifier	CDDD	ROC AUC	0.58791
+Primary	IC	Cred	2	RandomForestClassifier	CDDD	ROC AUC	0.61186
+Primary	IC	Cred	3	RandomForestClassifier	CDDD	ROC AUC	0.56068
+Primary	IC	Cred	4	RandomForestClassifier	CDDD	ROC AUC	0.56378
+Primary	IC	Card	1	RandomForestClassifier	CDDD	ROC AUC	0.62046
+Primary	IC	Card	0	RandomForestClassifier	CDDD	ROC AUC	0.57714
+Primary	IC	Card	2	RandomForestClassifier	CDDD	ROC AUC	0.61649
+Primary	IC	Card	3	RandomForestClassifier	CDDD	ROC AUC	0.53821
+Primary	IC	Card	4	RandomForestClassifier	CDDD	ROC AUC	0.59639
+Primary	IC	Cvas	1	RandomForestClassifier	CDDD	ROC AUC	0.59103
+Primary	IC	Cvas	0	RandomForestClassifier	CDDD	ROC AUC	0.59341
+Primary	IC	Cvas	2	RandomForestClassifier	CDDD	ROC AUC	0.6005
+Primary	IC	Cvas	3	RandomForestClassifier	CDDD	ROC AUC	0.56688
+Primary	IC	Cvas	4	RandomForestClassifier	CDDD	ROC AUC	0.60217
+Primary	IC	Cred	1	RandomForestClassifier	CDDD	MCC	0.12355
+Primary	IC	Cred	0	RandomForestClassifier	CDDD	MCC	0.09875
+Primary	IC	Cred	2	RandomForestClassifier	CDDD	MCC	0.1181
+Primary	IC	Cred	3	RandomForestClassifier	CDDD	MCC	0.06784
+Primary	IC	Cred	4	RandomForestClassifier	CDDD	MCC	0.03705
+Primary	IC	Card	1	RandomForestClassifier	CDDD	MCC	0.16621
+Primary	IC	Card	0	RandomForestClassifier	CDDD	MCC	0.07858
+Primary	IC	Card	2	RandomForestClassifier	CDDD	MCC	0.12336
+Primary	IC	Card	3	RandomForestClassifier	CDDD	MCC	0.04293
+Primary	IC	Card	4	RandomForestClassifier	CDDD	MCC	0.10979
+Primary	IC	Cvas	1	RandomForestClassifier	CDDD	MCC	0.08174
+Primary	IC	Cvas	0	RandomForestClassifier	CDDD	MCC	0.12148
+Primary	IC	Cvas	2	RandomForestClassifier	CDDD	MCC	0.09689
+Primary	IC	Cvas	3	RandomForestClassifier	CDDD	MCC	0.0777
+Primary	IC	Cvas	4	RandomForestClassifier	CDDD	MCC	0.09467
+Primary	IC	Cred	1	RandomForestClassifier	CDDD	Accuracy	0.57799
+Primary	IC	Cred	0	RandomForestClassifier	CDDD	Accuracy	0.58829
+Primary	IC	Cred	2	RandomForestClassifier	CDDD	Accuracy	0.60756
+Primary	IC	Cred	3	RandomForestClassifier	CDDD	Accuracy	0.58038
+Primary	IC	Cred	4	RandomForestClassifier	CDDD	Accuracy	0.55862
+Primary	IC	Card	1	RandomForestClassifier	CDDD	Accuracy	0.59638
+Primary	IC	Card	0	RandomForestClassifier	CDDD	Accuracy	0.60372
+Primary	IC	Card	2	RandomForestClassifier	CDDD	Accuracy	0.6132
+Primary	IC	Card	3	RandomForestClassifier	CDDD	Accuracy	0.57255
+Primary	IC	Card	4	RandomForestClassifier	CDDD	Accuracy	0.58952
+Primary	IC	Cvas	1	RandomForestClassifier	CDDD	Accuracy	0.5588
+Primary	IC	Cvas	0	RandomForestClassifier	CDDD	Accuracy	0.61512
+Primary	IC	Cvas	2	RandomForestClassifier	CDDD	Accuracy	0.6022
+Primary	IC	Cvas	3	RandomForestClassifier	CDDD	Accuracy	0.58092
+Primary	IC	Cvas	4	RandomForestClassifier	CDDD	Accuracy	0.58234
+Primary	IC	Cred	1	RandomForestClassifier	CDDD	Recall	0.77353
+Primary	IC	Cred	0	RandomForestClassifier	CDDD	Recall	0.68959
+Primary	IC	Cred	2	RandomForestClassifier	CDDD	Recall	0.79668
+Primary	IC	Cred	3	RandomForestClassifier	CDDD	Recall	0.72304
+Primary	IC	Cred	4	RandomForestClassifier	CDDD	Recall	0.78619
+Primary	IC	Card	1	RandomForestClassifier	CDDD	Recall	0.76912
+Primary	IC	Card	0	RandomForestClassifier	CDDD	Recall	0.77998
+Primary	IC	Card	2	RandomForestClassifier	CDDD	Recall	0.81985
+Primary	IC	Card	3	RandomForestClassifier	CDDD	Recall	0.72778
+Primary	IC	Card	4	RandomForestClassifier	CDDD	Recall	0.82095
+Primary	IC	Cvas	1	RandomForestClassifier	CDDD	Recall	0.74755
+Primary	IC	Cvas	0	RandomForestClassifier	CDDD	Recall	0.76601
+Primary	IC	Cvas	2	RandomForestClassifier	CDDD	Recall	0.80936
+Primary	IC	Cvas	3	RandomForestClassifier	CDDD	Recall	0.70966
+Primary	IC	Cvas	4	RandomForestClassifier	CDDD	Recall	0.80571
+Primary	IC	Cred	1	RandomForestClassifier	CDDD	Specificity	0.33755
+Primary	IC	Cred	0	RandomForestClassifier	CDDD	Specificity	0.40825
+Primary	IC	Cred	2	RandomForestClassifier	CDDD	Specificity	0.30743
+Primary	IC	Cred	3	RandomForestClassifier	CDDD	Specificity	0.34129
+Primary	IC	Cred	4	RandomForestClassifier	CDDD	Specificity	0.24525
+Primary	IC	Card	1	RandomForestClassifier	CDDD	Specificity	0.38397
+Primary	IC	Card	0	RandomForestClassifier	CDDD	Specificity	0.29046
+Primary	IC	Card	2	RandomForestClassifier	CDDD	Specificity	0.28522
+Primary	IC	Card	3	RandomForestClassifier	CDDD	Specificity	0.31236
+Primary	IC	Card	4	RandomForestClassifier	CDDD	Specificity	0.27082
+Primary	IC	Cvas	1	RandomForestClassifier	CDDD	Specificity	0.3267
+Primary	IC	Cvas	0	RandomForestClassifier	CDDD	Specificity	0.34696
+Primary	IC	Cvas	2	RandomForestClassifier	CDDD	Specificity	0.27342
+Primary	IC	Cvas	3	RandomForestClassifier	CDDD	Specificity	0.36515
+Primary	IC	Cvas	4	RandomForestClassifier	CDDD	Specificity	0.27475
+Primary	IC	Cred	1	RandomForestClassifier	CDDD	Precision	0.58947
+Primary	IC	Cred	0	RandomForestClassifier	CDDD	Precision	0.67438
+Primary	IC	Cred	2	RandomForestClassifier	CDDD	Precision	0.6461
+Primary	IC	Cred	3	RandomForestClassifier	CDDD	Precision	0.64785
+Primary	IC	Cred	4	RandomForestClassifier	CDDD	Precision	0.58922
+Primary	IC	Card	1	RandomForestClassifier	CDDD	Precision	0.60556
+Primary	IC	Card	0	RandomForestClassifier	CDDD	Precision	0.66144
+Primary	IC	Card	2	RandomForestClassifier	CDDD	Precision	0.64544
+Primary	IC	Card	3	RandomForestClassifier	CDDD	Precision	0.6395
+Primary	IC	Card	4	RandomForestClassifier	CDDD	Precision	0.6079
+Primary	IC	Cvas	1	RandomForestClassifier	CDDD	Precision	0.57721
+Primary	IC	Cvas	0	RandomForestClassifier	CDDD	Precision	0.67582
+Primary	IC	Cvas	2	RandomForestClassifier	CDDD	Precision	0.63872
+Primary	IC	Cvas	3	RandomForestClassifier	CDDD	Precision	0.652
+Primary	IC	Cvas	4	RandomForestClassifier	CDDD	Precision	0.60472
+Primary	IC	Cred	1	RandomForestClassifier	CDDD	PRC AUC	0.66128
+Primary	IC	Cred	0	RandomForestClassifier	CDDD	PRC AUC	0.71956
+Primary	IC	Cred	2	RandomForestClassifier	CDDD	PRC AUC	0.71802
+Primary	IC	Cred	3	RandomForestClassifier	CDDD	PRC AUC	0.687
+Primary	IC	Cred	4	RandomForestClassifier	CDDD	PRC AUC	0.65794
+Primary	IC	Card	1	RandomForestClassifier	CDDD	PRC AUC	0.67421
+Primary	IC	Card	0	RandomForestClassifier	CDDD	PRC AUC	0.70959
+Primary	IC	Card	2	RandomForestClassifier	CDDD	PRC AUC	0.72363
+Primary	IC	Card	3	RandomForestClassifier	CDDD	PRC AUC	0.67268
+Primary	IC	Card	4	RandomForestClassifier	CDDD	PRC AUC	0.67154
+Primary	IC	Cvas	1	RandomForestClassifier	CDDD	PRC AUC	0.66162
+Primary	IC	Cvas	0	RandomForestClassifier	CDDD	PRC AUC	0.71748
+Primary	IC	Cvas	2	RandomForestClassifier	CDDD	PRC AUC	0.69859
+Primary	IC	Cvas	3	RandomForestClassifier	CDDD	PRC AUC	0.69593
+Primary	IC	Cvas	4	RandomForestClassifier	CDDD	PRC AUC	0.67452
+Primary	IC	Cred	1	RandomForestClassifier	CDDD	ECE	0.02605
+Primary	IC	Cred	0	RandomForestClassifier	CDDD	ECE	0.1028
+Primary	IC	Cred	2	RandomForestClassifier	CDDD	ECE	0.0578
+Primary	IC	Cred	3	RandomForestClassifier	CDDD	ECE	0.08254
+Primary	IC	Cred	4	RandomForestClassifier	CDDD	ECE	0.02798
+Primary	IC	Card	1	RandomForestClassifier	CDDD	ECE	0.02613
+Primary	IC	Card	0	RandomForestClassifier	CDDD	ECE	0.07928
+Primary	IC	Card	2	RandomForestClassifier	CDDD	ECE	0.049
+Primary	IC	Card	3	RandomForestClassifier	CDDD	ECE	0.0775
+Primary	IC	Card	4	RandomForestClassifier	CDDD	ECE	0.01612
+Primary	IC	Cvas	1	RandomForestClassifier	CDDD	ECE	0.05096
+Primary	IC	Cvas	0	RandomForestClassifier	CDDD	ECE	0.07881
+Primary	IC	Cvas	2	RandomForestClassifier	CDDD	ECE	0.03839
+Primary	IC	Cvas	3	RandomForestClassifier	CDDD	ECE	0.07778
+Primary	IC	Cvas	4	RandomForestClassifier	CDDD	ECE	0.02166
+Primary	IC	Cred	1	RandomForestClassifier	CDDD	Brier	0.23885
+Primary	IC	Cred	0	RandomForestClassifier	CDDD	Brier	0.23563
+Primary	IC	Cred	2	RandomForestClassifier	CDDD	Brier	0.23152
+Primary	IC	Cred	3	RandomForestClassifier	CDDD	Brier	0.23824
+Primary	IC	Cred	4	RandomForestClassifier	CDDD	Brier	0.24055
+Primary	IC	Card	1	RandomForestClassifier	CDDD	Brier	0.23523
+Primary	IC	Card	0	RandomForestClassifier	CDDD	Brier	0.23293
+Primary	IC	Card	2	RandomForestClassifier	CDDD	Brier	0.23006
+Primary	IC	Card	3	RandomForestClassifier	CDDD	Brier	0.24125
+Primary	IC	Card	4	RandomForestClassifier	CDDD	Brier	0.23633
+Primary	IC	Cvas	1	RandomForestClassifier	CDDD	Brier	0.23972
+Primary	IC	Cvas	0	RandomForestClassifier	CDDD	Brier	0.23115
+Primary	IC	Cvas	2	RandomForestClassifier	CDDD	Brier	0.23215
+Primary	IC	Cvas	3	RandomForestClassifier	CDDD	Brier	0.23718
+Primary	IC	Cvas	4	RandomForestClassifier	CDDD	Brier	0.23637

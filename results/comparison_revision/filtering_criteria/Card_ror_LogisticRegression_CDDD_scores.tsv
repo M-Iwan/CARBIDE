@@ -1,0 +1,196 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Mono	ROR	Card	0	LogisticRegression	CDDD	Balanced Accuracy	0.57566
+Mono	ROR	Card	1	LogisticRegression	CDDD	Balanced Accuracy	0.57974
+Mono	ROR	Card	3	LogisticRegression	CDDD	Balanced Accuracy	0.46677
+Mono	ROR	Card	4	LogisticRegression	CDDD	Balanced Accuracy	0.49447
+Mono	ROR	Card	2	LogisticRegression	CDDD	Balanced Accuracy	0.551
+Primary	ROR	Card	0	LogisticRegression	CDDD	Balanced Accuracy	0.48815
+Primary	ROR	Card	1	LogisticRegression	CDDD	Balanced Accuracy	0.52161
+Primary	ROR	Card	3	LogisticRegression	CDDD	Balanced Accuracy	0.48788
+Primary	ROR	Card	4	LogisticRegression	CDDD	Balanced Accuracy	0.51099
+Primary	ROR	Card	2	LogisticRegression	CDDD	Balanced Accuracy	0.55167
+Secondary	ROR	Card	0	LogisticRegression	CDDD	Balanced Accuracy	0.54456
+Secondary	ROR	Card	1	LogisticRegression	CDDD	Balanced Accuracy	0.57628
+Secondary	ROR	Card	3	LogisticRegression	CDDD	Balanced Accuracy	0.47945
+Secondary	ROR	Card	4	LogisticRegression	CDDD	Balanced Accuracy	0.54661
+Secondary	ROR	Card	2	LogisticRegression	CDDD	Balanced Accuracy	0.46517
+Mono	ROR	Card	0	LogisticRegression	CDDD	GeomRS	0.56657
+Mono	ROR	Card	1	LogisticRegression	CDDD	GeomRS	0.57961
+Mono	ROR	Card	3	LogisticRegression	CDDD	GeomRS	0.46298
+Mono	ROR	Card	4	LogisticRegression	CDDD	GeomRS	0.4894
+Mono	ROR	Card	2	LogisticRegression	CDDD	GeomRS	0.54645
+Primary	ROR	Card	0	LogisticRegression	CDDD	GeomRS	0.46255
+Primary	ROR	Card	1	LogisticRegression	CDDD	GeomRS	0.51378
+Primary	ROR	Card	3	LogisticRegression	CDDD	GeomRS	0.46846
+Primary	ROR	Card	4	LogisticRegression	CDDD	GeomRS	0.4787
+Primary	ROR	Card	2	LogisticRegression	CDDD	GeomRS	0.54549
+Secondary	ROR	Card	0	LogisticRegression	CDDD	GeomRS	0.53242
+Secondary	ROR	Card	1	LogisticRegression	CDDD	GeomRS	0.5717
+Secondary	ROR	Card	3	LogisticRegression	CDDD	GeomRS	0.45447
+Secondary	ROR	Card	4	LogisticRegression	CDDD	GeomRS	0.53975
+Secondary	ROR	Card	2	LogisticRegression	CDDD	GeomRS	0.45444
+Mono	ROR	Card	0	LogisticRegression	CDDD	HarmRS	0.55763
+Mono	ROR	Card	1	LogisticRegression	CDDD	HarmRS	0.57948
+Mono	ROR	Card	3	LogisticRegression	CDDD	HarmRS	0.45921
+Mono	ROR	Card	4	LogisticRegression	CDDD	HarmRS	0.48438
+Mono	ROR	Card	2	LogisticRegression	CDDD	HarmRS	0.54195
+Primary	ROR	Card	0	LogisticRegression	CDDD	HarmRS	0.43828
+Primary	ROR	Card	1	LogisticRegression	CDDD	HarmRS	0.50607
+Primary	ROR	Card	3	LogisticRegression	CDDD	HarmRS	0.44981
+Primary	ROR	Card	4	LogisticRegression	CDDD	HarmRS	0.44845
+Primary	ROR	Card	2	LogisticRegression	CDDD	HarmRS	0.53939
+Secondary	ROR	Card	0	LogisticRegression	CDDD	HarmRS	0.52054
+Secondary	ROR	Card	1	LogisticRegression	CDDD	HarmRS	0.56715
+Secondary	ROR	Card	3	LogisticRegression	CDDD	HarmRS	0.43078
+Secondary	ROR	Card	4	LogisticRegression	CDDD	HarmRS	0.53297
+Secondary	ROR	Card	2	LogisticRegression	CDDD	HarmRS	0.44396
+Mono	ROR	Card	0	LogisticRegression	CDDD	F1 Score	0.56081
+Mono	ROR	Card	1	LogisticRegression	CDDD	F1 Score	0.57627
+Mono	ROR	Card	3	LogisticRegression	CDDD	F1 Score	0.46319
+Mono	ROR	Card	4	LogisticRegression	CDDD	F1 Score	0.4788
+Mono	ROR	Card	2	LogisticRegression	CDDD	F1 Score	0.53768
+Primary	ROR	Card	0	LogisticRegression	CDDD	F1 Score	0.423
+Primary	ROR	Card	1	LogisticRegression	CDDD	F1 Score	0.46734
+Primary	ROR	Card	3	LogisticRegression	CDDD	F1 Score	0.43128
+Primary	ROR	Card	4	LogisticRegression	CDDD	F1 Score	0.42068
+Primary	ROR	Card	2	LogisticRegression	CDDD	F1 Score	0.53159
+Secondary	ROR	Card	0	LogisticRegression	CDDD	F1 Score	0.51877
+Secondary	ROR	Card	1	LogisticRegression	CDDD	F1 Score	0.53607
+Secondary	ROR	Card	3	LogisticRegression	CDDD	F1 Score	0.40847
+Secondary	ROR	Card	4	LogisticRegression	CDDD	F1 Score	0.52519
+Secondary	ROR	Card	2	LogisticRegression	CDDD	F1 Score	0.42573
+Mono	ROR	Card	0	LogisticRegression	CDDD	ROC AUC	0.56727
+Mono	ROR	Card	1	LogisticRegression	CDDD	ROC AUC	0.61051
+Mono	ROR	Card	3	LogisticRegression	CDDD	ROC AUC	0.48985
+Mono	ROR	Card	4	LogisticRegression	CDDD	ROC AUC	0.50344
+Mono	ROR	Card	2	LogisticRegression	CDDD	ROC AUC	0.58697
+Primary	ROR	Card	0	LogisticRegression	CDDD	ROC AUC	0.4953
+Primary	ROR	Card	1	LogisticRegression	CDDD	ROC AUC	0.54174
+Primary	ROR	Card	3	LogisticRegression	CDDD	ROC AUC	0.48804
+Primary	ROR	Card	4	LogisticRegression	CDDD	ROC AUC	0.48096
+Primary	ROR	Card	2	LogisticRegression	CDDD	ROC AUC	0.5477
+Secondary	ROR	Card	0	LogisticRegression	CDDD	ROC AUC	0.567
+Secondary	ROR	Card	1	LogisticRegression	CDDD	ROC AUC	0.60047
+Secondary	ROR	Card	3	LogisticRegression	CDDD	ROC AUC	0.482
+Secondary	ROR	Card	4	LogisticRegression	CDDD	ROC AUC	0.56751
+Secondary	ROR	Card	2	LogisticRegression	CDDD	ROC AUC	0.5061
+Mono	ROR	Card	0	LogisticRegression	CDDD	MCC	0.15061
+Mono	ROR	Card	1	LogisticRegression	CDDD	MCC	0.15942
+Mono	ROR	Card	3	LogisticRegression	CDDD	MCC	-0.06627
+Mono	ROR	Card	4	LogisticRegression	CDDD	MCC	-0.0111
+Mono	ROR	Card	2	LogisticRegression	CDDD	MCC	0.1023
+Primary	ROR	Card	0	LogisticRegression	CDDD	MCC	-0.02448
+Primary	ROR	Card	1	LogisticRegression	CDDD	MCC	0.04392
+Primary	ROR	Card	3	LogisticRegression	CDDD	MCC	-0.02495
+Primary	ROR	Card	4	LogisticRegression	CDDD	MCC	0.02336
+Primary	ROR	Card	2	LogisticRegression	CDDD	MCC	0.10401
+Secondary	ROR	Card	0	LogisticRegression	CDDD	MCC	0.08937
+Secondary	ROR	Card	1	LogisticRegression	CDDD	MCC	0.15423
+Secondary	ROR	Card	3	LogisticRegression	CDDD	MCC	-0.04277
+Secondary	ROR	Card	4	LogisticRegression	CDDD	MCC	0.09387
+Secondary	ROR	Card	2	LogisticRegression	CDDD	MCC	-0.07079
+Mono	ROR	Card	0	LogisticRegression	CDDD	Accuracy	0.55549
+Mono	ROR	Card	1	LogisticRegression	CDDD	Accuracy	0.57933
+Mono	ROR	Card	3	LogisticRegression	CDDD	Accuracy	0.45798
+Mono	ROR	Card	4	LogisticRegression	CDDD	Accuracy	0.48649
+Mono	ROR	Card	2	LogisticRegression	CDDD	Accuracy	0.54359
+Primary	ROR	Card	0	LogisticRegression	CDDD	Accuracy	0.45726
+Primary	ROR	Card	1	LogisticRegression	CDDD	Accuracy	0.52464
+Primary	ROR	Card	3	LogisticRegression	CDDD	Accuracy	0.4677
+Primary	ROR	Card	4	LogisticRegression	CDDD	Accuracy	0.49079
+Primary	ROR	Card	2	LogisticRegression	CDDD	Accuracy	0.54303
+Secondary	ROR	Card	0	LogisticRegression	CDDD	Accuracy	0.52191
+Secondary	ROR	Card	1	LogisticRegression	CDDD	Accuracy	0.57873
+Secondary	ROR	Card	3	LogisticRegression	CDDD	Accuracy	0.45683
+Secondary	ROR	Card	4	LogisticRegression	CDDD	Accuracy	0.53686
+Secondary	ROR	Card	2	LogisticRegression	CDDD	Accuracy	0.45475
+Mono	ROR	Card	0	LogisticRegression	CDDD	Recall	0.47379
+Mono	ROR	Card	1	LogisticRegression	CDDD	Recall	0.59204
+Mono	ROR	Card	3	LogisticRegression	CDDD	Recall	0.40737
+Mono	ROR	Card	4	LogisticRegression	CDDD	Recall	0.42384
+Mono	ROR	Card	2	LogisticRegression	CDDD	Recall	0.4804
+Primary	ROR	Card	0	LogisticRegression	CDDD	Recall	0.33212
+Primary	ROR	Card	1	LogisticRegression	CDDD	Recall	0.43159
+Primary	ROR	Card	3	LogisticRegression	CDDD	Recall	0.35159
+Primary	ROR	Card	4	LogisticRegression	CDDD	Recall	0.33223
+Primary	ROR	Card	2	LogisticRegression	CDDD	Recall	0.46935
+Secondary	ROR	Card	0	LogisticRegression	CDDD	Recall	0.4302
+Secondary	ROR	Card	1	LogisticRegression	CDDD	Recall	0.50373
+Secondary	ROR	Card	3	LogisticRegression	CDDD	Recall	0.32669
+Secondary	ROR	Card	4	LogisticRegression	CDDD	Recall	0.46026
+Secondary	ROR	Card	2	LogisticRegression	CDDD	Recall	0.36583
+Mono	ROR	Card	0	LogisticRegression	CDDD	Specificity	0.67752
+Mono	ROR	Card	1	LogisticRegression	CDDD	Specificity	0.56744
+Mono	ROR	Card	3	LogisticRegression	CDDD	Specificity	0.52617
+Mono	ROR	Card	4	LogisticRegression	CDDD	Specificity	0.5651
+Mono	ROR	Card	2	LogisticRegression	CDDD	Specificity	0.62159
+Primary	ROR	Card	0	LogisticRegression	CDDD	Specificity	0.64419
+Primary	ROR	Card	1	LogisticRegression	CDDD	Specificity	0.61163
+Primary	ROR	Card	3	LogisticRegression	CDDD	Specificity	0.62416
+Primary	ROR	Card	4	LogisticRegression	CDDD	Specificity	0.68975
+Primary	ROR	Card	2	LogisticRegression	CDDD	Specificity	0.634
+Secondary	ROR	Card	0	LogisticRegression	CDDD	Specificity	0.65891
+Secondary	ROR	Card	1	LogisticRegression	CDDD	Specificity	0.64884
+Secondary	ROR	Card	3	LogisticRegression	CDDD	Specificity	0.63221
+Secondary	ROR	Card	4	LogisticRegression	CDDD	Specificity	0.63296
+Secondary	ROR	Card	2	LogisticRegression	CDDD	Specificity	0.56452
+Mono	ROR	Card	0	LogisticRegression	CDDD	Precision	0.68698
+Mono	ROR	Card	1	LogisticRegression	CDDD	Precision	0.56132
+Mono	ROR	Card	3	LogisticRegression	CDDD	Precision	0.53675
+Mono	ROR	Card	4	LogisticRegression	CDDD	Precision	0.55014
+Mono	ROR	Card	2	LogisticRegression	CDDD	Precision	0.61047
+Primary	ROR	Card	0	LogisticRegression	CDDD	Precision	0.58235
+Primary	ROR	Card	1	LogisticRegression	CDDD	Precision	0.50954
+Primary	ROR	Card	3	LogisticRegression	CDDD	Precision	0.55766
+Primary	ROR	Card	4	LogisticRegression	CDDD	Precision	0.57333
+Primary	ROR	Card	2	LogisticRegression	CDDD	Precision	0.61286
+Secondary	ROR	Card	0	LogisticRegression	CDDD	Precision	0.65327
+Secondary	ROR	Card	1	LogisticRegression	CDDD	Precision	0.57284
+Secondary	ROR	Card	3	LogisticRegression	CDDD	Precision	0.54485
+Secondary	ROR	Card	4	LogisticRegression	CDDD	Precision	0.61144
+Secondary	ROR	Card	2	LogisticRegression	CDDD	Precision	0.50909
+Mono	ROR	Card	0	LogisticRegression	CDDD	PRC AUC	0.6459
+Mono	ROR	Card	1	LogisticRegression	CDDD	PRC AUC	0.63771
+Mono	ROR	Card	3	LogisticRegression	CDDD	PRC AUC	0.58121
+Mono	ROR	Card	4	LogisticRegression	CDDD	PRC AUC	0.5649
+Mono	ROR	Card	2	LogisticRegression	CDDD	PRC AUC	0.65363
+Primary	ROR	Card	0	LogisticRegression	CDDD	PRC AUC	0.59244
+Primary	ROR	Card	1	LogisticRegression	CDDD	PRC AUC	0.55298
+Primary	ROR	Card	3	LogisticRegression	CDDD	PRC AUC	0.58678
+Primary	ROR	Card	4	LogisticRegression	CDDD	PRC AUC	0.56877
+Primary	ROR	Card	2	LogisticRegression	CDDD	PRC AUC	0.63396
+Secondary	ROR	Card	0	LogisticRegression	CDDD	PRC AUC	0.64071
+Secondary	ROR	Card	1	LogisticRegression	CDDD	PRC AUC	0.55846
+Secondary	ROR	Card	3	LogisticRegression	CDDD	PRC AUC	0.54661
+Secondary	ROR	Card	4	LogisticRegression	CDDD	PRC AUC	0.60834
+Secondary	ROR	Card	2	LogisticRegression	CDDD	PRC AUC	0.54718
+Mono	ROR	Card	0	LogisticRegression	CDDD	Brier	0.31867
+Mono	ROR	Card	1	LogisticRegression	CDDD	Brier	0.2927
+Mono	ROR	Card	3	LogisticRegression	CDDD	Brier	0.35882
+Mono	ROR	Card	4	LogisticRegression	CDDD	Brier	0.31332
+Mono	ROR	Card	2	LogisticRegression	CDDD	Brier	0.29513
+Primary	ROR	Card	0	LogisticRegression	CDDD	Brier	0.35897
+Primary	ROR	Card	1	LogisticRegression	CDDD	Brier	0.30463
+Primary	ROR	Card	3	LogisticRegression	CDDD	Brier	0.35294
+Primary	ROR	Card	4	LogisticRegression	CDDD	Brier	0.30941
+Primary	ROR	Card	2	LogisticRegression	CDDD	Brier	0.31022
+Secondary	ROR	Card	0	LogisticRegression	CDDD	Brier	0.30612
+Secondary	ROR	Card	1	LogisticRegression	CDDD	Brier	0.26581
+Secondary	ROR	Card	3	LogisticRegression	CDDD	Brier	0.34027
+Secondary	ROR	Card	4	LogisticRegression	CDDD	Brier	0.27387
+Secondary	ROR	Card	2	LogisticRegression	CDDD	Brier	0.31283
+Mono	ROR	Card	0	LogisticRegression	CDDD	ECE	0.24121
+Mono	ROR	Card	1	LogisticRegression	CDDD	ECE	0.22113
+Mono	ROR	Card	3	LogisticRegression	CDDD	ECE	0.3104
+Mono	ROR	Card	4	LogisticRegression	CDDD	ECE	0.21979
+Mono	ROR	Card	2	LogisticRegression	CDDD	ECE	0.20333
+Primary	ROR	Card	0	LogisticRegression	CDDD	ECE	0.29695
+Primary	ROR	Card	1	LogisticRegression	CDDD	ECE	0.22499
+Primary	ROR	Card	3	LogisticRegression	CDDD	ECE	0.28483
+Primary	ROR	Card	4	LogisticRegression	CDDD	ECE	0.20279
+Primary	ROR	Card	2	LogisticRegression	CDDD	ECE	0.23699
+Secondary	ROR	Card	0	LogisticRegression	CDDD	ECE	0.22231
+Secondary	ROR	Card	1	LogisticRegression	CDDD	ECE	0.13549
+Secondary	ROR	Card	3	LogisticRegression	CDDD	ECE	0.26261
+Secondary	ROR	Card	4	LogisticRegression	CDDD	ECE	0.15209
+Secondary	ROR	Card	2	LogisticRegression	CDDD	ECE	0.25049

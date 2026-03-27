@@ -1,0 +1,196 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Primary	ROR	Cred	1	XGBClassifier	Klek	Balanced Accuracy	0.52132
+Primary	ROR	Cred	0	XGBClassifier	Klek	Balanced Accuracy	0.50517
+Primary	ROR	Cred	3	XGBClassifier	Klek	Balanced Accuracy	0.52936
+Primary	ROR	Cred	4	XGBClassifier	Klek	Balanced Accuracy	0.50998
+Primary	ROR	Cred	2	XGBClassifier	Klek	Balanced Accuracy	0.53614
+Primary	ROR	Card	1	XGBClassifier	Klek	Balanced Accuracy	0.53433
+Primary	ROR	Card	0	XGBClassifier	Klek	Balanced Accuracy	0.52219
+Primary	ROR	Card	3	XGBClassifier	Klek	Balanced Accuracy	0.53345
+Primary	ROR	Card	4	XGBClassifier	Klek	Balanced Accuracy	0.50001
+Primary	ROR	Card	2	XGBClassifier	Klek	Balanced Accuracy	0.52806
+Primary	ROR	Cvas	1	XGBClassifier	Klek	Balanced Accuracy	0.50424
+Primary	ROR	Cvas	0	XGBClassifier	Klek	Balanced Accuracy	0.51745
+Primary	ROR	Cvas	3	XGBClassifier	Klek	Balanced Accuracy	0.5433
+Primary	ROR	Cvas	4	XGBClassifier	Klek	Balanced Accuracy	0.5137
+Primary	ROR	Cvas	2	XGBClassifier	Klek	Balanced Accuracy	0.54118
+Primary	ROR	Cred	1	XGBClassifier	Klek	GeomRS	0.49951
+Primary	ROR	Cred	0	XGBClassifier	Klek	GeomRS	0.39789
+Primary	ROR	Cred	3	XGBClassifier	Klek	GeomRS	0.48347
+Primary	ROR	Cred	4	XGBClassifier	Klek	GeomRS	0.50363
+Primary	ROR	Cred	2	XGBClassifier	Klek	GeomRS	0.53608
+Primary	ROR	Card	1	XGBClassifier	Klek	GeomRS	0.51875
+Primary	ROR	Card	0	XGBClassifier	Klek	GeomRS	0.48515
+Primary	ROR	Card	3	XGBClassifier	Klek	GeomRS	0.46763
+Primary	ROR	Card	4	XGBClassifier	Klek	GeomRS	0.49551
+Primary	ROR	Card	2	XGBClassifier	Klek	GeomRS	0.51907
+Primary	ROR	Cvas	1	XGBClassifier	Klek	GeomRS	0.47782
+Primary	ROR	Cvas	0	XGBClassifier	Klek	GeomRS	0.45014
+Primary	ROR	Cvas	3	XGBClassifier	Klek	GeomRS	0.4947
+Primary	ROR	Cvas	4	XGBClassifier	Klek	GeomRS	0.51362
+Primary	ROR	Cvas	2	XGBClassifier	Klek	GeomRS	0.54024
+Primary	ROR	Cred	1	XGBClassifier	Klek	HarmRS	0.47861
+Primary	ROR	Cred	0	XGBClassifier	Klek	HarmRS	0.31339
+Primary	ROR	Cred	3	XGBClassifier	Klek	HarmRS	0.44155
+Primary	ROR	Cred	4	XGBClassifier	Klek	HarmRS	0.49736
+Primary	ROR	Cred	2	XGBClassifier	Klek	HarmRS	0.53601
+Primary	ROR	Card	1	XGBClassifier	Klek	HarmRS	0.50363
+Primary	ROR	Card	0	XGBClassifier	Klek	HarmRS	0.45074
+Primary	ROR	Card	3	XGBClassifier	Klek	HarmRS	0.40994
+Primary	ROR	Card	4	XGBClassifier	Klek	HarmRS	0.49105
+Primary	ROR	Card	2	XGBClassifier	Klek	HarmRS	0.51024
+Primary	ROR	Cvas	1	XGBClassifier	Klek	HarmRS	0.45279
+Primary	ROR	Cvas	0	XGBClassifier	Klek	HarmRS	0.39159
+Primary	ROR	Cvas	3	XGBClassifier	Klek	HarmRS	0.45045
+Primary	ROR	Cvas	4	XGBClassifier	Klek	HarmRS	0.51354
+Primary	ROR	Cvas	2	XGBClassifier	Klek	HarmRS	0.53931
+Primary	ROR	Cred	1	XGBClassifier	Klek	F1 Score	0.43756
+Primary	ROR	Cred	0	XGBClassifier	Klek	F1 Score	0.29467
+Primary	ROR	Cred	3	XGBClassifier	Klek	F1 Score	0.4198
+Primary	ROR	Cred	4	XGBClassifier	Klek	F1 Score	0.48007
+Primary	ROR	Cred	2	XGBClassifier	Klek	F1 Score	0.56176
+Primary	ROR	Card	1	XGBClassifier	Klek	F1 Score	0.46614
+Primary	ROR	Card	0	XGBClassifier	Klek	F1 Score	0.43335
+Primary	ROR	Card	3	XGBClassifier	Klek	F1 Score	0.38824
+Primary	ROR	Card	4	XGBClassifier	Klek	F1 Score	0.47744
+Primary	ROR	Card	2	XGBClassifier	Klek	F1 Score	0.50118
+Primary	ROR	Cvas	1	XGBClassifier	Klek	F1 Score	0.40925
+Primary	ROR	Cvas	0	XGBClassifier	Klek	F1 Score	0.37103
+Primary	ROR	Cvas	3	XGBClassifier	Klek	F1 Score	0.42966
+Primary	ROR	Cvas	4	XGBClassifier	Klek	F1 Score	0.53375
+Primary	ROR	Cvas	2	XGBClassifier	Klek	F1 Score	0.55411
+Primary	ROR	Cred	1	XGBClassifier	Klek	ROC AUC	0.55
+Primary	ROR	Cred	0	XGBClassifier	Klek	ROC AUC	0.53273
+Primary	ROR	Cred	3	XGBClassifier	Klek	ROC AUC	0.52201
+Primary	ROR	Cred	4	XGBClassifier	Klek	ROC AUC	0.50783
+Primary	ROR	Cred	2	XGBClassifier	Klek	ROC AUC	0.55926
+Primary	ROR	Card	1	XGBClassifier	Klek	ROC AUC	0.5457
+Primary	ROR	Card	0	XGBClassifier	Klek	ROC AUC	0.53437
+Primary	ROR	Card	3	XGBClassifier	Klek	ROC AUC	0.55015
+Primary	ROR	Card	4	XGBClassifier	Klek	ROC AUC	0.50202
+Primary	ROR	Card	2	XGBClassifier	Klek	ROC AUC	0.55028
+Primary	ROR	Cvas	1	XGBClassifier	Klek	ROC AUC	0.50691
+Primary	ROR	Cvas	0	XGBClassifier	Klek	ROC AUC	0.5214
+Primary	ROR	Cvas	3	XGBClassifier	Klek	ROC AUC	0.54744
+Primary	ROR	Cvas	4	XGBClassifier	Klek	ROC AUC	0.49459
+Primary	ROR	Cvas	2	XGBClassifier	Klek	ROC AUC	0.56076
+Primary	ROR	Cred	1	XGBClassifier	Klek	MCC	0.04468
+Primary	ROR	Cred	0	XGBClassifier	Klek	MCC	0.01291
+Primary	ROR	Cred	3	XGBClassifier	Klek	MCC	0.06381
+Primary	ROR	Cred	4	XGBClassifier	Klek	MCC	0.02017
+Primary	ROR	Cred	2	XGBClassifier	Klek	MCC	0.07168
+Primary	ROR	Card	1	XGBClassifier	Klek	MCC	0.07103
+Primary	ROR	Card	0	XGBClassifier	Klek	MCC	0.04694
+Primary	ROR	Card	3	XGBClassifier	Klek	MCC	0.07623
+Primary	ROR	Card	4	XGBClassifier	Klek	MCC	1e-05
+Primary	ROR	Card	2	XGBClassifier	Klek	MCC	0.05665
+Primary	ROR	Cvas	1	XGBClassifier	Klek	MCC	0.00896
+Primary	ROR	Cvas	0	XGBClassifier	Klek	MCC	0.03958
+Primary	ROR	Cvas	3	XGBClassifier	Klek	MCC	0.09475
+Primary	ROR	Cvas	4	XGBClassifier	Klek	MCC	0.02734
+Primary	ROR	Cvas	2	XGBClassifier	Klek	MCC	0.08178
+Primary	ROR	Cred	1	XGBClassifier	Klek	Accuracy	0.52115
+Primary	ROR	Cred	0	XGBClassifier	Klek	Accuracy	0.44272
+Primary	ROR	Cred	3	XGBClassifier	Klek	Accuracy	0.49279
+Primary	ROR	Cred	4	XGBClassifier	Klek	Accuracy	0.50485
+Primary	ROR	Cred	2	XGBClassifier	Klek	Accuracy	0.53506
+Primary	ROR	Card	1	XGBClassifier	Klek	Accuracy	0.53418
+Primary	ROR	Card	0	XGBClassifier	Klek	Accuracy	0.48344
+Primary	ROR	Card	3	XGBClassifier	Klek	Accuracy	0.4899
+Primary	ROR	Card	4	XGBClassifier	Klek	Accuracy	0.49573
+Primary	ROR	Card	2	XGBClassifier	Klek	Accuracy	0.51552
+Primary	ROR	Cvas	1	XGBClassifier	Klek	Accuracy	0.50406
+Primary	ROR	Cvas	0	XGBClassifier	Klek	Accuracy	0.46625
+Primary	ROR	Cvas	3	XGBClassifier	Klek	Accuracy	0.50519
+Primary	ROR	Cvas	4	XGBClassifier	Klek	Accuracy	0.51427
+Primary	ROR	Cvas	2	XGBClassifier	Klek	Accuracy	0.53707
+Primary	ROR	Cred	1	XGBClassifier	Klek	Recall	0.37211
+Primary	ROR	Cred	0	XGBClassifier	Klek	Recall	0.19391
+Primary	ROR	Cred	3	XGBClassifier	Klek	Recall	0.31376
+Primary	ROR	Cred	4	XGBClassifier	Klek	Recall	0.42976
+Primary	ROR	Cred	2	XGBClassifier	Klek	Recall	0.52774
+Primary	ROR	Card	1	XGBClassifier	Klek	Recall	0.40625
+Primary	ROR	Card	0	XGBClassifier	Klek	Recall	0.32904
+Primary	ROR	Card	3	XGBClassifier	Klek	Recall	0.27676
+Primary	ROR	Card	4	XGBClassifier	Klek	Recall	0.43308
+Primary	ROR	Card	2	XGBClassifier	Klek	Recall	0.43104
+Primary	ROR	Cvas	1	XGBClassifier	Klek	Recall	0.34317
+Primary	ROR	Cvas	0	XGBClassifier	Klek	Recall	0.26225
+Primary	ROR	Cvas	3	XGBClassifier	Klek	Recall	0.3187
+Primary	ROR	Cvas	4	XGBClassifier	Klek	Recall	0.52268
+Primary	ROR	Cvas	2	XGBClassifier	Klek	Recall	0.50941
+Primary	ROR	Cred	1	XGBClassifier	Klek	Specificity	0.67053
+Primary	ROR	Cred	0	XGBClassifier	Klek	Specificity	0.81642
+Primary	ROR	Cred	3	XGBClassifier	Klek	Specificity	0.74496
+Primary	ROR	Cred	4	XGBClassifier	Klek	Specificity	0.59019
+Primary	ROR	Cred	2	XGBClassifier	Klek	Specificity	0.54455
+Primary	ROR	Card	1	XGBClassifier	Klek	Specificity	0.66241
+Primary	ROR	Card	0	XGBClassifier	Klek	Specificity	0.71534
+Primary	ROR	Card	3	XGBClassifier	Klek	Specificity	0.79013
+Primary	ROR	Card	4	XGBClassifier	Klek	Specificity	0.56694
+Primary	ROR	Card	2	XGBClassifier	Klek	Specificity	0.62508
+Primary	ROR	Cvas	1	XGBClassifier	Klek	Specificity	0.66531
+Primary	ROR	Cvas	0	XGBClassifier	Klek	Specificity	0.77266
+Primary	ROR	Cvas	3	XGBClassifier	Klek	Specificity	0.76789
+Primary	ROR	Cvas	4	XGBClassifier	Klek	Specificity	0.50471
+Primary	ROR	Cvas	2	XGBClassifier	Klek	Specificity	0.57294
+Primary	ROR	Cred	1	XGBClassifier	Klek	Precision	0.53097
+Primary	ROR	Cred	0	XGBClassifier	Klek	Precision	0.61338
+Primary	ROR	Cred	3	XGBClassifier	Klek	Precision	0.6341
+Primary	ROR	Cred	4	XGBClassifier	Klek	Precision	0.54374
+Primary	ROR	Cred	2	XGBClassifier	Klek	Precision	0.60046
+Primary	ROR	Card	1	XGBClassifier	Klek	Precision	0.54673
+Primary	ROR	Card	0	XGBClassifier	Klek	Precision	0.63451
+Primary	ROR	Card	3	XGBClassifier	Klek	Precision	0.65006
+Primary	ROR	Card	4	XGBClassifier	Klek	Precision	0.53193
+Primary	ROR	Card	2	XGBClassifier	Klek	Precision	0.59859
+Primary	ROR	Cvas	1	XGBClassifier	Klek	Precision	0.50684
+Primary	ROR	Cvas	0	XGBClassifier	Klek	Precision	0.63404
+Primary	ROR	Cvas	3	XGBClassifier	Klek	Precision	0.65918
+Primary	ROR	Cvas	4	XGBClassifier	Klek	Precision	0.5453
+Primary	ROR	Cvas	2	XGBClassifier	Klek	Precision	0.6074
+Primary	ROR	Cred	1	XGBClassifier	Klek	PRC AUC	0.55017
+Primary	ROR	Cred	0	XGBClassifier	Klek	PRC AUC	0.6344
+Primary	ROR	Cred	3	XGBClassifier	Klek	PRC AUC	0.61988
+Primary	ROR	Cred	4	XGBClassifier	Klek	PRC AUC	0.5519
+Primary	ROR	Cred	2	XGBClassifier	Klek	PRC AUC	0.63137
+Primary	ROR	Card	1	XGBClassifier	Klek	PRC AUC	0.55646
+Primary	ROR	Card	0	XGBClassifier	Klek	PRC AUC	0.63729
+Primary	ROR	Card	3	XGBClassifier	Klek	PRC AUC	0.6465
+Primary	ROR	Card	4	XGBClassifier	Klek	PRC AUC	0.54819
+Primary	ROR	Card	2	XGBClassifier	Klek	PRC AUC	0.62762
+Primary	ROR	Cvas	1	XGBClassifier	Klek	PRC AUC	0.51884
+Primary	ROR	Cvas	0	XGBClassifier	Klek	PRC AUC	0.62618
+Primary	ROR	Cvas	3	XGBClassifier	Klek	PRC AUC	0.62939
+Primary	ROR	Cvas	4	XGBClassifier	Klek	PRC AUC	0.51872
+Primary	ROR	Cvas	2	XGBClassifier	Klek	PRC AUC	0.64661
+Primary	ROR	Cred	1	XGBClassifier	Klek	ECE	0.15031
+Primary	ROR	Cred	0	XGBClassifier	Klek	ECE	0.22636
+Primary	ROR	Cred	3	XGBClassifier	Klek	ECE	0.18545
+Primary	ROR	Cred	4	XGBClassifier	Klek	ECE	0.13057
+Primary	ROR	Cred	2	XGBClassifier	Klek	ECE	0.13982
+Primary	ROR	Card	1	XGBClassifier	Klek	ECE	0.13823
+Primary	ROR	Card	0	XGBClassifier	Klek	ECE	0.19379
+Primary	ROR	Card	3	XGBClassifier	Klek	ECE	0.18255
+Primary	ROR	Card	4	XGBClassifier	Klek	ECE	0.13785
+Primary	ROR	Card	2	XGBClassifier	Klek	ECE	0.12642
+Primary	ROR	Cvas	1	XGBClassifier	Klek	ECE	0.17958
+Primary	ROR	Cvas	0	XGBClassifier	Klek	ECE	0.19916
+Primary	ROR	Cvas	3	XGBClassifier	Klek	ECE	0.19226
+Primary	ROR	Cvas	4	XGBClassifier	Klek	ECE	0.13433
+Primary	ROR	Cvas	2	XGBClassifier	Klek	ECE	0.12148
+Primary	ROR	Cred	1	XGBClassifier	Klek	Brier	0.27491
+Primary	ROR	Cred	0	XGBClassifier	Klek	Brier	0.3036
+Primary	ROR	Cred	3	XGBClassifier	Klek	Brier	0.2957
+Primary	ROR	Cred	4	XGBClassifier	Klek	Brier	0.27573
+Primary	ROR	Cred	2	XGBClassifier	Klek	Brier	0.27068
+Primary	ROR	Card	1	XGBClassifier	Klek	Brier	0.27552
+Primary	ROR	Card	0	XGBClassifier	Klek	Brier	0.29268
+Primary	ROR	Card	3	XGBClassifier	Klek	Brier	0.28275
+Primary	ROR	Card	4	XGBClassifier	Klek	Brier	0.27637
+Primary	ROR	Card	2	XGBClassifier	Klek	Brier	0.2667
+Primary	ROR	Cvas	1	XGBClassifier	Klek	Brier	0.29186
+Primary	ROR	Cvas	0	XGBClassifier	Klek	Brier	0.2887
+Primary	ROR	Cvas	3	XGBClassifier	Klek	Brier	0.28897
+Primary	ROR	Cvas	4	XGBClassifier	Klek	Brier	0.2851
+Primary	ROR	Cvas	2	XGBClassifier	Klek	Brier	0.26714

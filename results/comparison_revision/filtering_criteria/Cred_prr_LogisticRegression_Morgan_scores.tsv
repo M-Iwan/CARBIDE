@@ -1,0 +1,196 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Mono	PRR	Cred	0	LogisticRegression	Morgan	Balanced Accuracy	0.47744
+Mono	PRR	Cred	1	LogisticRegression	Morgan	Balanced Accuracy	0.51172
+Mono	PRR	Cred	3	LogisticRegression	Morgan	Balanced Accuracy	0.46538
+Mono	PRR	Cred	4	LogisticRegression	Morgan	Balanced Accuracy	0.54201
+Mono	PRR	Cred	2	LogisticRegression	Morgan	Balanced Accuracy	0.53607
+Primary	PRR	Cred	0	LogisticRegression	Morgan	Balanced Accuracy	0.46822
+Primary	PRR	Cred	1	LogisticRegression	Morgan	Balanced Accuracy	0.56991
+Primary	PRR	Cred	3	LogisticRegression	Morgan	Balanced Accuracy	0.56182
+Primary	PRR	Cred	4	LogisticRegression	Morgan	Balanced Accuracy	0.55947
+Primary	PRR	Cred	2	LogisticRegression	Morgan	Balanced Accuracy	0.51478
+Secondary	PRR	Cred	0	LogisticRegression	Morgan	Balanced Accuracy	0.45756
+Secondary	PRR	Cred	1	LogisticRegression	Morgan	Balanced Accuracy	0.58127
+Secondary	PRR	Cred	3	LogisticRegression	Morgan	Balanced Accuracy	0.49175
+Secondary	PRR	Cred	4	LogisticRegression	Morgan	Balanced Accuracy	0.55381
+Secondary	PRR	Cred	2	LogisticRegression	Morgan	Balanced Accuracy	0.52622
+Mono	PRR	Cred	0	LogisticRegression	Morgan	GeomRS	0.46641
+Mono	PRR	Cred	1	LogisticRegression	Morgan	GeomRS	0.51112
+Mono	PRR	Cred	3	LogisticRegression	Morgan	GeomRS	0.45302
+Mono	PRR	Cred	4	LogisticRegression	Morgan	GeomRS	0.54196
+Mono	PRR	Cred	2	LogisticRegression	Morgan	GeomRS	0.53547
+Primary	PRR	Cred	0	LogisticRegression	Morgan	GeomRS	0.45385
+Primary	PRR	Cred	1	LogisticRegression	Morgan	GeomRS	0.55444
+Primary	PRR	Cred	3	LogisticRegression	Morgan	GeomRS	0.56035
+Primary	PRR	Cred	4	LogisticRegression	Morgan	GeomRS	0.55945
+Primary	PRR	Cred	2	LogisticRegression	Morgan	GeomRS	0.50793
+Secondary	PRR	Cred	0	LogisticRegression	Morgan	GeomRS	0.45388
+Secondary	PRR	Cred	1	LogisticRegression	Morgan	GeomRS	0.57921
+Secondary	PRR	Cred	3	LogisticRegression	Morgan	GeomRS	0.49043
+Secondary	PRR	Cred	4	LogisticRegression	Morgan	GeomRS	0.55365
+Secondary	PRR	Cred	2	LogisticRegression	Morgan	GeomRS	0.51644
+Mono	PRR	Cred	0	LogisticRegression	Morgan	HarmRS	0.45564
+Mono	PRR	Cred	1	LogisticRegression	Morgan	HarmRS	0.51051
+Mono	PRR	Cred	3	LogisticRegression	Morgan	HarmRS	0.44099
+Mono	PRR	Cred	4	LogisticRegression	Morgan	HarmRS	0.5419
+Mono	PRR	Cred	2	LogisticRegression	Morgan	HarmRS	0.53486
+Primary	PRR	Cred	0	LogisticRegression	Morgan	HarmRS	0.43992
+Primary	PRR	Cred	1	LogisticRegression	Morgan	HarmRS	0.53939
+Primary	PRR	Cred	3	LogisticRegression	Morgan	HarmRS	0.55889
+Primary	PRR	Cred	4	LogisticRegression	Morgan	HarmRS	0.55944
+Primary	PRR	Cred	2	LogisticRegression	Morgan	HarmRS	0.50117
+Secondary	PRR	Cred	0	LogisticRegression	Morgan	HarmRS	0.45022
+Secondary	PRR	Cred	1	LogisticRegression	Morgan	HarmRS	0.57716
+Secondary	PRR	Cred	3	LogisticRegression	Morgan	HarmRS	0.48911
+Secondary	PRR	Cred	4	LogisticRegression	Morgan	HarmRS	0.55349
+Secondary	PRR	Cred	2	LogisticRegression	Morgan	HarmRS	0.50683
+Mono	PRR	Cred	0	LogisticRegression	Morgan	F1 Score	0.47479
+Mono	PRR	Cred	1	LogisticRegression	Morgan	F1 Score	0.53103
+Mono	PRR	Cred	3	LogisticRegression	Morgan	F1 Score	0.44841
+Mono	PRR	Cred	4	LogisticRegression	Morgan	F1 Score	0.59419
+Mono	PRR	Cred	2	LogisticRegression	Morgan	F1 Score	0.5791
+Primary	PRR	Cred	0	LogisticRegression	Morgan	F1 Score	0.45352
+Primary	PRR	Cred	1	LogisticRegression	Morgan	F1 Score	0.66137
+Primary	PRR	Cred	3	LogisticRegression	Morgan	F1 Score	0.64335
+Primary	PRR	Cred	4	LogisticRegression	Morgan	F1 Score	0.61806
+Primary	PRR	Cred	2	LogisticRegression	Morgan	F1 Score	0.62133
+Secondary	PRR	Cred	0	LogisticRegression	Morgan	F1 Score	0.48826
+Secondary	PRR	Cred	1	LogisticRegression	Morgan	F1 Score	0.63651
+Secondary	PRR	Cred	3	LogisticRegression	Morgan	F1 Score	0.52919
+Secondary	PRR	Cred	4	LogisticRegression	Morgan	F1 Score	0.6024
+Secondary	PRR	Cred	2	LogisticRegression	Morgan	F1 Score	0.64048
+Mono	PRR	Cred	0	LogisticRegression	Morgan	ROC AUC	0.47787
+Mono	PRR	Cred	1	LogisticRegression	Morgan	ROC AUC	0.50963
+Mono	PRR	Cred	3	LogisticRegression	Morgan	ROC AUC	0.50476
+Mono	PRR	Cred	4	LogisticRegression	Morgan	ROC AUC	0.5344
+Mono	PRR	Cred	2	LogisticRegression	Morgan	ROC AUC	0.54395
+Primary	PRR	Cred	0	LogisticRegression	Morgan	ROC AUC	0.45627
+Primary	PRR	Cred	1	LogisticRegression	Morgan	ROC AUC	0.59289
+Primary	PRR	Cred	3	LogisticRegression	Morgan	ROC AUC	0.57887
+Primary	PRR	Cred	4	LogisticRegression	Morgan	ROC AUC	0.57163
+Primary	PRR	Cred	2	LogisticRegression	Morgan	ROC AUC	0.50867
+Secondary	PRR	Cred	0	LogisticRegression	Morgan	ROC AUC	0.45548
+Secondary	PRR	Cred	1	LogisticRegression	Morgan	ROC AUC	0.61011
+Secondary	PRR	Cred	3	LogisticRegression	Morgan	ROC AUC	0.46894
+Secondary	PRR	Cred	4	LogisticRegression	Morgan	ROC AUC	0.56944
+Secondary	PRR	Cred	2	LogisticRegression	Morgan	ROC AUC	0.5282
+Mono	PRR	Cred	0	LogisticRegression	Morgan	MCC	-0.04346
+Mono	PRR	Cred	1	LogisticRegression	Morgan	MCC	0.02323
+Mono	PRR	Cred	3	LogisticRegression	Morgan	MCC	-0.06838
+Mono	PRR	Cred	4	LogisticRegression	Morgan	MCC	0.08112
+Mono	PRR	Cred	2	LogisticRegression	Morgan	MCC	0.06953
+Primary	PRR	Cred	0	LogisticRegression	Morgan	MCC	-0.06171
+Primary	PRR	Cred	1	LogisticRegression	Morgan	MCC	0.1443
+Primary	PRR	Cred	3	LogisticRegression	Morgan	MCC	0.11956
+Primary	PRR	Cred	4	LogisticRegression	Morgan	MCC	0.11493
+Primary	PRR	Cred	2	LogisticRegression	Morgan	MCC	0.02892
+Secondary	PRR	Cred	0	LogisticRegression	Morgan	MCC	-0.08059
+Secondary	PRR	Cred	1	LogisticRegression	Morgan	MCC	0.16203
+Secondary	PRR	Cred	3	LogisticRegression	Morgan	MCC	-0.0159
+Secondary	PRR	Cred	4	LogisticRegression	Morgan	MCC	0.1039
+Secondary	PRR	Cred	2	LogisticRegression	Morgan	MCC	0.05173
+Mono	PRR	Cred	0	LogisticRegression	Morgan	Accuracy	0.4425
+Mono	PRR	Cred	1	LogisticRegression	Morgan	Accuracy	0.50814
+Mono	PRR	Cred	3	LogisticRegression	Morgan	Accuracy	0.43573
+Mono	PRR	Cred	4	LogisticRegression	Morgan	Accuracy	0.54
+Mono	PRR	Cred	2	LogisticRegression	Morgan	Accuracy	0.52922
+Primary	PRR	Cred	0	LogisticRegression	Morgan	Accuracy	0.4288
+Primary	PRR	Cred	1	LogisticRegression	Morgan	Accuracy	0.58891
+Primary	PRR	Cred	3	LogisticRegression	Morgan	Accuracy	0.57311
+Primary	PRR	Cred	4	LogisticRegression	Morgan	Accuracy	0.56065
+Primary	PRR	Cred	2	LogisticRegression	Morgan	Accuracy	0.53727
+Secondary	PRR	Cred	0	LogisticRegression	Morgan	Accuracy	0.43772
+Secondary	PRR	Cred	1	LogisticRegression	Morgan	Accuracy	0.58831
+Secondary	PRR	Cred	3	LogisticRegression	Morgan	Accuracy	0.48172
+Secondary	PRR	Cred	4	LogisticRegression	Morgan	Accuracy	0.55032
+Secondary	PRR	Cred	2	LogisticRegression	Morgan	Accuracy	0.55335
+Mono	PRR	Cred	0	LogisticRegression	Morgan	Recall	0.37542
+Mono	PRR	Cred	1	LogisticRegression	Morgan	Recall	0.48683
+Mono	PRR	Cred	3	LogisticRegression	Morgan	Recall	0.35886
+Mono	PRR	Cred	4	LogisticRegression	Morgan	Recall	0.53429
+Mono	PRR	Cred	2	LogisticRegression	Morgan	Recall	0.51057
+Primary	PRR	Cred	0	LogisticRegression	Morgan	Recall	0.35311
+Primary	PRR	Cred	1	LogisticRegression	Morgan	Recall	0.70179
+Primary	PRR	Cred	3	LogisticRegression	Morgan	Recall	0.6024
+Primary	PRR	Cred	4	LogisticRegression	Morgan	Recall	0.56397
+Primary	PRR	Cred	2	LogisticRegression	Morgan	Recall	0.59848
+Secondary	PRR	Cred	0	LogisticRegression	Morgan	Recall	0.39962
+Secondary	PRR	Cred	1	LogisticRegression	Morgan	Recall	0.63014
+Secondary	PRR	Cred	3	LogisticRegression	Morgan	Recall	0.45572
+Secondary	PRR	Cred	4	LogisticRegression	Morgan	Recall	0.54043
+Secondary	PRR	Cred	2	LogisticRegression	Morgan	Recall	0.62722
+Mono	PRR	Cred	0	LogisticRegression	Morgan	Specificity	0.57946
+Mono	PRR	Cred	1	LogisticRegression	Morgan	Specificity	0.53662
+Mono	PRR	Cred	3	LogisticRegression	Morgan	Specificity	0.5719
+Mono	PRR	Cred	4	LogisticRegression	Morgan	Specificity	0.54974
+Mono	PRR	Cred	2	LogisticRegression	Morgan	Specificity	0.56158
+Primary	PRR	Cred	0	LogisticRegression	Morgan	Specificity	0.58333
+Primary	PRR	Cred	1	LogisticRegression	Morgan	Specificity	0.43803
+Primary	PRR	Cred	3	LogisticRegression	Morgan	Specificity	0.52124
+Primary	PRR	Cred	4	LogisticRegression	Morgan	Specificity	0.55497
+Primary	PRR	Cred	2	LogisticRegression	Morgan	Specificity	0.43109
+Secondary	PRR	Cred	0	LogisticRegression	Morgan	Specificity	0.5155
+Secondary	PRR	Cred	1	LogisticRegression	Morgan	Specificity	0.53239
+Secondary	PRR	Cred	3	LogisticRegression	Morgan	Specificity	0.52778
+Secondary	PRR	Cred	4	LogisticRegression	Morgan	Specificity	0.56719
+Secondary	PRR	Cred	2	LogisticRegression	Morgan	Specificity	0.42522
+Mono	PRR	Cred	0	LogisticRegression	Morgan	Precision	0.64571
+Mono	PRR	Cred	1	LogisticRegression	Morgan	Precision	0.58407
+Mono	PRR	Cred	3	LogisticRegression	Morgan	Precision	0.59754
+Mono	PRR	Cred	4	LogisticRegression	Morgan	Precision	0.66923
+Mono	PRR	Cred	2	LogisticRegression	Morgan	Precision	0.66888
+Primary	PRR	Cred	0	LogisticRegression	Morgan	Precision	0.63373
+Primary	PRR	Cred	1	LogisticRegression	Morgan	Precision	0.62535
+Primary	PRR	Cred	3	LogisticRegression	Morgan	Precision	0.69027
+Primary	PRR	Cred	4	LogisticRegression	Morgan	Precision	0.68362
+Primary	PRR	Cred	2	LogisticRegression	Morgan	Precision	0.64599
+Secondary	PRR	Cred	0	LogisticRegression	Morgan	Precision	0.62742
+Secondary	PRR	Cred	1	LogisticRegression	Morgan	Precision	0.64301
+Secondary	PRR	Cred	3	LogisticRegression	Morgan	Precision	0.63091
+Secondary	PRR	Cred	4	LogisticRegression	Morgan	Precision	0.68041
+Secondary	PRR	Cred	2	LogisticRegression	Morgan	Precision	0.65432
+Mono	PRR	Cred	0	LogisticRegression	Morgan	PRC AUC	0.64283
+Mono	PRR	Cred	1	LogisticRegression	Morgan	PRC AUC	0.58062
+Mono	PRR	Cred	3	LogisticRegression	Morgan	PRC AUC	0.66068
+Mono	PRR	Cred	4	LogisticRegression	Morgan	PRC AUC	0.65681
+Mono	PRR	Cred	2	LogisticRegression	Morgan	PRC AUC	0.68993
+Primary	PRR	Cred	0	LogisticRegression	Morgan	PRC AUC	0.63587
+Primary	PRR	Cred	1	LogisticRegression	Morgan	PRC AUC	0.6166
+Primary	PRR	Cred	3	LogisticRegression	Morgan	PRC AUC	0.69592
+Primary	PRR	Cred	4	LogisticRegression	Morgan	PRC AUC	0.68986
+Primary	PRR	Cred	2	LogisticRegression	Morgan	PRC AUC	0.63454
+Secondary	PRR	Cred	0	LogisticRegression	Morgan	PRC AUC	0.64645
+Secondary	PRR	Cred	1	LogisticRegression	Morgan	PRC AUC	0.66588
+Secondary	PRR	Cred	3	LogisticRegression	Morgan	PRC AUC	0.66963
+Secondary	PRR	Cred	4	LogisticRegression	Morgan	PRC AUC	0.68389
+Secondary	PRR	Cred	2	LogisticRegression	Morgan	PRC AUC	0.6291
+Mono	PRR	Cred	0	LogisticRegression	Morgan	Brier	0.40502
+Mono	PRR	Cred	1	LogisticRegression	Morgan	Brier	0.32558
+Mono	PRR	Cred	3	LogisticRegression	Morgan	Brier	0.33358
+Mono	PRR	Cred	4	LogisticRegression	Morgan	Brier	0.31972
+Mono	PRR	Cred	2	LogisticRegression	Morgan	Brier	0.2983
+Primary	PRR	Cred	0	LogisticRegression	Morgan	Brier	0.38047
+Primary	PRR	Cred	1	LogisticRegression	Morgan	Brier	0.28962
+Primary	PRR	Cred	3	LogisticRegression	Morgan	Brier	0.31123
+Primary	PRR	Cred	4	LogisticRegression	Morgan	Brier	0.30859
+Primary	PRR	Cred	2	LogisticRegression	Morgan	Brier	0.33291
+Secondary	PRR	Cred	0	LogisticRegression	Morgan	Brier	0.28958
+Secondary	PRR	Cred	1	LogisticRegression	Morgan	Brier	0.24148
+Secondary	PRR	Cred	3	LogisticRegression	Morgan	Brier	0.26773
+Secondary	PRR	Cred	4	LogisticRegression	Morgan	Brier	0.24601
+Secondary	PRR	Cred	2	LogisticRegression	Morgan	Brier	0.31281
+Mono	PRR	Cred	0	LogisticRegression	Morgan	ECE	0.35344
+Mono	PRR	Cred	1	LogisticRegression	Morgan	ECE	0.25213
+Mono	PRR	Cred	3	LogisticRegression	Morgan	ECE	0.28738
+Mono	PRR	Cred	4	LogisticRegression	Morgan	ECE	0.25761
+Mono	PRR	Cred	2	LogisticRegression	Morgan	ECE	0.20756
+Primary	PRR	Cred	0	LogisticRegression	Morgan	ECE	0.33495
+Primary	PRR	Cred	1	LogisticRegression	Morgan	ECE	0.19509
+Primary	PRR	Cred	3	LogisticRegression	Morgan	ECE	0.25448
+Primary	PRR	Cred	4	LogisticRegression	Morgan	ECE	0.24337
+Primary	PRR	Cred	2	LogisticRegression	Morgan	ECE	0.30372
+Secondary	PRR	Cred	0	LogisticRegression	Morgan	ECE	0.21422
+Secondary	PRR	Cred	1	LogisticRegression	Morgan	ECE	0.06418
+Secondary	PRR	Cred	3	LogisticRegression	Morgan	ECE	0.14692
+Secondary	PRR	Cred	4	LogisticRegression	Morgan	ECE	0.12693
+Secondary	PRR	Cred	2	LogisticRegression	Morgan	ECE	0.2535

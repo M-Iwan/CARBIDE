@@ -1,0 +1,196 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Mono	IC	Cred	0	LogisticRegression	MACCS	Balanced Accuracy	0.48294
+Mono	IC	Cred	1	LogisticRegression	MACCS	Balanced Accuracy	0.52869
+Mono	IC	Cred	3	LogisticRegression	MACCS	Balanced Accuracy	0.4979
+Mono	IC	Cred	4	LogisticRegression	MACCS	Balanced Accuracy	0.54613
+Mono	IC	Cred	2	LogisticRegression	MACCS	Balanced Accuracy	0.51477
+Mono	IC	Card	0	LogisticRegression	MACCS	Balanced Accuracy	0.4648
+Mono	IC	Card	1	LogisticRegression	MACCS	Balanced Accuracy	0.50898
+Mono	IC	Card	3	LogisticRegression	MACCS	Balanced Accuracy	0.47755
+Mono	IC	Card	4	LogisticRegression	MACCS	Balanced Accuracy	0.54438
+Mono	IC	Card	2	LogisticRegression	MACCS	Balanced Accuracy	0.53635
+Mono	IC	Cvas	0	LogisticRegression	MACCS	Balanced Accuracy	0.49242
+Mono	IC	Cvas	1	LogisticRegression	MACCS	Balanced Accuracy	0.47813
+Mono	IC	Cvas	3	LogisticRegression	MACCS	Balanced Accuracy	0.49441
+Mono	IC	Cvas	4	LogisticRegression	MACCS	Balanced Accuracy	0.49774
+Mono	IC	Cvas	2	LogisticRegression	MACCS	Balanced Accuracy	0.50542
+Mono	IC	Cred	0	LogisticRegression	MACCS	GeomRS	0.46193
+Mono	IC	Cred	1	LogisticRegression	MACCS	GeomRS	0.50629
+Mono	IC	Cred	3	LogisticRegression	MACCS	GeomRS	0.4905
+Mono	IC	Cred	4	LogisticRegression	MACCS	GeomRS	0.52072
+Mono	IC	Cred	2	LogisticRegression	MACCS	GeomRS	0.47666
+Mono	IC	Card	0	LogisticRegression	MACCS	GeomRS	0.44991
+Mono	IC	Card	1	LogisticRegression	MACCS	GeomRS	0.48756
+Mono	IC	Card	3	LogisticRegression	MACCS	GeomRS	0.47604
+Mono	IC	Card	4	LogisticRegression	MACCS	GeomRS	0.52326
+Mono	IC	Card	2	LogisticRegression	MACCS	GeomRS	0.50394
+Mono	IC	Cvas	0	LogisticRegression	MACCS	GeomRS	0.46319
+Mono	IC	Cvas	1	LogisticRegression	MACCS	GeomRS	0.44941
+Mono	IC	Cvas	3	LogisticRegression	MACCS	GeomRS	0.46911
+Mono	IC	Cvas	4	LogisticRegression	MACCS	GeomRS	0.47243
+Mono	IC	Cvas	2	LogisticRegression	MACCS	GeomRS	0.46029
+Mono	IC	Cred	0	LogisticRegression	MACCS	HarmRS	0.44184
+Mono	IC	Cred	1	LogisticRegression	MACCS	HarmRS	0.48484
+Mono	IC	Cred	3	LogisticRegression	MACCS	HarmRS	0.4832
+Mono	IC	Cred	4	LogisticRegression	MACCS	HarmRS	0.4965
+Mono	IC	Cred	2	LogisticRegression	MACCS	HarmRS	0.44137
+Mono	IC	Card	0	LogisticRegression	MACCS	HarmRS	0.4355
+Mono	IC	Card	1	LogisticRegression	MACCS	HarmRS	0.46704
+Mono	IC	Card	3	LogisticRegression	MACCS	HarmRS	0.47452
+Mono	IC	Card	4	LogisticRegression	MACCS	HarmRS	0.50296
+Mono	IC	Card	2	LogisticRegression	MACCS	HarmRS	0.4735
+Mono	IC	Cvas	0	LogisticRegression	MACCS	HarmRS	0.43569
+Mono	IC	Cvas	1	LogisticRegression	MACCS	HarmRS	0.42241
+Mono	IC	Cvas	3	LogisticRegression	MACCS	HarmRS	0.4451
+Mono	IC	Cvas	4	LogisticRegression	MACCS	HarmRS	0.44841
+Mono	IC	Cvas	2	LogisticRegression	MACCS	HarmRS	0.41919
+Mono	IC	Cred	0	LogisticRegression	MACCS	F1 Score	0.6156
+Mono	IC	Cred	1	LogisticRegression	MACCS	F1 Score	0.62934
+Mono	IC	Cred	3	LogisticRegression	MACCS	F1 Score	0.59697
+Mono	IC	Cred	4	LogisticRegression	MACCS	F1 Score	0.65591
+Mono	IC	Cred	2	LogisticRegression	MACCS	F1 Score	0.65579
+Mono	IC	Card	0	LogisticRegression	MACCS	F1 Score	0.58719
+Mono	IC	Card	1	LogisticRegression	MACCS	F1 Score	0.60977
+Mono	IC	Card	3	LogisticRegression	MACCS	F1 Score	0.55152
+Mono	IC	Card	4	LogisticRegression	MACCS	F1 Score	0.64861
+Mono	IC	Card	2	LogisticRegression	MACCS	F1 Score	0.66912
+Mono	IC	Cvas	0	LogisticRegression	MACCS	F1 Score	0.63642
+Mono	IC	Cvas	1	LogisticRegression	MACCS	F1 Score	0.59055
+Mono	IC	Cvas	3	LogisticRegression	MACCS	F1 Score	0.62896
+Mono	IC	Cvas	4	LogisticRegression	MACCS	F1 Score	0.6114
+Mono	IC	Cvas	2	LogisticRegression	MACCS	F1 Score	0.65414
+Mono	IC	Cred	0	LogisticRegression	MACCS	ROC AUC	0.47184
+Mono	IC	Cred	1	LogisticRegression	MACCS	ROC AUC	0.5349
+Mono	IC	Cred	3	LogisticRegression	MACCS	ROC AUC	0.50695
+Mono	IC	Cred	4	LogisticRegression	MACCS	ROC AUC	0.55536
+Mono	IC	Cred	2	LogisticRegression	MACCS	ROC AUC	0.51375
+Mono	IC	Card	0	LogisticRegression	MACCS	ROC AUC	0.45682
+Mono	IC	Card	1	LogisticRegression	MACCS	ROC AUC	0.5216
+Mono	IC	Card	3	LogisticRegression	MACCS	ROC AUC	0.50803
+Mono	IC	Card	4	LogisticRegression	MACCS	ROC AUC	0.54131
+Mono	IC	Card	2	LogisticRegression	MACCS	ROC AUC	0.55085
+Mono	IC	Cvas	0	LogisticRegression	MACCS	ROC AUC	0.47576
+Mono	IC	Cvas	1	LogisticRegression	MACCS	ROC AUC	0.47895
+Mono	IC	Cvas	3	LogisticRegression	MACCS	ROC AUC	0.48065
+Mono	IC	Cvas	4	LogisticRegression	MACCS	ROC AUC	0.51455
+Mono	IC	Cvas	2	LogisticRegression	MACCS	ROC AUC	0.52144
+Mono	IC	Cred	0	LogisticRegression	MACCS	MCC	-0.03444
+Mono	IC	Cred	1	LogisticRegression	MACCS	MCC	0.05989
+Mono	IC	Cred	3	LogisticRegression	MACCS	MCC	-0.00414
+Mono	IC	Cred	4	LogisticRegression	MACCS	MCC	0.0971
+Mono	IC	Cred	2	LogisticRegression	MACCS	MCC	0.03149
+Mono	IC	Card	0	LogisticRegression	MACCS	MCC	-0.06999
+Mono	IC	Card	1	LogisticRegression	MACCS	MCC	0.01865
+Mono	IC	Card	3	LogisticRegression	MACCS	MCC	-0.04383
+Mono	IC	Card	4	LogisticRegression	MACCS	MCC	0.09241
+Mono	IC	Card	2	LogisticRegression	MACCS	MCC	0.07707
+Mono	IC	Cvas	0	LogisticRegression	MACCS	MCC	-0.0156
+Mono	IC	Cvas	1	LogisticRegression	MACCS	MCC	-0.0458
+Mono	IC	Cvas	3	LogisticRegression	MACCS	MCC	-0.01146
+Mono	IC	Cvas	4	LogisticRegression	MACCS	MCC	-0.00471
+Mono	IC	Cvas	2	LogisticRegression	MACCS	MCC	0.0117
+Mono	IC	Cred	0	LogisticRegression	MACCS	Accuracy	0.51681
+Mono	IC	Cred	1	LogisticRegression	MACCS	Accuracy	0.54802
+Mono	IC	Cred	3	LogisticRegression	MACCS	Accuracy	0.51721
+Mono	IC	Cred	4	LogisticRegression	MACCS	Accuracy	0.57094
+Mono	IC	Cred	2	LogisticRegression	MACCS	Accuracy	0.55354
+Mono	IC	Card	0	LogisticRegression	MACCS	Accuracy	0.49287
+Mono	IC	Card	1	LogisticRegression	MACCS	Accuracy	0.52754
+Mono	IC	Card	3	LogisticRegression	MACCS	Accuracy	0.48614
+Mono	IC	Card	4	LogisticRegression	MACCS	Accuracy	0.56701
+Mono	IC	Card	2	LogisticRegression	MACCS	Accuracy	0.57297
+Mono	IC	Cvas	0	LogisticRegression	MACCS	Accuracy	0.5326
+Mono	IC	Cvas	1	LogisticRegression	MACCS	Accuracy	0.49886
+Mono	IC	Cvas	3	LogisticRegression	MACCS	Accuracy	0.52964
+Mono	IC	Cvas	4	LogisticRegression	MACCS	Accuracy	0.52135
+Mono	IC	Cvas	2	LogisticRegression	MACCS	Accuracy	0.54706
+Mono	IC	Cred	0	LogisticRegression	MACCS	Recall	0.62382
+Mono	IC	Cred	1	LogisticRegression	MACCS	Recall	0.68094
+Mono	IC	Cred	3	LogisticRegression	MACCS	Recall	0.58346
+Mono	IC	Cred	4	LogisticRegression	MACCS	Recall	0.71075
+Mono	IC	Cred	2	LogisticRegression	MACCS	Recall	0.70914
+Mono	IC	Card	0	LogisticRegression	MACCS	Recall	0.58152
+Mono	IC	Card	1	LogisticRegression	MACCS	Recall	0.65509
+Mono	IC	Card	3	LogisticRegression	MACCS	Recall	0.5156
+Mono	IC	Card	4	LogisticRegression	MACCS	Recall	0.69454
+Mono	IC	Card	2	LogisticRegression	MACCS	Recall	0.71994
+Mono	IC	Cvas	0	LogisticRegression	MACCS	Recall	0.65955
+Mono	IC	Cvas	1	LogisticRegression	MACCS	Recall	0.64136
+Mono	IC	Cvas	3	LogisticRegression	MACCS	Recall	0.65055
+Mono	IC	Cvas	4	LogisticRegression	MACCS	Recall	0.65444
+Mono	IC	Cvas	2	LogisticRegression	MACCS	Recall	0.71418
+Mono	IC	Cred	0	LogisticRegression	MACCS	Specificity	0.34205
+Mono	IC	Cred	1	LogisticRegression	MACCS	Specificity	0.37643
+Mono	IC	Cred	3	LogisticRegression	MACCS	Specificity	0.41235
+Mono	IC	Cred	4	LogisticRegression	MACCS	Specificity	0.3815
+Mono	IC	Cred	2	LogisticRegression	MACCS	Specificity	0.32039
+Mono	IC	Card	0	LogisticRegression	MACCS	Specificity	0.34809
+Mono	IC	Card	1	LogisticRegression	MACCS	Specificity	0.36288
+Mono	IC	Card	3	LogisticRegression	MACCS	Specificity	0.43951
+Mono	IC	Card	4	LogisticRegression	MACCS	Specificity	0.39422
+Mono	IC	Card	2	LogisticRegression	MACCS	Specificity	0.35275
+Mono	IC	Cvas	0	LogisticRegression	MACCS	Specificity	0.32529
+Mono	IC	Cvas	1	LogisticRegression	MACCS	Specificity	0.31491
+Mono	IC	Cvas	3	LogisticRegression	MACCS	Specificity	0.33827
+Mono	IC	Cvas	4	LogisticRegression	MACCS	Specificity	0.34104
+Mono	IC	Cvas	2	LogisticRegression	MACCS	Specificity	0.29666
+Mono	IC	Cred	0	LogisticRegression	MACCS	Precision	0.6076
+Mono	IC	Cred	1	LogisticRegression	MACCS	Precision	0.58501
+Mono	IC	Cred	3	LogisticRegression	MACCS	Precision	0.61111
+Mono	IC	Cred	4	LogisticRegression	MACCS	Precision	0.60892
+Mono	IC	Cred	2	LogisticRegression	MACCS	Precision	0.60991
+Mono	IC	Card	0	LogisticRegression	MACCS	Precision	0.59296
+Mono	IC	Card	1	LogisticRegression	MACCS	Precision	0.57032
+Mono	IC	Card	3	LogisticRegression	MACCS	Precision	0.59283
+Mono	IC	Card	4	LogisticRegression	MACCS	Precision	0.60837
+Mono	IC	Card	2	LogisticRegression	MACCS	Precision	0.625
+Mono	IC	Cvas	0	LogisticRegression	MACCS	Precision	0.61485
+Mono	IC	Cvas	1	LogisticRegression	MACCS	Precision	0.54721
+Mono	IC	Cvas	3	LogisticRegression	MACCS	Precision	0.60876
+Mono	IC	Cvas	4	LogisticRegression	MACCS	Precision	0.57367
+Mono	IC	Cvas	2	LogisticRegression	MACCS	Precision	0.60341
+Mono	IC	Cred	0	LogisticRegression	MACCS	PRC AUC	0.6032
+Mono	IC	Cred	1	LogisticRegression	MACCS	PRC AUC	0.60343
+Mono	IC	Cred	3	LogisticRegression	MACCS	PRC AUC	0.64436
+Mono	IC	Cred	4	LogisticRegression	MACCS	PRC AUC	0.62084
+Mono	IC	Cred	2	LogisticRegression	MACCS	PRC AUC	0.61203
+Mono	IC	Card	0	LogisticRegression	MACCS	PRC AUC	0.59509
+Mono	IC	Card	1	LogisticRegression	MACCS	PRC AUC	0.5926
+Mono	IC	Card	3	LogisticRegression	MACCS	PRC AUC	0.64135
+Mono	IC	Card	4	LogisticRegression	MACCS	PRC AUC	0.60354
+Mono	IC	Card	2	LogisticRegression	MACCS	PRC AUC	0.63041
+Mono	IC	Cvas	0	LogisticRegression	MACCS	PRC AUC	0.61155
+Mono	IC	Cvas	1	LogisticRegression	MACCS	PRC AUC	0.55871
+Mono	IC	Cvas	3	LogisticRegression	MACCS	PRC AUC	0.59983
+Mono	IC	Cvas	4	LogisticRegression	MACCS	PRC AUC	0.59654
+Mono	IC	Cvas	2	LogisticRegression	MACCS	PRC AUC	0.63026
+Mono	IC	Cred	0	LogisticRegression	MACCS	ECE	0.19835
+Mono	IC	Cred	1	LogisticRegression	MACCS	ECE	0.14252
+Mono	IC	Cred	3	LogisticRegression	MACCS	ECE	0.20464
+Mono	IC	Cred	4	LogisticRegression	MACCS	ECE	0.12865
+Mono	IC	Cred	2	LogisticRegression	MACCS	ECE	0.17176
+Mono	IC	Card	0	LogisticRegression	MACCS	ECE	0.22711
+Mono	IC	Card	1	LogisticRegression	MACCS	ECE	0.16875
+Mono	IC	Card	3	LogisticRegression	MACCS	ECE	0.20762
+Mono	IC	Card	4	LogisticRegression	MACCS	ECE	0.14601
+Mono	IC	Card	2	LogisticRegression	MACCS	ECE	0.14591
+Mono	IC	Cvas	0	LogisticRegression	MACCS	ECE	0.18995
+Mono	IC	Cvas	1	LogisticRegression	MACCS	ECE	0.18393
+Mono	IC	Cvas	3	LogisticRegression	MACCS	ECE	0.17071
+Mono	IC	Cvas	4	LogisticRegression	MACCS	ECE	0.17572
+Mono	IC	Cvas	2	LogisticRegression	MACCS	ECE	0.17154
+Mono	IC	Cred	0	LogisticRegression	MACCS	Brier	0.28945
+Mono	IC	Cred	1	LogisticRegression	MACCS	Brier	0.27853
+Mono	IC	Cred	3	LogisticRegression	MACCS	Brier	0.29803
+Mono	IC	Cred	4	LogisticRegression	MACCS	Brier	0.26449
+Mono	IC	Cred	2	LogisticRegression	MACCS	Brier	0.28606
+Mono	IC	Card	0	LogisticRegression	MACCS	Brier	0.30407
+Mono	IC	Card	1	LogisticRegression	MACCS	Brier	0.28692
+Mono	IC	Card	3	LogisticRegression	MACCS	Brier	0.29333
+Mono	IC	Card	4	LogisticRegression	MACCS	Brier	0.27152
+Mono	IC	Card	2	LogisticRegression	MACCS	Brier	0.27193
+Mono	IC	Cvas	0	LogisticRegression	MACCS	Brier	0.2832
+Mono	IC	Cvas	1	LogisticRegression	MACCS	Brier	0.29407
+Mono	IC	Cvas	3	LogisticRegression	MACCS	Brier	0.29257
+Mono	IC	Cvas	4	LogisticRegression	MACCS	Brier	0.28469
+Mono	IC	Cvas	2	LogisticRegression	MACCS	Brier	0.28225

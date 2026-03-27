@@ -1,0 +1,196 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Mono	PRR	Cred	0	RandomForestClassifier	CDDD	Balanced Accuracy	0.57786
+Mono	PRR	Cred	1	RandomForestClassifier	CDDD	Balanced Accuracy	0.54178
+Mono	PRR	Cred	3	RandomForestClassifier	CDDD	Balanced Accuracy	0.52338
+Mono	PRR	Cred	4	RandomForestClassifier	CDDD	Balanced Accuracy	0.54489
+Mono	PRR	Cred	2	RandomForestClassifier	CDDD	Balanced Accuracy	0.55957
+Mono	ROR	Cred	0	RandomForestClassifier	CDDD	Balanced Accuracy	0.59997
+Mono	ROR	Cred	1	RandomForestClassifier	CDDD	Balanced Accuracy	0.55571
+Mono	ROR	Cred	3	RandomForestClassifier	CDDD	Balanced Accuracy	0.53603
+Mono	ROR	Cred	4	RandomForestClassifier	CDDD	Balanced Accuracy	0.57085
+Mono	ROR	Cred	2	RandomForestClassifier	CDDD	Balanced Accuracy	0.57244
+Mono	IC	Cred	0	RandomForestClassifier	CDDD	Balanced Accuracy	0.5623
+Mono	IC	Cred	1	RandomForestClassifier	CDDD	Balanced Accuracy	0.54167
+Mono	IC	Cred	3	RandomForestClassifier	CDDD	Balanced Accuracy	0.53198
+Mono	IC	Cred	4	RandomForestClassifier	CDDD	Balanced Accuracy	0.54564
+Mono	IC	Cred	2	RandomForestClassifier	CDDD	Balanced Accuracy	0.57469
+Mono	PRR	Cred	0	RandomForestClassifier	CDDD	GeomRS	0.57606
+Mono	PRR	Cred	1	RandomForestClassifier	CDDD	GeomRS	0.53157
+Mono	PRR	Cred	3	RandomForestClassifier	CDDD	GeomRS	0.52336
+Mono	PRR	Cred	4	RandomForestClassifier	CDDD	GeomRS	0.54161
+Mono	PRR	Cred	2	RandomForestClassifier	CDDD	GeomRS	0.55351
+Mono	ROR	Cred	0	RandomForestClassifier	CDDD	GeomRS	0.59988
+Mono	ROR	Cred	1	RandomForestClassifier	CDDD	GeomRS	0.54227
+Mono	ROR	Cred	3	RandomForestClassifier	CDDD	GeomRS	0.53527
+Mono	ROR	Cred	4	RandomForestClassifier	CDDD	GeomRS	0.56439
+Mono	ROR	Cred	2	RandomForestClassifier	CDDD	GeomRS	0.57186
+Mono	IC	Cred	0	RandomForestClassifier	CDDD	GeomRS	0.55738
+Mono	IC	Cred	1	RandomForestClassifier	CDDD	GeomRS	0.54153
+Mono	IC	Cred	3	RandomForestClassifier	CDDD	GeomRS	0.52743
+Mono	IC	Cred	4	RandomForestClassifier	CDDD	GeomRS	0.5067
+Mono	IC	Cred	2	RandomForestClassifier	CDDD	GeomRS	0.57182
+Mono	PRR	Cred	0	RandomForestClassifier	CDDD	HarmRS	0.57428
+Mono	PRR	Cred	1	RandomForestClassifier	CDDD	HarmRS	0.52155
+Mono	PRR	Cred	3	RandomForestClassifier	CDDD	HarmRS	0.52333
+Mono	PRR	Cred	4	RandomForestClassifier	CDDD	HarmRS	0.53836
+Mono	PRR	Cred	2	RandomForestClassifier	CDDD	HarmRS	0.54752
+Mono	ROR	Cred	0	RandomForestClassifier	CDDD	HarmRS	0.59979
+Mono	ROR	Cred	1	RandomForestClassifier	CDDD	HarmRS	0.52915
+Mono	ROR	Cred	3	RandomForestClassifier	CDDD	HarmRS	0.53452
+Mono	ROR	Cred	4	RandomForestClassifier	CDDD	HarmRS	0.558
+Mono	ROR	Cred	2	RandomForestClassifier	CDDD	HarmRS	0.57129
+Mono	IC	Cred	0	RandomForestClassifier	CDDD	HarmRS	0.55252
+Mono	IC	Cred	1	RandomForestClassifier	CDDD	HarmRS	0.54138
+Mono	IC	Cred	3	RandomForestClassifier	CDDD	HarmRS	0.52293
+Mono	IC	Cred	4	RandomForestClassifier	CDDD	HarmRS	0.47053
+Mono	IC	Cred	2	RandomForestClassifier	CDDD	HarmRS	0.56897
+Mono	PRR	Cred	0	RandomForestClassifier	CDDD	F1 Score	0.59219
+Mono	PRR	Cred	1	RandomForestClassifier	CDDD	F1 Score	0.50394
+Mono	PRR	Cred	3	RandomForestClassifier	CDDD	F1 Score	0.55709
+Mono	PRR	Cred	4	RandomForestClassifier	CDDD	F1 Score	0.60366
+Mono	PRR	Cred	2	RandomForestClassifier	CDDD	F1 Score	0.63274
+Mono	ROR	Cred	0	RandomForestClassifier	CDDD	F1 Score	0.63244
+Mono	ROR	Cred	1	RandomForestClassifier	CDDD	F1 Score	0.50906
+Mono	ROR	Cred	3	RandomForestClassifier	CDDD	F1 Score	0.55152
+Mono	ROR	Cred	4	RandomForestClassifier	CDDD	F1 Score	0.63893
+Mono	ROR	Cred	2	RandomForestClassifier	CDDD	F1 Score	0.6187
+Mono	IC	Cred	0	RandomForestClassifier	CDDD	F1 Score	0.63727
+Mono	IC	Cred	1	RandomForestClassifier	CDDD	F1 Score	0.55568
+Mono	IC	Cred	3	RandomForestClassifier	CDDD	F1 Score	0.59767
+Mono	IC	Cred	4	RandomForestClassifier	CDDD	F1 Score	0.66306
+Mono	IC	Cred	2	RandomForestClassifier	CDDD	F1 Score	0.63551
+Mono	PRR	Cred	0	RandomForestClassifier	CDDD	ROC AUC	0.61006
+Mono	PRR	Cred	1	RandomForestClassifier	CDDD	ROC AUC	0.57218
+Mono	PRR	Cred	3	RandomForestClassifier	CDDD	ROC AUC	0.53385
+Mono	PRR	Cred	4	RandomForestClassifier	CDDD	ROC AUC	0.57848
+Mono	PRR	Cred	2	RandomForestClassifier	CDDD	ROC AUC	0.5895
+Mono	ROR	Cred	0	RandomForestClassifier	CDDD	ROC AUC	0.63282
+Mono	ROR	Cred	1	RandomForestClassifier	CDDD	ROC AUC	0.582
+Mono	ROR	Cred	3	RandomForestClassifier	CDDD	ROC AUC	0.55383
+Mono	ROR	Cred	4	RandomForestClassifier	CDDD	ROC AUC	0.61903
+Mono	ROR	Cred	2	RandomForestClassifier	CDDD	ROC AUC	0.61733
+Mono	IC	Cred	0	RandomForestClassifier	CDDD	ROC AUC	0.60461
+Mono	IC	Cred	1	RandomForestClassifier	CDDD	ROC AUC	0.56622
+Mono	IC	Cred	3	RandomForestClassifier	CDDD	ROC AUC	0.54629
+Mono	IC	Cred	4	RandomForestClassifier	CDDD	ROC AUC	0.59845
+Mono	IC	Cred	2	RandomForestClassifier	CDDD	ROC AUC	0.61588
+Mono	PRR	Cred	0	RandomForestClassifier	CDDD	MCC	0.15368
+Mono	PRR	Cred	1	RandomForestClassifier	CDDD	MCC	0.085
+Mono	PRR	Cred	3	RandomForestClassifier	CDDD	MCC	0.04635
+Mono	PRR	Cred	4	RandomForestClassifier	CDDD	MCC	0.08983
+Mono	PRR	Cred	2	RandomForestClassifier	CDDD	MCC	0.1198
+Mono	ROR	Cred	0	RandomForestClassifier	CDDD	MCC	0.19695
+Mono	ROR	Cred	1	RandomForestClassifier	CDDD	MCC	0.11416
+Mono	ROR	Cred	3	RandomForestClassifier	CDDD	MCC	0.0715
+Mono	ROR	Cred	4	RandomForestClassifier	CDDD	MCC	0.14313
+Mono	ROR	Cred	2	RandomForestClassifier	CDDD	MCC	0.14362
+Mono	IC	Cred	0	RandomForestClassifier	CDDD	MCC	0.12453
+Mono	IC	Cred	1	RandomForestClassifier	CDDD	MCC	0.08305
+Mono	IC	Cred	3	RandomForestClassifier	CDDD	MCC	0.06409
+Mono	IC	Cred	4	RandomForestClassifier	CDDD	MCC	0.09959
+Mono	IC	Cred	2	RandomForestClassifier	CDDD	MCC	0.14911
+Mono	PRR	Cred	0	RandomForestClassifier	CDDD	Accuracy	0.57
+Mono	PRR	Cred	1	RandomForestClassifier	CDDD	Accuracy	0.53279
+Mono	PRR	Cred	3	RandomForestClassifier	CDDD	Accuracy	0.52403
+Mono	PRR	Cred	4	RandomForestClassifier	CDDD	Accuracy	0.5525
+Mono	PRR	Cred	2	RandomForestClassifier	CDDD	Accuracy	0.57185
+Mono	ROR	Cred	0	RandomForestClassifier	CDDD	Accuracy	0.59816
+Mono	ROR	Cred	1	RandomForestClassifier	CDDD	Accuracy	0.54528
+Mono	ROR	Cred	3	RandomForestClassifier	CDDD	Accuracy	0.53224
+Mono	ROR	Cred	4	RandomForestClassifier	CDDD	Accuracy	0.58176
+Mono	ROR	Cred	2	RandomForestClassifier	CDDD	Accuracy	0.57627
+Mono	IC	Cred	0	RandomForestClassifier	CDDD	Accuracy	0.57512
+Mono	IC	Cred	1	RandomForestClassifier	CDDD	Accuracy	0.54059
+Mono	IC	Cred	3	RandomForestClassifier	CDDD	Accuracy	0.54123
+Mono	IC	Cred	4	RandomForestClassifier	CDDD	Accuracy	0.57143
+Mono	IC	Cred	2	RandomForestClassifier	CDDD	Accuracy	0.58327
+Mono	PRR	Cred	0	RandomForestClassifier	CDDD	Recall	0.53239
+Mono	PRR	Cred	1	RandomForestClassifier	CDDD	Recall	0.4371
+Mono	PRR	Cred	3	RandomForestClassifier	CDDD	Recall	0.52828
+Mono	PRR	Cred	4	RandomForestClassifier	CDDD	Recall	0.60458
+Mono	PRR	Cred	2	RandomForestClassifier	CDDD	Recall	0.64167
+Mono	ROR	Cred	0	RandomForestClassifier	CDDD	Recall	0.58952
+Mono	ROR	Cred	1	RandomForestClassifier	CDDD	Recall	0.43422
+Mono	ROR	Cred	3	RandomForestClassifier	CDDD	Recall	0.50759
+Mono	ROR	Cred	4	RandomForestClassifier	CDDD	Recall	0.65649
+Mono	ROR	Cred	2	RandomForestClassifier	CDDD	Recall	0.59808
+Mono	IC	Cred	0	RandomForestClassifier	CDDD	Recall	0.63646
+Mono	IC	Cred	1	RandomForestClassifier	CDDD	Recall	0.52912
+Mono	IC	Cred	3	RandomForestClassifier	CDDD	Recall	0.60138
+Mono	IC	Cred	4	RandomForestClassifier	CDDD	Recall	0.74809
+Mono	IC	Cred	2	RandomForestClassifier	CDDD	Recall	0.63205
+Mono	PRR	Cred	0	RandomForestClassifier	CDDD	Specificity	0.62332
+Mono	PRR	Cred	1	RandomForestClassifier	CDDD	Specificity	0.64646
+Mono	PRR	Cred	3	RandomForestClassifier	CDDD	Specificity	0.51849
+Mono	PRR	Cred	4	RandomForestClassifier	CDDD	Specificity	0.48521
+Mono	PRR	Cred	2	RandomForestClassifier	CDDD	Specificity	0.47747
+Mono	ROR	Cred	0	RandomForestClassifier	CDDD	Specificity	0.61042
+Mono	ROR	Cred	1	RandomForestClassifier	CDDD	Specificity	0.6772
+Mono	ROR	Cred	3	RandomForestClassifier	CDDD	Specificity	0.56447
+Mono	ROR	Cred	4	RandomForestClassifier	CDDD	Specificity	0.48521
+Mono	ROR	Cred	2	RandomForestClassifier	CDDD	Specificity	0.54679
+Mono	IC	Cred	0	RandomForestClassifier	CDDD	Specificity	0.48813
+Mono	IC	Cred	1	RandomForestClassifier	CDDD	Specificity	0.55423
+Mono	IC	Cred	3	RandomForestClassifier	CDDD	Specificity	0.46258
+Mono	IC	Cred	4	RandomForestClassifier	CDDD	Specificity	0.3432
+Mono	IC	Cred	2	RandomForestClassifier	CDDD	Specificity	0.51733
+Mono	PRR	Cred	0	RandomForestClassifier	CDDD	Precision	0.66712
+Mono	PRR	Cred	1	RandomForestClassifier	CDDD	Precision	0.59491
+Mono	PRR	Cred	3	RandomForestClassifier	CDDD	Precision	0.58923
+Mono	PRR	Cred	4	RandomForestClassifier	CDDD	Precision	0.60274
+Mono	PRR	Cred	2	RandomForestClassifier	CDDD	Precision	0.62406
+Mono	ROR	Cred	0	RandomForestClassifier	CDDD	Precision	0.68211
+Mono	ROR	Cred	1	RandomForestClassifier	CDDD	Precision	0.61507
+Mono	ROR	Cred	3	RandomForestClassifier	CDDD	Precision	0.60377
+Mono	ROR	Cred	4	RandomForestClassifier	CDDD	Precision	0.62229
+Mono	ROR	Cred	2	RandomForestClassifier	CDDD	Precision	0.6408
+Mono	IC	Cred	0	RandomForestClassifier	CDDD	Precision	0.63809
+Mono	IC	Cred	1	RandomForestClassifier	CDDD	Precision	0.58506
+Mono	IC	Cred	3	RandomForestClassifier	CDDD	Precision	0.59401
+Mono	IC	Cred	4	RandomForestClassifier	CDDD	Precision	0.59538
+Mono	IC	Cred	2	RandomForestClassifier	CDDD	Precision	0.63901
+Mono	PRR	Cred	0	RandomForestClassifier	CDDD	PRC AUC	0.68033
+Mono	PRR	Cred	1	RandomForestClassifier	CDDD	PRC AUC	0.63105
+Mono	PRR	Cred	3	RandomForestClassifier	CDDD	PRC AUC	0.60737
+Mono	PRR	Cred	4	RandomForestClassifier	CDDD	PRC AUC	0.64964
+Mono	PRR	Cred	2	RandomForestClassifier	CDDD	PRC AUC	0.66984
+Mono	ROR	Cred	0	RandomForestClassifier	CDDD	PRC AUC	0.70445
+Mono	ROR	Cred	1	RandomForestClassifier	CDDD	PRC AUC	0.63996
+Mono	ROR	Cred	3	RandomForestClassifier	CDDD	PRC AUC	0.61238
+Mono	ROR	Cred	4	RandomForestClassifier	CDDD	PRC AUC	0.68968
+Mono	ROR	Cred	2	RandomForestClassifier	CDDD	PRC AUC	0.70068
+Mono	IC	Cred	0	RandomForestClassifier	CDDD	PRC AUC	0.68601
+Mono	IC	Cred	1	RandomForestClassifier	CDDD	PRC AUC	0.63835
+Mono	IC	Cred	3	RandomForestClassifier	CDDD	PRC AUC	0.6172
+Mono	IC	Cred	4	RandomForestClassifier	CDDD	PRC AUC	0.67033
+Mono	IC	Cred	2	RandomForestClassifier	CDDD	PRC AUC	0.69497
+Mono	PRR	Cred	0	RandomForestClassifier	CDDD	Brier	0.24269
+Mono	PRR	Cred	1	RandomForestClassifier	CDDD	Brier	0.24688
+Mono	PRR	Cred	3	RandomForestClassifier	CDDD	Brier	0.24968
+Mono	PRR	Cred	4	RandomForestClassifier	CDDD	Brier	0.24277
+Mono	PRR	Cred	2	RandomForestClassifier	CDDD	Brier	0.24105
+Mono	ROR	Cred	0	RandomForestClassifier	CDDD	Brier	0.23821
+Mono	ROR	Cred	1	RandomForestClassifier	CDDD	Brier	0.24776
+Mono	ROR	Cred	3	RandomForestClassifier	CDDD	Brier	0.24867
+Mono	ROR	Cred	4	RandomForestClassifier	CDDD	Brier	0.23694
+Mono	ROR	Cred	2	RandomForestClassifier	CDDD	Brier	0.23663
+Mono	IC	Cred	0	RandomForestClassifier	CDDD	Brier	0.23983
+Mono	IC	Cred	1	RandomForestClassifier	CDDD	Brier	0.24449
+Mono	IC	Cred	3	RandomForestClassifier	CDDD	Brier	0.2463
+Mono	IC	Cred	4	RandomForestClassifier	CDDD	Brier	0.23793
+Mono	IC	Cred	2	RandomForestClassifier	CDDD	Brier	0.23794
+Mono	PRR	Cred	0	RandomForestClassifier	CDDD	ECE	0.0935
+Mono	PRR	Cred	1	RandomForestClassifier	CDDD	ECE	0.06916
+Mono	PRR	Cred	3	RandomForestClassifier	CDDD	ECE	0.07101
+Mono	PRR	Cred	4	RandomForestClassifier	CDDD	ECE	0.04936
+Mono	PRR	Cred	2	RandomForestClassifier	CDDD	ECE	0.05643
+Mono	ROR	Cred	0	RandomForestClassifier	CDDD	ECE	0.08572
+Mono	ROR	Cred	1	RandomForestClassifier	CDDD	ECE	0.0749
+Mono	ROR	Cred	3	RandomForestClassifier	CDDD	ECE	0.07638
+Mono	ROR	Cred	4	RandomForestClassifier	CDDD	ECE	0.04065
+Mono	ROR	Cred	2	RandomForestClassifier	CDDD	ECE	0.06453
+Mono	IC	Cred	0	RandomForestClassifier	CDDD	ECE	0.07107
+Mono	IC	Cred	1	RandomForestClassifier	CDDD	ECE	0.04631
+Mono	IC	Cred	3	RandomForestClassifier	CDDD	ECE	0.0542
+Mono	IC	Cred	4	RandomForestClassifier	CDDD	ECE	0.02964
+Mono	IC	Cred	2	RandomForestClassifier	CDDD	ECE	0.0612

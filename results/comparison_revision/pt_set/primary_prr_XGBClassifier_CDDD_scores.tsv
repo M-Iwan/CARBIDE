@@ -1,0 +1,196 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Primary	PRR	Cred	1	XGBClassifier	CDDD	Balanced Accuracy	0.55986
+Primary	PRR	Cred	0	XGBClassifier	CDDD	Balanced Accuracy	0.55862
+Primary	PRR	Cred	4	XGBClassifier	CDDD	Balanced Accuracy	0.52652
+Primary	PRR	Cred	3	XGBClassifier	CDDD	Balanced Accuracy	0.52597
+Primary	PRR	Cred	2	XGBClassifier	CDDD	Balanced Accuracy	0.55275
+Primary	PRR	Card	1	XGBClassifier	CDDD	Balanced Accuracy	0.57927
+Primary	PRR	Card	0	XGBClassifier	CDDD	Balanced Accuracy	0.52828
+Primary	PRR	Card	4	XGBClassifier	CDDD	Balanced Accuracy	0.53833
+Primary	PRR	Card	3	XGBClassifier	CDDD	Balanced Accuracy	0.50926
+Primary	PRR	Card	2	XGBClassifier	CDDD	Balanced Accuracy	0.55338
+Primary	PRR	Cvas	1	XGBClassifier	CDDD	Balanced Accuracy	0.58552
+Primary	PRR	Cvas	0	XGBClassifier	CDDD	Balanced Accuracy	0.54859
+Primary	PRR	Cvas	4	XGBClassifier	CDDD	Balanced Accuracy	0.53243
+Primary	PRR	Cvas	3	XGBClassifier	CDDD	Balanced Accuracy	0.52399
+Primary	PRR	Cvas	2	XGBClassifier	CDDD	Balanced Accuracy	0.52679
+Primary	PRR	Cred	1	XGBClassifier	CDDD	GeomRS	0.55883
+Primary	PRR	Cred	0	XGBClassifier	CDDD	GeomRS	0.55862
+Primary	PRR	Cred	4	XGBClassifier	CDDD	GeomRS	0.5256
+Primary	PRR	Cred	3	XGBClassifier	CDDD	GeomRS	0.52265
+Primary	PRR	Cred	2	XGBClassifier	CDDD	GeomRS	0.55237
+Primary	PRR	Card	1	XGBClassifier	CDDD	GeomRS	0.57923
+Primary	PRR	Card	0	XGBClassifier	CDDD	GeomRS	0.52603
+Primary	PRR	Card	4	XGBClassifier	CDDD	GeomRS	0.53611
+Primary	PRR	Card	3	XGBClassifier	CDDD	GeomRS	0.50474
+Primary	PRR	Card	2	XGBClassifier	CDDD	GeomRS	0.55337
+Primary	PRR	Cvas	1	XGBClassifier	CDDD	GeomRS	0.58549
+Primary	PRR	Cvas	0	XGBClassifier	CDDD	GeomRS	0.54797
+Primary	PRR	Cvas	4	XGBClassifier	CDDD	GeomRS	0.53013
+Primary	PRR	Cvas	3	XGBClassifier	CDDD	GeomRS	0.52365
+Primary	PRR	Cvas	2	XGBClassifier	CDDD	GeomRS	0.51863
+Primary	PRR	Cred	1	XGBClassifier	CDDD	HarmRS	0.55781
+Primary	PRR	Cred	0	XGBClassifier	CDDD	HarmRS	0.55862
+Primary	PRR	Cred	4	XGBClassifier	CDDD	HarmRS	0.52468
+Primary	PRR	Cred	3	XGBClassifier	CDDD	HarmRS	0.51936
+Primary	PRR	Cred	2	XGBClassifier	CDDD	HarmRS	0.552
+Primary	PRR	Card	1	XGBClassifier	CDDD	HarmRS	0.5792
+Primary	PRR	Card	0	XGBClassifier	CDDD	HarmRS	0.52379
+Primary	PRR	Card	4	XGBClassifier	CDDD	HarmRS	0.5339
+Primary	PRR	Card	3	XGBClassifier	CDDD	HarmRS	0.50025
+Primary	PRR	Card	2	XGBClassifier	CDDD	HarmRS	0.55337
+Primary	PRR	Cvas	1	XGBClassifier	CDDD	HarmRS	0.58547
+Primary	PRR	Cvas	0	XGBClassifier	CDDD	HarmRS	0.54734
+Primary	PRR	Cvas	4	XGBClassifier	CDDD	HarmRS	0.52784
+Primary	PRR	Cvas	3	XGBClassifier	CDDD	HarmRS	0.5233
+Primary	PRR	Cvas	2	XGBClassifier	CDDD	HarmRS	0.51059
+Primary	PRR	Cred	1	XGBClassifier	CDDD	F1 Score	0.56668
+Primary	PRR	Cred	0	XGBClassifier	CDDD	F1 Score	0.61834
+Primary	PRR	Cred	4	XGBClassifier	CDDD	F1 Score	0.57956
+Primary	PRR	Cred	3	XGBClassifier	CDDD	F1 Score	0.54468
+Primary	PRR	Cred	2	XGBClassifier	CDDD	F1 Score	0.61376
+Primary	PRR	Card	1	XGBClassifier	CDDD	F1 Score	0.60578
+Primary	PRR	Card	0	XGBClassifier	CDDD	F1 Score	0.61715
+Primary	PRR	Card	4	XGBClassifier	CDDD	F1 Score	0.59971
+Primary	PRR	Card	3	XGBClassifier	CDDD	F1 Score	0.52127
+Primary	PRR	Card	2	XGBClassifier	CDDD	F1 Score	0.60452
+Primary	PRR	Cvas	1	XGBClassifier	CDDD	F1 Score	0.61172
+Primary	PRR	Cvas	0	XGBClassifier	CDDD	F1 Score	0.62353
+Primary	PRR	Cvas	4	XGBClassifier	CDDD	F1 Score	0.5945
+Primary	PRR	Cvas	3	XGBClassifier	CDDD	F1 Score	0.5681
+Primary	PRR	Cvas	2	XGBClassifier	CDDD	F1 Score	0.62683
+Primary	PRR	Cred	1	XGBClassifier	CDDD	ROC AUC	0.57492
+Primary	PRR	Cred	0	XGBClassifier	CDDD	ROC AUC	0.58462
+Primary	PRR	Cred	4	XGBClassifier	CDDD	ROC AUC	0.56175
+Primary	PRR	Cred	3	XGBClassifier	CDDD	ROC AUC	0.53946
+Primary	PRR	Cred	2	XGBClassifier	CDDD	ROC AUC	0.5785
+Primary	PRR	Card	1	XGBClassifier	CDDD	ROC AUC	0.60904
+Primary	PRR	Card	0	XGBClassifier	CDDD	ROC AUC	0.55086
+Primary	PRR	Card	4	XGBClassifier	CDDD	ROC AUC	0.56491
+Primary	PRR	Card	3	XGBClassifier	CDDD	ROC AUC	0.52581
+Primary	PRR	Card	2	XGBClassifier	CDDD	ROC AUC	0.5816
+Primary	PRR	Cvas	1	XGBClassifier	CDDD	ROC AUC	0.60212
+Primary	PRR	Cvas	0	XGBClassifier	CDDD	ROC AUC	0.56632
+Primary	PRR	Cvas	4	XGBClassifier	CDDD	ROC AUC	0.54948
+Primary	PRR	Cvas	3	XGBClassifier	CDDD	ROC AUC	0.55489
+Primary	PRR	Cvas	2	XGBClassifier	CDDD	ROC AUC	0.54925
+Primary	PRR	Cred	1	XGBClassifier	CDDD	MCC	0.11926
+Primary	PRR	Cred	0	XGBClassifier	CDDD	MCC	0.11261
+Primary	PRR	Cred	4	XGBClassifier	CDDD	MCC	0.05249
+Primary	PRR	Cred	3	XGBClassifier	CDDD	MCC	0.05054
+Primary	PRR	Cred	2	XGBClassifier	CDDD	MCC	0.10297
+Primary	PRR	Card	1	XGBClassifier	CDDD	MCC	0.15775
+Primary	PRR	Card	0	XGBClassifier	CDDD	MCC	0.05466
+Primary	PRR	Card	4	XGBClassifier	CDDD	MCC	0.07615
+Primary	PRR	Card	3	XGBClassifier	CDDD	MCC	0.01808
+Primary	PRR	Card	2	XGBClassifier	CDDD	MCC	0.10401
+Primary	PRR	Cvas	1	XGBClassifier	CDDD	MCC	0.17021
+Primary	PRR	Cvas	0	XGBClassifier	CDDD	MCC	0.0936
+Primary	PRR	Cvas	4	XGBClassifier	CDDD	MCC	0.06443
+Primary	PRR	Cvas	3	XGBClassifier	CDDD	MCC	0.04645
+Primary	PRR	Cvas	2	XGBClassifier	CDDD	MCC	0.05322
+Primary	PRR	Cred	1	XGBClassifier	CDDD	Accuracy	0.55637
+Primary	PRR	Cred	0	XGBClassifier	CDDD	Accuracy	0.55865
+Primary	PRR	Cred	4	XGBClassifier	CDDD	Accuracy	0.53144
+Primary	PRR	Cred	3	XGBClassifier	CDDD	Accuracy	0.51108
+Primary	PRR	Cred	2	XGBClassifier	CDDD	Accuracy	0.5574
+Primary	PRR	Card	1	XGBClassifier	CDDD	Accuracy	0.57989
+Primary	PRR	Card	0	XGBClassifier	CDDD	Accuracy	0.54191
+Primary	PRR	Card	4	XGBClassifier	CDDD	Accuracy	0.54606
+Primary	PRR	Card	3	XGBClassifier	CDDD	Accuracy	0.49216
+Primary	PRR	Card	2	XGBClassifier	CDDD	Accuracy	0.55392
+Primary	PRR	Cvas	1	XGBClassifier	CDDD	Accuracy	0.5861
+Primary	PRR	Cvas	0	XGBClassifier	CDDD	Accuracy	0.55591
+Primary	PRR	Cvas	4	XGBClassifier	CDDD	Accuracy	0.54026
+Primary	PRR	Cvas	3	XGBClassifier	CDDD	Accuracy	0.51919
+Primary	PRR	Cvas	2	XGBClassifier	CDDD	Accuracy	0.54775
+Primary	PRR	Cred	1	XGBClassifier	CDDD	Recall	0.52598
+Primary	PRR	Cred	0	XGBClassifier	CDDD	Recall	0.55874
+Primary	PRR	Cred	4	XGBClassifier	CDDD	Recall	0.55762
+Primary	PRR	Cred	3	XGBClassifier	CDDD	Recall	0.46698
+Primary	PRR	Cred	2	XGBClassifier	CDDD	Recall	0.57324
+Primary	PRR	Card	1	XGBClassifier	CDDD	Recall	0.58529
+Primary	PRR	Card	0	XGBClassifier	CDDD	Recall	0.577
+Primary	PRR	Card	4	XGBClassifier	CDDD	Recall	0.58714
+Primary	PRR	Card	3	XGBClassifier	CDDD	Recall	0.44152
+Primary	PRR	Card	2	XGBClassifier	CDDD	Recall	0.55575
+Primary	PRR	Cvas	1	XGBClassifier	CDDD	Recall	0.59118
+Primary	PRR	Cvas	0	XGBClassifier	CDDD	Recall	0.57475
+Primary	PRR	Cvas	4	XGBClassifier	CDDD	Recall	0.5819
+Primary	PRR	Cvas	3	XGBClassifier	CDDD	Recall	0.50496
+Primary	PRR	Cvas	2	XGBClassifier	CDDD	Recall	0.61915
+Primary	PRR	Cred	1	XGBClassifier	CDDD	Specificity	0.59373
+Primary	PRR	Cred	0	XGBClassifier	CDDD	Specificity	0.55849
+Primary	PRR	Cred	4	XGBClassifier	CDDD	Specificity	0.49541
+Primary	PRR	Cred	3	XGBClassifier	CDDD	Specificity	0.58496
+Primary	PRR	Cred	2	XGBClassifier	CDDD	Specificity	0.53227
+Primary	PRR	Card	1	XGBClassifier	CDDD	Specificity	0.57324
+Primary	PRR	Card	0	XGBClassifier	CDDD	Specificity	0.47957
+Primary	PRR	Card	4	XGBClassifier	CDDD	Specificity	0.48952
+Primary	PRR	Card	3	XGBClassifier	CDDD	Specificity	0.57701
+Primary	PRR	Card	2	XGBClassifier	CDDD	Specificity	0.55101
+Primary	PRR	Cvas	1	XGBClassifier	CDDD	Specificity	0.57987
+Primary	PRR	Cvas	0	XGBClassifier	CDDD	Specificity	0.52244
+Primary	PRR	Cvas	4	XGBClassifier	CDDD	Specificity	0.48296
+Primary	PRR	Cvas	3	XGBClassifier	CDDD	Specificity	0.54302
+Primary	PRR	Cvas	2	XGBClassifier	CDDD	Specificity	0.43442
+Primary	PRR	Cred	1	XGBClassifier	CDDD	Precision	0.6142
+Primary	PRR	Cred	0	XGBClassifier	CDDD	Precision	0.69218
+Primary	PRR	Cred	4	XGBClassifier	CDDD	Precision	0.6033
+Primary	PRR	Cred	3	XGBClassifier	CDDD	Precision	0.65338
+Primary	PRR	Cred	2	XGBClassifier	CDDD	Precision	0.66045
+Primary	PRR	Card	1	XGBClassifier	CDDD	Precision	0.62776
+Primary	PRR	Card	0	XGBClassifier	CDDD	Precision	0.6633
+Primary	PRR	Card	4	XGBClassifier	CDDD	Precision	0.61282
+Primary	PRR	Card	3	XGBClassifier	CDDD	Precision	0.63619
+Primary	PRR	Card	2	XGBClassifier	CDDD	Precision	0.66267
+Primary	PRR	Cvas	1	XGBClassifier	CDDD	Precision	0.63374
+Primary	PRR	Cvas	0	XGBClassifier	CDDD	Precision	0.68137
+Primary	PRR	Cvas	4	XGBClassifier	CDDD	Precision	0.60766
+Primary	PRR	Cvas	3	XGBClassifier	CDDD	Precision	0.64928
+Primary	PRR	Cvas	2	XGBClassifier	CDDD	Precision	0.63469
+Primary	PRR	Cred	1	XGBClassifier	CDDD	PRC AUC	0.62269
+Primary	PRR	Cred	0	XGBClassifier	CDDD	PRC AUC	0.71166
+Primary	PRR	Cred	4	XGBClassifier	CDDD	PRC AUC	0.64811
+Primary	PRR	Cred	3	XGBClassifier	CDDD	PRC AUC	0.66835
+Primary	PRR	Cred	2	XGBClassifier	CDDD	PRC AUC	0.6958
+Primary	PRR	Card	1	XGBClassifier	CDDD	PRC AUC	0.65728
+Primary	PRR	Card	0	XGBClassifier	CDDD	PRC AUC	0.69299
+Primary	PRR	Card	4	XGBClassifier	CDDD	PRC AUC	0.64955
+Primary	PRR	Card	3	XGBClassifier	CDDD	PRC AUC	0.66223
+Primary	PRR	Card	2	XGBClassifier	CDDD	PRC AUC	0.70215
+Primary	PRR	Cvas	1	XGBClassifier	CDDD	PRC AUC	0.63981
+Primary	PRR	Cvas	0	XGBClassifier	CDDD	PRC AUC	0.70048
+Primary	PRR	Cvas	4	XGBClassifier	CDDD	PRC AUC	0.62221
+Primary	PRR	Cvas	3	XGBClassifier	CDDD	PRC AUC	0.69003
+Primary	PRR	Cvas	2	XGBClassifier	CDDD	PRC AUC	0.67557
+Primary	PRR	Cred	1	XGBClassifier	CDDD	ECE	0.0977
+Primary	PRR	Cred	0	XGBClassifier	CDDD	ECE	0.13304
+Primary	PRR	Cred	4	XGBClassifier	CDDD	ECE	0.08063
+Primary	PRR	Cred	3	XGBClassifier	CDDD	ECE	0.13935
+Primary	PRR	Cred	2	XGBClassifier	CDDD	ECE	0.10233
+Primary	PRR	Card	1	XGBClassifier	CDDD	ECE	0.06797
+Primary	PRR	Card	0	XGBClassifier	CDDD	ECE	0.11847
+Primary	PRR	Card	4	XGBClassifier	CDDD	ECE	0.07578
+Primary	PRR	Card	3	XGBClassifier	CDDD	ECE	0.14475
+Primary	PRR	Card	2	XGBClassifier	CDDD	ECE	0.11739
+Primary	PRR	Cvas	1	XGBClassifier	CDDD	ECE	0.0756
+Primary	PRR	Cvas	0	XGBClassifier	CDDD	ECE	0.12572
+Primary	PRR	Cvas	4	XGBClassifier	CDDD	ECE	0.11756
+Primary	PRR	Cvas	3	XGBClassifier	CDDD	ECE	0.15664
+Primary	PRR	Cvas	2	XGBClassifier	CDDD	ECE	0.12788
+Primary	PRR	Cred	1	XGBClassifier	CDDD	Brier	0.25943
+Primary	PRR	Cred	0	XGBClassifier	CDDD	Brier	0.25366
+Primary	PRR	Cred	4	XGBClassifier	CDDD	Brier	0.24735
+Primary	PRR	Cred	3	XGBClassifier	CDDD	Brier	0.2559
+Primary	PRR	Cred	2	XGBClassifier	CDDD	Brier	0.24765
+Primary	PRR	Card	1	XGBClassifier	CDDD	Brier	0.24658
+Primary	PRR	Card	0	XGBClassifier	CDDD	Brier	0.24856
+Primary	PRR	Card	4	XGBClassifier	CDDD	Brier	0.24826
+Primary	PRR	Card	3	XGBClassifier	CDDD	Brier	0.265
+Primary	PRR	Card	2	XGBClassifier	CDDD	Brier	0.25953
+Primary	PRR	Cvas	1	XGBClassifier	CDDD	Brier	0.24924
+Primary	PRR	Cvas	0	XGBClassifier	CDDD	Brier	0.25244
+Primary	PRR	Cvas	4	XGBClassifier	CDDD	Brier	0.26541
+Primary	PRR	Cvas	3	XGBClassifier	CDDD	Brier	0.27006
+Primary	PRR	Cvas	2	XGBClassifier	CDDD	Brier	0.26126

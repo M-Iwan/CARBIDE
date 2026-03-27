@@ -1,0 +1,196 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Mono	PRR	Cvas	0	XGBClassifier	RDKit	Balanced Accuracy	0.5327
+Mono	PRR	Cvas	1	XGBClassifier	RDKit	Balanced Accuracy	0.55306
+Mono	PRR	Cvas	3	XGBClassifier	RDKit	Balanced Accuracy	0.51427
+Mono	PRR	Cvas	2	XGBClassifier	RDKit	Balanced Accuracy	0.52974
+Mono	PRR	Cvas	4	XGBClassifier	RDKit	Balanced Accuracy	0.51034
+Mono	ROR	Cvas	0	XGBClassifier	RDKit	Balanced Accuracy	0.55955
+Mono	ROR	Cvas	1	XGBClassifier	RDKit	Balanced Accuracy	0.55415
+Mono	ROR	Cvas	3	XGBClassifier	RDKit	Balanced Accuracy	0.52162
+Mono	ROR	Cvas	2	XGBClassifier	RDKit	Balanced Accuracy	0.56106
+Mono	ROR	Cvas	4	XGBClassifier	RDKit	Balanced Accuracy	0.49579
+Mono	IC	Cvas	0	XGBClassifier	RDKit	Balanced Accuracy	0.53852
+Mono	IC	Cvas	1	XGBClassifier	RDKit	Balanced Accuracy	0.53608
+Mono	IC	Cvas	3	XGBClassifier	RDKit	Balanced Accuracy	0.51009
+Mono	IC	Cvas	2	XGBClassifier	RDKit	Balanced Accuracy	0.52262
+Mono	IC	Cvas	4	XGBClassifier	RDKit	Balanced Accuracy	0.51477
+Mono	PRR	Cvas	0	XGBClassifier	RDKit	GeomRS	0.51345
+Mono	PRR	Cvas	1	XGBClassifier	RDKit	GeomRS	0.55263
+Mono	PRR	Cvas	3	XGBClassifier	RDKit	GeomRS	0.51264
+Mono	PRR	Cvas	2	XGBClassifier	RDKit	GeomRS	0.52643
+Mono	PRR	Cvas	4	XGBClassifier	RDKit	GeomRS	0.50729
+Mono	ROR	Cvas	0	XGBClassifier	RDKit	GeomRS	0.55159
+Mono	ROR	Cvas	1	XGBClassifier	RDKit	GeomRS	0.55052
+Mono	ROR	Cvas	3	XGBClassifier	RDKit	GeomRS	0.52162
+Mono	ROR	Cvas	2	XGBClassifier	RDKit	GeomRS	0.56071
+Mono	ROR	Cvas	4	XGBClassifier	RDKit	GeomRS	0.49574
+Mono	IC	Cvas	0	XGBClassifier	RDKit	GeomRS	0.52135
+Mono	IC	Cvas	1	XGBClassifier	RDKit	GeomRS	0.49644
+Mono	IC	Cvas	3	XGBClassifier	RDKit	GeomRS	0.47801
+Mono	IC	Cvas	2	XGBClassifier	RDKit	GeomRS	0.46934
+Mono	IC	Cvas	4	XGBClassifier	RDKit	GeomRS	0.43897
+Mono	PRR	Cvas	0	XGBClassifier	RDKit	HarmRS	0.49489
+Mono	PRR	Cvas	1	XGBClassifier	RDKit	HarmRS	0.55221
+Mono	PRR	Cvas	3	XGBClassifier	RDKit	HarmRS	0.51101
+Mono	PRR	Cvas	2	XGBClassifier	RDKit	HarmRS	0.52313
+Mono	PRR	Cvas	4	XGBClassifier	RDKit	HarmRS	0.50426
+Mono	ROR	Cvas	0	XGBClassifier	RDKit	HarmRS	0.54374
+Mono	ROR	Cvas	1	XGBClassifier	RDKit	HarmRS	0.54691
+Mono	ROR	Cvas	3	XGBClassifier	RDKit	HarmRS	0.52162
+Mono	ROR	Cvas	2	XGBClassifier	RDKit	HarmRS	0.56037
+Mono	ROR	Cvas	4	XGBClassifier	RDKit	HarmRS	0.49568
+Mono	IC	Cvas	0	XGBClassifier	RDKit	HarmRS	0.50473
+Mono	IC	Cvas	1	XGBClassifier	RDKit	HarmRS	0.45974
+Mono	IC	Cvas	3	XGBClassifier	RDKit	HarmRS	0.44795
+Mono	IC	Cvas	2	XGBClassifier	RDKit	HarmRS	0.42149
+Mono	IC	Cvas	4	XGBClassifier	RDKit	HarmRS	0.37433
+Mono	PRR	Cvas	0	XGBClassifier	RDKit	F1 Score	0.4873
+Mono	PRR	Cvas	1	XGBClassifier	RDKit	F1 Score	0.56657
+Mono	PRR	Cvas	3	XGBClassifier	RDKit	F1 Score	0.54032
+Mono	PRR	Cvas	2	XGBClassifier	RDKit	F1 Score	0.59764
+Mono	PRR	Cvas	4	XGBClassifier	RDKit	F1 Score	0.55633
+Mono	ROR	Cvas	0	XGBClassifier	RDKit	F1 Score	0.55012
+Mono	ROR	Cvas	1	XGBClassifier	RDKit	F1 Score	0.54518
+Mono	ROR	Cvas	3	XGBClassifier	RDKit	F1 Score	0.57376
+Mono	ROR	Cvas	2	XGBClassifier	RDKit	F1 Score	0.60766
+Mono	ROR	Cvas	4	XGBClassifier	RDKit	F1 Score	0.51803
+Mono	IC	Cvas	0	XGBClassifier	RDKit	F1 Score	0.65255
+Mono	IC	Cvas	1	XGBClassifier	RDKit	F1 Score	0.64832
+Mono	IC	Cvas	3	XGBClassifier	RDKit	F1 Score	0.65328
+Mono	IC	Cvas	2	XGBClassifier	RDKit	F1 Score	0.66518
+Mono	IC	Cvas	4	XGBClassifier	RDKit	F1 Score	0.64443
+Mono	PRR	Cvas	0	XGBClassifier	RDKit	ROC AUC	0.5493
+Mono	PRR	Cvas	1	XGBClassifier	RDKit	ROC AUC	0.57718
+Mono	PRR	Cvas	3	XGBClassifier	RDKit	ROC AUC	0.51559
+Mono	PRR	Cvas	2	XGBClassifier	RDKit	ROC AUC	0.55275
+Mono	PRR	Cvas	4	XGBClassifier	RDKit	ROC AUC	0.51761
+Mono	ROR	Cvas	0	XGBClassifier	RDKit	ROC AUC	0.57955
+Mono	ROR	Cvas	1	XGBClassifier	RDKit	ROC AUC	0.57663
+Mono	ROR	Cvas	3	XGBClassifier	RDKit	ROC AUC	0.5369
+Mono	ROR	Cvas	2	XGBClassifier	RDKit	ROC AUC	0.59
+Mono	ROR	Cvas	4	XGBClassifier	RDKit	ROC AUC	0.50374
+Mono	IC	Cvas	0	XGBClassifier	RDKit	ROC AUC	0.56031
+Mono	IC	Cvas	1	XGBClassifier	RDKit	ROC AUC	0.55963
+Mono	IC	Cvas	3	XGBClassifier	RDKit	ROC AUC	0.52322
+Mono	IC	Cvas	2	XGBClassifier	RDKit	ROC AUC	0.55178
+Mono	IC	Cvas	4	XGBClassifier	RDKit	ROC AUC	0.52116
+Mono	PRR	Cvas	0	XGBClassifier	RDKit	MCC	0.06644
+Mono	PRR	Cvas	1	XGBClassifier	RDKit	MCC	0.10558
+Mono	PRR	Cvas	3	XGBClassifier	RDKit	MCC	0.02786
+Mono	PRR	Cvas	2	XGBClassifier	RDKit	MCC	0.05918
+Mono	PRR	Cvas	4	XGBClassifier	RDKit	MCC	0.02076
+Mono	ROR	Cvas	0	XGBClassifier	RDKit	MCC	0.11807
+Mono	ROR	Cvas	1	XGBClassifier	RDKit	MCC	0.10842
+Mono	ROR	Cvas	3	XGBClassifier	RDKit	MCC	0.04209
+Mono	ROR	Cvas	2	XGBClassifier	RDKit	MCC	0.12072
+Mono	ROR	Cvas	4	XGBClassifier	RDKit	MCC	-0.00839
+Mono	IC	Cvas	0	XGBClassifier	RDKit	MCC	0.07862
+Mono	IC	Cvas	1	XGBClassifier	RDKit	MCC	0.07876
+Mono	IC	Cvas	3	XGBClassifier	RDKit	MCC	0.02107
+Mono	IC	Cvas	2	XGBClassifier	RDKit	MCC	0.05049
+Mono	IC	Cvas	4	XGBClassifier	RDKit	MCC	0.035
+Mono	PRR	Cvas	0	XGBClassifier	RDKit	Accuracy	0.5031
+Mono	PRR	Cvas	1	XGBClassifier	RDKit	Accuracy	0.55078
+Mono	PRR	Cvas	3	XGBClassifier	RDKit	Accuracy	0.50487
+Mono	PRR	Cvas	2	XGBClassifier	RDKit	Accuracy	0.53932
+Mono	PRR	Cvas	4	XGBClassifier	RDKit	Accuracy	0.51454
+Mono	ROR	Cvas	0	XGBClassifier	RDKit	Accuracy	0.53993
+Mono	ROR	Cvas	1	XGBClassifier	RDKit	Accuracy	0.54749
+Mono	ROR	Cvas	3	XGBClassifier	RDKit	Accuracy	0.52201
+Mono	ROR	Cvas	2	XGBClassifier	RDKit	Accuracy	0.56426
+Mono	ROR	Cvas	4	XGBClassifier	RDKit	Accuracy	0.49636
+Mono	IC	Cvas	0	XGBClassifier	RDKit	Accuracy	0.56666
+Mono	IC	Cvas	1	XGBClassifier	RDKit	Accuracy	0.55735
+Mono	IC	Cvas	3	XGBClassifier	RDKit	Accuracy	0.55096
+Mono	IC	Cvas	2	XGBClassifier	RDKit	Accuracy	0.55986
+Mono	IC	Cvas	4	XGBClassifier	RDKit	Accuracy	0.53503
+Mono	PRR	Cvas	0	XGBClassifier	RDKit	Recall	0.39078
+Mono	PRR	Cvas	1	XGBClassifier	RDKit	Recall	0.53135
+Mono	PRR	Cvas	3	XGBClassifier	RDKit	Recall	0.47333
+Mono	PRR	Cvas	2	XGBClassifier	RDKit	Recall	0.58889
+Mono	PRR	Cvas	4	XGBClassifier	RDKit	Recall	0.56607
+Mono	ROR	Cvas	0	XGBClassifier	RDKit	Recall	0.46548
+Mono	ROR	Cvas	1	XGBClassifier	RDKit	Recall	0.49081
+Mono	ROR	Cvas	3	XGBClassifier	RDKit	Recall	0.52331
+Mono	ROR	Cvas	2	XGBClassifier	RDKit	Recall	0.58081
+Mono	ROR	Cvas	4	XGBClassifier	RDKit	Recall	0.50338
+Mono	IC	Cvas	0	XGBClassifier	RDKit	Recall	0.67341
+Mono	IC	Cvas	1	XGBClassifier	RDKit	Recall	0.73838
+Mono	IC	Cvas	3	XGBClassifier	RDKit	Recall	0.68813
+Mono	IC	Cvas	2	XGBClassifier	RDKit	Recall	0.75253
+Mono	IC	Cvas	4	XGBClassifier	RDKit	Recall	0.78365
+Mono	PRR	Cvas	0	XGBClassifier	RDKit	Specificity	0.67463
+Mono	PRR	Cvas	1	XGBClassifier	RDKit	Specificity	0.57477
+Mono	PRR	Cvas	3	XGBClassifier	RDKit	Specificity	0.55521
+Mono	PRR	Cvas	2	XGBClassifier	RDKit	Specificity	0.47059
+Mono	PRR	Cvas	4	XGBClassifier	RDKit	Specificity	0.45461
+Mono	ROR	Cvas	0	XGBClassifier	RDKit	Specificity	0.65362
+Mono	ROR	Cvas	1	XGBClassifier	RDKit	Specificity	0.61749
+Mono	ROR	Cvas	3	XGBClassifier	RDKit	Specificity	0.51994
+Mono	ROR	Cvas	2	XGBClassifier	RDKit	Specificity	0.54132
+Mono	ROR	Cvas	4	XGBClassifier	RDKit	Specificity	0.48821
+Mono	IC	Cvas	0	XGBClassifier	RDKit	Specificity	0.40362
+Mono	IC	Cvas	1	XGBClassifier	RDKit	Specificity	0.33378
+Mono	IC	Cvas	3	XGBClassifier	RDKit	Specificity	0.33206
+Mono	IC	Cvas	2	XGBClassifier	RDKit	Specificity	0.29272
+Mono	IC	Cvas	4	XGBClassifier	RDKit	Specificity	0.24589
+Mono	PRR	Cvas	0	XGBClassifier	RDKit	Precision	0.64716
+Mono	PRR	Cvas	1	XGBClassifier	RDKit	Precision	0.60679
+Mono	PRR	Cvas	3	XGBClassifier	RDKit	Precision	0.62939
+Mono	PRR	Cvas	2	XGBClassifier	RDKit	Precision	0.60666
+Mono	PRR	Cvas	4	XGBClassifier	RDKit	Precision	0.54691
+Mono	ROR	Cvas	0	XGBClassifier	RDKit	Precision	0.67238
+Mono	ROR	Cvas	1	XGBClassifier	RDKit	Precision	0.6131
+Mono	ROR	Cvas	3	XGBClassifier	RDKit	Precision	0.63499
+Mono	ROR	Cvas	2	XGBClassifier	RDKit	Precision	0.63712
+Mono	ROR	Cvas	4	XGBClassifier	RDKit	Precision	0.53355
+Mono	IC	Cvas	0	XGBClassifier	RDKit	Precision	0.63295
+Mono	IC	Cvas	1	XGBClassifier	RDKit	Precision	0.57783
+Mono	IC	Cvas	3	XGBClassifier	RDKit	Precision	0.6218
+Mono	IC	Cvas	2	XGBClassifier	RDKit	Precision	0.596
+Mono	IC	Cvas	4	XGBClassifier	RDKit	Precision	0.54721
+Mono	PRR	Cvas	0	XGBClassifier	RDKit	PRC AUC	0.65455
+Mono	PRR	Cvas	1	XGBClassifier	RDKit	PRC AUC	0.62063
+Mono	PRR	Cvas	3	XGBClassifier	RDKit	PRC AUC	0.64972
+Mono	PRR	Cvas	2	XGBClassifier	RDKit	PRC AUC	0.63552
+Mono	PRR	Cvas	4	XGBClassifier	RDKit	PRC AUC	0.56001
+Mono	ROR	Cvas	0	XGBClassifier	RDKit	PRC AUC	0.6795
+Mono	ROR	Cvas	1	XGBClassifier	RDKit	PRC AUC	0.61591
+Mono	ROR	Cvas	3	XGBClassifier	RDKit	PRC AUC	0.65868
+Mono	ROR	Cvas	2	XGBClassifier	RDKit	PRC AUC	0.67368
+Mono	ROR	Cvas	4	XGBClassifier	RDKit	PRC AUC	0.56026
+Mono	IC	Cvas	0	XGBClassifier	RDKit	PRC AUC	0.65878
+Mono	IC	Cvas	1	XGBClassifier	RDKit	PRC AUC	0.599
+Mono	IC	Cvas	3	XGBClassifier	RDKit	PRC AUC	0.64756
+Mono	IC	Cvas	2	XGBClassifier	RDKit	PRC AUC	0.6375
+Mono	IC	Cvas	4	XGBClassifier	RDKit	PRC AUC	0.56092
+Mono	PRR	Cvas	0	XGBClassifier	RDKit	Brier	0.27489
+Mono	PRR	Cvas	1	XGBClassifier	RDKit	Brier	0.26077
+Mono	PRR	Cvas	3	XGBClassifier	RDKit	Brier	0.28097
+Mono	PRR	Cvas	2	XGBClassifier	RDKit	Brier	0.26563
+Mono	PRR	Cvas	4	XGBClassifier	RDKit	Brier	0.27164
+Mono	ROR	Cvas	0	XGBClassifier	RDKit	Brier	0.2685
+Mono	ROR	Cvas	1	XGBClassifier	RDKit	Brier	0.26296
+Mono	ROR	Cvas	3	XGBClassifier	RDKit	Brier	0.27657
+Mono	ROR	Cvas	2	XGBClassifier	RDKit	Brier	0.25453
+Mono	ROR	Cvas	4	XGBClassifier	RDKit	Brier	0.27315
+Mono	IC	Cvas	0	XGBClassifier	RDKit	Brier	0.2583
+Mono	IC	Cvas	1	XGBClassifier	RDKit	Brier	0.26712
+Mono	IC	Cvas	3	XGBClassifier	RDKit	Brier	0.26276
+Mono	IC	Cvas	2	XGBClassifier	RDKit	Brier	0.26881
+Mono	IC	Cvas	4	XGBClassifier	RDKit	Brier	0.27589
+Mono	PRR	Cvas	0	XGBClassifier	RDKit	ECE	0.15954
+Mono	PRR	Cvas	1	XGBClassifier	RDKit	ECE	0.10441
+Mono	PRR	Cvas	3	XGBClassifier	RDKit	ECE	0.1593
+Mono	PRR	Cvas	2	XGBClassifier	RDKit	ECE	0.1299
+Mono	PRR	Cvas	4	XGBClassifier	RDKit	ECE	0.12653
+Mono	ROR	Cvas	0	XGBClassifier	RDKit	ECE	0.14734
+Mono	ROR	Cvas	1	XGBClassifier	RDKit	ECE	0.11873
+Mono	ROR	Cvas	3	XGBClassifier	RDKit	ECE	0.16706
+Mono	ROR	Cvas	2	XGBClassifier	RDKit	ECE	0.10553
+Mono	ROR	Cvas	4	XGBClassifier	RDKit	ECE	0.13704
+Mono	IC	Cvas	0	XGBClassifier	RDKit	ECE	0.10706
+Mono	IC	Cvas	1	XGBClassifier	RDKit	ECE	0.13579
+Mono	IC	Cvas	3	XGBClassifier	RDKit	ECE	0.13766
+Mono	IC	Cvas	2	XGBClassifier	RDKit	ECE	0.14011
+Mono	IC	Cvas	4	XGBClassifier	RDKit	ECE	0.13635

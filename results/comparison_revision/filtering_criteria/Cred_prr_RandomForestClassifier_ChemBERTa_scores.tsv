@@ -1,0 +1,196 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Mono	PRR	Cred	0	RandomForestClassifier	ChemBERTa	Balanced Accuracy	0.51257
+Mono	PRR	Cred	1	RandomForestClassifier	ChemBERTa	Balanced Accuracy	0.54052
+Mono	PRR	Cred	3	RandomForestClassifier	ChemBERTa	Balanced Accuracy	0.52597
+Mono	PRR	Cred	4	RandomForestClassifier	ChemBERTa	Balanced Accuracy	0.49465
+Mono	PRR	Cred	2	RandomForestClassifier	ChemBERTa	Balanced Accuracy	0.55669
+Primary	PRR	Cred	0	RandomForestClassifier	ChemBERTa	Balanced Accuracy	0.53657
+Primary	PRR	Cred	1	RandomForestClassifier	ChemBERTa	Balanced Accuracy	0.51355
+Primary	PRR	Cred	3	RandomForestClassifier	ChemBERTa	Balanced Accuracy	0.5121
+Primary	PRR	Cred	4	RandomForestClassifier	ChemBERTa	Balanced Accuracy	0.53551
+Primary	PRR	Cred	2	RandomForestClassifier	ChemBERTa	Balanced Accuracy	0.55756
+Secondary	PRR	Cred	0	RandomForestClassifier	ChemBERTa	Balanced Accuracy	0.53329
+Secondary	PRR	Cred	1	RandomForestClassifier	ChemBERTa	Balanced Accuracy	0.53226
+Secondary	PRR	Cred	3	RandomForestClassifier	ChemBERTa	Balanced Accuracy	0.48853
+Secondary	PRR	Cred	4	RandomForestClassifier	ChemBERTa	Balanced Accuracy	0.44576
+Secondary	PRR	Cred	2	RandomForestClassifier	ChemBERTa	Balanced Accuracy	0.52084
+Mono	PRR	Cred	0	RandomForestClassifier	ChemBERTa	GeomRS	0.51062
+Mono	PRR	Cred	1	RandomForestClassifier	ChemBERTa	GeomRS	0.5405
+Mono	PRR	Cred	3	RandomForestClassifier	ChemBERTa	GeomRS	0.51647
+Mono	PRR	Cred	4	RandomForestClassifier	ChemBERTa	GeomRS	0.47533
+Mono	PRR	Cred	2	RandomForestClassifier	ChemBERTa	GeomRS	0.55628
+Primary	PRR	Cred	0	RandomForestClassifier	ChemBERTa	GeomRS	0.52409
+Primary	PRR	Cred	1	RandomForestClassifier	ChemBERTa	GeomRS	0.50737
+Primary	PRR	Cred	3	RandomForestClassifier	ChemBERTa	GeomRS	0.49582
+Primary	PRR	Cred	4	RandomForestClassifier	ChemBERTa	GeomRS	0.5272
+Primary	PRR	Cred	2	RandomForestClassifier	ChemBERTa	GeomRS	0.55685
+Secondary	PRR	Cred	0	RandomForestClassifier	ChemBERTa	GeomRS	0.49399
+Secondary	PRR	Cred	1	RandomForestClassifier	ChemBERTa	GeomRS	0.53219
+Secondary	PRR	Cred	3	RandomForestClassifier	ChemBERTa	GeomRS	0.47027
+Secondary	PRR	Cred	4	RandomForestClassifier	ChemBERTa	GeomRS	0.44566
+Secondary	PRR	Cred	2	RandomForestClassifier	ChemBERTa	GeomRS	0.51171
+Mono	PRR	Cred	0	RandomForestClassifier	ChemBERTa	HarmRS	0.50869
+Mono	PRR	Cred	1	RandomForestClassifier	ChemBERTa	HarmRS	0.54047
+Mono	PRR	Cred	3	RandomForestClassifier	ChemBERTa	HarmRS	0.50714
+Mono	PRR	Cred	4	RandomForestClassifier	ChemBERTa	HarmRS	0.45677
+Mono	PRR	Cred	2	RandomForestClassifier	ChemBERTa	HarmRS	0.55586
+Primary	PRR	Cred	0	RandomForestClassifier	ChemBERTa	HarmRS	0.5119
+Primary	PRR	Cred	1	RandomForestClassifier	ChemBERTa	HarmRS	0.50127
+Primary	PRR	Cred	3	RandomForestClassifier	ChemBERTa	HarmRS	0.48005
+Primary	PRR	Cred	4	RandomForestClassifier	ChemBERTa	HarmRS	0.51902
+Primary	PRR	Cred	2	RandomForestClassifier	ChemBERTa	HarmRS	0.55613
+Secondary	PRR	Cred	0	RandomForestClassifier	ChemBERTa	HarmRS	0.45759
+Secondary	PRR	Cred	1	RandomForestClassifier	ChemBERTa	HarmRS	0.53213
+Secondary	PRR	Cred	3	RandomForestClassifier	ChemBERTa	HarmRS	0.45269
+Secondary	PRR	Cred	4	RandomForestClassifier	ChemBERTa	HarmRS	0.44555
+Secondary	PRR	Cred	2	RandomForestClassifier	ChemBERTa	HarmRS	0.50274
+Mono	PRR	Cred	0	RandomForestClassifier	ChemBERTa	F1 Score	0.55549
+Mono	PRR	Cred	1	RandomForestClassifier	ChemBERTa	F1 Score	0.57652
+Mono	PRR	Cred	3	RandomForestClassifier	ChemBERTa	F1 Score	0.64174
+Mono	PRR	Cred	4	RandomForestClassifier	ChemBERTa	F1 Score	0.62895
+Mono	PRR	Cred	2	RandomForestClassifier	ChemBERTa	F1 Score	0.62637
+Primary	PRR	Cred	0	RandomForestClassifier	ChemBERTa	F1 Score	0.67353
+Primary	PRR	Cred	1	RandomForestClassifier	ChemBERTa	F1 Score	0.49939
+Primary	PRR	Cred	3	RandomForestClassifier	ChemBERTa	F1 Score	0.64408
+Primary	PRR	Cred	4	RandomForestClassifier	ChemBERTa	F1 Score	0.64331
+Primary	PRR	Cred	2	RandomForestClassifier	ChemBERTa	F1 Score	0.63086
+Secondary	PRR	Cred	0	RandomForestClassifier	ChemBERTa	F1 Score	0.71241
+Secondary	PRR	Cred	1	RandomForestClassifier	ChemBERTa	F1 Score	0.57
+Secondary	PRR	Cred	3	RandomForestClassifier	ChemBERTa	F1 Score	0.62576
+Secondary	PRR	Cred	4	RandomForestClassifier	ChemBERTa	F1 Score	0.49679
+Secondary	PRR	Cred	2	RandomForestClassifier	ChemBERTa	F1 Score	0.63372
+Mono	PRR	Cred	0	RandomForestClassifier	ChemBERTa	ROC AUC	0.52178
+Mono	PRR	Cred	1	RandomForestClassifier	ChemBERTa	ROC AUC	0.54894
+Mono	PRR	Cred	3	RandomForestClassifier	ChemBERTa	ROC AUC	0.53232
+Mono	PRR	Cred	4	RandomForestClassifier	ChemBERTa	ROC AUC	0.48535
+Mono	PRR	Cred	2	RandomForestClassifier	ChemBERTa	ROC AUC	0.59381
+Primary	PRR	Cred	0	RandomForestClassifier	ChemBERTa	ROC AUC	0.57101
+Primary	PRR	Cred	1	RandomForestClassifier	ChemBERTa	ROC AUC	0.54304
+Primary	PRR	Cred	3	RandomForestClassifier	ChemBERTa	ROC AUC	0.49499
+Primary	PRR	Cred	4	RandomForestClassifier	ChemBERTa	ROC AUC	0.54297
+Primary	PRR	Cred	2	RandomForestClassifier	ChemBERTa	ROC AUC	0.60543
+Secondary	PRR	Cred	0	RandomForestClassifier	ChemBERTa	ROC AUC	0.55377
+Secondary	PRR	Cred	1	RandomForestClassifier	ChemBERTa	ROC AUC	0.55802
+Secondary	PRR	Cred	3	RandomForestClassifier	ChemBERTa	ROC AUC	0.46076
+Secondary	PRR	Cred	4	RandomForestClassifier	ChemBERTa	ROC AUC	0.47772
+Secondary	PRR	Cred	2	RandomForestClassifier	ChemBERTa	ROC AUC	0.52978
+Mono	PRR	Cred	0	RandomForestClassifier	ChemBERTa	MCC	0.02369
+Mono	PRR	Cred	1	RandomForestClassifier	ChemBERTa	MCC	0.08022
+Mono	PRR	Cred	3	RandomForestClassifier	ChemBERTa	MCC	0.05106
+Mono	PRR	Cred	4	RandomForestClassifier	ChemBERTa	MCC	-0.01074
+Mono	PRR	Cred	2	RandomForestClassifier	ChemBERTa	MCC	0.10951
+Primary	PRR	Cred	0	RandomForestClassifier	ChemBERTa	MCC	0.07108
+Primary	PRR	Cred	1	RandomForestClassifier	ChemBERTa	MCC	0.02714
+Primary	PRR	Cred	3	RandomForestClassifier	ChemBERTa	MCC	0.0241
+Primary	PRR	Cred	4	RandomForestClassifier	ChemBERTa	MCC	0.07007
+Primary	PRR	Cred	2	RandomForestClassifier	ChemBERTa	MCC	0.11132
+Secondary	PRR	Cred	0	RandomForestClassifier	ChemBERTa	MCC	0.0691
+Secondary	PRR	Cred	1	RandomForestClassifier	ChemBERTa	MCC	0.06386
+Secondary	PRR	Cred	3	RandomForestClassifier	ChemBERTa	MCC	-0.02281
+Secondary	PRR	Cred	4	RandomForestClassifier	ChemBERTa	MCC	-0.10484
+Secondary	PRR	Cred	2	RandomForestClassifier	ChemBERTa	MCC	0.04102
+Mono	PRR	Cred	0	RandomForestClassifier	ChemBERTa	Accuracy	0.49729
+Mono	PRR	Cred	1	RandomForestClassifier	ChemBERTa	Accuracy	0.54129
+Mono	PRR	Cred	3	RandomForestClassifier	ChemBERTa	Accuracy	0.55366
+Mono	PRR	Cred	4	RandomForestClassifier	ChemBERTa	Accuracy	0.53032
+Mono	PRR	Cred	2	RandomForestClassifier	ChemBERTa	Accuracy	0.56247
+Primary	PRR	Cred	0	RandomForestClassifier	ChemBERTa	Accuracy	0.57598
+Primary	PRR	Cred	1	RandomForestClassifier	ChemBERTa	Accuracy	0.50211
+Primary	PRR	Cred	3	RandomForestClassifier	ChemBERTa	Accuracy	0.54776
+Primary	PRR	Cred	4	RandomForestClassifier	ChemBERTa	Accuracy	0.56
+Primary	PRR	Cred	2	RandomForestClassifier	ChemBERTa	Accuracy	0.56515
+Secondary	PRR	Cred	0	RandomForestClassifier	ChemBERTa	Accuracy	0.6021
+Secondary	PRR	Cred	1	RandomForestClassifier	ChemBERTa	Accuracy	0.53345
+Secondary	PRR	Cred	3	RandomForestClassifier	ChemBERTa	Accuracy	0.52535
+Secondary	PRR	Cred	4	RandomForestClassifier	ChemBERTa	Accuracy	0.44323
+Secondary	PRR	Cred	2	RandomForestClassifier	ChemBERTa	Accuracy	0.54692
+Mono	PRR	Cred	0	RandomForestClassifier	ChemBERTa	Recall	0.46796
+Mono	PRR	Cred	1	RandomForestClassifier	ChemBERTa	Recall	0.54584
+Mono	PRR	Cred	3	RandomForestClassifier	ChemBERTa	Recall	0.62546
+Mono	PRR	Cred	4	RandomForestClassifier	ChemBERTa	Recall	0.63153
+Mono	PRR	Cred	2	RandomForestClassifier	ChemBERTa	Recall	0.57819
+Primary	PRR	Cred	0	RandomForestClassifier	ChemBERTa	Recall	0.65164
+Primary	PRR	Cred	1	RandomForestClassifier	ChemBERTa	Recall	0.43414
+Primary	PRR	Cred	3	RandomForestClassifier	ChemBERTa	Recall	0.64022
+Primary	PRR	Cred	4	RandomForestClassifier	ChemBERTa	Recall	0.62948
+Primary	PRR	Cred	2	RandomForestClassifier	ChemBERTa	Recall	0.5858
+Secondary	PRR	Cred	0	RandomForestClassifier	ChemBERTa	Recall	0.73422
+Secondary	PRR	Cred	1	RandomForestClassifier	ChemBERTa	Recall	0.54057
+Secondary	PRR	Cred	3	RandomForestClassifier	ChemBERTa	Recall	0.62085
+Secondary	PRR	Cred	4	RandomForestClassifier	ChemBERTa	Recall	0.43603
+Secondary	PRR	Cred	2	RandomForestClassifier	ChemBERTa	Recall	0.61792
+Mono	PRR	Cred	0	RandomForestClassifier	ChemBERTa	Specificity	0.55717
+Mono	PRR	Cred	1	RandomForestClassifier	ChemBERTa	Specificity	0.53521
+Mono	PRR	Cred	3	RandomForestClassifier	ChemBERTa	Specificity	0.42647
+Mono	PRR	Cred	4	RandomForestClassifier	ChemBERTa	Specificity	0.35777
+Mono	PRR	Cred	2	RandomForestClassifier	ChemBERTa	Specificity	0.53519
+Primary	PRR	Cred	0	RandomForestClassifier	ChemBERTa	Specificity	0.42151
+Primary	PRR	Cred	1	RandomForestClassifier	ChemBERTa	Specificity	0.59296
+Primary	PRR	Cred	3	RandomForestClassifier	ChemBERTa	Specificity	0.38399
+Primary	PRR	Cred	4	RandomForestClassifier	ChemBERTa	Specificity	0.44154
+Primary	PRR	Cred	2	RandomForestClassifier	ChemBERTa	Specificity	0.52933
+Secondary	PRR	Cred	0	RandomForestClassifier	ChemBERTa	Specificity	0.33236
+Secondary	PRR	Cred	1	RandomForestClassifier	ChemBERTa	Specificity	0.52394
+Secondary	PRR	Cred	3	RandomForestClassifier	ChemBERTa	Specificity	0.35621
+Secondary	PRR	Cred	4	RandomForestClassifier	ChemBERTa	Specificity	0.4555
+Secondary	PRR	Cred	2	RandomForestClassifier	ChemBERTa	Specificity	0.42375
+Mono	PRR	Cred	0	RandomForestClassifier	ChemBERTa	Precision	0.6833
+Mono	PRR	Cred	1	RandomForestClassifier	ChemBERTa	Precision	0.61085
+Mono	PRR	Cred	3	RandomForestClassifier	ChemBERTa	Precision	0.65889
+Mono	PRR	Cred	4	RandomForestClassifier	ChemBERTa	Precision	0.6264
+Mono	PRR	Cred	2	RandomForestClassifier	ChemBERTa	Precision	0.68332
+Primary	PRR	Cred	0	RandomForestClassifier	ChemBERTa	Precision	0.69695
+Primary	PRR	Cred	1	RandomForestClassifier	ChemBERTa	Precision	0.58773
+Primary	PRR	Cred	3	RandomForestClassifier	ChemBERTa	Precision	0.64799
+Primary	PRR	Cred	4	RandomForestClassifier	ChemBERTa	Precision	0.65775
+Primary	PRR	Cred	2	RandomForestClassifier	ChemBERTa	Precision	0.68343
+Secondary	PRR	Cred	0	RandomForestClassifier	ChemBERTa	Precision	0.69186
+Secondary	PRR	Cred	1	RandomForestClassifier	ChemBERTa	Precision	0.60282
+Secondary	PRR	Cred	3	RandomForestClassifier	ChemBERTa	Precision	0.63074
+Secondary	PRR	Cred	4	RandomForestClassifier	ChemBERTa	Precision	0.57724
+Secondary	PRR	Cred	2	RandomForestClassifier	ChemBERTa	Precision	0.65036
+Mono	PRR	Cred	0	RandomForestClassifier	ChemBERTa	PRC AUC	0.69836
+Mono	PRR	Cred	1	RandomForestClassifier	ChemBERTa	PRC AUC	0.63261
+Mono	PRR	Cred	3	RandomForestClassifier	ChemBERTa	PRC AUC	0.64289
+Mono	PRR	Cred	4	RandomForestClassifier	ChemBERTa	PRC AUC	0.61329
+Mono	PRR	Cred	2	RandomForestClassifier	ChemBERTa	PRC AUC	0.72473
+Primary	PRR	Cred	0	RandomForestClassifier	ChemBERTa	PRC AUC	0.72979
+Primary	PRR	Cred	1	RandomForestClassifier	ChemBERTa	PRC AUC	0.66462
+Primary	PRR	Cred	3	RandomForestClassifier	ChemBERTa	PRC AUC	0.63154
+Primary	PRR	Cred	4	RandomForestClassifier	ChemBERTa	PRC AUC	0.65279
+Primary	PRR	Cred	2	RandomForestClassifier	ChemBERTa	PRC AUC	0.73284
+Secondary	PRR	Cred	0	RandomForestClassifier	ChemBERTa	PRC AUC	0.71484
+Secondary	PRR	Cred	1	RandomForestClassifier	ChemBERTa	PRC AUC	0.63165
+Secondary	PRR	Cred	3	RandomForestClassifier	ChemBERTa	PRC AUC	0.59996
+Secondary	PRR	Cred	4	RandomForestClassifier	ChemBERTa	PRC AUC	0.62474
+Secondary	PRR	Cred	2	RandomForestClassifier	ChemBERTa	PRC AUC	0.65522
+Mono	PRR	Cred	0	RandomForestClassifier	ChemBERTa	Brier	0.25987
+Mono	PRR	Cred	1	RandomForestClassifier	ChemBERTa	Brier	0.25173
+Mono	PRR	Cred	3	RandomForestClassifier	ChemBERTa	Brier	0.24728
+Mono	PRR	Cred	4	RandomForestClassifier	ChemBERTa	Brier	0.25406
+Mono	PRR	Cred	2	RandomForestClassifier	ChemBERTa	Brier	0.2413
+Primary	PRR	Cred	0	RandomForestClassifier	ChemBERTa	Brier	0.24039
+Primary	PRR	Cred	1	RandomForestClassifier	ChemBERTa	Brier	0.24724
+Primary	PRR	Cred	3	RandomForestClassifier	ChemBERTa	Brier	0.25033
+Primary	PRR	Cred	4	RandomForestClassifier	ChemBERTa	Brier	0.24447
+Primary	PRR	Cred	2	RandomForestClassifier	ChemBERTa	Brier	0.23909
+Secondary	PRR	Cred	0	RandomForestClassifier	ChemBERTa	Brier	0.23777
+Secondary	PRR	Cred	1	RandomForestClassifier	ChemBERTa	Brier	0.24557
+Secondary	PRR	Cred	3	RandomForestClassifier	ChemBERTa	Brier	0.25441
+Secondary	PRR	Cred	4	RandomForestClassifier	ChemBERTa	Brier	0.25377
+Secondary	PRR	Cred	2	RandomForestClassifier	ChemBERTa	Brier	0.24513
+Mono	PRR	Cred	0	RandomForestClassifier	ChemBERTa	ECE	0.18541
+Mono	PRR	Cred	1	RandomForestClassifier	ChemBERTa	ECE	0.06791
+Mono	PRR	Cred	3	RandomForestClassifier	ChemBERTa	ECE	0.12034
+Mono	PRR	Cred	4	RandomForestClassifier	ChemBERTa	ECE	0.1211
+Mono	PRR	Cred	2	RandomForestClassifier	ChemBERTa	ECE	0.12863
+Primary	PRR	Cred	0	RandomForestClassifier	ChemBERTa	ECE	0.14623
+Primary	PRR	Cred	1	RandomForestClassifier	ChemBERTa	ECE	0.0857
+Primary	PRR	Cred	3	RandomForestClassifier	ChemBERTa	ECE	0.14061
+Primary	PRR	Cred	4	RandomForestClassifier	ChemBERTa	ECE	0.10964
+Primary	PRR	Cred	2	RandomForestClassifier	ChemBERTa	ECE	0.13081
+Secondary	PRR	Cred	0	RandomForestClassifier	ChemBERTa	ECE	0.15137
+Secondary	PRR	Cred	1	RandomForestClassifier	ChemBERTa	ECE	0.07598
+Secondary	PRR	Cred	3	RandomForestClassifier	ChemBERTa	ECE	0.14843
+Secondary	PRR	Cred	4	RandomForestClassifier	ChemBERTa	ECE	0.13975
+Secondary	PRR	Cred	2	RandomForestClassifier	ChemBERTa	ECE	0.15344

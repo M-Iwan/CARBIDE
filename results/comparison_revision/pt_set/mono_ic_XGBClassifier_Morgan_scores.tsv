@@ -1,0 +1,196 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Mono	IC	Cred	0	XGBClassifier	Morgan	Balanced Accuracy	0.52557
+Mono	IC	Cred	1	XGBClassifier	Morgan	Balanced Accuracy	0.50056
+Mono	IC	Cred	3	XGBClassifier	Morgan	Balanced Accuracy	0.5187
+Mono	IC	Cred	4	XGBClassifier	Morgan	Balanced Accuracy	0.50707
+Mono	IC	Cred	2	XGBClassifier	Morgan	Balanced Accuracy	0.55866
+Mono	IC	Card	0	XGBClassifier	Morgan	Balanced Accuracy	0.51878
+Mono	IC	Card	1	XGBClassifier	Morgan	Balanced Accuracy	0.49551
+Mono	IC	Card	3	XGBClassifier	Morgan	Balanced Accuracy	0.50684
+Mono	IC	Card	4	XGBClassifier	Morgan	Balanced Accuracy	0.52386
+Mono	IC	Card	2	XGBClassifier	Morgan	Balanced Accuracy	0.54787
+Mono	IC	Cvas	0	XGBClassifier	Morgan	Balanced Accuracy	0.48553
+Mono	IC	Cvas	1	XGBClassifier	Morgan	Balanced Accuracy	0.46571
+Mono	IC	Cvas	3	XGBClassifier	Morgan	Balanced Accuracy	0.4943
+Mono	IC	Cvas	4	XGBClassifier	Morgan	Balanced Accuracy	0.46244
+Mono	IC	Cvas	2	XGBClassifier	Morgan	Balanced Accuracy	0.55654
+Mono	IC	Cred	0	XGBClassifier	Morgan	GeomRS	0.51787
+Mono	IC	Cred	1	XGBClassifier	Morgan	GeomRS	0.47229
+Mono	IC	Cred	3	XGBClassifier	Morgan	GeomRS	0.51556
+Mono	IC	Cred	4	XGBClassifier	Morgan	GeomRS	0.46208
+Mono	IC	Cred	2	XGBClassifier	Morgan	GeomRS	0.51933
+Mono	IC	Card	0	XGBClassifier	Morgan	GeomRS	0.51244
+Mono	IC	Card	1	XGBClassifier	Morgan	GeomRS	0.4728
+Mono	IC	Card	3	XGBClassifier	Morgan	GeomRS	0.49624
+Mono	IC	Card	4	XGBClassifier	Morgan	GeomRS	0.51065
+Mono	IC	Card	2	XGBClassifier	Morgan	GeomRS	0.51112
+Mono	IC	Cvas	0	XGBClassifier	Morgan	GeomRS	0.45738
+Mono	IC	Cvas	1	XGBClassifier	Morgan	GeomRS	0.42546
+Mono	IC	Cvas	3	XGBClassifier	Morgan	GeomRS	0.48806
+Mono	IC	Cvas	4	XGBClassifier	Morgan	GeomRS	0.4094
+Mono	IC	Cvas	2	XGBClassifier	Morgan	GeomRS	0.49213
+Mono	IC	Cred	0	XGBClassifier	Morgan	HarmRS	0.51029
+Mono	IC	Cred	1	XGBClassifier	Morgan	HarmRS	0.44562
+Mono	IC	Cred	3	XGBClassifier	Morgan	HarmRS	0.51244
+Mono	IC	Cred	4	XGBClassifier	Morgan	HarmRS	0.42109
+Mono	IC	Cred	2	XGBClassifier	Morgan	HarmRS	0.48277
+Mono	IC	Card	0	XGBClassifier	Morgan	HarmRS	0.50619
+Mono	IC	Card	1	XGBClassifier	Morgan	HarmRS	0.45114
+Mono	IC	Card	3	XGBClassifier	Morgan	HarmRS	0.48586
+Mono	IC	Card	4	XGBClassifier	Morgan	HarmRS	0.49776
+Mono	IC	Card	2	XGBClassifier	Morgan	HarmRS	0.47683
+Mono	IC	Cvas	0	XGBClassifier	Morgan	HarmRS	0.43086
+Mono	IC	Cvas	1	XGBClassifier	Morgan	HarmRS	0.3887
+Mono	IC	Cvas	3	XGBClassifier	Morgan	HarmRS	0.48191
+Mono	IC	Cvas	4	XGBClassifier	Morgan	HarmRS	0.36244
+Mono	IC	Cvas	2	XGBClassifier	Morgan	HarmRS	0.43518
+Mono	IC	Cred	0	XGBClassifier	Morgan	F1 Score	0.62757
+Mono	IC	Cred	1	XGBClassifier	Morgan	F1 Score	0.61088
+Mono	IC	Cred	3	XGBClassifier	Morgan	F1 Score	0.60098
+Mono	IC	Cred	4	XGBClassifier	Morgan	F1 Score	0.64095
+Mono	IC	Cred	2	XGBClassifier	Morgan	F1 Score	0.69617
+Mono	IC	Card	0	XGBClassifier	Morgan	F1 Score	0.61694
+Mono	IC	Card	1	XGBClassifier	Morgan	F1 Score	0.59902
+Mono	IC	Card	3	XGBClassifier	Morgan	F1 Score	0.61406
+Mono	IC	Card	4	XGBClassifier	Morgan	F1 Score	0.61658
+Mono	IC	Card	2	XGBClassifier	Morgan	F1 Score	0.68407
+Mono	IC	Cvas	0	XGBClassifier	Morgan	F1 Score	0.62858
+Mono	IC	Cvas	1	XGBClassifier	Morgan	F1 Score	0.59132
+Mono	IC	Cvas	3	XGBClassifier	Morgan	F1 Score	0.5898
+Mono	IC	Cvas	4	XGBClassifier	Morgan	F1 Score	0.6068
+Mono	IC	Cvas	2	XGBClassifier	Morgan	F1 Score	0.71433
+Mono	IC	Cred	0	XGBClassifier	Morgan	ROC AUC	0.5346
+Mono	IC	Cred	1	XGBClassifier	Morgan	ROC AUC	0.50275
+Mono	IC	Cred	3	XGBClassifier	Morgan	ROC AUC	0.53242
+Mono	IC	Cred	4	XGBClassifier	Morgan	ROC AUC	0.51774
+Mono	IC	Cred	2	XGBClassifier	Morgan	ROC AUC	0.61885
+Mono	IC	Card	0	XGBClassifier	Morgan	ROC AUC	0.5307
+Mono	IC	Card	1	XGBClassifier	Morgan	ROC AUC	0.49963
+Mono	IC	Card	3	XGBClassifier	Morgan	ROC AUC	0.52031
+Mono	IC	Card	4	XGBClassifier	Morgan	ROC AUC	0.52533
+Mono	IC	Card	2	XGBClassifier	Morgan	ROC AUC	0.61143
+Mono	IC	Cvas	0	XGBClassifier	Morgan	ROC AUC	0.48889
+Mono	IC	Cvas	1	XGBClassifier	Morgan	ROC AUC	0.48435
+Mono	IC	Cvas	3	XGBClassifier	Morgan	ROC AUC	0.51293
+Mono	IC	Cvas	4	XGBClassifier	Morgan	ROC AUC	0.47321
+Mono	IC	Cvas	2	XGBClassifier	Morgan	ROC AUC	0.59003
+Mono	IC	Cred	0	XGBClassifier	Morgan	MCC	0.05058
+Mono	IC	Cred	1	XGBClassifier	Morgan	MCC	0.00118
+Mono	IC	Cred	3	XGBClassifier	Morgan	MCC	0.0367
+Mono	IC	Cred	4	XGBClassifier	Morgan	MCC	0.0154
+Mono	IC	Cred	2	XGBClassifier	Morgan	MCC	0.1277
+Mono	IC	Card	0	XGBClassifier	Morgan	MCC	0.03699
+Mono	IC	Card	1	XGBClassifier	Morgan	MCC	-0.00933
+Mono	IC	Card	3	XGBClassifier	Morgan	MCC	0.01364
+Mono	IC	Card	4	XGBClassifier	Morgan	MCC	0.04861
+Mono	IC	Card	2	XGBClassifier	Morgan	MCC	0.10304
+Mono	IC	Cvas	0	XGBClassifier	Morgan	MCC	-0.02964
+Mono	IC	Cvas	1	XGBClassifier	Morgan	MCC	-0.07322
+Mono	IC	Cvas	3	XGBClassifier	Morgan	MCC	-0.01125
+Mono	IC	Cvas	4	XGBClassifier	Morgan	MCC	-0.08178
+Mono	IC	Cvas	2	XGBClassifier	Morgan	MCC	0.13187
+Mono	IC	Cred	0	XGBClassifier	Morgan	Accuracy	0.54712
+Mono	IC	Cred	1	XGBClassifier	Morgan	Accuracy	0.52162
+Mono	IC	Cred	3	XGBClassifier	Morgan	Accuracy	0.53155
+Mono	IC	Cred	4	XGBClassifier	Morgan	Accuracy	0.53854
+Mono	IC	Cred	2	XGBClassifier	Morgan	Accuracy	0.59974
+Mono	IC	Card	0	XGBClassifier	Morgan	Accuracy	0.53821
+Mono	IC	Card	1	XGBClassifier	Morgan	Accuracy	0.51434
+Mono	IC	Card	3	XGBClassifier	Morgan	Accuracy	0.53011
+Mono	IC	Card	4	XGBClassifier	Morgan	Accuracy	0.54148
+Mono	IC	Card	2	XGBClassifier	Morgan	Accuracy	0.58722
+Mono	IC	Cvas	0	XGBClassifier	Morgan	Accuracy	0.52471
+Mono	IC	Cvas	1	XGBClassifier	Morgan	Accuracy	0.48976
+Mono	IC	Cvas	3	XGBClassifier	Morgan	Accuracy	0.51195
+Mono	IC	Cvas	4	XGBClassifier	Morgan	Accuracy	0.49485
+Mono	IC	Cvas	2	XGBClassifier	Morgan	Accuracy	0.60838
+Mono	IC	Cred	0	XGBClassifier	Morgan	Recall	0.6152
+Mono	IC	Cred	1	XGBClassifier	Morgan	Recall	0.6664
+Mono	IC	Cred	3	XGBClassifier	Morgan	Recall	0.57566
+Mono	IC	Cred	4	XGBClassifier	Morgan	Recall	0.71587
+Mono	IC	Cred	2	XGBClassifier	Morgan	Recall	0.76458
+Mono	IC	Card	0	XGBClassifier	Morgan	Recall	0.59959
+Mono	IC	Card	1	XGBClassifier	Morgan	Recall	0.64378
+Mono	IC	Card	3	XGBClassifier	Morgan	Recall	0.60998
+Mono	IC	Card	4	XGBClassifier	Morgan	Recall	0.64078
+Mono	IC	Card	2	XGBClassifier	Morgan	Recall	0.74514
+Mono	IC	Cvas	0	XGBClassifier	Morgan	Recall	0.64846
+Mono	IC	Cvas	1	XGBClassifier	Morgan	Recall	0.65509
+Mono	IC	Cvas	3	XGBClassifier	Morgan	Recall	0.57254
+Mono	IC	Cvas	4	XGBClassifier	Morgan	Recall	0.67747
+Mono	IC	Cvas	2	XGBClassifier	Morgan	Recall	0.81641
+Mono	IC	Cred	0	XGBClassifier	Morgan	Specificity	0.43595
+Mono	IC	Cred	1	XGBClassifier	Morgan	Specificity	0.33472
+Mono	IC	Cred	3	XGBClassifier	Morgan	Specificity	0.46173
+Mono	IC	Cred	4	XGBClassifier	Morgan	Specificity	0.29827
+Mono	IC	Cred	2	XGBClassifier	Morgan	Specificity	0.35275
+Mono	IC	Card	0	XGBClassifier	Morgan	Specificity	0.43796
+Mono	IC	Card	1	XGBClassifier	Morgan	Specificity	0.34724
+Mono	IC	Card	3	XGBClassifier	Morgan	Specificity	0.4037
+Mono	IC	Card	4	XGBClassifier	Morgan	Specificity	0.40694
+Mono	IC	Card	2	XGBClassifier	Morgan	Specificity	0.35059
+Mono	IC	Cvas	0	XGBClassifier	Morgan	Specificity	0.3226
+Mono	IC	Cvas	1	XGBClassifier	Morgan	Specificity	0.27633
+Mono	IC	Cvas	3	XGBClassifier	Morgan	Specificity	0.41605
+Mono	IC	Cvas	4	XGBClassifier	Morgan	Specificity	0.2474
+Mono	IC	Cvas	2	XGBClassifier	Morgan	Specificity	0.29666
+Mono	IC	Cred	0	XGBClassifier	Morgan	Precision	0.64044
+Mono	IC	Cred	1	XGBClassifier	Morgan	Precision	0.56391
+Mono	IC	Cred	3	XGBClassifier	Morgan	Precision	0.62862
+Mono	IC	Cred	4	XGBClassifier	Morgan	Precision	0.58022
+Mono	IC	Cred	2	XGBClassifier	Morgan	Precision	0.63899
+Mono	IC	Card	0	XGBClassifier	Morgan	Precision	0.63534
+Mono	IC	Card	1	XGBClassifier	Morgan	Precision	0.56008
+Mono	IC	Card	3	XGBClassifier	Morgan	Precision	0.61818
+Mono	IC	Card	4	XGBClassifier	Morgan	Precision	0.59415
+Mono	IC	Card	2	XGBClassifier	Morgan	Precision	0.63225
+Mono	IC	Cvas	0	XGBClassifier	Morgan	Precision	0.60989
+Mono	IC	Cvas	1	XGBClassifier	Morgan	Precision	0.53887
+Mono	IC	Cvas	3	XGBClassifier	Morgan	Precision	0.60812
+Mono	IC	Cvas	4	XGBClassifier	Morgan	Precision	0.54948
+Mono	IC	Cvas	2	XGBClassifier	Morgan	Precision	0.63494
+Mono	IC	Cred	0	XGBClassifier	Morgan	PRC AUC	0.64543
+Mono	IC	Cred	1	XGBClassifier	Morgan	PRC AUC	0.5706
+Mono	IC	Cred	3	XGBClassifier	Morgan	PRC AUC	0.65518
+Mono	IC	Cred	4	XGBClassifier	Morgan	PRC AUC	0.61902
+Mono	IC	Cred	2	XGBClassifier	Morgan	PRC AUC	0.71374
+Mono	IC	Card	0	XGBClassifier	Morgan	PRC AUC	0.65039
+Mono	IC	Card	1	XGBClassifier	Morgan	PRC AUC	0.56998
+Mono	IC	Card	3	XGBClassifier	Morgan	PRC AUC	0.64375
+Mono	IC	Card	4	XGBClassifier	Morgan	PRC AUC	0.59924
+Mono	IC	Card	2	XGBClassifier	Morgan	PRC AUC	0.70977
+Mono	IC	Cvas	0	XGBClassifier	Morgan	PRC AUC	0.6214
+Mono	IC	Cvas	1	XGBClassifier	Morgan	PRC AUC	0.55915
+Mono	IC	Cvas	3	XGBClassifier	Morgan	PRC AUC	0.64532
+Mono	IC	Cvas	4	XGBClassifier	Morgan	PRC AUC	0.5824
+Mono	IC	Cvas	2	XGBClassifier	Morgan	PRC AUC	0.671
+Mono	IC	Cred	0	XGBClassifier	Morgan	ECE	0.14971
+Mono	IC	Cred	1	XGBClassifier	Morgan	ECE	0.17124
+Mono	IC	Cred	3	XGBClassifier	Morgan	ECE	0.15113
+Mono	IC	Cred	4	XGBClassifier	Morgan	ECE	0.14259
+Mono	IC	Cred	2	XGBClassifier	Morgan	ECE	0.08694
+Mono	IC	Card	0	XGBClassifier	Morgan	ECE	0.15372
+Mono	IC	Card	1	XGBClassifier	Morgan	ECE	0.17723
+Mono	IC	Card	3	XGBClassifier	Morgan	ECE	0.12952
+Mono	IC	Card	4	XGBClassifier	Morgan	ECE	0.16847
+Mono	IC	Card	2	XGBClassifier	Morgan	ECE	0.10039
+Mono	IC	Cvas	0	XGBClassifier	Morgan	ECE	0.15518
+Mono	IC	Cvas	1	XGBClassifier	Morgan	ECE	0.18259
+Mono	IC	Cvas	3	XGBClassifier	Morgan	ECE	0.18582
+Mono	IC	Cvas	4	XGBClassifier	Morgan	ECE	0.18354
+Mono	IC	Cvas	2	XGBClassifier	Morgan	ECE	0.07376
+Mono	IC	Cred	0	XGBClassifier	Morgan	Brier	0.26891
+Mono	IC	Cred	1	XGBClassifier	Morgan	Brier	0.28431
+Mono	IC	Cred	3	XGBClassifier	Morgan	Brier	0.26452
+Mono	IC	Cred	4	XGBClassifier	Morgan	Brier	0.26823
+Mono	IC	Cred	2	XGBClassifier	Morgan	Brier	0.23864
+Mono	IC	Card	0	XGBClassifier	Morgan	Brier	0.26954
+Mono	IC	Card	1	XGBClassifier	Morgan	Brier	0.28854
+Mono	IC	Card	3	XGBClassifier	Morgan	Brier	0.25622
+Mono	IC	Card	4	XGBClassifier	Morgan	Brier	0.28119
+Mono	IC	Card	2	XGBClassifier	Morgan	Brier	0.24103
+Mono	IC	Cvas	0	XGBClassifier	Morgan	Brier	0.27134
+Mono	IC	Cvas	1	XGBClassifier	Morgan	Brier	0.28841
+Mono	IC	Cvas	3	XGBClassifier	Morgan	Brier	0.27943
+Mono	IC	Cvas	4	XGBClassifier	Morgan	Brier	0.2859
+Mono	IC	Cvas	2	XGBClassifier	Morgan	Brier	0.2402

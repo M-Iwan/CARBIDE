@@ -1,0 +1,196 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Mono	ROR	Card	0	RandomForestClassifier	CDDD	Balanced Accuracy	0.60426
+Mono	ROR	Card	1	RandomForestClassifier	CDDD	Balanced Accuracy	0.58255
+Mono	ROR	Card	3	RandomForestClassifier	CDDD	Balanced Accuracy	0.51313
+Mono	ROR	Card	4	RandomForestClassifier	CDDD	Balanced Accuracy	0.58053
+Mono	ROR	Card	2	RandomForestClassifier	CDDD	Balanced Accuracy	0.57596
+Primary	ROR	Card	0	RandomForestClassifier	CDDD	Balanced Accuracy	0.56424
+Primary	ROR	Card	1	RandomForestClassifier	CDDD	Balanced Accuracy	0.60583
+Primary	ROR	Card	3	RandomForestClassifier	CDDD	Balanced Accuracy	0.55751
+Primary	ROR	Card	4	RandomForestClassifier	CDDD	Balanced Accuracy	0.57312
+Primary	ROR	Card	2	RandomForestClassifier	CDDD	Balanced Accuracy	0.57404
+Secondary	ROR	Card	0	RandomForestClassifier	CDDD	Balanced Accuracy	0.55298
+Secondary	ROR	Card	1	RandomForestClassifier	CDDD	Balanced Accuracy	0.5747
+Secondary	ROR	Card	3	RandomForestClassifier	CDDD	Balanced Accuracy	0.49756
+Secondary	ROR	Card	4	RandomForestClassifier	CDDD	Balanced Accuracy	0.58403
+Secondary	ROR	Card	2	RandomForestClassifier	CDDD	Balanced Accuracy	0.5345
+Mono	ROR	Card	0	RandomForestClassifier	CDDD	GeomRS	0.5987
+Mono	ROR	Card	1	RandomForestClassifier	CDDD	GeomRS	0.58204
+Mono	ROR	Card	3	RandomForestClassifier	CDDD	GeomRS	0.51049
+Mono	ROR	Card	4	RandomForestClassifier	CDDD	GeomRS	0.57138
+Mono	ROR	Card	2	RandomForestClassifier	CDDD	GeomRS	0.56547
+Primary	ROR	Card	0	RandomForestClassifier	CDDD	GeomRS	0.55922
+Primary	ROR	Card	1	RandomForestClassifier	CDDD	GeomRS	0.6018
+Primary	ROR	Card	3	RandomForestClassifier	CDDD	GeomRS	0.55153
+Primary	ROR	Card	4	RandomForestClassifier	CDDD	GeomRS	0.56807
+Primary	ROR	Card	2	RandomForestClassifier	CDDD	GeomRS	0.56503
+Secondary	ROR	Card	0	RandomForestClassifier	CDDD	GeomRS	0.53581
+Secondary	ROR	Card	1	RandomForestClassifier	CDDD	GeomRS	0.56215
+Secondary	ROR	Card	3	RandomForestClassifier	CDDD	GeomRS	0.49199
+Secondary	ROR	Card	4	RandomForestClassifier	CDDD	GeomRS	0.56355
+Secondary	ROR	Card	2	RandomForestClassifier	CDDD	GeomRS	0.53445
+Mono	ROR	Card	0	RandomForestClassifier	CDDD	HarmRS	0.59319
+Mono	ROR	Card	1	RandomForestClassifier	CDDD	HarmRS	0.58153
+Mono	ROR	Card	3	RandomForestClassifier	CDDD	HarmRS	0.50786
+Mono	ROR	Card	4	RandomForestClassifier	CDDD	HarmRS	0.56237
+Mono	ROR	Card	2	RandomForestClassifier	CDDD	HarmRS	0.55516
+Primary	ROR	Card	0	RandomForestClassifier	CDDD	HarmRS	0.55425
+Primary	ROR	Card	1	RandomForestClassifier	CDDD	HarmRS	0.59779
+Primary	ROR	Card	3	RandomForestClassifier	CDDD	HarmRS	0.54562
+Primary	ROR	Card	4	RandomForestClassifier	CDDD	HarmRS	0.56307
+Primary	ROR	Card	2	RandomForestClassifier	CDDD	HarmRS	0.55615
+Secondary	ROR	Card	0	RandomForestClassifier	CDDD	HarmRS	0.51918
+Secondary	ROR	Card	1	RandomForestClassifier	CDDD	HarmRS	0.54986
+Secondary	ROR	Card	3	RandomForestClassifier	CDDD	HarmRS	0.48648
+Secondary	ROR	Card	4	RandomForestClassifier	CDDD	HarmRS	0.5438
+Secondary	ROR	Card	2	RandomForestClassifier	CDDD	HarmRS	0.5344
+Mono	ROR	Card	0	RandomForestClassifier	CDDD	F1 Score	0.68409
+Mono	ROR	Card	1	RandomForestClassifier	CDDD	F1 Score	0.58373
+Mono	ROR	Card	3	RandomForestClassifier	CDDD	F1 Score	0.51703
+Mono	ROR	Card	4	RandomForestClassifier	CDDD	F1 Score	0.65089
+Mono	ROR	Card	2	RandomForestClassifier	CDDD	F1 Score	0.64737
+Primary	ROR	Card	0	RandomForestClassifier	CDDD	F1 Score	0.64536
+Primary	ROR	Card	1	RandomForestClassifier	CDDD	F1 Score	0.56935
+Primary	ROR	Card	3	RandomForestClassifier	CDDD	F1 Score	0.54597
+Primary	ROR	Card	4	RandomForestClassifier	CDDD	F1 Score	0.63328
+Primary	ROR	Card	2	RandomForestClassifier	CDDD	F1 Score	0.64245
+Secondary	ROR	Card	0	RandomForestClassifier	CDDD	F1 Score	0.66301
+Secondary	ROR	Card	1	RandomForestClassifier	CDDD	F1 Score	0.51082
+Secondary	ROR	Card	3	RandomForestClassifier	CDDD	F1 Score	0.48627
+Secondary	ROR	Card	4	RandomForestClassifier	CDDD	F1 Score	0.67305
+Secondary	ROR	Card	2	RandomForestClassifier	CDDD	F1 Score	0.56292
+Mono	ROR	Card	0	RandomForestClassifier	CDDD	ROC AUC	0.64583
+Mono	ROR	Card	1	RandomForestClassifier	CDDD	ROC AUC	0.63025
+Mono	ROR	Card	3	RandomForestClassifier	CDDD	ROC AUC	0.52567
+Mono	ROR	Card	4	RandomForestClassifier	CDDD	ROC AUC	0.63159
+Mono	ROR	Card	2	RandomForestClassifier	CDDD	ROC AUC	0.60969
+Primary	ROR	Card	0	RandomForestClassifier	CDDD	ROC AUC	0.59086
+Primary	ROR	Card	1	RandomForestClassifier	CDDD	ROC AUC	0.64719
+Primary	ROR	Card	3	RandomForestClassifier	CDDD	ROC AUC	0.559
+Primary	ROR	Card	4	RandomForestClassifier	CDDD	ROC AUC	0.61857
+Primary	ROR	Card	2	RandomForestClassifier	CDDD	ROC AUC	0.61504
+Secondary	ROR	Card	0	RandomForestClassifier	CDDD	ROC AUC	0.56828
+Secondary	ROR	Card	1	RandomForestClassifier	CDDD	ROC AUC	0.65271
+Secondary	ROR	Card	3	RandomForestClassifier	CDDD	ROC AUC	0.50424
+Secondary	ROR	Card	4	RandomForestClassifier	CDDD	ROC AUC	0.65197
+Secondary	ROR	Card	2	RandomForestClassifier	CDDD	ROC AUC	0.55925
+Mono	ROR	Card	0	RandomForestClassifier	CDDD	MCC	0.20882
+Mono	ROR	Card	1	RandomForestClassifier	CDDD	MCC	0.16517
+Mono	ROR	Card	3	RandomForestClassifier	CDDD	MCC	0.0261
+Mono	ROR	Card	4	RandomForestClassifier	CDDD	MCC	0.16419
+Mono	ROR	Card	2	RandomForestClassifier	CDDD	MCC	0.15544
+Primary	ROR	Card	0	RandomForestClassifier	CDDD	MCC	0.12793
+Primary	ROR	Card	1	RandomForestClassifier	CDDD	MCC	0.21384
+Primary	ROR	Card	3	RandomForestClassifier	CDDD	MCC	0.11498
+Primary	ROR	Card	4	RandomForestClassifier	CDDD	MCC	0.1474
+Primary	ROR	Card	2	RandomForestClassifier	CDDD	MCC	0.1509
+Secondary	ROR	Card	0	RandomForestClassifier	CDDD	MCC	0.10867
+Secondary	ROR	Card	1	RandomForestClassifier	CDDD	MCC	0.15398
+Secondary	ROR	Card	3	RandomForestClassifier	CDDD	MCC	-0.00488
+Secondary	ROR	Card	4	RandomForestClassifier	CDDD	MCC	0.1766
+Secondary	ROR	Card	2	RandomForestClassifier	CDDD	MCC	0.06864
+Mono	ROR	Card	0	RandomForestClassifier	CDDD	Accuracy	0.62045
+Mono	ROR	Card	1	RandomForestClassifier	CDDD	Accuracy	0.58173
+Mono	ROR	Card	3	RandomForestClassifier	CDDD	Accuracy	0.50543
+Mono	ROR	Card	4	RandomForestClassifier	CDDD	Accuracy	0.59214
+Mono	ROR	Card	2	RandomForestClassifier	CDDD	Accuracy	0.58745
+Primary	ROR	Card	0	RandomForestClassifier	CDDD	Accuracy	0.57911
+Primary	ROR	Card	1	RandomForestClassifier	CDDD	Accuracy	0.60817
+Primary	ROR	Card	3	RandomForestClassifier	CDDD	Accuracy	0.54545
+Primary	ROR	Card	4	RandomForestClassifier	CDDD	Accuracy	0.5817
+Primary	ROR	Card	2	RandomForestClassifier	CDDD	Accuracy	0.58468
+Secondary	ROR	Card	0	RandomForestClassifier	CDDD	Accuracy	0.58004
+Secondary	ROR	Card	1	RandomForestClassifier	CDDD	Accuracy	0.57873
+Secondary	ROR	Card	3	RandomForestClassifier	CDDD	Accuracy	0.48656
+Secondary	ROR	Card	4	RandomForestClassifier	CDDD	Accuracy	0.60135
+Secondary	ROR	Card	2	RandomForestClassifier	CDDD	Accuracy	0.53526
+Mono	ROR	Card	0	RandomForestClassifier	CDDD	Recall	0.68604
+Mono	ROR	Card	1	RandomForestClassifier	CDDD	Recall	0.60697
+Mono	ROR	Card	3	RandomForestClassifier	CDDD	Recall	0.46116
+Mono	ROR	Card	4	RandomForestClassifier	CDDD	Recall	0.68322
+Mono	ROR	Card	2	RandomForestClassifier	CDDD	Recall	0.68543
+Primary	ROR	Card	0	RandomForestClassifier	CDDD	Recall	0.63934
+Primary	ROR	Card	1	RandomForestClassifier	CDDD	Recall	0.53607
+Primary	ROR	Card	3	RandomForestClassifier	CDDD	Recall	0.4761
+Primary	ROR	Card	4	RandomForestClassifier	CDDD	Recall	0.64901
+Primary	ROR	Card	2	RandomForestClassifier	CDDD	Recall	0.67538
+Secondary	ROR	Card	0	RandomForestClassifier	CDDD	Recall	0.68967
+Secondary	ROR	Card	1	RandomForestClassifier	CDDD	Recall	0.45522
+Secondary	ROR	Card	3	RandomForestClassifier	CDDD	Recall	0.42331
+Secondary	ROR	Card	4	RandomForestClassifier	CDDD	Recall	0.73731
+Secondary	ROR	Card	2	RandomForestClassifier	CDDD	Recall	0.54171
+Mono	ROR	Card	0	RandomForestClassifier	CDDD	Specificity	0.52248
+Mono	ROR	Card	1	RandomForestClassifier	CDDD	Specificity	0.55814
+Mono	ROR	Card	3	RandomForestClassifier	CDDD	Specificity	0.5651
+Mono	ROR	Card	4	RandomForestClassifier	CDDD	Specificity	0.47784
+Mono	ROR	Card	2	RandomForestClassifier	CDDD	Specificity	0.4665
+Primary	ROR	Card	0	RandomForestClassifier	CDDD	Specificity	0.48915
+Primary	ROR	Card	1	RandomForestClassifier	CDDD	Specificity	0.67558
+Primary	ROR	Card	3	RandomForestClassifier	CDDD	Specificity	0.63893
+Primary	ROR	Card	4	RandomForestClassifier	CDDD	Specificity	0.49723
+Primary	ROR	Card	2	RandomForestClassifier	CDDD	Specificity	0.4727
+Secondary	ROR	Card	0	RandomForestClassifier	CDDD	Specificity	0.41628
+Secondary	ROR	Card	1	RandomForestClassifier	CDDD	Specificity	0.69419
+Secondary	ROR	Card	3	RandomForestClassifier	CDDD	Specificity	0.57181
+Secondary	ROR	Card	4	RandomForestClassifier	CDDD	Specificity	0.43075
+Secondary	ROR	Card	2	RandomForestClassifier	CDDD	Specificity	0.5273
+Mono	ROR	Card	0	RandomForestClassifier	CDDD	Precision	0.68215
+Mono	ROR	Card	1	RandomForestClassifier	CDDD	Precision	0.56221
+Mono	ROR	Card	3	RandomForestClassifier	CDDD	Precision	0.58831
+Mono	ROR	Card	4	RandomForestClassifier	CDDD	Precision	0.62149
+Mono	ROR	Card	2	RandomForestClassifier	CDDD	Precision	0.61331
+Primary	ROR	Card	0	RandomForestClassifier	CDDD	Precision	0.65151
+Primary	ROR	Card	1	RandomForestClassifier	CDDD	Precision	0.60704
+Primary	ROR	Card	3	RandomForestClassifier	CDDD	Precision	0.63989
+Primary	ROR	Card	4	RandomForestClassifier	CDDD	Precision	0.6183
+Primary	ROR	Card	2	RandomForestClassifier	CDDD	Precision	0.61258
+Secondary	ROR	Card	0	RandomForestClassifier	CDDD	Precision	0.63833
+Secondary	ROR	Card	1	RandomForestClassifier	CDDD	Precision	0.58188
+Secondary	ROR	Card	3	RandomForestClassifier	CDDD	Precision	0.57124
+Secondary	ROR	Card	4	RandomForestClassifier	CDDD	Precision	0.61909
+Secondary	ROR	Card	2	RandomForestClassifier	CDDD	Precision	0.58587
+Mono	ROR	Card	0	RandomForestClassifier	CDDD	PRC AUC	0.71481
+Mono	ROR	Card	1	RandomForestClassifier	CDDD	PRC AUC	0.63852
+Mono	ROR	Card	3	RandomForestClassifier	CDDD	PRC AUC	0.59164
+Mono	ROR	Card	4	RandomForestClassifier	CDDD	PRC AUC	0.70042
+Mono	ROR	Card	2	RandomForestClassifier	CDDD	PRC AUC	0.6673
+Primary	ROR	Card	0	RandomForestClassifier	CDDD	PRC AUC	0.68182
+Primary	ROR	Card	1	RandomForestClassifier	CDDD	PRC AUC	0.64332
+Primary	ROR	Card	3	RandomForestClassifier	CDDD	PRC AUC	0.59155
+Primary	ROR	Card	4	RandomForestClassifier	CDDD	PRC AUC	0.68681
+Primary	ROR	Card	2	RandomForestClassifier	CDDD	PRC AUC	0.673
+Secondary	ROR	Card	0	RandomForestClassifier	CDDD	PRC AUC	0.65148
+Secondary	ROR	Card	1	RandomForestClassifier	CDDD	PRC AUC	0.65887
+Secondary	ROR	Card	3	RandomForestClassifier	CDDD	PRC AUC	0.57659
+Secondary	ROR	Card	4	RandomForestClassifier	CDDD	PRC AUC	0.69851
+Secondary	ROR	Card	2	RandomForestClassifier	CDDD	PRC AUC	0.6298
+Mono	ROR	Card	0	RandomForestClassifier	CDDD	Brier	0.23392
+Mono	ROR	Card	1	RandomForestClassifier	CDDD	Brier	0.23454
+Mono	ROR	Card	3	RandomForestClassifier	CDDD	Brier	0.25278
+Mono	ROR	Card	4	RandomForestClassifier	CDDD	Brier	0.23559
+Mono	ROR	Card	2	RandomForestClassifier	CDDD	Brier	0.23845
+Primary	ROR	Card	0	RandomForestClassifier	CDDD	Brier	0.24089
+Primary	ROR	Card	1	RandomForestClassifier	CDDD	Brier	0.23404
+Primary	ROR	Card	3	RandomForestClassifier	CDDD	Brier	0.25029
+Primary	ROR	Card	4	RandomForestClassifier	CDDD	Brier	0.23755
+Primary	ROR	Card	2	RandomForestClassifier	CDDD	Brier	0.23689
+Secondary	ROR	Card	0	RandomForestClassifier	CDDD	Brier	0.24236
+Secondary	ROR	Card	1	RandomForestClassifier	CDDD	Brier	0.23722
+Secondary	ROR	Card	3	RandomForestClassifier	CDDD	Brier	0.25347
+Secondary	ROR	Card	4	RandomForestClassifier	CDDD	Brier	0.24056
+Secondary	ROR	Card	2	RandomForestClassifier	CDDD	Brier	0.24539
+Mono	ROR	Card	0	RandomForestClassifier	CDDD	ECE	0.08533
+Mono	ROR	Card	1	RandomForestClassifier	CDDD	ECE	0.04319
+Mono	ROR	Card	3	RandomForestClassifier	CDDD	ECE	0.11002
+Mono	ROR	Card	4	RandomForestClassifier	CDDD	ECE	0.03536
+Mono	ROR	Card	2	RandomForestClassifier	CDDD	ECE	0.02403
+Primary	ROR	Card	0	RandomForestClassifier	CDDD	ECE	0.09134
+Primary	ROR	Card	1	RandomForestClassifier	CDDD	ECE	0.04345
+Primary	ROR	Card	3	RandomForestClassifier	CDDD	ECE	0.10252
+Primary	ROR	Card	4	RandomForestClassifier	CDDD	ECE	0.04462
+Primary	ROR	Card	2	RandomForestClassifier	CDDD	ECE	0.04502
+Secondary	ROR	Card	0	RandomForestClassifier	CDDD	ECE	0.08166
+Secondary	ROR	Card	1	RandomForestClassifier	CDDD	ECE	0.03321
+Secondary	ROR	Card	3	RandomForestClassifier	CDDD	ECE	0.09783
+Secondary	ROR	Card	4	RandomForestClassifier	CDDD	ECE	0.07052
+Secondary	ROR	Card	2	RandomForestClassifier	CDDD	ECE	0.05861

@@ -1,0 +1,196 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Primary	PRR	Cvas	0	XGBClassifier	RDKit	Balanced Accuracy	0.5323
+Primary	PRR	Cvas	2	XGBClassifier	RDKit	Balanced Accuracy	0.50273
+Primary	PRR	Cvas	3	XGBClassifier	RDKit	Balanced Accuracy	0.54045
+Primary	PRR	Cvas	1	XGBClassifier	RDKit	Balanced Accuracy	0.55798
+Primary	PRR	Cvas	4	XGBClassifier	RDKit	Balanced Accuracy	0.5059
+Primary	ROR	Cvas	0	XGBClassifier	RDKit	Balanced Accuracy	0.5448
+Primary	ROR	Cvas	2	XGBClassifier	RDKit	Balanced Accuracy	0.52575
+Primary	ROR	Cvas	3	XGBClassifier	RDKit	Balanced Accuracy	0.54286
+Primary	ROR	Cvas	1	XGBClassifier	RDKit	Balanced Accuracy	0.52999
+Primary	ROR	Cvas	4	XGBClassifier	RDKit	Balanced Accuracy	0.50929
+Primary	IC	Cvas	0	XGBClassifier	RDKit	Balanced Accuracy	0.51121
+Primary	IC	Cvas	2	XGBClassifier	RDKit	Balanced Accuracy	0.50309
+Primary	IC	Cvas	3	XGBClassifier	RDKit	Balanced Accuracy	0.52695
+Primary	IC	Cvas	1	XGBClassifier	RDKit	Balanced Accuracy	0.56186
+Primary	IC	Cvas	4	XGBClassifier	RDKit	Balanced Accuracy	0.50405
+Primary	PRR	Cvas	0	XGBClassifier	RDKit	GeomRS	0.52803
+Primary	PRR	Cvas	2	XGBClassifier	RDKit	GeomRS	0.50272
+Primary	PRR	Cvas	3	XGBClassifier	RDKit	GeomRS	0.53429
+Primary	PRR	Cvas	1	XGBClassifier	RDKit	GeomRS	0.55781
+Primary	PRR	Cvas	4	XGBClassifier	RDKit	GeomRS	0.50125
+Primary	ROR	Cvas	0	XGBClassifier	RDKit	GeomRS	0.51538
+Primary	ROR	Cvas	2	XGBClassifier	RDKit	GeomRS	0.52475
+Primary	ROR	Cvas	3	XGBClassifier	RDKit	GeomRS	0.53217
+Primary	ROR	Cvas	1	XGBClassifier	RDKit	GeomRS	0.51253
+Primary	ROR	Cvas	4	XGBClassifier	RDKit	GeomRS	0.50535
+Primary	IC	Cvas	0	XGBClassifier	RDKit	GeomRS	0.49797
+Primary	IC	Cvas	2	XGBClassifier	RDKit	GeomRS	0.48407
+Primary	IC	Cvas	3	XGBClassifier	RDKit	GeomRS	0.50039
+Primary	IC	Cvas	1	XGBClassifier	RDKit	GeomRS	0.54564
+Primary	IC	Cvas	4	XGBClassifier	RDKit	GeomRS	0.4411
+Primary	PRR	Cvas	0	XGBClassifier	RDKit	HarmRS	0.52379
+Primary	PRR	Cvas	2	XGBClassifier	RDKit	HarmRS	0.50271
+Primary	PRR	Cvas	3	XGBClassifier	RDKit	HarmRS	0.52821
+Primary	PRR	Cvas	1	XGBClassifier	RDKit	HarmRS	0.55764
+Primary	PRR	Cvas	4	XGBClassifier	RDKit	HarmRS	0.49664
+Primary	ROR	Cvas	0	XGBClassifier	RDKit	HarmRS	0.48755
+Primary	ROR	Cvas	2	XGBClassifier	RDKit	HarmRS	0.52374
+Primary	ROR	Cvas	3	XGBClassifier	RDKit	HarmRS	0.52168
+Primary	ROR	Cvas	1	XGBClassifier	RDKit	HarmRS	0.49564
+Primary	ROR	Cvas	4	XGBClassifier	RDKit	HarmRS	0.50145
+Primary	IC	Cvas	0	XGBClassifier	RDKit	HarmRS	0.48507
+Primary	IC	Cvas	2	XGBClassifier	RDKit	HarmRS	0.46576
+Primary	IC	Cvas	3	XGBClassifier	RDKit	HarmRS	0.47517
+Primary	IC	Cvas	1	XGBClassifier	RDKit	HarmRS	0.52989
+Primary	IC	Cvas	4	XGBClassifier	RDKit	HarmRS	0.38602
+Primary	PRR	Cvas	0	XGBClassifier	RDKit	F1 Score	0.53099
+Primary	PRR	Cvas	2	XGBClassifier	RDKit	F1 Score	0.5363
+Primary	PRR	Cvas	3	XGBClassifier	RDKit	F1 Score	0.53324
+Primary	PRR	Cvas	1	XGBClassifier	RDKit	F1 Score	0.56283
+Primary	PRR	Cvas	4	XGBClassifier	RDKit	F1 Score	0.55786
+Primary	ROR	Cvas	0	XGBClassifier	RDKit	F1 Score	0.46977
+Primary	ROR	Cvas	2	XGBClassifier	RDKit	F1 Score	0.5424
+Primary	ROR	Cvas	3	XGBClassifier	RDKit	F1 Score	0.51898
+Primary	ROR	Cvas	1	XGBClassifier	RDKit	F1 Score	0.4648
+Primary	ROR	Cvas	4	XGBClassifier	RDKit	F1 Score	0.4917
+Primary	IC	Cvas	0	XGBClassifier	RDKit	F1 Score	0.60877
+Primary	IC	Cvas	2	XGBClassifier	RDKit	F1 Score	0.60759
+Primary	IC	Cvas	3	XGBClassifier	RDKit	F1 Score	0.64816
+Primary	IC	Cvas	1	XGBClassifier	RDKit	F1 Score	0.62793
+Primary	IC	Cvas	4	XGBClassifier	RDKit	F1 Score	0.62708
+Primary	PRR	Cvas	0	XGBClassifier	RDKit	ROC AUC	0.5431
+Primary	PRR	Cvas	2	XGBClassifier	RDKit	ROC AUC	0.51168
+Primary	PRR	Cvas	3	XGBClassifier	RDKit	ROC AUC	0.54687
+Primary	PRR	Cvas	1	XGBClassifier	RDKit	ROC AUC	0.57237
+Primary	PRR	Cvas	4	XGBClassifier	RDKit	ROC AUC	0.50863
+Primary	ROR	Cvas	0	XGBClassifier	RDKit	ROC AUC	0.55313
+Primary	ROR	Cvas	2	XGBClassifier	RDKit	ROC AUC	0.52982
+Primary	ROR	Cvas	3	XGBClassifier	RDKit	ROC AUC	0.56516
+Primary	ROR	Cvas	1	XGBClassifier	RDKit	ROC AUC	0.54251
+Primary	ROR	Cvas	4	XGBClassifier	RDKit	ROC AUC	0.49806
+Primary	IC	Cvas	0	XGBClassifier	RDKit	ROC AUC	0.53122
+Primary	IC	Cvas	2	XGBClassifier	RDKit	ROC AUC	0.51939
+Primary	IC	Cvas	3	XGBClassifier	RDKit	ROC AUC	0.54955
+Primary	IC	Cvas	1	XGBClassifier	RDKit	ROC AUC	0.57575
+Primary	IC	Cvas	4	XGBClassifier	RDKit	ROC AUC	0.51884
+Primary	PRR	Cvas	0	XGBClassifier	RDKit	MCC	0.06419
+Primary	PRR	Cvas	2	XGBClassifier	RDKit	MCC	0.0054
+Primary	PRR	Cvas	3	XGBClassifier	RDKit	MCC	0.08047
+Primary	PRR	Cvas	1	XGBClassifier	RDKit	MCC	0.11587
+Primary	PRR	Cvas	4	XGBClassifier	RDKit	MCC	0.01188
+Primary	ROR	Cvas	0	XGBClassifier	RDKit	MCC	0.0939
+Primary	ROR	Cvas	2	XGBClassifier	RDKit	MCC	0.051
+Primary	ROR	Cvas	3	XGBClassifier	RDKit	MCC	0.08605
+Primary	ROR	Cvas	1	XGBClassifier	RDKit	MCC	0.06218
+Primary	ROR	Cvas	4	XGBClassifier	RDKit	MCC	0.01867
+Primary	IC	Cvas	0	XGBClassifier	RDKit	MCC	0.02275
+Primary	IC	Cvas	2	XGBClassifier	RDKit	MCC	0.00636
+Primary	IC	Cvas	3	XGBClassifier	RDKit	MCC	0.05639
+Primary	IC	Cvas	1	XGBClassifier	RDKit	MCC	0.12849
+Primary	IC	Cvas	4	XGBClassifier	RDKit	MCC	0.00925
+Primary	PRR	Cvas	0	XGBClassifier	RDKit	Accuracy	0.52114
+Primary	PRR	Cvas	2	XGBClassifier	RDKit	Accuracy	0.50229
+Primary	PRR	Cvas	3	XGBClassifier	RDKit	Accuracy	0.52581
+Primary	PRR	Cvas	1	XGBClassifier	RDKit	Accuracy	0.55733
+Primary	PRR	Cvas	4	XGBClassifier	RDKit	Accuracy	0.51098
+Primary	ROR	Cvas	0	XGBClassifier	RDKit	Accuracy	0.51552
+Primary	ROR	Cvas	2	XGBClassifier	RDKit	Accuracy	0.52082
+Primary	ROR	Cvas	3	XGBClassifier	RDKit	Accuracy	0.52357
+Primary	ROR	Cvas	1	XGBClassifier	RDKit	Accuracy	0.52362
+Primary	ROR	Cvas	4	XGBClassifier	RDKit	Accuracy	0.50459
+Primary	IC	Cvas	0	XGBClassifier	RDKit	Accuracy	0.53038
+Primary	IC	Cvas	2	XGBClassifier	RDKit	Accuracy	0.52387
+Primary	IC	Cvas	3	XGBClassifier	RDKit	Accuracy	0.55668
+Primary	IC	Cvas	1	XGBClassifier	RDKit	Accuracy	0.56819
+Primary	IC	Cvas	4	XGBClassifier	RDKit	Accuracy	0.52216
+Primary	PRR	Cvas	0	XGBClassifier	RDKit	Recall	0.46502
+Primary	PRR	Cvas	2	XGBClassifier	RDKit	Recall	0.49983
+Primary	PRR	Cvas	3	XGBClassifier	RDKit	Recall	0.4591
+Primary	PRR	Cvas	1	XGBClassifier	RDKit	Recall	0.5442
+Primary	PRR	Cvas	4	XGBClassifier	RDKit	Recall	0.57435
+Primary	ROR	Cvas	0	XGBClassifier	RDKit	Recall	0.36819
+Primary	ROR	Cvas	2	XGBClassifier	RDKit	Recall	0.4932
+Primary	ROR	Cvas	3	XGBClassifier	RDKit	Recall	0.43564
+Primary	ROR	Cvas	1	XGBClassifier	RDKit	Recall	0.39505
+Primary	ROR	Cvas	4	XGBClassifier	RDKit	Recall	0.4461
+Primary	IC	Cvas	0	XGBClassifier	RDKit	Recall	0.62681
+Primary	IC	Cvas	2	XGBClassifier	RDKit	Recall	0.64013
+Primary	IC	Cvas	3	XGBClassifier	RDKit	Recall	0.69214
+Primary	IC	Cvas	1	XGBClassifier	RDKit	Recall	0.69589
+Primary	IC	Cvas	4	XGBClassifier	RDKit	Recall	0.74796
+Primary	PRR	Cvas	0	XGBClassifier	RDKit	Specificity	0.59957
+Primary	PRR	Cvas	2	XGBClassifier	RDKit	Specificity	0.50563
+Primary	PRR	Cvas	3	XGBClassifier	RDKit	Specificity	0.62181
+Primary	PRR	Cvas	1	XGBClassifier	RDKit	Specificity	0.57177
+Primary	PRR	Cvas	4	XGBClassifier	RDKit	Specificity	0.43745
+Primary	ROR	Cvas	0	XGBClassifier	RDKit	Specificity	0.72141
+Primary	ROR	Cvas	2	XGBClassifier	RDKit	Specificity	0.55831
+Primary	ROR	Cvas	3	XGBClassifier	RDKit	Specificity	0.65009
+Primary	ROR	Cvas	1	XGBClassifier	RDKit	Specificity	0.66493
+Primary	ROR	Cvas	4	XGBClassifier	RDKit	Specificity	0.57248
+Primary	IC	Cvas	0	XGBClassifier	RDKit	Specificity	0.39562
+Primary	IC	Cvas	2	XGBClassifier	RDKit	Specificity	0.36605
+Primary	IC	Cvas	3	XGBClassifier	RDKit	Specificity	0.36177
+Primary	IC	Cvas	1	XGBClassifier	RDKit	Specificity	0.42783
+Primary	IC	Cvas	4	XGBClassifier	RDKit	Specificity	0.26014
+Primary	PRR	Cvas	0	XGBClassifier	RDKit	Precision	0.61875
+Primary	PRR	Cvas	2	XGBClassifier	RDKit	Precision	0.5785
+Primary	PRR	Cvas	3	XGBClassifier	RDKit	Precision	0.63592
+Primary	PRR	Cvas	1	XGBClassifier	RDKit	Precision	0.58278
+Primary	PRR	Cvas	4	XGBClassifier	RDKit	Precision	0.5423
+Primary	ROR	Cvas	0	XGBClassifier	RDKit	Precision	0.64876
+Primary	ROR	Cvas	2	XGBClassifier	RDKit	Precision	0.60251
+Primary	ROR	Cvas	3	XGBClassifier	RDKit	Precision	0.64176
+Primary	ROR	Cvas	1	XGBClassifier	RDKit	Precision	0.56445
+Primary	ROR	Cvas	4	XGBClassifier	RDKit	Precision	0.5477
+Primary	IC	Cvas	0	XGBClassifier	RDKit	Precision	0.59174
+Primary	IC	Cvas	2	XGBClassifier	RDKit	Precision	0.57819
+Primary	IC	Cvas	3	XGBClassifier	RDKit	Precision	0.60944
+Primary	IC	Cvas	1	XGBClassifier	RDKit	Precision	0.57207
+Primary	IC	Cvas	4	XGBClassifier	RDKit	Precision	0.53984
+Primary	PRR	Cvas	0	XGBClassifier	RDKit	PRC AUC	0.61872
+Primary	PRR	Cvas	2	XGBClassifier	RDKit	PRC AUC	0.61418
+Primary	PRR	Cvas	3	XGBClassifier	RDKit	PRC AUC	0.64552
+Primary	PRR	Cvas	1	XGBClassifier	RDKit	PRC AUC	0.57974
+Primary	PRR	Cvas	4	XGBClassifier	RDKit	PRC AUC	0.54697
+Primary	ROR	Cvas	0	XGBClassifier	RDKit	PRC AUC	0.6279
+Primary	ROR	Cvas	2	XGBClassifier	RDKit	PRC AUC	0.62712
+Primary	ROR	Cvas	3	XGBClassifier	RDKit	PRC AUC	0.66823
+Primary	ROR	Cvas	1	XGBClassifier	RDKit	PRC AUC	0.54771
+Primary	ROR	Cvas	4	XGBClassifier	RDKit	PRC AUC	0.55923
+Primary	IC	Cvas	0	XGBClassifier	RDKit	PRC AUC	0.61189
+Primary	IC	Cvas	2	XGBClassifier	RDKit	PRC AUC	0.61508
+Primary	IC	Cvas	3	XGBClassifier	RDKit	PRC AUC	0.64743
+Primary	IC	Cvas	1	XGBClassifier	RDKit	PRC AUC	0.58315
+Primary	IC	Cvas	4	XGBClassifier	RDKit	PRC AUC	0.56137
+Primary	PRR	Cvas	0	XGBClassifier	RDKit	Brier	0.26552
+Primary	PRR	Cvas	2	XGBClassifier	RDKit	Brier	0.27975
+Primary	PRR	Cvas	3	XGBClassifier	RDKit	Brier	0.26922
+Primary	PRR	Cvas	1	XGBClassifier	RDKit	Brier	0.26489
+Primary	PRR	Cvas	4	XGBClassifier	RDKit	Brier	0.26754
+Primary	ROR	Cvas	0	XGBClassifier	RDKit	Brier	0.27269
+Primary	ROR	Cvas	2	XGBClassifier	RDKit	Brier	0.27267
+Primary	ROR	Cvas	3	XGBClassifier	RDKit	Brier	0.26884
+Primary	ROR	Cvas	1	XGBClassifier	RDKit	Brier	0.27378
+Primary	ROR	Cvas	4	XGBClassifier	RDKit	Brier	0.27169
+Primary	IC	Cvas	0	XGBClassifier	RDKit	Brier	0.28223
+Primary	IC	Cvas	2	XGBClassifier	RDKit	Brier	0.29331
+Primary	IC	Cvas	3	XGBClassifier	RDKit	Brier	0.26307
+Primary	IC	Cvas	1	XGBClassifier	RDKit	Brier	0.2723
+Primary	IC	Cvas	4	XGBClassifier	RDKit	Brier	0.28856
+Primary	PRR	Cvas	0	XGBClassifier	RDKit	ECE	0.12426
+Primary	PRR	Cvas	2	XGBClassifier	RDKit	ECE	0.15422
+Primary	PRR	Cvas	3	XGBClassifier	RDKit	ECE	0.13176
+Primary	PRR	Cvas	1	XGBClassifier	RDKit	ECE	0.11077
+Primary	PRR	Cvas	4	XGBClassifier	RDKit	ECE	0.1088
+Primary	ROR	Cvas	0	XGBClassifier	RDKit	ECE	0.15505
+Primary	ROR	Cvas	2	XGBClassifier	RDKit	ECE	0.12885
+Primary	ROR	Cvas	3	XGBClassifier	RDKit	ECE	0.13984
+Primary	ROR	Cvas	1	XGBClassifier	RDKit	ECE	0.14018
+Primary	ROR	Cvas	4	XGBClassifier	RDKit	ECE	0.11266
+Primary	IC	Cvas	0	XGBClassifier	RDKit	ECE	0.17172
+Primary	IC	Cvas	2	XGBClassifier	RDKit	ECE	0.18835
+Primary	IC	Cvas	3	XGBClassifier	RDKit	ECE	0.12234
+Primary	IC	Cvas	1	XGBClassifier	RDKit	ECE	0.13221
+Primary	IC	Cvas	4	XGBClassifier	RDKit	ECE	0.17101
