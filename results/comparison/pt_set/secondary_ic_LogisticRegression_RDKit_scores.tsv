@@ -1,0 +1,196 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Secondary	IC	Cred	1	LogisticRegression	RDKit	Balanced Accuracy	0.52111
+Secondary	IC	Cred	4	LogisticRegression	RDKit	Balanced Accuracy	0.55223
+Secondary	IC	Cred	3	LogisticRegression	RDKit	Balanced Accuracy	0.56206
+Secondary	IC	Cred	0	LogisticRegression	RDKit	Balanced Accuracy	0.52007
+Secondary	IC	Cred	2	LogisticRegression	RDKit	Balanced Accuracy	0.5763
+Secondary	IC	Card	1	LogisticRegression	RDKit	Balanced Accuracy	0.52237
+Secondary	IC	Card	4	LogisticRegression	RDKit	Balanced Accuracy	0.54778
+Secondary	IC	Card	3	LogisticRegression	RDKit	Balanced Accuracy	0.56118
+Secondary	IC	Card	0	LogisticRegression	RDKit	Balanced Accuracy	0.51866
+Secondary	IC	Card	2	LogisticRegression	RDKit	Balanced Accuracy	0.5671
+Secondary	IC	Cvas	1	LogisticRegression	RDKit	Balanced Accuracy	0.53233
+Secondary	IC	Cvas	4	LogisticRegression	RDKit	Balanced Accuracy	0.55733
+Secondary	IC	Cvas	3	LogisticRegression	RDKit	Balanced Accuracy	0.54681
+Secondary	IC	Cvas	0	LogisticRegression	RDKit	Balanced Accuracy	0.52868
+Secondary	IC	Cvas	2	LogisticRegression	RDKit	Balanced Accuracy	0.56782
+Secondary	IC	Cred	1	LogisticRegression	RDKit	GeomRS	0.45368
+Secondary	IC	Cred	4	LogisticRegression	RDKit	GeomRS	0.46859
+Secondary	IC	Cred	3	LogisticRegression	RDKit	GeomRS	0.4911
+Secondary	IC	Cred	0	LogisticRegression	RDKit	GeomRS	0.41348
+Secondary	IC	Cred	2	LogisticRegression	RDKit	GeomRS	0.53309
+Secondary	IC	Card	1	LogisticRegression	RDKit	GeomRS	0.45067
+Secondary	IC	Card	4	LogisticRegression	RDKit	GeomRS	0.46837
+Secondary	IC	Card	3	LogisticRegression	RDKit	GeomRS	0.48682
+Secondary	IC	Card	0	LogisticRegression	RDKit	GeomRS	0.41121
+Secondary	IC	Card	2	LogisticRegression	RDKit	GeomRS	0.51747
+Secondary	IC	Cvas	1	LogisticRegression	RDKit	GeomRS	0.46479
+Secondary	IC	Cvas	4	LogisticRegression	RDKit	GeomRS	0.49698
+Secondary	IC	Cvas	3	LogisticRegression	RDKit	GeomRS	0.48142
+Secondary	IC	Cvas	0	LogisticRegression	RDKit	GeomRS	0.4329
+Secondary	IC	Cvas	2	LogisticRegression	RDKit	GeomRS	0.5289
+Secondary	IC	Cred	1	LogisticRegression	RDKit	HarmRS	0.39497
+Secondary	IC	Cred	4	LogisticRegression	RDKit	HarmRS	0.39762
+Secondary	IC	Cred	3	LogisticRegression	RDKit	HarmRS	0.4291
+Secondary	IC	Cred	0	LogisticRegression	RDKit	HarmRS	0.32874
+Secondary	IC	Cred	2	LogisticRegression	RDKit	HarmRS	0.49312
+Secondary	IC	Card	1	LogisticRegression	RDKit	HarmRS	0.38881
+Secondary	IC	Card	4	LogisticRegression	RDKit	HarmRS	0.40048
+Secondary	IC	Card	3	LogisticRegression	RDKit	HarmRS	0.4223
+Secondary	IC	Card	0	LogisticRegression	RDKit	HarmRS	0.32602
+Secondary	IC	Card	2	LogisticRegression	RDKit	HarmRS	0.47219
+Secondary	IC	Cvas	1	LogisticRegression	RDKit	HarmRS	0.40583
+Secondary	IC	Cvas	4	LogisticRegression	RDKit	HarmRS	0.44316
+Secondary	IC	Cvas	3	LogisticRegression	RDKit	HarmRS	0.42385
+Secondary	IC	Cvas	0	LogisticRegression	RDKit	HarmRS	0.35446
+Secondary	IC	Cvas	2	LogisticRegression	RDKit	HarmRS	0.49265
+Secondary	IC	Cred	1	LogisticRegression	RDKit	F1 Score	0.73764
+Secondary	IC	Cred	4	LogisticRegression	RDKit	F1 Score	0.72867
+Secondary	IC	Cred	3	LogisticRegression	RDKit	F1 Score	0.73232
+Secondary	IC	Cred	0	LogisticRegression	RDKit	F1 Score	0.7483
+Secondary	IC	Cred	2	LogisticRegression	RDKit	F1 Score	0.75255
+Secondary	IC	Card	1	LogisticRegression	RDKit	F1 Score	0.74198
+Secondary	IC	Card	4	LogisticRegression	RDKit	F1 Score	0.72247
+Secondary	IC	Card	3	LogisticRegression	RDKit	F1 Score	0.73371
+Secondary	IC	Card	0	LogisticRegression	RDKit	F1 Score	0.74753
+Secondary	IC	Card	2	LogisticRegression	RDKit	F1 Score	0.7509
+Secondary	IC	Cvas	1	LogisticRegression	RDKit	F1 Score	0.74745
+Secondary	IC	Cvas	4	LogisticRegression	RDKit	F1 Score	0.71834
+Secondary	IC	Cvas	3	LogisticRegression	RDKit	F1 Score	0.71558
+Secondary	IC	Cvas	0	LogisticRegression	RDKit	F1 Score	0.74988
+Secondary	IC	Cvas	2	LogisticRegression	RDKit	F1 Score	0.74081
+Secondary	IC	Cred	1	LogisticRegression	RDKit	ROC AUC	0.5591
+Secondary	IC	Cred	4	LogisticRegression	RDKit	ROC AUC	0.63113
+Secondary	IC	Cred	3	LogisticRegression	RDKit	ROC AUC	0.6192
+Secondary	IC	Cred	0	LogisticRegression	RDKit	ROC AUC	0.58991
+Secondary	IC	Cred	2	LogisticRegression	RDKit	ROC AUC	0.6392
+Secondary	IC	Card	1	LogisticRegression	RDKit	ROC AUC	0.56294
+Secondary	IC	Card	4	LogisticRegression	RDKit	ROC AUC	0.62984
+Secondary	IC	Card	3	LogisticRegression	RDKit	ROC AUC	0.62426
+Secondary	IC	Card	0	LogisticRegression	RDKit	ROC AUC	0.58061
+Secondary	IC	Card	2	LogisticRegression	RDKit	ROC AUC	0.63548
+Secondary	IC	Cvas	1	LogisticRegression	RDKit	ROC AUC	0.577
+Secondary	IC	Cvas	4	LogisticRegression	RDKit	ROC AUC	0.63331
+Secondary	IC	Cvas	3	LogisticRegression	RDKit	ROC AUC	0.6206
+Secondary	IC	Cvas	0	LogisticRegression	RDKit	ROC AUC	0.57129
+Secondary	IC	Cvas	2	LogisticRegression	RDKit	ROC AUC	0.62267
+Secondary	IC	Cred	1	LogisticRegression	RDKit	MCC	0.04603
+Secondary	IC	Cred	4	LogisticRegression	RDKit	MCC	0.12827
+Secondary	IC	Cred	3	LogisticRegression	RDKit	MCC	0.14769
+Secondary	IC	Cred	0	LogisticRegression	RDKit	MCC	0.04949
+Secondary	IC	Cred	2	LogisticRegression	RDKit	MCC	0.16473
+Secondary	IC	Card	1	LogisticRegression	RDKit	MCC	0.04937
+Secondary	IC	Card	4	LogisticRegression	RDKit	MCC	0.11538
+Secondary	IC	Card	3	LogisticRegression	RDKit	MCC	0.14704
+Secondary	IC	Card	0	LogisticRegression	RDKit	MCC	0.04602
+Secondary	IC	Card	2	LogisticRegression	RDKit	MCC	0.14678
+Secondary	IC	Cvas	1	LogisticRegression	RDKit	MCC	0.07127
+Secondary	IC	Cvas	4	LogisticRegression	RDKit	MCC	0.13188
+Secondary	IC	Cvas	3	LogisticRegression	RDKit	MCC	0.10828
+Secondary	IC	Cvas	0	LogisticRegression	RDKit	MCC	0.06937
+Secondary	IC	Cvas	2	LogisticRegression	RDKit	MCC	0.14371
+Secondary	IC	Cred	1	LogisticRegression	RDKit	Accuracy	0.61847
+Secondary	IC	Cred	4	LogisticRegression	RDKit	Accuracy	0.61645
+Secondary	IC	Cred	3	LogisticRegression	RDKit	Accuracy	0.62468
+Secondary	IC	Cred	0	LogisticRegression	RDKit	Accuracy	0.62526
+Secondary	IC	Cred	2	LogisticRegression	RDKit	Accuracy	0.65022
+Secondary	IC	Card	1	LogisticRegression	RDKit	Accuracy	0.62265
+Secondary	IC	Card	4	LogisticRegression	RDKit	Accuracy	0.61022
+Secondary	IC	Card	3	LogisticRegression	RDKit	Accuracy	0.62513
+Secondary	IC	Card	0	LogisticRegression	RDKit	Accuracy	0.62406
+Secondary	IC	Card	2	LogisticRegression	RDKit	Accuracy	0.64542
+Secondary	IC	Cvas	1	LogisticRegression	RDKit	Accuracy	0.63086
+Secondary	IC	Cvas	4	LogisticRegression	RDKit	Accuracy	0.61278
+Secondary	IC	Cvas	3	LogisticRegression	RDKit	Accuracy	0.60621
+Secondary	IC	Cvas	0	LogisticRegression	RDKit	Accuracy	0.62988
+Secondary	IC	Cvas	2	LogisticRegression	RDKit	Accuracy	0.63757
+Secondary	IC	Cred	1	LogisticRegression	RDKit	Recall	0.77751
+Secondary	IC	Cred	4	LogisticRegression	RDKit	Recall	0.84442
+Secondary	IC	Cred	3	LogisticRegression	RDKit	Recall	0.83543
+Secondary	IC	Cred	0	LogisticRegression	RDKit	Recall	0.83552
+Secondary	IC	Cred	2	LogisticRegression	RDKit	Recall	0.79526
+Secondary	IC	Card	1	LogisticRegression	RDKit	Recall	0.7865
+Secondary	IC	Card	4	LogisticRegression	RDKit	Recall	0.83185
+Secondary	IC	Card	3	LogisticRegression	RDKit	Recall	0.84035
+Secondary	IC	Card	0	LogisticRegression	RDKit	Recall	0.83475
+Secondary	IC	Card	2	LogisticRegression	RDKit	Recall	0.79909
+Secondary	IC	Cvas	1	LogisticRegression	RDKit	Recall	0.79184
+Secondary	IC	Cvas	4	LogisticRegression	RDKit	Recall	0.80959
+Secondary	IC	Cvas	3	LogisticRegression	RDKit	Recall	0.80611
+Secondary	IC	Cvas	0	LogisticRegression	RDKit	Recall	0.83218
+Secondary	IC	Cvas	2	LogisticRegression	RDKit	Recall	0.77443
+Secondary	IC	Cred	1	LogisticRegression	RDKit	Specificity	0.26472
+Secondary	IC	Cred	4	LogisticRegression	RDKit	Specificity	0.26003
+Secondary	IC	Cred	3	LogisticRegression	RDKit	Specificity	0.28869
+Secondary	IC	Cred	0	LogisticRegression	RDKit	Specificity	0.20463
+Secondary	IC	Cred	2	LogisticRegression	RDKit	Specificity	0.35735
+Secondary	IC	Card	1	LogisticRegression	RDKit	Specificity	0.25824
+Secondary	IC	Card	4	LogisticRegression	RDKit	Specificity	0.26372
+Secondary	IC	Card	3	LogisticRegression	RDKit	Specificity	0.28201
+Secondary	IC	Card	0	LogisticRegression	RDKit	Specificity	0.20257
+Secondary	IC	Card	2	LogisticRegression	RDKit	Specificity	0.33511
+Secondary	IC	Cvas	1	LogisticRegression	RDKit	Specificity	0.27283
+Secondary	IC	Cvas	4	LogisticRegression	RDKit	Specificity	0.30508
+Secondary	IC	Cvas	3	LogisticRegression	RDKit	Specificity	0.28751
+Secondary	IC	Cvas	0	LogisticRegression	RDKit	Specificity	0.22519
+Secondary	IC	Cvas	2	LogisticRegression	RDKit	Specificity	0.36122
+Secondary	IC	Cred	1	LogisticRegression	RDKit	Precision	0.70167
+Secondary	IC	Cred	4	LogisticRegression	RDKit	Precision	0.64083
+Secondary	IC	Cred	3	LogisticRegression	RDKit	Precision	0.65186
+Secondary	IC	Cred	0	LogisticRegression	RDKit	Precision	0.67757
+Secondary	IC	Cred	2	LogisticRegression	RDKit	Precision	0.71419
+Secondary	IC	Card	1	LogisticRegression	RDKit	Precision	0.70223
+Secondary	IC	Card	4	LogisticRegression	RDKit	Precision	0.63852
+Secondary	IC	Card	3	LogisticRegression	RDKit	Precision	0.65108
+Secondary	IC	Card	0	LogisticRegression	RDKit	Precision	0.67681
+Secondary	IC	Card	2	LogisticRegression	RDKit	Precision	0.70819
+Secondary	IC	Cvas	1	LogisticRegression	RDKit	Precision	0.70777
+Secondary	IC	Cvas	4	LogisticRegression	RDKit	Precision	0.64557
+Secondary	IC	Cvas	3	LogisticRegression	RDKit	Precision	0.64333
+Secondary	IC	Cvas	0	LogisticRegression	RDKit	Precision	0.6824
+Secondary	IC	Cvas	2	LogisticRegression	RDKit	Precision	0.70999
+Secondary	IC	Cred	1	LogisticRegression	RDKit	PRC AUC	0.73961
+Secondary	IC	Cred	4	LogisticRegression	RDKit	PRC AUC	0.73126
+Secondary	IC	Cred	3	LogisticRegression	RDKit	PRC AUC	0.6998
+Secondary	IC	Cred	0	LogisticRegression	RDKit	PRC AUC	0.73574
+Secondary	IC	Cred	2	LogisticRegression	RDKit	PRC AUC	0.77728
+Secondary	IC	Card	1	LogisticRegression	RDKit	PRC AUC	0.74396
+Secondary	IC	Card	4	LogisticRegression	RDKit	PRC AUC	0.73098
+Secondary	IC	Card	3	LogisticRegression	RDKit	PRC AUC	0.71072
+Secondary	IC	Card	0	LogisticRegression	RDKit	PRC AUC	0.72591
+Secondary	IC	Card	2	LogisticRegression	RDKit	PRC AUC	0.7777
+Secondary	IC	Cvas	1	LogisticRegression	RDKit	PRC AUC	0.7499
+Secondary	IC	Cvas	4	LogisticRegression	RDKit	PRC AUC	0.73915
+Secondary	IC	Cvas	3	LogisticRegression	RDKit	PRC AUC	0.70493
+Secondary	IC	Cvas	0	LogisticRegression	RDKit	PRC AUC	0.72043
+Secondary	IC	Cvas	2	LogisticRegression	RDKit	PRC AUC	0.7657
+Secondary	IC	Cred	1	LogisticRegression	RDKit	ECE	0.14816
+Secondary	IC	Cred	4	LogisticRegression	RDKit	ECE	0.12678
+Secondary	IC	Cred	3	LogisticRegression	RDKit	ECE	0.09293
+Secondary	IC	Cred	0	LogisticRegression	RDKit	ECE	0.12211
+Secondary	IC	Cred	2	LogisticRegression	RDKit	ECE	0.07017
+Secondary	IC	Card	1	LogisticRegression	RDKit	ECE	0.14727
+Secondary	IC	Card	4	LogisticRegression	RDKit	ECE	0.13894
+Secondary	IC	Card	3	LogisticRegression	RDKit	ECE	0.0956
+Secondary	IC	Card	0	LogisticRegression	RDKit	ECE	0.12431
+Secondary	IC	Card	2	LogisticRegression	RDKit	ECE	0.08206
+Secondary	IC	Cvas	1	LogisticRegression	RDKit	ECE	0.13493
+Secondary	IC	Cvas	4	LogisticRegression	RDKit	ECE	0.12034
+Secondary	IC	Cvas	3	LogisticRegression	RDKit	ECE	0.11762
+Secondary	IC	Cvas	0	LogisticRegression	RDKit	ECE	0.14093
+Secondary	IC	Cvas	2	LogisticRegression	RDKit	ECE	0.09798
+Secondary	IC	Cred	1	LogisticRegression	RDKit	Brier	0.24343
+Secondary	IC	Cred	4	LogisticRegression	RDKit	Brier	0.24558
+Secondary	IC	Cred	3	LogisticRegression	RDKit	Brier	0.24062
+Secondary	IC	Cred	0	LogisticRegression	RDKit	Brier	0.2427
+Secondary	IC	Cred	2	LogisticRegression	RDKit	Brier	0.22187
+Secondary	IC	Card	1	LogisticRegression	RDKit	Brier	0.24328
+Secondary	IC	Card	4	LogisticRegression	RDKit	Brier	0.24841
+Secondary	IC	Card	3	LogisticRegression	RDKit	Brier	0.24042
+Secondary	IC	Card	0	LogisticRegression	RDKit	Brier	0.24394
+Secondary	IC	Card	2	LogisticRegression	RDKit	Brier	0.22362
+Secondary	IC	Cvas	1	LogisticRegression	RDKit	Brier	0.23813
+Secondary	IC	Cvas	4	LogisticRegression	RDKit	Brier	0.24337
+Secondary	IC	Cvas	3	LogisticRegression	RDKit	Brier	0.24191
+Secondary	IC	Cvas	0	LogisticRegression	RDKit	Brier	0.24617
+Secondary	IC	Cvas	2	LogisticRegression	RDKit	Brier	0.22795

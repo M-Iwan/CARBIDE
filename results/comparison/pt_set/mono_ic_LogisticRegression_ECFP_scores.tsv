@@ -1,0 +1,196 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Mono	IC	Cred	1	LogisticRegression	ECFP	Balanced Accuracy	0.51297
+Mono	IC	Cred	4	LogisticRegression	ECFP	Balanced Accuracy	0.55227
+Mono	IC	Cred	3	LogisticRegression	ECFP	Balanced Accuracy	0.43454
+Mono	IC	Cred	2	LogisticRegression	ECFP	Balanced Accuracy	0.55767
+Mono	IC	Cred	0	LogisticRegression	ECFP	Balanced Accuracy	0.55168
+Mono	IC	Card	1	LogisticRegression	ECFP	Balanced Accuracy	0.53144
+Mono	IC	Card	4	LogisticRegression	ECFP	Balanced Accuracy	0.60394
+Mono	IC	Card	3	LogisticRegression	ECFP	Balanced Accuracy	0.43294
+Mono	IC	Card	2	LogisticRegression	ECFP	Balanced Accuracy	0.5794
+Mono	IC	Card	0	LogisticRegression	ECFP	Balanced Accuracy	0.54466
+Mono	IC	Cvas	1	LogisticRegression	ECFP	Balanced Accuracy	0.51073
+Mono	IC	Cvas	4	LogisticRegression	ECFP	Balanced Accuracy	0.58688
+Mono	IC	Cvas	3	LogisticRegression	ECFP	Balanced Accuracy	0.41912
+Mono	IC	Cvas	2	LogisticRegression	ECFP	Balanced Accuracy	0.59248
+Mono	IC	Cvas	0	LogisticRegression	ECFP	Balanced Accuracy	0.59175
+Mono	IC	Cred	1	LogisticRegression	ECFP	GeomRS	0.51173
+Mono	IC	Cred	4	LogisticRegression	ECFP	GeomRS	0.54797
+Mono	IC	Cred	3	LogisticRegression	ECFP	GeomRS	0.43037
+Mono	IC	Cred	2	LogisticRegression	ECFP	GeomRS	0.55575
+Mono	IC	Cred	0	LogisticRegression	ECFP	GeomRS	0.53657
+Mono	IC	Card	1	LogisticRegression	ECFP	GeomRS	0.53142
+Mono	IC	Card	4	LogisticRegression	ECFP	GeomRS	0.59825
+Mono	IC	Card	3	LogisticRegression	ECFP	GeomRS	0.42545
+Mono	IC	Card	2	LogisticRegression	ECFP	GeomRS	0.5669
+Mono	IC	Card	0	LogisticRegression	ECFP	GeomRS	0.5346
+Mono	IC	Cvas	1	LogisticRegression	ECFP	GeomRS	0.50922
+Mono	IC	Cvas	4	LogisticRegression	ECFP	GeomRS	0.58446
+Mono	IC	Cvas	3	LogisticRegression	ECFP	GeomRS	0.41311
+Mono	IC	Cvas	2	LogisticRegression	ECFP	GeomRS	0.55754
+Mono	IC	Cvas	0	LogisticRegression	ECFP	GeomRS	0.59171
+Mono	IC	Cred	1	LogisticRegression	ECFP	HarmRS	0.5105
+Mono	IC	Cred	4	LogisticRegression	ECFP	HarmRS	0.5437
+Mono	IC	Cred	3	LogisticRegression	ECFP	HarmRS	0.42623
+Mono	IC	Cred	2	LogisticRegression	ECFP	HarmRS	0.55384
+Mono	IC	Cred	0	LogisticRegression	ECFP	HarmRS	0.52187
+Mono	IC	Card	1	LogisticRegression	ECFP	HarmRS	0.53139
+Mono	IC	Card	4	LogisticRegression	ECFP	HarmRS	0.59263
+Mono	IC	Card	3	LogisticRegression	ECFP	HarmRS	0.41808
+Mono	IC	Card	2	LogisticRegression	ECFP	HarmRS	0.55467
+Mono	IC	Card	0	LogisticRegression	ECFP	HarmRS	0.52472
+Mono	IC	Cvas	1	LogisticRegression	ECFP	HarmRS	0.50771
+Mono	IC	Cvas	4	LogisticRegression	ECFP	HarmRS	0.58204
+Mono	IC	Cvas	3	LogisticRegression	ECFP	HarmRS	0.40718
+Mono	IC	Cvas	2	LogisticRegression	ECFP	HarmRS	0.52467
+Mono	IC	Cvas	0	LogisticRegression	ECFP	HarmRS	0.59167
+Mono	IC	Cred	1	LogisticRegression	ECFP	F1 Score	0.58544
+Mono	IC	Cred	4	LogisticRegression	ECFP	F1 Score	0.63114
+Mono	IC	Cred	3	LogisticRegression	ECFP	F1 Score	0.51397
+Mono	IC	Cred	2	LogisticRegression	ECFP	F1 Score	0.62094
+Mono	IC	Cred	0	LogisticRegression	ECFP	F1 Score	0.65731
+Mono	IC	Card	1	LogisticRegression	ECFP	F1 Score	0.586
+Mono	IC	Card	4	LogisticRegression	ECFP	F1 Score	0.68376
+Mono	IC	Card	3	LogisticRegression	ECFP	F1 Score	0.5241
+Mono	IC	Card	2	LogisticRegression	ECFP	F1 Score	0.67336
+Mono	IC	Card	0	LogisticRegression	ECFP	F1 Score	0.64045
+Mono	IC	Cvas	1	LogisticRegression	ECFP	F1 Score	0.5854
+Mono	IC	Cvas	4	LogisticRegression	ECFP	F1 Score	0.65539
+Mono	IC	Cvas	3	LogisticRegression	ECFP	F1 Score	0.50555
+Mono	IC	Cvas	2	LogisticRegression	ECFP	F1 Score	0.71514
+Mono	IC	Cvas	0	LogisticRegression	ECFP	F1 Score	0.63744
+Mono	IC	Cred	1	LogisticRegression	ECFP	ROC AUC	0.52526
+Mono	IC	Cred	4	LogisticRegression	ECFP	ROC AUC	0.61207
+Mono	IC	Cred	3	LogisticRegression	ECFP	ROC AUC	0.40246
+Mono	IC	Cred	2	LogisticRegression	ECFP	ROC AUC	0.57134
+Mono	IC	Cred	0	LogisticRegression	ECFP	ROC AUC	0.58373
+Mono	IC	Card	1	LogisticRegression	ECFP	ROC AUC	0.51705
+Mono	IC	Card	4	LogisticRegression	ECFP	ROC AUC	0.63677
+Mono	IC	Card	3	LogisticRegression	ECFP	ROC AUC	0.40426
+Mono	IC	Card	2	LogisticRegression	ECFP	ROC AUC	0.6035
+Mono	IC	Card	0	LogisticRegression	ECFP	ROC AUC	0.58339
+Mono	IC	Cvas	1	LogisticRegression	ECFP	ROC AUC	0.53657
+Mono	IC	Cvas	4	LogisticRegression	ECFP	ROC AUC	0.61872
+Mono	IC	Cvas	3	LogisticRegression	ECFP	ROC AUC	0.39785
+Mono	IC	Cvas	2	LogisticRegression	ECFP	ROC AUC	0.61817
+Mono	IC	Cvas	0	LogisticRegression	ECFP	ROC AUC	0.62079
+Mono	IC	Cred	1	LogisticRegression	ECFP	MCC	0.0253
+Mono	IC	Cred	4	LogisticRegression	ECFP	MCC	0.10382
+Mono	IC	Cred	3	LogisticRegression	ECFP	MCC	-0.12925
+Mono	IC	Cred	2	LogisticRegression	ECFP	MCC	0.11423
+Mono	IC	Cred	0	LogisticRegression	ECFP	MCC	0.10552
+Mono	IC	Card	1	LogisticRegression	ECFP	MCC	0.06118
+Mono	IC	Card	4	LogisticRegression	ECFP	MCC	0.2083
+Mono	IC	Card	3	LogisticRegression	ECFP	MCC	-0.13303
+Mono	IC	Card	2	LogisticRegression	ECFP	MCC	0.16219
+Mono	IC	Card	0	LogisticRegression	ECFP	MCC	0.08995
+Mono	IC	Cvas	1	LogisticRegression	ECFP	MCC	0.02095
+Mono	IC	Cvas	4	LogisticRegression	ECFP	MCC	0.1721
+Mono	IC	Cvas	3	LogisticRegression	ECFP	MCC	-0.15996
+Mono	IC	Cvas	2	LogisticRegression	ECFP	MCC	0.202
+Mono	IC	Cvas	0	LogisticRegression	ECFP	MCC	0.18023
+Mono	IC	Cred	1	LogisticRegression	ECFP	Accuracy	0.52124
+Mono	IC	Cred	4	LogisticRegression	ECFP	Accuracy	0.56578
+Mono	IC	Cred	3	LogisticRegression	ECFP	Accuracy	0.44566
+Mono	IC	Cred	2	LogisticRegression	ECFP	Accuracy	0.56588
+Mono	IC	Cred	0	LogisticRegression	ECFP	Accuracy	0.57661
+Mono	IC	Card	1	LogisticRegression	ECFP	Accuracy	0.53266
+Mono	IC	Card	4	LogisticRegression	ECFP	Accuracy	0.62015
+Mono	IC	Card	3	LogisticRegression	ECFP	Accuracy	0.44779
+Mono	IC	Card	2	LogisticRegression	ECFP	Accuracy	0.60065
+Mono	IC	Card	0	LogisticRegression	ECFP	Accuracy	0.56492
+Mono	IC	Cvas	1	LogisticRegression	ECFP	Accuracy	0.51987
+Mono	IC	Cvas	4	LogisticRegression	ECFP	Accuracy	0.59734
+Mono	IC	Cvas	3	LogisticRegression	ECFP	Accuracy	0.43221
+Mono	IC	Cvas	2	LogisticRegression	ECFP	Accuracy	0.62807
+Mono	IC	Cvas	0	LogisticRegression	ECFP	Accuracy	0.59315
+Mono	IC	Cred	1	LogisticRegression	ECFP	Recall	0.54855
+Mono	IC	Cred	4	LogisticRegression	ECFP	Recall	0.62111
+Mono	IC	Cred	3	LogisticRegression	ECFP	Recall	0.49462
+Mono	IC	Cred	2	LogisticRegression	ECFP	Recall	0.60389
+Mono	IC	Cred	0	LogisticRegression	ECFP	Recall	0.67995
+Mono	IC	Card	1	LogisticRegression	ECFP	Recall	0.53669
+Mono	IC	Card	4	LogisticRegression	ECFP	Recall	0.68659
+Mono	IC	Card	3	LogisticRegression	ECFP	Recall	0.51314
+Mono	IC	Card	2	LogisticRegression	ECFP	Recall	0.6991
+Mono	IC	Card	0	LogisticRegression	ECFP	Recall	0.64889
+Mono	IC	Cvas	1	LogisticRegression	ECFP	Recall	0.55004
+Mono	IC	Cvas	4	LogisticRegression	ECFP	Recall	0.64018
+Mono	IC	Cvas	3	LogisticRegression	ECFP	Recall	0.48984
+Mono	IC	Cvas	2	LogisticRegression	ECFP	Recall	0.79291
+Mono	IC	Cvas	0	LogisticRegression	ECFP	Recall	0.59892
+Mono	IC	Cred	1	LogisticRegression	ECFP	Specificity	0.47738
+Mono	IC	Cred	4	LogisticRegression	ECFP	Specificity	0.48344
+Mono	IC	Cred	3	LogisticRegression	ECFP	Specificity	0.37446
+Mono	IC	Cred	2	LogisticRegression	ECFP	Specificity	0.51144
+Mono	IC	Cred	0	LogisticRegression	ECFP	Specificity	0.42342
+Mono	IC	Card	1	LogisticRegression	ECFP	Specificity	0.52619
+Mono	IC	Card	4	LogisticRegression	ECFP	Specificity	0.52129
+Mono	IC	Card	3	LogisticRegression	ECFP	Specificity	0.35274
+Mono	IC	Card	2	LogisticRegression	ECFP	Specificity	0.4597
+Mono	IC	Card	0	LogisticRegression	ECFP	Specificity	0.44044
+Mono	IC	Cvas	1	LogisticRegression	ECFP	Specificity	0.47143
+Mono	IC	Cvas	4	LogisticRegression	ECFP	Specificity	0.53359
+Mono	IC	Cvas	3	LogisticRegression	ECFP	Specificity	0.34839
+Mono	IC	Cvas	2	LogisticRegression	ECFP	Specificity	0.39204
+Mono	IC	Cvas	0	LogisticRegression	ECFP	Specificity	0.58458
+Mono	IC	Cred	1	LogisticRegression	ECFP	Precision	0.62765
+Mono	IC	Cred	4	LogisticRegression	ECFP	Precision	0.6415
+Mono	IC	Cred	3	LogisticRegression	ECFP	Precision	0.53488
+Mono	IC	Cred	2	LogisticRegression	ECFP	Precision	0.63897
+Mono	IC	Cred	0	LogisticRegression	ECFP	Precision	0.63613
+Mono	IC	Card	1	LogisticRegression	ECFP	Precision	0.64528
+Mono	IC	Card	4	LogisticRegression	ECFP	Precision	0.68096
+Mono	IC	Card	3	LogisticRegression	ECFP	Precision	0.53554
+Mono	IC	Card	2	LogisticRegression	ECFP	Precision	0.64945
+Mono	IC	Card	0	LogisticRegression	ECFP	Precision	0.63224
+Mono	IC	Cvas	1	LogisticRegression	ECFP	Precision	0.62563
+Mono	IC	Cvas	4	LogisticRegression	ECFP	Precision	0.67133
+Mono	IC	Cvas	3	LogisticRegression	ECFP	Precision	0.52229
+Mono	IC	Cvas	2	LogisticRegression	ECFP	Precision	0.65126
+Mono	IC	Cvas	0	LogisticRegression	ECFP	Precision	0.68126
+Mono	IC	Cred	1	LogisticRegression	ECFP	PRC AUC	0.64333
+Mono	IC	Cred	4	LogisticRegression	ECFP	PRC AUC	0.72127
+Mono	IC	Cred	3	LogisticRegression	ECFP	PRC AUC	0.51524
+Mono	IC	Cred	2	LogisticRegression	ECFP	PRC AUC	0.62047
+Mono	IC	Cred	0	LogisticRegression	ECFP	PRC AUC	0.68355
+Mono	IC	Card	1	LogisticRegression	ECFP	PRC AUC	0.63202
+Mono	IC	Card	4	LogisticRegression	ECFP	PRC AUC	0.71065
+Mono	IC	Card	3	LogisticRegression	ECFP	PRC AUC	0.52859
+Mono	IC	Card	2	LogisticRegression	ECFP	PRC AUC	0.63719
+Mono	IC	Card	0	LogisticRegression	ECFP	PRC AUC	0.6842
+Mono	IC	Cvas	1	LogisticRegression	ECFP	PRC AUC	0.65442
+Mono	IC	Cvas	4	LogisticRegression	ECFP	PRC AUC	0.70247
+Mono	IC	Cvas	3	LogisticRegression	ECFP	PRC AUC	0.54017
+Mono	IC	Cvas	2	LogisticRegression	ECFP	PRC AUC	0.64246
+Mono	IC	Cvas	0	LogisticRegression	ECFP	PRC AUC	0.67914
+Mono	IC	Cred	1	LogisticRegression	ECFP	ECE	0.16253
+Mono	IC	Cred	4	LogisticRegression	ECFP	ECE	0.24558
+Mono	IC	Cred	3	LogisticRegression	ECFP	ECE	0.35413
+Mono	IC	Cred	2	LogisticRegression	ECFP	ECE	0.20886
+Mono	IC	Cred	0	LogisticRegression	ECFP	ECE	0.14245
+Mono	IC	Card	1	LogisticRegression	ECFP	ECE	0.19086
+Mono	IC	Card	4	LogisticRegression	ECFP	ECE	0.14026
+Mono	IC	Card	3	LogisticRegression	ECFP	ECE	0.36934
+Mono	IC	Card	2	LogisticRegression	ECFP	ECE	0.16178
+Mono	IC	Card	0	LogisticRegression	ECFP	ECE	0.13548
+Mono	IC	Cvas	1	LogisticRegression	ECFP	ECE	0.23879
+Mono	IC	Cvas	4	LogisticRegression	ECFP	ECE	0.20663
+Mono	IC	Cvas	3	LogisticRegression	ECFP	ECE	0.35183
+Mono	IC	Cvas	2	LogisticRegression	ECFP	ECE	0.1307
+Mono	IC	Cvas	0	LogisticRegression	ECFP	ECE	0.21241
+Mono	IC	Cred	1	LogisticRegression	ECFP	Brier	0.28032
+Mono	IC	Cred	4	LogisticRegression	ECFP	Brier	0.29688
+Mono	IC	Cred	3	LogisticRegression	ECFP	Brier	0.39461
+Mono	IC	Cred	2	LogisticRegression	ECFP	Brier	0.28579
+Mono	IC	Cred	0	LogisticRegression	ECFP	Brier	0.26142
+Mono	IC	Card	1	LogisticRegression	ECFP	Brier	0.29324
+Mono	IC	Card	4	LogisticRegression	ECFP	Brier	0.2593
+Mono	IC	Card	3	LogisticRegression	ECFP	Brier	0.40402
+Mono	IC	Card	2	LogisticRegression	ECFP	Brier	0.27026
+Mono	IC	Card	0	LogisticRegression	ECFP	Brier	0.2607
+Mono	IC	Cvas	1	LogisticRegression	ECFP	Brier	0.31809
+Mono	IC	Cvas	4	LogisticRegression	ECFP	Brier	0.28806
+Mono	IC	Cvas	3	LogisticRegression	ECFP	Brier	0.39741
+Mono	IC	Cvas	2	LogisticRegression	ECFP	Brier	0.25154
+Mono	IC	Cvas	0	LogisticRegression	ECFP	Brier	0.28661

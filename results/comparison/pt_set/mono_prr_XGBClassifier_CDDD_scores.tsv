@@ -1,0 +1,196 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Mono	PRR	Cred	1	XGBClassifier	CDDD	Balanced Accuracy	0.57066
+Mono	PRR	Cred	4	XGBClassifier	CDDD	Balanced Accuracy	0.6269
+Mono	PRR	Cred	3	XGBClassifier	CDDD	Balanced Accuracy	0.58477
+Mono	PRR	Cred	2	XGBClassifier	CDDD	Balanced Accuracy	0.58535
+Mono	PRR	Cred	0	XGBClassifier	CDDD	Balanced Accuracy	0.57932
+Mono	PRR	Card	1	XGBClassifier	CDDD	Balanced Accuracy	0.55484
+Mono	PRR	Card	4	XGBClassifier	CDDD	Balanced Accuracy	0.60833
+Mono	PRR	Card	3	XGBClassifier	CDDD	Balanced Accuracy	0.57331
+Mono	PRR	Card	2	XGBClassifier	CDDD	Balanced Accuracy	0.59037
+Mono	PRR	Card	0	XGBClassifier	CDDD	Balanced Accuracy	0.57405
+Mono	PRR	Cvas	1	XGBClassifier	CDDD	Balanced Accuracy	0.54787
+Mono	PRR	Cvas	4	XGBClassifier	CDDD	Balanced Accuracy	0.57863
+Mono	PRR	Cvas	3	XGBClassifier	CDDD	Balanced Accuracy	0.57586
+Mono	PRR	Cvas	2	XGBClassifier	CDDD	Balanced Accuracy	0.5788
+Mono	PRR	Cvas	0	XGBClassifier	CDDD	Balanced Accuracy	0.50199
+Mono	PRR	Cred	1	XGBClassifier	CDDD	GeomRS	0.56942
+Mono	PRR	Cred	4	XGBClassifier	CDDD	GeomRS	0.62596
+Mono	PRR	Cred	3	XGBClassifier	CDDD	GeomRS	0.58281
+Mono	PRR	Cred	2	XGBClassifier	CDDD	GeomRS	0.57127
+Mono	PRR	Cred	0	XGBClassifier	CDDD	GeomRS	0.5793
+Mono	PRR	Card	1	XGBClassifier	CDDD	GeomRS	0.54194
+Mono	PRR	Card	4	XGBClassifier	CDDD	GeomRS	0.60656
+Mono	PRR	Card	3	XGBClassifier	CDDD	GeomRS	0.57208
+Mono	PRR	Card	2	XGBClassifier	CDDD	GeomRS	0.5755
+Mono	PRR	Card	0	XGBClassifier	CDDD	GeomRS	0.57301
+Mono	PRR	Cvas	1	XGBClassifier	CDDD	GeomRS	0.53403
+Mono	PRR	Cvas	4	XGBClassifier	CDDD	GeomRS	0.57782
+Mono	PRR	Cvas	3	XGBClassifier	CDDD	GeomRS	0.5757
+Mono	PRR	Cvas	2	XGBClassifier	CDDD	GeomRS	0.55423
+Mono	PRR	Cvas	0	XGBClassifier	CDDD	GeomRS	0.49973
+Mono	PRR	Cred	1	XGBClassifier	CDDD	HarmRS	0.56817
+Mono	PRR	Cred	4	XGBClassifier	CDDD	HarmRS	0.62501
+Mono	PRR	Cred	3	XGBClassifier	CDDD	HarmRS	0.58087
+Mono	PRR	Cred	2	XGBClassifier	CDDD	HarmRS	0.55752
+Mono	PRR	Cred	0	XGBClassifier	CDDD	HarmRS	0.57928
+Mono	PRR	Card	1	XGBClassifier	CDDD	HarmRS	0.52934
+Mono	PRR	Card	4	XGBClassifier	CDDD	HarmRS	0.6048
+Mono	PRR	Card	3	XGBClassifier	CDDD	HarmRS	0.57086
+Mono	PRR	Card	2	XGBClassifier	CDDD	HarmRS	0.56101
+Mono	PRR	Card	0	XGBClassifier	CDDD	HarmRS	0.57197
+Mono	PRR	Cvas	1	XGBClassifier	CDDD	HarmRS	0.52054
+Mono	PRR	Cvas	4	XGBClassifier	CDDD	HarmRS	0.57701
+Mono	PRR	Cvas	3	XGBClassifier	CDDD	HarmRS	0.57553
+Mono	PRR	Cvas	2	XGBClassifier	CDDD	HarmRS	0.5307
+Mono	PRR	Cvas	0	XGBClassifier	CDDD	HarmRS	0.49748
+Mono	PRR	Cred	1	XGBClassifier	CDDD	F1 Score	0.59992
+Mono	PRR	Cred	4	XGBClassifier	CDDD	F1 Score	0.65107
+Mono	PRR	Cred	3	XGBClassifier	CDDD	F1 Score	0.60013
+Mono	PRR	Cred	2	XGBClassifier	CDDD	F1 Score	0.68173
+Mono	PRR	Cred	0	XGBClassifier	CDDD	F1 Score	0.62432
+Mono	PRR	Card	1	XGBClassifier	CDDD	F1 Score	0.53189
+Mono	PRR	Card	4	XGBClassifier	CDDD	F1 Score	0.62651
+Mono	PRR	Card	3	XGBClassifier	CDDD	F1 Score	0.59424
+Mono	PRR	Card	2	XGBClassifier	CDDD	F1 Score	0.68762
+Mono	PRR	Card	0	XGBClassifier	CDDD	F1 Score	0.59828
+Mono	PRR	Cvas	1	XGBClassifier	CDDD	F1 Score	0.52182
+Mono	PRR	Cvas	4	XGBClassifier	CDDD	F1 Score	0.60534
+Mono	PRR	Cvas	3	XGBClassifier	CDDD	F1 Score	0.6237
+Mono	PRR	Cvas	2	XGBClassifier	CDDD	F1 Score	0.69159
+Mono	PRR	Cvas	0	XGBClassifier	CDDD	F1 Score	0.5169
+Mono	PRR	Cred	1	XGBClassifier	CDDD	ROC AUC	0.57619
+Mono	PRR	Cred	4	XGBClassifier	CDDD	ROC AUC	0.67375
+Mono	PRR	Cred	3	XGBClassifier	CDDD	ROC AUC	0.60908
+Mono	PRR	Cred	2	XGBClassifier	CDDD	ROC AUC	0.63944
+Mono	PRR	Cred	0	XGBClassifier	CDDD	ROC AUC	0.60463
+Mono	PRR	Card	1	XGBClassifier	CDDD	ROC AUC	0.56748
+Mono	PRR	Card	4	XGBClassifier	CDDD	ROC AUC	0.65668
+Mono	PRR	Card	3	XGBClassifier	CDDD	ROC AUC	0.59694
+Mono	PRR	Card	2	XGBClassifier	CDDD	ROC AUC	0.64549
+Mono	PRR	Card	0	XGBClassifier	CDDD	ROC AUC	0.60753
+Mono	PRR	Cvas	1	XGBClassifier	CDDD	ROC AUC	0.56136
+Mono	PRR	Cvas	4	XGBClassifier	CDDD	ROC AUC	0.60064
+Mono	PRR	Cvas	3	XGBClassifier	CDDD	ROC AUC	0.58769
+Mono	PRR	Cvas	2	XGBClassifier	CDDD	ROC AUC	0.63608
+Mono	PRR	Cvas	0	XGBClassifier	CDDD	ROC AUC	0.53796
+Mono	PRR	Cred	1	XGBClassifier	CDDD	MCC	0.13757
+Mono	PRR	Cred	4	XGBClassifier	CDDD	MCC	0.24892
+Mono	PRR	Cred	3	XGBClassifier	CDDD	MCC	0.16694
+Mono	PRR	Cred	2	XGBClassifier	CDDD	MCC	0.17529
+Mono	PRR	Cred	0	XGBClassifier	CDDD	MCC	0.15574
+Mono	PRR	Card	1	XGBClassifier	CDDD	MCC	0.10917
+Mono	PRR	Card	4	XGBClassifier	CDDD	MCC	0.21272
+Mono	PRR	Card	3	XGBClassifier	CDDD	MCC	0.14425
+Mono	PRR	Card	2	XGBClassifier	CDDD	MCC	0.18617
+Mono	PRR	Card	0	XGBClassifier	CDDD	MCC	0.1454
+Mono	PRR	Cvas	1	XGBClassifier	CDDD	MCC	0.09551
+Mono	PRR	Cvas	4	XGBClassifier	CDDD	MCC	0.15428
+Mono	PRR	Cvas	3	XGBClassifier	CDDD	MCC	0.14933
+Mono	PRR	Cvas	2	XGBClassifier	CDDD	MCC	0.16636
+Mono	PRR	Cvas	0	XGBClassifier	CDDD	MCC	0.00391
+Mono	PRR	Cred	1	XGBClassifier	CDDD	Accuracy	0.5619
+Mono	PRR	Cred	4	XGBClassifier	CDDD	Accuracy	0.62015
+Mono	PRR	Cred	3	XGBClassifier	CDDD	Accuracy	0.57593
+Mono	PRR	Cred	2	XGBClassifier	CDDD	Accuracy	0.60802
+Mono	PRR	Cred	0	XGBClassifier	CDDD	Accuracy	0.58024
+Mono	PRR	Card	1	XGBClassifier	CDDD	Accuracy	0.52718
+Mono	PRR	Card	4	XGBClassifier	CDDD	Accuracy	0.59924
+Mono	PRR	Card	3	XGBClassifier	CDDD	Accuracy	0.56637
+Mono	PRR	Card	2	XGBClassifier	CDDD	Accuracy	0.61375
+Mono	PRR	Card	0	XGBClassifier	CDDD	Accuracy	0.56734
+Mono	PRR	Cvas	1	XGBClassifier	CDDD	Accuracy	0.51942
+Mono	PRR	Cvas	4	XGBClassifier	CDDD	Accuracy	0.57262
+Mono	PRR	Cvas	3	XGBClassifier	CDDD	Accuracy	0.57841
+Mono	PRR	Cvas	2	XGBClassifier	CDDD	Accuracy	0.60843
+Mono	PRR	Cvas	0	XGBClassifier	CDDD	Accuracy	0.49274
+Mono	PRR	Cred	1	XGBClassifier	CDDD	Recall	0.53299
+Mono	PRR	Cred	4	XGBClassifier	CDDD	Recall	0.5925
+Mono	PRR	Cred	3	XGBClassifier	CDDD	Recall	0.53704
+Mono	PRR	Cred	2	XGBClassifier	CDDD	Recall	0.713
+Mono	PRR	Cred	0	XGBClassifier	CDDD	Recall	0.58406
+Mono	PRR	Card	1	XGBClassifier	CDDD	Recall	0.43588
+Mono	PRR	Card	4	XGBClassifier	CDDD	Recall	0.56198
+Mono	PRR	Card	3	XGBClassifier	CDDD	Recall	0.53584
+Mono	PRR	Card	2	XGBClassifier	CDDD	Recall	0.72203
+Mono	PRR	Card	0	XGBClassifier	CDDD	Recall	0.5395
+Mono	PRR	Cvas	1	XGBClassifier	CDDD	Recall	0.4255
+Mono	PRR	Cvas	4	XGBClassifier	CDDD	Recall	0.548
+Mono	PRR	Cvas	3	XGBClassifier	CDDD	Recall	0.58961
+Mono	PRR	Cvas	2	XGBClassifier	CDDD	Recall	0.74566
+Mono	PRR	Cvas	0	XGBClassifier	CDDD	Recall	0.45442
+Mono	PRR	Cred	1	XGBClassifier	CDDD	Specificity	0.60833
+Mono	PRR	Cred	4	XGBClassifier	CDDD	Specificity	0.66131
+Mono	PRR	Cred	3	XGBClassifier	CDDD	Specificity	0.63249
+Mono	PRR	Cred	2	XGBClassifier	CDDD	Specificity	0.45771
+Mono	PRR	Cred	0	XGBClassifier	CDDD	Specificity	0.57457
+Mono	PRR	Card	1	XGBClassifier	CDDD	Specificity	0.67381
+Mono	PRR	Card	4	XGBClassifier	CDDD	Specificity	0.65468
+Mono	PRR	Card	3	XGBClassifier	CDDD	Specificity	0.61077
+Mono	PRR	Card	2	XGBClassifier	CDDD	Specificity	0.45871
+Mono	PRR	Card	0	XGBClassifier	CDDD	Specificity	0.60861
+Mono	PRR	Cvas	1	XGBClassifier	CDDD	Specificity	0.67024
+Mono	PRR	Cvas	4	XGBClassifier	CDDD	Specificity	0.60927
+Mono	PRR	Cvas	3	XGBClassifier	CDDD	Specificity	0.56212
+Mono	PRR	Cvas	2	XGBClassifier	CDDD	Specificity	0.41194
+Mono	PRR	Cvas	0	XGBClassifier	CDDD	Specificity	0.54955
+Mono	PRR	Cred	1	XGBClassifier	CDDD	Precision	0.68607
+Mono	PRR	Cred	4	XGBClassifier	CDDD	Precision	0.72248
+Mono	PRR	Cred	3	XGBClassifier	CDDD	Precision	0.68003
+Mono	PRR	Cred	2	XGBClassifier	CDDD	Precision	0.65309
+Mono	PRR	Cred	0	XGBClassifier	CDDD	Precision	0.67054
+Mono	PRR	Card	1	XGBClassifier	CDDD	Precision	0.68213
+Mono	PRR	Card	4	XGBClassifier	CDDD	Precision	0.70777
+Mono	PRR	Card	3	XGBClassifier	CDDD	Precision	0.66691
+Mono	PRR	Card	2	XGBClassifier	CDDD	Precision	0.65635
+Mono	PRR	Card	0	XGBClassifier	CDDD	Precision	0.67143
+Mono	PRR	Cvas	1	XGBClassifier	CDDD	Precision	0.6745
+Mono	PRR	Cvas	4	XGBClassifier	CDDD	Precision	0.67608
+Mono	PRR	Cvas	3	XGBClassifier	CDDD	Precision	0.66197
+Mono	PRR	Cvas	2	XGBClassifier	CDDD	Precision	0.64483
+Mono	PRR	Cvas	0	XGBClassifier	CDDD	Precision	0.59929
+Mono	PRR	Cred	1	XGBClassifier	CDDD	PRC AUC	0.69533
+Mono	PRR	Cred	4	XGBClassifier	CDDD	PRC AUC	0.75142
+Mono	PRR	Cred	3	XGBClassifier	CDDD	PRC AUC	0.70932
+Mono	PRR	Cred	2	XGBClassifier	CDDD	PRC AUC	0.71845
+Mono	PRR	Cred	0	XGBClassifier	CDDD	PRC AUC	0.6784
+Mono	PRR	Card	1	XGBClassifier	CDDD	PRC AUC	0.69433
+Mono	PRR	Card	4	XGBClassifier	CDDD	PRC AUC	0.7379
+Mono	PRR	Card	3	XGBClassifier	CDDD	PRC AUC	0.69792
+Mono	PRR	Card	2	XGBClassifier	CDDD	PRC AUC	0.71488
+Mono	PRR	Card	0	XGBClassifier	CDDD	PRC AUC	0.69463
+Mono	PRR	Cvas	1	XGBClassifier	CDDD	PRC AUC	0.67695
+Mono	PRR	Cvas	4	XGBClassifier	CDDD	PRC AUC	0.66432
+Mono	PRR	Cvas	3	XGBClassifier	CDDD	PRC AUC	0.6727
+Mono	PRR	Cvas	2	XGBClassifier	CDDD	PRC AUC	0.70805
+Mono	PRR	Cvas	0	XGBClassifier	CDDD	PRC AUC	0.62205
+Mono	PRR	Cred	1	XGBClassifier	CDDD	ECE	0.14981
+Mono	PRR	Cred	4	XGBClassifier	CDDD	ECE	0.09614
+Mono	PRR	Cred	3	XGBClassifier	CDDD	ECE	0.1048
+Mono	PRR	Cred	2	XGBClassifier	CDDD	ECE	0.05516
+Mono	PRR	Cred	0	XGBClassifier	CDDD	ECE	0.11092
+Mono	PRR	Card	1	XGBClassifier	CDDD	ECE	0.16966
+Mono	PRR	Card	4	XGBClassifier	CDDD	ECE	0.09908
+Mono	PRR	Card	3	XGBClassifier	CDDD	ECE	0.11988
+Mono	PRR	Card	2	XGBClassifier	CDDD	ECE	0.04057
+Mono	PRR	Card	0	XGBClassifier	CDDD	ECE	0.11067
+Mono	PRR	Cvas	1	XGBClassifier	CDDD	ECE	0.15573
+Mono	PRR	Cvas	4	XGBClassifier	CDDD	ECE	0.11928
+Mono	PRR	Cvas	3	XGBClassifier	CDDD	ECE	0.09086
+Mono	PRR	Cvas	2	XGBClassifier	CDDD	ECE	0.02776
+Mono	PRR	Cvas	0	XGBClassifier	CDDD	ECE	0.15248
+Mono	PRR	Cred	1	XGBClassifier	CDDD	Brier	0.26871
+Mono	PRR	Cred	4	XGBClassifier	CDDD	Brier	0.22976
+Mono	PRR	Cred	3	XGBClassifier	CDDD	Brier	0.25094
+Mono	PRR	Cred	2	XGBClassifier	CDDD	Brier	0.23339
+Mono	PRR	Cred	0	XGBClassifier	CDDD	Brier	0.25139
+Mono	PRR	Card	1	XGBClassifier	CDDD	Brier	0.27434
+Mono	PRR	Card	4	XGBClassifier	CDDD	Brier	0.23436
+Mono	PRR	Card	3	XGBClassifier	CDDD	Brier	0.25677
+Mono	PRR	Card	2	XGBClassifier	CDDD	Brier	0.22929
+Mono	PRR	Card	0	XGBClassifier	CDDD	Brier	0.24835
+Mono	PRR	Cvas	1	XGBClassifier	CDDD	Brier	0.26673
+Mono	PRR	Cvas	4	XGBClassifier	CDDD	Brier	0.24661
+Mono	PRR	Cvas	3	XGBClassifier	CDDD	Brier	0.25086
+Mono	PRR	Cvas	2	XGBClassifier	CDDD	Brier	0.22931
+Mono	PRR	Cvas	0	XGBClassifier	CDDD	Brier	0.26032

@@ -1,0 +1,196 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Mono	ROR	Cred	1	XGBClassifier	ChemBERTa	Balanced Accuracy	0.57858
+Mono	ROR	Cred	4	XGBClassifier	ChemBERTa	Balanced Accuracy	0.58458
+Mono	ROR	Cred	3	XGBClassifier	ChemBERTa	Balanced Accuracy	0.56621
+Mono	ROR	Cred	2	XGBClassifier	ChemBERTa	Balanced Accuracy	0.59751
+Mono	ROR	Cred	0	XGBClassifier	ChemBERTa	Balanced Accuracy	0.55529
+Mono	ROR	Card	1	XGBClassifier	ChemBERTa	Balanced Accuracy	0.57681
+Mono	ROR	Card	4	XGBClassifier	ChemBERTa	Balanced Accuracy	0.5825
+Mono	ROR	Card	3	XGBClassifier	ChemBERTa	Balanced Accuracy	0.53288
+Mono	ROR	Card	2	XGBClassifier	ChemBERTa	Balanced Accuracy	0.58381
+Mono	ROR	Card	0	XGBClassifier	ChemBERTa	Balanced Accuracy	0.5635
+Mono	ROR	Cvas	1	XGBClassifier	ChemBERTa	Balanced Accuracy	0.58009
+Mono	ROR	Cvas	4	XGBClassifier	ChemBERTa	Balanced Accuracy	0.58029
+Mono	ROR	Cvas	3	XGBClassifier	ChemBERTa	Balanced Accuracy	0.55265
+Mono	ROR	Cvas	2	XGBClassifier	ChemBERTa	Balanced Accuracy	0.56654
+Mono	ROR	Cvas	0	XGBClassifier	ChemBERTa	Balanced Accuracy	0.53546
+Mono	ROR	Cred	1	XGBClassifier	ChemBERTa	GeomRS	0.56822
+Mono	ROR	Cred	4	XGBClassifier	ChemBERTa	GeomRS	0.58203
+Mono	ROR	Cred	3	XGBClassifier	ChemBERTa	GeomRS	0.5662
+Mono	ROR	Cred	2	XGBClassifier	ChemBERTa	GeomRS	0.59512
+Mono	ROR	Cred	0	XGBClassifier	ChemBERTa	GeomRS	0.5543
+Mono	ROR	Card	1	XGBClassifier	ChemBERTa	GeomRS	0.57372
+Mono	ROR	Card	4	XGBClassifier	ChemBERTa	GeomRS	0.58094
+Mono	ROR	Card	3	XGBClassifier	ChemBERTa	GeomRS	0.52744
+Mono	ROR	Card	2	XGBClassifier	ChemBERTa	GeomRS	0.58232
+Mono	ROR	Card	0	XGBClassifier	ChemBERTa	GeomRS	0.56333
+Mono	ROR	Cvas	1	XGBClassifier	ChemBERTa	GeomRS	0.55421
+Mono	ROR	Cvas	4	XGBClassifier	ChemBERTa	GeomRS	0.57143
+Mono	ROR	Cvas	3	XGBClassifier	ChemBERTa	GeomRS	0.55254
+Mono	ROR	Cvas	2	XGBClassifier	ChemBERTa	GeomRS	0.56096
+Mono	ROR	Cvas	0	XGBClassifier	ChemBERTa	GeomRS	0.53256
+Mono	ROR	Cred	1	XGBClassifier	ChemBERTa	HarmRS	0.55804
+Mono	ROR	Cred	4	XGBClassifier	ChemBERTa	HarmRS	0.57949
+Mono	ROR	Cred	3	XGBClassifier	ChemBERTa	HarmRS	0.56618
+Mono	ROR	Cred	2	XGBClassifier	ChemBERTa	HarmRS	0.59274
+Mono	ROR	Cred	0	XGBClassifier	ChemBERTa	HarmRS	0.55332
+Mono	ROR	Card	1	XGBClassifier	ChemBERTa	HarmRS	0.57065
+Mono	ROR	Card	4	XGBClassifier	ChemBERTa	HarmRS	0.57938
+Mono	ROR	Card	3	XGBClassifier	ChemBERTa	HarmRS	0.52207
+Mono	ROR	Card	2	XGBClassifier	ChemBERTa	HarmRS	0.58083
+Mono	ROR	Card	0	XGBClassifier	ChemBERTa	HarmRS	0.56317
+Mono	ROR	Cvas	1	XGBClassifier	ChemBERTa	HarmRS	0.52948
+Mono	ROR	Cvas	4	XGBClassifier	ChemBERTa	HarmRS	0.56269
+Mono	ROR	Cvas	3	XGBClassifier	ChemBERTa	HarmRS	0.55243
+Mono	ROR	Cvas	2	XGBClassifier	ChemBERTa	HarmRS	0.55544
+Mono	ROR	Cvas	0	XGBClassifier	ChemBERTa	HarmRS	0.52967
+Mono	ROR	Cred	1	XGBClassifier	ChemBERTa	F1 Score	0.55922
+Mono	ROR	Cred	4	XGBClassifier	ChemBERTa	F1 Score	0.59424
+Mono	ROR	Cred	3	XGBClassifier	ChemBERTa	F1 Score	0.60013
+Mono	ROR	Cred	2	XGBClassifier	ChemBERTa	F1 Score	0.65448
+Mono	ROR	Cred	0	XGBClassifier	ChemBERTa	F1 Score	0.6104
+Mono	ROR	Card	1	XGBClassifier	ChemBERTa	F1 Score	0.58725
+Mono	ROR	Card	4	XGBClassifier	ChemBERTa	F1 Score	0.59868
+Mono	ROR	Card	3	XGBClassifier	ChemBERTa	F1 Score	0.52507
+Mono	ROR	Card	2	XGBClassifier	ChemBERTa	F1 Score	0.63657
+Mono	ROR	Card	0	XGBClassifier	ChemBERTa	F1 Score	0.6085
+Mono	ROR	Cvas	1	XGBClassifier	ChemBERTa	F1 Score	0.51881
+Mono	ROR	Cvas	4	XGBClassifier	ChemBERTa	F1 Score	0.56269
+Mono	ROR	Cvas	3	XGBClassifier	ChemBERTa	F1 Score	0.59454
+Mono	ROR	Cvas	2	XGBClassifier	ChemBERTa	F1 Score	0.63747
+Mono	ROR	Cvas	0	XGBClassifier	ChemBERTa	F1 Score	0.603
+Mono	ROR	Cred	1	XGBClassifier	ChemBERTa	ROC AUC	0.62774
+Mono	ROR	Cred	4	XGBClassifier	ChemBERTa	ROC AUC	0.62441
+Mono	ROR	Cred	3	XGBClassifier	ChemBERTa	ROC AUC	0.6014
+Mono	ROR	Cred	2	XGBClassifier	ChemBERTa	ROC AUC	0.64183
+Mono	ROR	Cred	0	XGBClassifier	ChemBERTa	ROC AUC	0.57209
+Mono	ROR	Card	1	XGBClassifier	ChemBERTa	ROC AUC	0.61089
+Mono	ROR	Card	4	XGBClassifier	ChemBERTa	ROC AUC	0.61385
+Mono	ROR	Card	3	XGBClassifier	ChemBERTa	ROC AUC	0.55826
+Mono	ROR	Card	2	XGBClassifier	ChemBERTa	ROC AUC	0.6171
+Mono	ROR	Card	0	XGBClassifier	ChemBERTa	ROC AUC	0.57969
+Mono	ROR	Cvas	1	XGBClassifier	ChemBERTa	ROC AUC	0.60505
+Mono	ROR	Cvas	4	XGBClassifier	ChemBERTa	ROC AUC	0.61129
+Mono	ROR	Cvas	3	XGBClassifier	ChemBERTa	ROC AUC	0.59018
+Mono	ROR	Cvas	2	XGBClassifier	ChemBERTa	ROC AUC	0.61458
+Mono	ROR	Cvas	0	XGBClassifier	ChemBERTa	ROC AUC	0.56335
+Mono	ROR	Cred	1	XGBClassifier	ChemBERTa	MCC	0.15686
+Mono	ROR	Cred	4	XGBClassifier	ChemBERTa	MCC	0.16712
+Mono	ROR	Cred	3	XGBClassifier	ChemBERTa	MCC	0.13074
+Mono	ROR	Cred	2	XGBClassifier	ChemBERTa	MCC	0.19467
+Mono	ROR	Cred	0	XGBClassifier	ChemBERTa	MCC	0.10937
+Mono	ROR	Card	1	XGBClassifier	ChemBERTa	MCC	0.15124
+Mono	ROR	Card	4	XGBClassifier	ChemBERTa	MCC	0.16274
+Mono	ROR	Card	3	XGBClassifier	ChemBERTa	MCC	0.06557
+Mono	ROR	Card	2	XGBClassifier	ChemBERTa	MCC	0.16674
+Mono	ROR	Card	0	XGBClassifier	ChemBERTa	MCC	0.12531
+Mono	ROR	Cvas	1	XGBClassifier	ChemBERTa	MCC	0.16528
+Mono	ROR	Cvas	4	XGBClassifier	ChemBERTa	MCC	0.16058
+Mono	ROR	Cvas	3	XGBClassifier	ChemBERTa	MCC	0.10403
+Mono	ROR	Cvas	2	XGBClassifier	ChemBERTa	MCC	0.13375
+Mono	ROR	Cvas	0	XGBClassifier	ChemBERTa	MCC	0.07044
+Mono	ROR	Cred	1	XGBClassifier	ChemBERTa	Accuracy	0.55716
+Mono	ROR	Cred	4	XGBClassifier	ChemBERTa	Accuracy	0.57508
+Mono	ROR	Cred	3	XGBClassifier	ChemBERTa	Accuracy	0.56559
+Mono	ROR	Cred	2	XGBClassifier	ChemBERTa	Accuracy	0.60543
+Mono	ROR	Cred	0	XGBClassifier	ChemBERTa	Accuracy	0.56089
+Mono	ROR	Card	1	XGBClassifier	ChemBERTa	Accuracy	0.5651
+Mono	ROR	Card	4	XGBClassifier	ChemBERTa	Accuracy	0.57508
+Mono	ROR	Card	3	XGBClassifier	ChemBERTa	Accuracy	0.52078
+Mono	ROR	Card	2	XGBClassifier	ChemBERTa	Accuracy	0.58998
+Mono	ROR	Card	0	XGBClassifier	ChemBERTa	Accuracy	0.56581
+Mono	ROR	Cvas	1	XGBClassifier	ChemBERTa	Accuracy	0.54643
+Mono	ROR	Cvas	4	XGBClassifier	ChemBERTa	Accuracy	0.56269
+Mono	ROR	Cvas	3	XGBClassifier	ChemBERTa	Accuracy	0.55439
+Mono	ROR	Cvas	2	XGBClassifier	ChemBERTa	Accuracy	0.57829
+Mono	ROR	Cvas	0	XGBClassifier	ChemBERTa	Accuracy	0.5449
+Mono	ROR	Cred	1	XGBClassifier	ChemBERTa	Recall	0.46958
+Mono	ROR	Cred	4	XGBClassifier	ChemBERTa	Recall	0.52999
+Mono	ROR	Cred	3	XGBClassifier	ChemBERTa	Recall	0.56234
+Mono	ROR	Cred	2	XGBClassifier	ChemBERTa	Recall	0.65091
+Mono	ROR	Cred	0	XGBClassifier	ChemBERTa	Recall	0.58836
+Mono	ROR	Card	1	XGBClassifier	ChemBERTa	Recall	0.51716
+Mono	ROR	Card	4	XGBClassifier	ChemBERTa	Recall	0.53988
+Mono	ROR	Card	3	XGBClassifier	ChemBERTa	Recall	0.45698
+Mono	ROR	Card	2	XGBClassifier	ChemBERTa	Recall	0.62545
+Mono	ROR	Card	0	XGBClassifier	ChemBERTa	Recall	0.57714
+Mono	ROR	Cvas	1	XGBClassifier	ChemBERTa	Recall	0.40874
+Mono	ROR	Cvas	4	XGBClassifier	ChemBERTa	Recall	0.47924
+Mono	ROR	Cvas	3	XGBClassifier	ChemBERTa	Recall	0.56359
+Mono	ROR	Cvas	2	XGBClassifier	ChemBERTa	Recall	0.64582
+Mono	ROR	Cvas	0	XGBClassifier	ChemBERTa	Recall	0.59116
+Mono	ROR	Cred	1	XGBClassifier	ChemBERTa	Specificity	0.68757
+Mono	ROR	Cred	4	XGBClassifier	ChemBERTa	Specificity	0.63918
+Mono	ROR	Cred	3	XGBClassifier	ChemBERTa	Specificity	0.57008
+Mono	ROR	Cred	2	XGBClassifier	ChemBERTa	Specificity	0.54412
+Mono	ROR	Cred	0	XGBClassifier	ChemBERTa	Specificity	0.52221
+Mono	ROR	Card	1	XGBClassifier	ChemBERTa	Specificity	0.63647
+Mono	ROR	Card	4	XGBClassifier	ChemBERTa	Specificity	0.62512
+Mono	ROR	Card	3	XGBClassifier	ChemBERTa	Specificity	0.60877
+Mono	ROR	Card	2	XGBClassifier	ChemBERTa	Specificity	0.54216
+Mono	ROR	Card	0	XGBClassifier	ChemBERTa	Specificity	0.54985
+Mono	ROR	Cvas	1	XGBClassifier	ChemBERTa	Specificity	0.75145
+Mono	ROR	Cvas	4	XGBClassifier	ChemBERTa	Specificity	0.68135
+Mono	ROR	Cvas	3	XGBClassifier	ChemBERTa	Specificity	0.5417
+Mono	ROR	Cvas	2	XGBClassifier	ChemBERTa	Specificity	0.48725
+Mono	ROR	Cvas	0	XGBClassifier	ChemBERTa	Specificity	0.47976
+Mono	ROR	Cred	1	XGBClassifier	ChemBERTa	Precision	0.69116
+Mono	ROR	Cred	4	XGBClassifier	ChemBERTa	Precision	0.6762
+Mono	ROR	Cred	3	XGBClassifier	ChemBERTa	Precision	0.64337
+Mono	ROR	Cred	2	XGBClassifier	ChemBERTa	Precision	0.65809
+Mono	ROR	Cred	0	XGBClassifier	ChemBERTa	Precision	0.63416
+Mono	ROR	Card	1	XGBClassifier	ChemBERTa	Precision	0.6793
+Mono	ROR	Card	4	XGBClassifier	ChemBERTa	Precision	0.67186
+Mono	ROR	Card	3	XGBClassifier	ChemBERTa	Precision	0.617
+Mono	ROR	Card	2	XGBClassifier	ChemBERTa	Precision	0.64808
+Mono	ROR	Card	0	XGBClassifier	ChemBERTa	Precision	0.64347
+Mono	ROR	Cvas	1	XGBClassifier	ChemBERTa	Precision	0.71003
+Mono	ROR	Cvas	4	XGBClassifier	ChemBERTa	Precision	0.68135
+Mono	ROR	Cvas	3	XGBClassifier	ChemBERTa	Precision	0.62909
+Mono	ROR	Cvas	2	XGBClassifier	ChemBERTa	Precision	0.62934
+Mono	ROR	Cvas	0	XGBClassifier	ChemBERTa	Precision	0.61533
+Mono	ROR	Cred	1	XGBClassifier	ChemBERTa	PRC AUC	0.71599
+Mono	ROR	Cred	4	XGBClassifier	ChemBERTa	PRC AUC	0.69196
+Mono	ROR	Cred	3	XGBClassifier	ChemBERTa	PRC AUC	0.68153
+Mono	ROR	Cred	2	XGBClassifier	ChemBERTa	PRC AUC	0.69567
+Mono	ROR	Cred	0	XGBClassifier	ChemBERTa	PRC AUC	0.63966
+Mono	ROR	Card	1	XGBClassifier	ChemBERTa	PRC AUC	0.70704
+Mono	ROR	Card	4	XGBClassifier	ChemBERTa	PRC AUC	0.68459
+Mono	ROR	Card	3	XGBClassifier	ChemBERTa	PRC AUC	0.65227
+Mono	ROR	Card	2	XGBClassifier	ChemBERTa	PRC AUC	0.6584
+Mono	ROR	Card	0	XGBClassifier	ChemBERTa	PRC AUC	0.65452
+Mono	ROR	Cvas	1	XGBClassifier	ChemBERTa	PRC AUC	0.7155
+Mono	ROR	Cvas	4	XGBClassifier	ChemBERTa	PRC AUC	0.68099
+Mono	ROR	Cvas	3	XGBClassifier	ChemBERTa	PRC AUC	0.68059
+Mono	ROR	Cvas	2	XGBClassifier	ChemBERTa	PRC AUC	0.69614
+Mono	ROR	Cvas	0	XGBClassifier	ChemBERTa	PRC AUC	0.65753
+Mono	ROR	Cred	1	XGBClassifier	ChemBERTa	ECE	0.13448
+Mono	ROR	Cred	4	XGBClassifier	ChemBERTa	ECE	0.11574
+Mono	ROR	Cred	3	XGBClassifier	ChemBERTa	ECE	0.10811
+Mono	ROR	Cred	2	XGBClassifier	ChemBERTa	ECE	0.06759
+Mono	ROR	Cred	0	XGBClassifier	ChemBERTa	ECE	0.12889
+Mono	ROR	Card	1	XGBClassifier	ChemBERTa	ECE	0.13586
+Mono	ROR	Card	4	XGBClassifier	ChemBERTa	ECE	0.11409
+Mono	ROR	Card	3	XGBClassifier	ChemBERTa	ECE	0.13253
+Mono	ROR	Card	2	XGBClassifier	ChemBERTa	ECE	0.07571
+Mono	ROR	Card	0	XGBClassifier	ChemBERTa	ECE	0.10688
+Mono	ROR	Cvas	1	XGBClassifier	ChemBERTa	ECE	0.1573
+Mono	ROR	Cvas	4	XGBClassifier	ChemBERTa	ECE	0.11914
+Mono	ROR	Cvas	3	XGBClassifier	ChemBERTa	ECE	0.08806
+Mono	ROR	Cvas	2	XGBClassifier	ChemBERTa	ECE	0.07899
+Mono	ROR	Cvas	0	XGBClassifier	ChemBERTa	ECE	0.10547
+Mono	ROR	Cred	1	XGBClassifier	ChemBERTa	Brier	0.25207
+Mono	ROR	Cred	4	XGBClassifier	ChemBERTa	Brier	0.25106
+Mono	ROR	Cred	3	XGBClassifier	ChemBERTa	Brier	0.25147
+Mono	ROR	Cred	2	XGBClassifier	ChemBERTa	Brier	0.23537
+Mono	ROR	Cred	0	XGBClassifier	ChemBERTa	Brier	0.26358
+Mono	ROR	Card	1	XGBClassifier	ChemBERTa	Brier	0.25804
+Mono	ROR	Card	4	XGBClassifier	ChemBERTa	Brier	0.25567
+Mono	ROR	Card	3	XGBClassifier	ChemBERTa	Brier	0.26593
+Mono	ROR	Card	2	XGBClassifier	ChemBERTa	Brier	0.24194
+Mono	ROR	Card	0	XGBClassifier	ChemBERTa	Brier	0.2581
+Mono	ROR	Cvas	1	XGBClassifier	ChemBERTa	Brier	0.26043
+Mono	ROR	Cvas	4	XGBClassifier	ChemBERTa	Brier	0.24928
+Mono	ROR	Cvas	3	XGBClassifier	ChemBERTa	Brier	0.2491
+Mono	ROR	Cvas	2	XGBClassifier	ChemBERTa	Brier	0.24027
+Mono	ROR	Cvas	0	XGBClassifier	ChemBERTa	Brier	0.25909

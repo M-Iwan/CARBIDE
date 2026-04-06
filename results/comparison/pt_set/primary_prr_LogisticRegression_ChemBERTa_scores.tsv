@@ -1,0 +1,196 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Primary	PRR	Cred	1	LogisticRegression	ChemBERTa	Balanced Accuracy	0.43568
+Primary	PRR	Cred	0	LogisticRegression	ChemBERTa	Balanced Accuracy	0.46947
+Primary	PRR	Cred	3	LogisticRegression	ChemBERTa	Balanced Accuracy	0.50792
+Primary	PRR	Cred	2	LogisticRegression	ChemBERTa	Balanced Accuracy	0.47923
+Primary	PRR	Cred	4	LogisticRegression	ChemBERTa	Balanced Accuracy	0.48495
+Primary	PRR	Card	1	LogisticRegression	ChemBERTa	Balanced Accuracy	0.43077
+Primary	PRR	Card	0	LogisticRegression	ChemBERTa	Balanced Accuracy	0.48627
+Primary	PRR	Card	3	LogisticRegression	ChemBERTa	Balanced Accuracy	0.48359
+Primary	PRR	Card	2	LogisticRegression	ChemBERTa	Balanced Accuracy	0.50435
+Primary	PRR	Card	4	LogisticRegression	ChemBERTa	Balanced Accuracy	0.48805
+Primary	PRR	Cvas	1	LogisticRegression	ChemBERTa	Balanced Accuracy	0.49644
+Primary	PRR	Cvas	0	LogisticRegression	ChemBERTa	Balanced Accuracy	0.48122
+Primary	PRR	Cvas	3	LogisticRegression	ChemBERTa	Balanced Accuracy	0.50936
+Primary	PRR	Cvas	2	LogisticRegression	ChemBERTa	Balanced Accuracy	0.54254
+Primary	PRR	Cvas	4	LogisticRegression	ChemBERTa	Balanced Accuracy	0.49766
+Primary	PRR	Cred	1	LogisticRegression	ChemBERTa	GeomRS	0.43493
+Primary	PRR	Cred	0	LogisticRegression	ChemBERTa	GeomRS	0.46941
+Primary	PRR	Cred	3	LogisticRegression	ChemBERTa	GeomRS	0.50488
+Primary	PRR	Cred	2	LogisticRegression	ChemBERTa	GeomRS	0.47895
+Primary	PRR	Cred	4	LogisticRegression	ChemBERTa	GeomRS	0.48483
+Primary	PRR	Card	1	LogisticRegression	ChemBERTa	GeomRS	0.43077
+Primary	PRR	Card	0	LogisticRegression	ChemBERTa	GeomRS	0.48539
+Primary	PRR	Card	3	LogisticRegression	ChemBERTa	GeomRS	0.46978
+Primary	PRR	Card	2	LogisticRegression	ChemBERTa	GeomRS	0.50388
+Primary	PRR	Card	4	LogisticRegression	ChemBERTa	GeomRS	0.48739
+Primary	PRR	Cvas	1	LogisticRegression	ChemBERTa	GeomRS	0.496
+Primary	PRR	Cvas	0	LogisticRegression	ChemBERTa	GeomRS	0.47801
+Primary	PRR	Cvas	3	LogisticRegression	ChemBERTa	GeomRS	0.50936
+Primary	PRR	Cvas	2	LogisticRegression	ChemBERTa	GeomRS	0.53694
+Primary	PRR	Cvas	4	LogisticRegression	ChemBERTa	GeomRS	0.49762
+Primary	PRR	Cred	1	LogisticRegression	ChemBERTa	HarmRS	0.43418
+Primary	PRR	Cred	0	LogisticRegression	ChemBERTa	HarmRS	0.46935
+Primary	PRR	Cred	3	LogisticRegression	ChemBERTa	HarmRS	0.50187
+Primary	PRR	Cred	2	LogisticRegression	ChemBERTa	HarmRS	0.47866
+Primary	PRR	Cred	4	LogisticRegression	ChemBERTa	HarmRS	0.4847
+Primary	PRR	Card	1	LogisticRegression	ChemBERTa	HarmRS	0.43077
+Primary	PRR	Card	0	LogisticRegression	ChemBERTa	HarmRS	0.48452
+Primary	PRR	Card	3	LogisticRegression	ChemBERTa	HarmRS	0.45636
+Primary	PRR	Card	2	LogisticRegression	ChemBERTa	HarmRS	0.50341
+Primary	PRR	Card	4	LogisticRegression	ChemBERTa	HarmRS	0.48673
+Primary	PRR	Cvas	1	LogisticRegression	ChemBERTa	HarmRS	0.49557
+Primary	PRR	Cvas	0	LogisticRegression	ChemBERTa	HarmRS	0.47482
+Primary	PRR	Cvas	3	LogisticRegression	ChemBERTa	HarmRS	0.50936
+Primary	PRR	Cvas	2	LogisticRegression	ChemBERTa	HarmRS	0.5314
+Primary	PRR	Cvas	4	LogisticRegression	ChemBERTa	HarmRS	0.49758
+Primary	PRR	Cred	1	LogisticRegression	ChemBERTa	F1 Score	0.47979
+Primary	PRR	Cred	0	LogisticRegression	ChemBERTa	F1 Score	0.52535
+Primary	PRR	Cred	3	LogisticRegression	ChemBERTa	F1 Score	0.52167
+Primary	PRR	Cred	2	LogisticRegression	ChemBERTa	F1 Score	0.51907
+Primary	PRR	Cred	4	LogisticRegression	ChemBERTa	F1 Score	0.52381
+Primary	PRR	Card	1	LogisticRegression	ChemBERTa	F1 Score	0.49291
+Primary	PRR	Card	0	LogisticRegression	ChemBERTa	F1 Score	0.55499
+Primary	PRR	Card	3	LogisticRegression	ChemBERTa	F1 Score	0.453
+Primary	PRR	Card	2	LogisticRegression	ChemBERTa	F1 Score	0.56746
+Primary	PRR	Card	4	LogisticRegression	ChemBERTa	F1 Score	0.50537
+Primary	PRR	Cvas	1	LogisticRegression	ChemBERTa	F1 Score	0.54545
+Primary	PRR	Cvas	0	LogisticRegression	ChemBERTa	F1 Score	0.56542
+Primary	PRR	Cvas	3	LogisticRegression	ChemBERTa	F1 Score	0.5582
+Primary	PRR	Cvas	2	LogisticRegression	ChemBERTa	F1 Score	0.633
+Primary	PRR	Cvas	4	LogisticRegression	ChemBERTa	F1 Score	0.53377
+Primary	PRR	Cred	1	LogisticRegression	ChemBERTa	ROC AUC	0.42454
+Primary	PRR	Cred	0	LogisticRegression	ChemBERTa	ROC AUC	0.44851
+Primary	PRR	Cred	3	LogisticRegression	ChemBERTa	ROC AUC	0.51394
+Primary	PRR	Cred	2	LogisticRegression	ChemBERTa	ROC AUC	0.49337
+Primary	PRR	Cred	4	LogisticRegression	ChemBERTa	ROC AUC	0.47053
+Primary	PRR	Card	1	LogisticRegression	ChemBERTa	ROC AUC	0.4151
+Primary	PRR	Card	0	LogisticRegression	ChemBERTa	ROC AUC	0.46425
+Primary	PRR	Card	3	LogisticRegression	ChemBERTa	ROC AUC	0.46422
+Primary	PRR	Card	2	LogisticRegression	ChemBERTa	ROC AUC	0.50692
+Primary	PRR	Card	4	LogisticRegression	ChemBERTa	ROC AUC	0.44913
+Primary	PRR	Cvas	1	LogisticRegression	ChemBERTa	ROC AUC	0.53282
+Primary	PRR	Cvas	0	LogisticRegression	ChemBERTa	ROC AUC	0.48253
+Primary	PRR	Cvas	3	LogisticRegression	ChemBERTa	ROC AUC	0.52879
+Primary	PRR	Cvas	2	LogisticRegression	ChemBERTa	ROC AUC	0.55066
+Primary	PRR	Cvas	4	LogisticRegression	ChemBERTa	ROC AUC	0.46389
+Primary	PRR	Cred	1	LogisticRegression	ChemBERTa	MCC	-0.12378
+Primary	PRR	Cred	0	LogisticRegression	ChemBERTa	MCC	-0.05946
+Primary	PRR	Cred	3	LogisticRegression	ChemBERTa	MCC	0.01556
+Primary	PRR	Cred	2	LogisticRegression	ChemBERTa	MCC	-0.04052
+Primary	PRR	Cred	4	LogisticRegression	ChemBERTa	MCC	-0.02981
+Primary	PRR	Card	1	LogisticRegression	ChemBERTa	MCC	-0.1328
+Primary	PRR	Card	0	LogisticRegression	ChemBERTa	MCC	-0.02679
+Primary	PRR	Card	3	LogisticRegression	ChemBERTa	MCC	-0.03299
+Primary	PRR	Card	2	LogisticRegression	ChemBERTa	MCC	0.0085
+Primary	PRR	Card	4	LogisticRegression	ChemBERTa	MCC	-0.0237
+Primary	PRR	Cvas	1	LogisticRegression	ChemBERTa	MCC	-0.00683
+Primary	PRR	Cvas	0	LogisticRegression	ChemBERTa	MCC	-0.03678
+Primary	PRR	Cvas	3	LogisticRegression	ChemBERTa	MCC	0.01828
+Primary	PRR	Cvas	2	LogisticRegression	ChemBERTa	MCC	0.08422
+Primary	PRR	Cvas	4	LogisticRegression	ChemBERTa	MCC	-0.00463
+Primary	PRR	Cred	1	LogisticRegression	ChemBERTa	Accuracy	0.42839
+Primary	PRR	Cred	0	LogisticRegression	ChemBERTa	Accuracy	0.47118
+Primary	PRR	Cred	3	LogisticRegression	ChemBERTa	Accuracy	0.49601
+Primary	PRR	Cred	2	LogisticRegression	ChemBERTa	Accuracy	0.47551
+Primary	PRR	Cred	4	LogisticRegression	ChemBERTa	Accuracy	0.4865
+Primary	PRR	Card	1	LogisticRegression	ChemBERTa	Accuracy	0.4307
+Primary	PRR	Card	0	LogisticRegression	ChemBERTa	Accuracy	0.49288
+Primary	PRR	Card	3	LogisticRegression	ChemBERTa	Accuracy	0.45894
+Primary	PRR	Card	2	LogisticRegression	ChemBERTa	Accuracy	0.50923
+Primary	PRR	Card	4	LogisticRegression	ChemBERTa	Accuracy	0.48453
+Primary	PRR	Cvas	1	LogisticRegression	ChemBERTa	Accuracy	0.4905
+Primary	PRR	Cvas	0	LogisticRegression	ChemBERTa	Accuracy	0.49382
+Primary	PRR	Cvas	3	LogisticRegression	ChemBERTa	Accuracy	0.50952
+Primary	PRR	Cvas	2	LogisticRegression	ChemBERTa	Accuracy	0.55993
+Primary	PRR	Cvas	4	LogisticRegression	ChemBERTa	Accuracy	0.49857
+Primary	PRR	Cred	1	LogisticRegression	ChemBERTa	Recall	0.41014
+Primary	PRR	Cred	0	LogisticRegression	ChemBERTa	Recall	0.47699
+Primary	PRR	Cred	3	LogisticRegression	ChemBERTa	Recall	0.45246
+Primary	PRR	Cred	2	LogisticRegression	ChemBERTa	Recall	0.46259
+Primary	PRR	Cred	4	LogisticRegression	ChemBERTa	Recall	0.49614
+Primary	PRR	Card	1	LogisticRegression	ChemBERTa	Recall	0.43051
+Primary	PRR	Card	0	LogisticRegression	ChemBERTa	Recall	0.51541
+Primary	PRR	Card	3	LogisticRegression	ChemBERTa	Recall	0.36885
+Primary	PRR	Card	2	LogisticRegression	ChemBERTa	Recall	0.52615
+Primary	PRR	Card	4	LogisticRegression	ChemBERTa	Recall	0.46261
+Primary	PRR	Cvas	1	LogisticRegression	ChemBERTa	Recall	0.47564
+Primary	PRR	Cvas	0	LogisticRegression	ChemBERTa	Recall	0.53671
+Primary	PRR	Cvas	3	LogisticRegression	ChemBERTa	Recall	0.51011
+Primary	PRR	Cvas	2	LogisticRegression	ChemBERTa	Recall	0.62027
+Primary	PRR	Cvas	4	LogisticRegression	ChemBERTa	Recall	0.50424
+Primary	PRR	Cred	1	LogisticRegression	ChemBERTa	Specificity	0.46121
+Primary	PRR	Cred	0	LogisticRegression	ChemBERTa	Specificity	0.46196
+Primary	PRR	Cred	3	LogisticRegression	ChemBERTa	Specificity	0.56338
+Primary	PRR	Cred	2	LogisticRegression	ChemBERTa	Specificity	0.49588
+Primary	PRR	Cred	4	LogisticRegression	ChemBERTa	Specificity	0.47376
+Primary	PRR	Card	1	LogisticRegression	ChemBERTa	Specificity	0.43103
+Primary	PRR	Card	0	LogisticRegression	ChemBERTa	Specificity	0.45713
+Primary	PRR	Card	3	LogisticRegression	ChemBERTa	Specificity	0.59833
+Primary	PRR	Card	2	LogisticRegression	ChemBERTa	Specificity	0.48256
+Primary	PRR	Card	4	LogisticRegression	ChemBERTa	Specificity	0.5135
+Primary	PRR	Cvas	1	LogisticRegression	ChemBERTa	Specificity	0.51724
+Primary	PRR	Cvas	0	LogisticRegression	ChemBERTa	Specificity	0.42572
+Primary	PRR	Cvas	3	LogisticRegression	ChemBERTa	Specificity	0.50861
+Primary	PRR	Cvas	2	LogisticRegression	ChemBERTa	Specificity	0.46481
+Primary	PRR	Cvas	4	LogisticRegression	ChemBERTa	Specificity	0.49109
+Primary	PRR	Cred	1	LogisticRegression	ChemBERTa	Precision	0.57794
+Primary	PRR	Cred	0	LogisticRegression	ChemBERTa	Precision	0.58462
+Primary	PRR	Cred	3	LogisticRegression	ChemBERTa	Precision	0.61588
+Primary	PRR	Cred	2	LogisticRegression	ChemBERTa	Precision	0.59126
+Primary	PRR	Cred	4	LogisticRegression	ChemBERTa	Precision	0.55474
+Primary	PRR	Card	1	LogisticRegression	ChemBERTa	Precision	0.57647
+Primary	PRR	Card	0	LogisticRegression	ChemBERTa	Precision	0.60115
+Primary	PRR	Card	3	LogisticRegression	ChemBERTa	Precision	0.58691
+Primary	PRR	Card	2	LogisticRegression	ChemBERTa	Precision	0.61582
+Primary	PRR	Card	4	LogisticRegression	ChemBERTa	Precision	0.55684
+Primary	PRR	Cvas	1	LogisticRegression	ChemBERTa	Precision	0.63929
+Primary	PRR	Cvas	0	LogisticRegression	ChemBERTa	Precision	0.59738
+Primary	PRR	Cvas	3	LogisticRegression	ChemBERTa	Precision	0.61629
+Primary	PRR	Cvas	2	LogisticRegression	ChemBERTa	Precision	0.64627
+Primary	PRR	Cvas	4	LogisticRegression	ChemBERTa	Precision	0.56697
+Primary	PRR	Cred	1	LogisticRegression	ChemBERTa	PRC AUC	0.58528
+Primary	PRR	Cred	0	LogisticRegression	ChemBERTa	PRC AUC	0.58723
+Primary	PRR	Cred	3	LogisticRegression	ChemBERTa	PRC AUC	0.61258
+Primary	PRR	Cred	2	LogisticRegression	ChemBERTa	PRC AUC	0.63397
+Primary	PRR	Cred	4	LogisticRegression	ChemBERTa	PRC AUC	0.54837
+Primary	PRR	Card	1	LogisticRegression	ChemBERTa	PRC AUC	0.58102
+Primary	PRR	Card	0	LogisticRegression	ChemBERTa	PRC AUC	0.59291
+Primary	PRR	Card	3	LogisticRegression	ChemBERTa	PRC AUC	0.59347
+Primary	PRR	Card	2	LogisticRegression	ChemBERTa	PRC AUC	0.62793
+Primary	PRR	Card	4	LogisticRegression	ChemBERTa	PRC AUC	0.54017
+Primary	PRR	Cvas	1	LogisticRegression	ChemBERTa	PRC AUC	0.66969
+Primary	PRR	Cvas	0	LogisticRegression	ChemBERTa	PRC AUC	0.61463
+Primary	PRR	Cvas	3	LogisticRegression	ChemBERTa	PRC AUC	0.64828
+Primary	PRR	Cvas	2	LogisticRegression	ChemBERTa	PRC AUC	0.66054
+Primary	PRR	Cvas	4	LogisticRegression	ChemBERTa	PRC AUC	0.54581
+Primary	PRR	Cred	1	LogisticRegression	ChemBERTa	ECE	0.33085
+Primary	PRR	Cred	0	LogisticRegression	ChemBERTa	ECE	0.20743
+Primary	PRR	Cred	3	LogisticRegression	ChemBERTa	ECE	0.25742
+Primary	PRR	Cred	2	LogisticRegression	ChemBERTa	ECE	0.11801
+Primary	PRR	Cred	4	LogisticRegression	ChemBERTa	ECE	0.26627
+Primary	PRR	Card	1	LogisticRegression	ChemBERTa	ECE	0.31642
+Primary	PRR	Card	0	LogisticRegression	ChemBERTa	ECE	0.17768
+Primary	PRR	Card	3	LogisticRegression	ChemBERTa	ECE	0.12299
+Primary	PRR	Card	2	LogisticRegression	ChemBERTa	ECE	0.11061
+Primary	PRR	Card	4	LogisticRegression	ChemBERTa	ECE	0.29883
+Primary	PRR	Cvas	1	LogisticRegression	ChemBERTa	ECE	0.14454
+Primary	PRR	Cvas	0	LogisticRegression	ChemBERTa	ECE	0.18664
+Primary	PRR	Cvas	3	LogisticRegression	ChemBERTa	ECE	0.16246
+Primary	PRR	Cvas	2	LogisticRegression	ChemBERTa	ECE	0.09786
+Primary	PRR	Cvas	4	LogisticRegression	ChemBERTa	ECE	0.25753
+Primary	PRR	Cred	1	LogisticRegression	ChemBERTa	Brier	0.37412
+Primary	PRR	Cred	0	LogisticRegression	ChemBERTa	Brier	0.30665
+Primary	PRR	Cred	3	LogisticRegression	ChemBERTa	Brier	0.33337
+Primary	PRR	Cred	2	LogisticRegression	ChemBERTa	Brier	0.26076
+Primary	PRR	Cred	4	LogisticRegression	ChemBERTa	Brier	0.35053
+Primary	PRR	Card	1	LogisticRegression	ChemBERTa	Brier	0.3697
+Primary	PRR	Card	0	LogisticRegression	ChemBERTa	Brier	0.29
+Primary	PRR	Card	3	LogisticRegression	ChemBERTa	Brier	0.26058
+Primary	PRR	Card	2	LogisticRegression	ChemBERTa	Brier	0.25726
+Primary	PRR	Card	4	LogisticRegression	ChemBERTa	Brier	0.37047
+Primary	PRR	Cvas	1	LogisticRegression	ChemBERTa	Brier	0.25017
+Primary	PRR	Cvas	0	LogisticRegression	ChemBERTa	Brier	0.2887
+Primary	PRR	Cvas	3	LogisticRegression	ChemBERTa	Brier	0.2748
+Primary	PRR	Cvas	2	LogisticRegression	ChemBERTa	Brier	0.25552
+Primary	PRR	Cvas	4	LogisticRegression	ChemBERTa	Brier	0.34447
