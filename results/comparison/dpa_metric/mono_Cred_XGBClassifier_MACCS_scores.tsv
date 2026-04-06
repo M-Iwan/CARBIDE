@@ -1,0 +1,196 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Mono	PRR	Cred	1	XGBClassifier	MACCS	Balanced Accuracy	0.55861
+Mono	PRR	Cred	4	XGBClassifier	MACCS	Balanced Accuracy	0.59094
+Mono	PRR	Cred	3	XGBClassifier	MACCS	Balanced Accuracy	0.56706
+Mono	PRR	Cred	2	XGBClassifier	MACCS	Balanced Accuracy	0.598
+Mono	PRR	Cred	0	XGBClassifier	MACCS	Balanced Accuracy	0.56208
+Mono	ROR	Cred	1	XGBClassifier	MACCS	Balanced Accuracy	0.56187
+Mono	ROR	Cred	4	XGBClassifier	MACCS	Balanced Accuracy	0.57625
+Mono	ROR	Cred	3	XGBClassifier	MACCS	Balanced Accuracy	0.57688
+Mono	ROR	Cred	2	XGBClassifier	MACCS	Balanced Accuracy	0.60803
+Mono	ROR	Cred	0	XGBClassifier	MACCS	Balanced Accuracy	0.59365
+Mono	IC	Cred	1	XGBClassifier	MACCS	Balanced Accuracy	0.5235
+Mono	IC	Cred	4	XGBClassifier	MACCS	Balanced Accuracy	0.55901
+Mono	IC	Cred	3	XGBClassifier	MACCS	Balanced Accuracy	0.55229
+Mono	IC	Cred	2	XGBClassifier	MACCS	Balanced Accuracy	0.57058
+Mono	IC	Cred	0	XGBClassifier	MACCS	Balanced Accuracy	0.56319
+Mono	PRR	Cred	1	XGBClassifier	MACCS	GeomRS	0.52856
+Mono	PRR	Cred	4	XGBClassifier	MACCS	GeomRS	0.58556
+Mono	PRR	Cred	3	XGBClassifier	MACCS	GeomRS	0.56302
+Mono	PRR	Cred	2	XGBClassifier	MACCS	GeomRS	0.59784
+Mono	PRR	Cred	0	XGBClassifier	MACCS	GeomRS	0.55483
+Mono	ROR	Cred	1	XGBClassifier	MACCS	GeomRS	0.54937
+Mono	ROR	Cred	4	XGBClassifier	MACCS	GeomRS	0.55886
+Mono	ROR	Cred	3	XGBClassifier	MACCS	GeomRS	0.56774
+Mono	ROR	Cred	2	XGBClassifier	MACCS	GeomRS	0.60746
+Mono	ROR	Cred	0	XGBClassifier	MACCS	GeomRS	0.59269
+Mono	IC	Cred	1	XGBClassifier	MACCS	GeomRS	0.51942
+Mono	IC	Cred	4	XGBClassifier	MACCS	GeomRS	0.53837
+Mono	IC	Cred	3	XGBClassifier	MACCS	GeomRS	0.5276
+Mono	IC	Cred	2	XGBClassifier	MACCS	GeomRS	0.5198
+Mono	IC	Cred	0	XGBClassifier	MACCS	GeomRS	0.51211
+Mono	PRR	Cred	1	XGBClassifier	MACCS	HarmRS	0.50013
+Mono	PRR	Cred	4	XGBClassifier	MACCS	HarmRS	0.58023
+Mono	PRR	Cred	3	XGBClassifier	MACCS	HarmRS	0.55901
+Mono	PRR	Cred	2	XGBClassifier	MACCS	HarmRS	0.59769
+Mono	PRR	Cred	0	XGBClassifier	MACCS	HarmRS	0.54768
+Mono	ROR	Cred	1	XGBClassifier	MACCS	HarmRS	0.53714
+Mono	ROR	Cred	4	XGBClassifier	MACCS	HarmRS	0.54198
+Mono	ROR	Cred	3	XGBClassifier	MACCS	HarmRS	0.55874
+Mono	ROR	Cred	2	XGBClassifier	MACCS	HarmRS	0.60689
+Mono	ROR	Cred	0	XGBClassifier	MACCS	HarmRS	0.59174
+Mono	IC	Cred	1	XGBClassifier	MACCS	HarmRS	0.51537
+Mono	IC	Cred	4	XGBClassifier	MACCS	HarmRS	0.51849
+Mono	IC	Cred	3	XGBClassifier	MACCS	HarmRS	0.50401
+Mono	IC	Cred	2	XGBClassifier	MACCS	HarmRS	0.47354
+Mono	IC	Cred	0	XGBClassifier	MACCS	HarmRS	0.46565
+Mono	PRR	Cred	1	XGBClassifier	MACCS	F1 Score	0.47884
+Mono	PRR	Cred	4	XGBClassifier	MACCS	F1 Score	0.58349
+Mono	PRR	Cred	3	XGBClassifier	MACCS	F1 Score	0.56198
+Mono	PRR	Cred	2	XGBClassifier	MACCS	F1 Score	0.63545
+Mono	PRR	Cred	0	XGBClassifier	MACCS	F1 Score	0.5438
+Mono	ROR	Cred	1	XGBClassifier	MACCS	F1 Score	0.52538
+Mono	ROR	Cred	4	XGBClassifier	MACCS	F1 Score	0.53031
+Mono	ROR	Cred	3	XGBClassifier	MACCS	F1 Score	0.55223
+Mono	ROR	Cred	2	XGBClassifier	MACCS	F1 Score	0.65061
+Mono	ROR	Cred	0	XGBClassifier	MACCS	F1 Score	0.60769
+Mono	IC	Cred	1	XGBClassifier	MACCS	F1 Score	0.5872
+Mono	IC	Cred	4	XGBClassifier	MACCS	F1 Score	0.66217
+Mono	IC	Cred	3	XGBClassifier	MACCS	F1 Score	0.6563
+Mono	IC	Cred	2	XGBClassifier	MACCS	F1 Score	0.69851
+Mono	IC	Cred	0	XGBClassifier	MACCS	F1 Score	0.69136
+Mono	PRR	Cred	1	XGBClassifier	MACCS	ROC AUC	0.56883
+Mono	PRR	Cred	4	XGBClassifier	MACCS	ROC AUC	0.613
+Mono	PRR	Cred	3	XGBClassifier	MACCS	ROC AUC	0.57972
+Mono	PRR	Cred	2	XGBClassifier	MACCS	ROC AUC	0.62809
+Mono	PRR	Cred	0	XGBClassifier	MACCS	ROC AUC	0.59878
+Mono	ROR	Cred	1	XGBClassifier	MACCS	ROC AUC	0.57691
+Mono	ROR	Cred	4	XGBClassifier	MACCS	ROC AUC	0.60979
+Mono	ROR	Cred	3	XGBClassifier	MACCS	ROC AUC	0.61134
+Mono	ROR	Cred	2	XGBClassifier	MACCS	ROC AUC	0.63569
+Mono	ROR	Cred	0	XGBClassifier	MACCS	ROC AUC	0.62868
+Mono	IC	Cred	1	XGBClassifier	MACCS	ROC AUC	0.54286
+Mono	IC	Cred	4	XGBClassifier	MACCS	ROC AUC	0.61364
+Mono	IC	Cred	3	XGBClassifier	MACCS	ROC AUC	0.57823
+Mono	IC	Cred	2	XGBClassifier	MACCS	ROC AUC	0.62709
+Mono	IC	Cred	0	XGBClassifier	MACCS	ROC AUC	0.60243
+Mono	PRR	Cred	1	XGBClassifier	MACCS	MCC	0.12387
+Mono	PRR	Cred	4	XGBClassifier	MACCS	MCC	0.18126
+Mono	PRR	Cred	3	XGBClassifier	MACCS	MCC	0.13381
+Mono	PRR	Cred	2	XGBClassifier	MACCS	MCC	0.19437
+Mono	PRR	Cred	0	XGBClassifier	MACCS	MCC	0.12466
+Mono	ROR	Cred	1	XGBClassifier	MACCS	MCC	0.12574
+Mono	ROR	Cred	4	XGBClassifier	MACCS	MCC	0.15594
+Mono	ROR	Cred	3	XGBClassifier	MACCS	MCC	0.15499
+Mono	ROR	Cred	2	XGBClassifier	MACCS	MCC	0.21467
+Mono	ROR	Cred	0	XGBClassifier	MACCS	MCC	0.1857
+Mono	IC	Cred	1	XGBClassifier	MACCS	MCC	0.04704
+Mono	IC	Cred	4	XGBClassifier	MACCS	MCC	0.12305
+Mono	IC	Cred	3	XGBClassifier	MACCS	MCC	0.11021
+Mono	IC	Cred	2	XGBClassifier	MACCS	MCC	0.16037
+Mono	IC	Cred	0	XGBClassifier	MACCS	MCC	0.14326
+Mono	PRR	Cred	1	XGBClassifier	MACCS	Accuracy	0.53499
+Mono	PRR	Cred	4	XGBClassifier	MACCS	Accuracy	0.57868
+Mono	PRR	Cred	3	XGBClassifier	MACCS	Accuracy	0.55789
+Mono	PRR	Cred	2	XGBClassifier	MACCS	Accuracy	0.59993
+Mono	PRR	Cred	0	XGBClassifier	MACCS	Accuracy	0.54978
+Mono	ROR	Cred	1	XGBClassifier	MACCS	Accuracy	0.54646
+Mono	ROR	Cred	4	XGBClassifier	MACCS	Accuracy	0.55459
+Mono	ROR	Cred	3	XGBClassifier	MACCS	Accuracy	0.56301
+Mono	ROR	Cred	2	XGBClassifier	MACCS	Accuracy	0.61171
+Mono	ROR	Cred	0	XGBClassifier	MACCS	Accuracy	0.58905
+Mono	IC	Cred	1	XGBClassifier	MACCS	Accuracy	0.53203
+Mono	IC	Cred	4	XGBClassifier	MACCS	Accuracy	0.58221
+Mono	IC	Cred	3	XGBClassifier	MACCS	Accuracy	0.57444
+Mono	IC	Cred	2	XGBClassifier	MACCS	Accuracy	0.6035
+Mono	IC	Cred	0	XGBClassifier	MACCS	Accuracy	0.59525
+Mono	PRR	Cred	1	XGBClassifier	MACCS	Recall	0.37787
+Mono	PRR	Cred	4	XGBClassifier	MACCS	Recall	0.51141
+Mono	PRR	Cred	3	XGBClassifier	MACCS	Recall	0.49947
+Mono	PRR	Cred	2	XGBClassifier	MACCS	Recall	0.61177
+Mono	PRR	Cred	0	XGBClassifier	MACCS	Recall	0.47212
+Mono	ROR	Cred	1	XGBClassifier	MACCS	Recall	0.44401
+Mono	ROR	Cred	4	XGBClassifier	MACCS	Recall	0.43573
+Mono	ROR	Cred	3	XGBClassifier	MACCS	Recall	0.47458
+Mono	ROR	Cred	2	XGBClassifier	MACCS	Recall	0.63431
+Mono	ROR	Cred	0	XGBClassifier	MACCS	Recall	0.56
+Mono	IC	Cred	1	XGBClassifier	MACCS	Recall	0.58874
+Mono	IC	Cred	4	XGBClassifier	MACCS	Recall	0.70952
+Mono	IC	Cred	3	XGBClassifier	MACCS	Recall	0.71557
+Mono	IC	Cred	2	XGBClassifier	MACCS	Recall	0.80589
+Mono	IC	Cred	0	XGBClassifier	MACCS	Recall	0.79758
+Mono	PRR	Cred	1	XGBClassifier	MACCS	Specificity	0.73935
+Mono	PRR	Cred	4	XGBClassifier	MACCS	Specificity	0.67046
+Mono	PRR	Cred	3	XGBClassifier	MACCS	Specificity	0.63466
+Mono	PRR	Cred	2	XGBClassifier	MACCS	Specificity	0.58423
+Mono	PRR	Cred	0	XGBClassifier	MACCS	Specificity	0.65204
+Mono	ROR	Cred	1	XGBClassifier	MACCS	Specificity	0.67973
+Mono	ROR	Cred	4	XGBClassifier	MACCS	Specificity	0.71678
+Mono	ROR	Cred	3	XGBClassifier	MACCS	Specificity	0.67919
+Mono	ROR	Cred	2	XGBClassifier	MACCS	Specificity	0.58174
+Mono	ROR	Cred	0	XGBClassifier	MACCS	Specificity	0.62729
+Mono	IC	Cred	1	XGBClassifier	MACCS	Specificity	0.45826
+Mono	IC	Cred	4	XGBClassifier	MACCS	Specificity	0.4085
+Mono	IC	Cred	3	XGBClassifier	MACCS	Specificity	0.389
+Mono	IC	Cred	2	XGBClassifier	MACCS	Specificity	0.33527
+Mono	IC	Cred	0	XGBClassifier	MACCS	Specificity	0.32881
+Mono	PRR	Cred	1	XGBClassifier	MACCS	Precision	0.65345
+Mono	PRR	Cred	4	XGBClassifier	MACCS	Precision	0.67923
+Mono	PRR	Cred	3	XGBClassifier	MACCS	Precision	0.64237
+Mono	PRR	Cred	2	XGBClassifier	MACCS	Precision	0.66103
+Mono	PRR	Cred	0	XGBClassifier	MACCS	Precision	0.64115
+Mono	ROR	Cred	1	XGBClassifier	MACCS	Precision	0.64326
+Mono	ROR	Cred	4	XGBClassifier	MACCS	Precision	0.67734
+Mono	ROR	Cred	3	XGBClassifier	MACCS	Precision	0.66028
+Mono	ROR	Cred	2	XGBClassifier	MACCS	Precision	0.66777
+Mono	ROR	Cred	0	XGBClassifier	MACCS	Precision	0.66427
+Mono	IC	Cred	1	XGBClassifier	MACCS	Precision	0.58567
+Mono	IC	Cred	4	XGBClassifier	MACCS	Precision	0.62074
+Mono	IC	Cred	3	XGBClassifier	MACCS	Precision	0.6061
+Mono	IC	Cred	2	XGBClassifier	MACCS	Precision	0.61638
+Mono	IC	Cred	0	XGBClassifier	MACCS	Precision	0.61011
+Mono	PRR	Cred	1	XGBClassifier	MACCS	PRC AUC	0.64011
+Mono	PRR	Cred	4	XGBClassifier	MACCS	PRC AUC	0.68856
+Mono	PRR	Cred	3	XGBClassifier	MACCS	PRC AUC	0.64976
+Mono	PRR	Cred	2	XGBClassifier	MACCS	PRC AUC	0.65971
+Mono	PRR	Cred	0	XGBClassifier	MACCS	PRC AUC	0.67876
+Mono	ROR	Cred	1	XGBClassifier	MACCS	PRC AUC	0.66195
+Mono	ROR	Cred	4	XGBClassifier	MACCS	PRC AUC	0.69285
+Mono	ROR	Cred	3	XGBClassifier	MACCS	PRC AUC	0.6837
+Mono	ROR	Cred	2	XGBClassifier	MACCS	PRC AUC	0.66278
+Mono	ROR	Cred	0	XGBClassifier	MACCS	PRC AUC	0.69901
+Mono	IC	Cred	1	XGBClassifier	MACCS	PRC AUC	0.63185
+Mono	IC	Cred	4	XGBClassifier	MACCS	PRC AUC	0.69213
+Mono	IC	Cred	3	XGBClassifier	MACCS	PRC AUC	0.64726
+Mono	IC	Cred	2	XGBClassifier	MACCS	PRC AUC	0.65255
+Mono	IC	Cred	0	XGBClassifier	MACCS	PRC AUC	0.66296
+Mono	PRR	Cred	1	XGBClassifier	MACCS	Brier	0.26984
+Mono	PRR	Cred	4	XGBClassifier	MACCS	Brier	0.25784
+Mono	PRR	Cred	3	XGBClassifier	MACCS	Brier	0.26822
+Mono	PRR	Cred	2	XGBClassifier	MACCS	Brier	0.23963
+Mono	PRR	Cred	0	XGBClassifier	MACCS	Brier	0.25359
+Mono	ROR	Cred	1	XGBClassifier	MACCS	Brier	0.27466
+Mono	ROR	Cred	4	XGBClassifier	MACCS	Brier	0.26312
+Mono	ROR	Cred	3	XGBClassifier	MACCS	Brier	0.25282
+Mono	ROR	Cred	2	XGBClassifier	MACCS	Brier	0.24268
+Mono	ROR	Cred	0	XGBClassifier	MACCS	Brier	0.25208
+Mono	IC	Cred	1	XGBClassifier	MACCS	Brier	0.27094
+Mono	IC	Cred	4	XGBClassifier	MACCS	Brier	0.24156
+Mono	IC	Cred	3	XGBClassifier	MACCS	Brier	0.25596
+Mono	IC	Cred	2	XGBClassifier	MACCS	Brier	0.24854
+Mono	IC	Cred	0	XGBClassifier	MACCS	Brier	0.24399
+Mono	PRR	Cred	1	XGBClassifier	MACCS	ECE	0.14158
+Mono	PRR	Cred	4	XGBClassifier	MACCS	ECE	0.11482
+Mono	PRR	Cred	3	XGBClassifier	MACCS	ECE	0.12402
+Mono	PRR	Cred	2	XGBClassifier	MACCS	ECE	0.06886
+Mono	PRR	Cred	0	XGBClassifier	MACCS	ECE	0.10439
+Mono	ROR	Cred	1	XGBClassifier	MACCS	ECE	0.14586
+Mono	ROR	Cred	4	XGBClassifier	MACCS	ECE	0.13682
+Mono	ROR	Cred	3	XGBClassifier	MACCS	ECE	0.10738
+Mono	ROR	Cred	2	XGBClassifier	MACCS	ECE	0.08927
+Mono	ROR	Cred	0	XGBClassifier	MACCS	ECE	0.10569
+Mono	IC	Cred	1	XGBClassifier	MACCS	ECE	0.13535
+Mono	IC	Cred	4	XGBClassifier	MACCS	ECE	0.08213
+Mono	IC	Cred	3	XGBClassifier	MACCS	ECE	0.09548
+Mono	IC	Cred	2	XGBClassifier	MACCS	ECE	0.10918
+Mono	IC	Cred	0	XGBClassifier	MACCS	ECE	0.06643

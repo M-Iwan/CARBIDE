@@ -1,0 +1,196 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Mono	PRR	Cred	1	XGBClassifier	ECFP	Balanced Accuracy	0.53221
+Mono	PRR	Cred	4	XGBClassifier	ECFP	Balanced Accuracy	0.61777
+Mono	PRR	Cred	3	XGBClassifier	ECFP	Balanced Accuracy	0.51646
+Mono	PRR	Cred	2	XGBClassifier	ECFP	Balanced Accuracy	0.63631
+Mono	PRR	Cred	0	XGBClassifier	ECFP	Balanced Accuracy	0.53331
+Primary	PRR	Cred	1	XGBClassifier	ECFP	Balanced Accuracy	0.56828
+Primary	PRR	Cred	4	XGBClassifier	ECFP	Balanced Accuracy	0.61127
+Primary	PRR	Cred	3	XGBClassifier	ECFP	Balanced Accuracy	0.57851
+Primary	PRR	Cred	2	XGBClassifier	ECFP	Balanced Accuracy	0.63409
+Primary	PRR	Cred	0	XGBClassifier	ECFP	Balanced Accuracy	0.60596
+Secondary	PRR	Cred	1	XGBClassifier	ECFP	Balanced Accuracy	0.56921
+Secondary	PRR	Cred	4	XGBClassifier	ECFP	Balanced Accuracy	0.58927
+Secondary	PRR	Cred	3	XGBClassifier	ECFP	Balanced Accuracy	0.47371
+Secondary	PRR	Cred	2	XGBClassifier	ECFP	Balanced Accuracy	0.62335
+Secondary	PRR	Cred	0	XGBClassifier	ECFP	Balanced Accuracy	0.56238
+Mono	PRR	Cred	1	XGBClassifier	ECFP	GeomRS	0.50833
+Mono	PRR	Cred	4	XGBClassifier	ECFP	GeomRS	0.61663
+Mono	PRR	Cred	3	XGBClassifier	ECFP	GeomRS	0.50458
+Mono	PRR	Cred	2	XGBClassifier	ECFP	GeomRS	0.63367
+Mono	PRR	Cred	0	XGBClassifier	ECFP	GeomRS	0.52968
+Primary	PRR	Cred	1	XGBClassifier	ECFP	GeomRS	0.56545
+Primary	PRR	Cred	4	XGBClassifier	ECFP	GeomRS	0.61083
+Primary	PRR	Cred	3	XGBClassifier	ECFP	GeomRS	0.57359
+Primary	PRR	Cred	2	XGBClassifier	ECFP	GeomRS	0.62792
+Primary	PRR	Cred	0	XGBClassifier	ECFP	GeomRS	0.60014
+Secondary	PRR	Cred	1	XGBClassifier	ECFP	GeomRS	0.56873
+Secondary	PRR	Cred	4	XGBClassifier	ECFP	GeomRS	0.57226
+Secondary	PRR	Cred	3	XGBClassifier	ECFP	GeomRS	0.47369
+Secondary	PRR	Cred	2	XGBClassifier	ECFP	GeomRS	0.62102
+Secondary	PRR	Cred	0	XGBClassifier	ECFP	GeomRS	0.5601
+Mono	PRR	Cred	1	XGBClassifier	ECFP	HarmRS	0.48551
+Mono	PRR	Cred	4	XGBClassifier	ECFP	HarmRS	0.61549
+Mono	PRR	Cred	3	XGBClassifier	ECFP	HarmRS	0.49299
+Mono	PRR	Cred	2	XGBClassifier	ECFP	HarmRS	0.63104
+Mono	PRR	Cred	0	XGBClassifier	ECFP	HarmRS	0.52608
+Primary	PRR	Cred	1	XGBClassifier	ECFP	HarmRS	0.56262
+Primary	PRR	Cred	4	XGBClassifier	ECFP	HarmRS	0.6104
+Primary	PRR	Cred	3	XGBClassifier	ECFP	HarmRS	0.5687
+Primary	PRR	Cred	2	XGBClassifier	ECFP	HarmRS	0.62181
+Primary	PRR	Cred	0	XGBClassifier	ECFP	HarmRS	0.59437
+Secondary	PRR	Cred	1	XGBClassifier	ECFP	HarmRS	0.56825
+Secondary	PRR	Cred	4	XGBClassifier	ECFP	HarmRS	0.55574
+Secondary	PRR	Cred	3	XGBClassifier	ECFP	HarmRS	0.47367
+Secondary	PRR	Cred	2	XGBClassifier	ECFP	HarmRS	0.6187
+Secondary	PRR	Cred	0	XGBClassifier	ECFP	HarmRS	0.55783
+Mono	PRR	Cred	1	XGBClassifier	ECFP	F1 Score	0.48363
+Mono	PRR	Cred	4	XGBClassifier	ECFP	F1 Score	0.65286
+Mono	PRR	Cred	3	XGBClassifier	ECFP	F1 Score	0.50196
+Mono	PRR	Cred	2	XGBClassifier	ECFP	F1 Score	0.7168
+Mono	PRR	Cred	0	XGBClassifier	ECFP	F1 Score	0.6255
+Primary	PRR	Cred	1	XGBClassifier	ECFP	F1 Score	0.59401
+Primary	PRR	Cred	4	XGBClassifier	ECFP	F1 Score	0.67839
+Primary	PRR	Cred	3	XGBClassifier	ECFP	F1 Score	0.59185
+Primary	PRR	Cred	2	XGBClassifier	ECFP	F1 Score	0.72821
+Primary	PRR	Cred	0	XGBClassifier	ECFP	F1 Score	0.61318
+Secondary	PRR	Cred	1	XGBClassifier	ECFP	F1 Score	0.64131
+Secondary	PRR	Cred	4	XGBClassifier	ECFP	F1 Score	0.71363
+Secondary	PRR	Cred	3	XGBClassifier	ECFP	F1 Score	0.5373
+Secondary	PRR	Cred	2	XGBClassifier	ECFP	F1 Score	0.70354
+Secondary	PRR	Cred	0	XGBClassifier	ECFP	F1 Score	0.64602
+Mono	PRR	Cred	1	XGBClassifier	ECFP	ROC AUC	0.5366
+Mono	PRR	Cred	4	XGBClassifier	ECFP	ROC AUC	0.64641
+Mono	PRR	Cred	3	XGBClassifier	ECFP	ROC AUC	0.51006
+Mono	PRR	Cred	2	XGBClassifier	ECFP	ROC AUC	0.66889
+Mono	PRR	Cred	0	XGBClassifier	ECFP	ROC AUC	0.5495
+Primary	PRR	Cred	1	XGBClassifier	ECFP	ROC AUC	0.59971
+Primary	PRR	Cred	4	XGBClassifier	ECFP	ROC AUC	0.64378
+Primary	PRR	Cred	3	XGBClassifier	ECFP	ROC AUC	0.59351
+Primary	PRR	Cred	2	XGBClassifier	ECFP	ROC AUC	0.70627
+Primary	PRR	Cred	0	XGBClassifier	ECFP	ROC AUC	0.64648
+Secondary	PRR	Cred	1	XGBClassifier	ECFP	ROC AUC	0.58966
+Secondary	PRR	Cred	4	XGBClassifier	ECFP	ROC AUC	0.64545
+Secondary	PRR	Cred	3	XGBClassifier	ECFP	ROC AUC	0.46806
+Secondary	PRR	Cred	2	XGBClassifier	ECFP	ROC AUC	0.67044
+Secondary	PRR	Cred	0	XGBClassifier	ECFP	ROC AUC	0.60863
+Mono	PRR	Cred	1	XGBClassifier	ECFP	MCC	0.06478
+Mono	PRR	Cred	4	XGBClassifier	ECFP	MCC	0.22667
+Mono	PRR	Cred	3	XGBClassifier	ECFP	MCC	0.03238
+Mono	PRR	Cred	2	XGBClassifier	ECFP	MCC	0.26738
+Mono	PRR	Cred	0	XGBClassifier	ECFP	MCC	0.06493
+Primary	PRR	Cred	1	XGBClassifier	ECFP	MCC	0.13147
+Primary	PRR	Cred	4	XGBClassifier	ECFP	MCC	0.21538
+Primary	PRR	Cred	3	XGBClassifier	ECFP	MCC	0.15189
+Primary	PRR	Cred	2	XGBClassifier	ECFP	MCC	0.26665
+Primary	PRR	Cred	0	XGBClassifier	ECFP	MCC	0.20574
+Secondary	PRR	Cred	1	XGBClassifier	ECFP	MCC	0.13336
+Secondary	PRR	Cred	4	XGBClassifier	ECFP	MCC	0.18198
+Secondary	PRR	Cred	3	XGBClassifier	ECFP	MCC	-0.05056
+Secondary	PRR	Cred	2	XGBClassifier	ECFP	MCC	0.24128
+Secondary	PRR	Cred	0	XGBClassifier	ECFP	MCC	0.12145
+Mono	PRR	Cred	1	XGBClassifier	ECFP	Accuracy	0.48804
+Mono	PRR	Cred	4	XGBClassifier	ECFP	Accuracy	0.60757
+Mono	PRR	Cred	3	XGBClassifier	ECFP	Accuracy	0.48627
+Mono	PRR	Cred	2	XGBClassifier	ECFP	Accuracy	0.65189
+Mono	PRR	Cred	0	XGBClassifier	ECFP	Accuracy	0.54966
+Primary	PRR	Cred	1	XGBClassifier	ECFP	Accuracy	0.55239
+Primary	PRR	Cred	4	XGBClassifier	ECFP	Accuracy	0.61753
+Primary	PRR	Cred	3	XGBClassifier	ECFP	Accuracy	0.55786
+Primary	PRR	Cred	2	XGBClassifier	ECFP	Accuracy	0.65784
+Primary	PRR	Cred	0	XGBClassifier	ECFP	Accuracy	0.5839
+Secondary	PRR	Cred	1	XGBClassifier	ECFP	Accuracy	0.57574
+Secondary	PRR	Cred	4	XGBClassifier	ECFP	Accuracy	0.62749
+Secondary	PRR	Cred	3	XGBClassifier	ECFP	Accuracy	0.47501
+Secondary	PRR	Cred	2	XGBClassifier	ECFP	Accuracy	0.63784
+Secondary	PRR	Cred	0	XGBClassifier	ECFP	Accuracy	0.5757
+Mono	PRR	Cred	1	XGBClassifier	ECFP	Recall	0.37456
+Mono	PRR	Cred	4	XGBClassifier	ECFP	Recall	0.58027
+Mono	PRR	Cred	3	XGBClassifier	ECFP	Recall	0.40636
+Mono	PRR	Cred	2	XGBClassifier	ECFP	Recall	0.69421
+Mono	PRR	Cred	0	XGBClassifier	ECFP	Recall	0.59542
+Primary	PRR	Cred	1	XGBClassifier	ECFP	Recall	0.51157
+Primary	PRR	Cred	4	XGBClassifier	ECFP	Recall	0.6343
+Primary	PRR	Cred	3	XGBClassifier	ECFP	Recall	0.50318
+Primary	PRR	Cred	2	XGBClassifier	ECFP	Recall	0.72232
+Primary	PRR	Cred	0	XGBClassifier	ECFP	Recall	0.52214
+Secondary	PRR	Cred	1	XGBClassifier	ECFP	Recall	0.59253
+Secondary	PRR	Cred	4	XGBClassifier	ECFP	Recall	0.72984
+Secondary	PRR	Cred	3	XGBClassifier	ECFP	Recall	0.47845
+Secondary	PRR	Cred	2	XGBClassifier	ECFP	Recall	0.67717
+Secondary	PRR	Cred	0	XGBClassifier	ECFP	Recall	0.61298
+Mono	PRR	Cred	1	XGBClassifier	ECFP	Specificity	0.68987
+Mono	PRR	Cred	4	XGBClassifier	ECFP	Specificity	0.65527
+Mono	PRR	Cred	3	XGBClassifier	ECFP	Specificity	0.62655
+Mono	PRR	Cred	2	XGBClassifier	ECFP	Specificity	0.5784
+Mono	PRR	Cred	0	XGBClassifier	ECFP	Specificity	0.4712
+Primary	PRR	Cred	1	XGBClassifier	ECFP	Specificity	0.625
+Primary	PRR	Cred	4	XGBClassifier	ECFP	Specificity	0.58824
+Primary	PRR	Cred	3	XGBClassifier	ECFP	Specificity	0.65385
+Primary	PRR	Cred	2	XGBClassifier	ECFP	Specificity	0.54586
+Primary	PRR	Cred	0	XGBClassifier	ECFP	Specificity	0.68979
+Secondary	PRR	Cred	1	XGBClassifier	ECFP	Specificity	0.54589
+Secondary	PRR	Cred	4	XGBClassifier	ECFP	Specificity	0.4487
+Secondary	PRR	Cred	3	XGBClassifier	ECFP	Specificity	0.46898
+Secondary	PRR	Cred	2	XGBClassifier	ECFP	Specificity	0.56953
+Secondary	PRR	Cred	0	XGBClassifier	ECFP	Specificity	0.51178
+Mono	PRR	Cred	1	XGBClassifier	ECFP	Precision	0.68233
+Mono	PRR	Cred	4	XGBClassifier	ECFP	Precision	0.74622
+Mono	PRR	Cred	3	XGBClassifier	ECFP	Precision	0.65639
+Mono	PRR	Cred	2	XGBClassifier	ECFP	Precision	0.74091
+Mono	PRR	Cred	0	XGBClassifier	ECFP	Precision	0.65878
+Primary	PRR	Cred	1	XGBClassifier	ECFP	Precision	0.70813
+Primary	PRR	Cred	4	XGBClassifier	ECFP	Precision	0.72907
+Primary	PRR	Cred	3	XGBClassifier	ECFP	Precision	0.71847
+Primary	PRR	Cred	2	XGBClassifier	ECFP	Precision	0.7342
+Primary	PRR	Cred	0	XGBClassifier	ECFP	Precision	0.74267
+Secondary	PRR	Cred	1	XGBClassifier	ECFP	Precision	0.69885
+Secondary	PRR	Cred	4	XGBClassifier	ECFP	Precision	0.69813
+Secondary	PRR	Cred	3	XGBClassifier	ECFP	Precision	0.61267
+Secondary	PRR	Cred	2	XGBClassifier	ECFP	Precision	0.73204
+Secondary	PRR	Cred	0	XGBClassifier	ECFP	Precision	0.68282
+Mono	PRR	Cred	1	XGBClassifier	ECFP	PRC AUC	0.69918
+Mono	PRR	Cred	4	XGBClassifier	ECFP	PRC AUC	0.74644
+Mono	PRR	Cred	3	XGBClassifier	ECFP	PRC AUC	0.67647
+Mono	PRR	Cred	2	XGBClassifier	ECFP	PRC AUC	0.73694
+Mono	PRR	Cred	0	XGBClassifier	ECFP	PRC AUC	0.68139
+Primary	PRR	Cred	1	XGBClassifier	ECFP	PRC AUC	0.73366
+Primary	PRR	Cred	4	XGBClassifier	ECFP	PRC AUC	0.769
+Primary	PRR	Cred	3	XGBClassifier	ECFP	PRC AUC	0.73455
+Primary	PRR	Cred	2	XGBClassifier	ECFP	PRC AUC	0.81428
+Primary	PRR	Cred	0	XGBClassifier	ECFP	PRC AUC	0.73551
+Secondary	PRR	Cred	1	XGBClassifier	ECFP	PRC AUC	0.70205
+Secondary	PRR	Cred	4	XGBClassifier	ECFP	PRC AUC	0.76515
+Secondary	PRR	Cred	3	XGBClassifier	ECFP	PRC AUC	0.64527
+Secondary	PRR	Cred	2	XGBClassifier	ECFP	PRC AUC	0.777
+Secondary	PRR	Cred	0	XGBClassifier	ECFP	PRC AUC	0.71816
+Mono	PRR	Cred	1	XGBClassifier	ECFP	Brier	0.29999
+Mono	PRR	Cred	4	XGBClassifier	ECFP	Brier	0.24548
+Mono	PRR	Cred	3	XGBClassifier	ECFP	Brier	0.30212
+Mono	PRR	Cred	2	XGBClassifier	ECFP	Brier	0.22621
+Mono	PRR	Cred	0	XGBClassifier	ECFP	Brier	0.27065
+Primary	PRR	Cred	1	XGBClassifier	ECFP	Brier	0.26264
+Primary	PRR	Cred	4	XGBClassifier	ECFP	Brier	0.23724
+Primary	PRR	Cred	3	XGBClassifier	ECFP	Brier	0.27048
+Primary	PRR	Cred	2	XGBClassifier	ECFP	Brier	0.21122
+Primary	PRR	Cred	0	XGBClassifier	ECFP	Brier	0.23966
+Secondary	PRR	Cred	1	XGBClassifier	ECFP	Brier	0.2463
+Secondary	PRR	Cred	4	XGBClassifier	ECFP	Brier	0.22543
+Secondary	PRR	Cred	3	XGBClassifier	ECFP	Brier	0.31519
+Secondary	PRR	Cred	2	XGBClassifier	ECFP	Brier	0.22368
+Secondary	PRR	Cred	0	XGBClassifier	ECFP	Brier	0.23704
+Mono	PRR	Cred	1	XGBClassifier	ECFP	ECE	0.22132
+Mono	PRR	Cred	4	XGBClassifier	ECFP	ECE	0.1418
+Mono	PRR	Cred	3	XGBClassifier	ECFP	ECE	0.20745
+Mono	PRR	Cred	2	XGBClassifier	ECFP	ECE	0.10178
+Mono	PRR	Cred	0	XGBClassifier	ECFP	ECE	0.16515
+Primary	PRR	Cred	1	XGBClassifier	ECFP	ECE	0.16006
+Primary	PRR	Cred	4	XGBClassifier	ECFP	ECE	0.105
+Primary	PRR	Cred	3	XGBClassifier	ECFP	ECE	0.164
+Primary	PRR	Cred	2	XGBClassifier	ECFP	ECE	0.08013
+Primary	PRR	Cred	0	XGBClassifier	ECFP	ECE	0.1449
+Secondary	PRR	Cred	1	XGBClassifier	ECFP	ECE	0.13495
+Secondary	PRR	Cred	4	XGBClassifier	ECFP	ECE	0.07107
+Secondary	PRR	Cred	3	XGBClassifier	ECFP	ECE	0.22905
+Secondary	PRR	Cred	2	XGBClassifier	ECFP	ECE	0.10824
+Secondary	PRR	Cred	0	XGBClassifier	ECFP	ECE	0.1047

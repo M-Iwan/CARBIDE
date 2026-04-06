@@ -1,0 +1,196 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Mono	PRR	Cvas	1	LogisticRegression	ChemBERTa	Balanced Accuracy	0.52712
+Mono	PRR	Cvas	4	LogisticRegression	ChemBERTa	Balanced Accuracy	0.48354
+Mono	PRR	Cvas	3	LogisticRegression	ChemBERTa	Balanced Accuracy	0.56232
+Mono	PRR	Cvas	0	LogisticRegression	ChemBERTa	Balanced Accuracy	0.4923
+Mono	PRR	Cvas	2	LogisticRegression	ChemBERTa	Balanced Accuracy	0.52341
+Mono	ROR	Cvas	1	LogisticRegression	ChemBERTa	Balanced Accuracy	0.51808
+Mono	ROR	Cvas	4	LogisticRegression	ChemBERTa	Balanced Accuracy	0.51349
+Mono	ROR	Cvas	3	LogisticRegression	ChemBERTa	Balanced Accuracy	0.56147
+Mono	ROR	Cvas	0	LogisticRegression	ChemBERTa	Balanced Accuracy	0.49233
+Mono	ROR	Cvas	2	LogisticRegression	ChemBERTa	Balanced Accuracy	0.56359
+Mono	IC	Cvas	1	LogisticRegression	ChemBERTa	Balanced Accuracy	0.50607
+Mono	IC	Cvas	4	LogisticRegression	ChemBERTa	Balanced Accuracy	0.48505
+Mono	IC	Cvas	3	LogisticRegression	ChemBERTa	Balanced Accuracy	0.53725
+Mono	IC	Cvas	0	LogisticRegression	ChemBERTa	Balanced Accuracy	0.47207
+Mono	IC	Cvas	2	LogisticRegression	ChemBERTa	Balanced Accuracy	0.55606
+Mono	PRR	Cvas	1	LogisticRegression	ChemBERTa	GeomRS	0.52262
+Mono	PRR	Cvas	4	LogisticRegression	ChemBERTa	GeomRS	0.48235
+Mono	PRR	Cvas	3	LogisticRegression	ChemBERTa	GeomRS	0.56104
+Mono	PRR	Cvas	0	LogisticRegression	ChemBERTa	GeomRS	0.49227
+Mono	PRR	Cvas	2	LogisticRegression	ChemBERTa	GeomRS	0.51802
+Mono	ROR	Cvas	1	LogisticRegression	ChemBERTa	GeomRS	0.51063
+Mono	ROR	Cvas	4	LogisticRegression	ChemBERTa	GeomRS	0.50792
+Mono	ROR	Cvas	3	LogisticRegression	ChemBERTa	GeomRS	0.56138
+Mono	ROR	Cvas	0	LogisticRegression	ChemBERTa	GeomRS	0.49188
+Mono	ROR	Cvas	2	LogisticRegression	ChemBERTa	GeomRS	0.55568
+Mono	IC	Cvas	1	LogisticRegression	ChemBERTa	GeomRS	0.50144
+Mono	IC	Cvas	4	LogisticRegression	ChemBERTa	GeomRS	0.4831
+Mono	IC	Cvas	3	LogisticRegression	ChemBERTa	GeomRS	0.53541
+Mono	IC	Cvas	0	LogisticRegression	ChemBERTa	GeomRS	0.45502
+Mono	IC	Cvas	2	LogisticRegression	ChemBERTa	GeomRS	0.51592
+Mono	PRR	Cvas	1	LogisticRegression	ChemBERTa	HarmRS	0.51816
+Mono	PRR	Cvas	4	LogisticRegression	ChemBERTa	HarmRS	0.48115
+Mono	PRR	Cvas	3	LogisticRegression	ChemBERTa	HarmRS	0.55976
+Mono	PRR	Cvas	0	LogisticRegression	ChemBERTa	HarmRS	0.49225
+Mono	PRR	Cvas	2	LogisticRegression	ChemBERTa	HarmRS	0.5127
+Mono	ROR	Cvas	1	LogisticRegression	ChemBERTa	HarmRS	0.50329
+Mono	ROR	Cvas	4	LogisticRegression	ChemBERTa	HarmRS	0.50242
+Mono	ROR	Cvas	3	LogisticRegression	ChemBERTa	HarmRS	0.56128
+Mono	ROR	Cvas	0	LogisticRegression	ChemBERTa	HarmRS	0.49143
+Mono	ROR	Cvas	2	LogisticRegression	ChemBERTa	HarmRS	0.54787
+Mono	IC	Cvas	1	LogisticRegression	ChemBERTa	HarmRS	0.49685
+Mono	IC	Cvas	4	LogisticRegression	ChemBERTa	HarmRS	0.48117
+Mono	IC	Cvas	3	LogisticRegression	ChemBERTa	HarmRS	0.53358
+Mono	IC	Cvas	0	LogisticRegression	ChemBERTa	HarmRS	0.43858
+Mono	IC	Cvas	2	LogisticRegression	ChemBERTa	HarmRS	0.47866
+Mono	PRR	Cvas	1	LogisticRegression	ChemBERTa	F1 Score	0.53361
+Mono	PRR	Cvas	4	LogisticRegression	ChemBERTa	F1 Score	0.49649
+Mono	PRR	Cvas	3	LogisticRegression	ChemBERTa	F1 Score	0.57314
+Mono	PRR	Cvas	0	LogisticRegression	ChemBERTa	F1 Score	0.53578
+Mono	PRR	Cvas	2	LogisticRegression	ChemBERTa	F1 Score	0.51611
+Mono	ROR	Cvas	1	LogisticRegression	ChemBERTa	F1 Score	0.51134
+Mono	ROR	Cvas	4	LogisticRegression	ChemBERTa	F1 Score	0.50182
+Mono	ROR	Cvas	3	LogisticRegression	ChemBERTa	F1 Score	0.58692
+Mono	ROR	Cvas	0	LogisticRegression	ChemBERTa	F1 Score	0.52021
+Mono	ROR	Cvas	2	LogisticRegression	ChemBERTa	F1 Score	0.64477
+Mono	IC	Cvas	1	LogisticRegression	ChemBERTa	F1 Score	0.59345
+Mono	IC	Cvas	4	LogisticRegression	ChemBERTa	F1 Score	0.54292
+Mono	IC	Cvas	3	LogisticRegression	ChemBERTa	F1 Score	0.59072
+Mono	IC	Cvas	0	LogisticRegression	ChemBERTa	F1 Score	0.58167
+Mono	IC	Cvas	2	LogisticRegression	ChemBERTa	F1 Score	0.68382
+Mono	PRR	Cvas	1	LogisticRegression	ChemBERTa	ROC AUC	0.53243
+Mono	PRR	Cvas	4	LogisticRegression	ChemBERTa	ROC AUC	0.48108
+Mono	PRR	Cvas	3	LogisticRegression	ChemBERTa	ROC AUC	0.56962
+Mono	PRR	Cvas	0	LogisticRegression	ChemBERTa	ROC AUC	0.45975
+Mono	PRR	Cvas	2	LogisticRegression	ChemBERTa	ROC AUC	0.51175
+Mono	ROR	Cvas	1	LogisticRegression	ChemBERTa	ROC AUC	0.52581
+Mono	ROR	Cvas	4	LogisticRegression	ChemBERTa	ROC AUC	0.54525
+Mono	ROR	Cvas	3	LogisticRegression	ChemBERTa	ROC AUC	0.57976
+Mono	ROR	Cvas	0	LogisticRegression	ChemBERTa	ROC AUC	0.48391
+Mono	ROR	Cvas	2	LogisticRegression	ChemBERTa	ROC AUC	0.59772
+Mono	IC	Cvas	1	LogisticRegression	ChemBERTa	ROC AUC	0.5164
+Mono	IC	Cvas	4	LogisticRegression	ChemBERTa	ROC AUC	0.48237
+Mono	IC	Cvas	3	LogisticRegression	ChemBERTa	ROC AUC	0.54624
+Mono	IC	Cvas	0	LogisticRegression	ChemBERTa	ROC AUC	0.46583
+Mono	IC	Cvas	2	LogisticRegression	ChemBERTa	ROC AUC	0.62484
+Mono	PRR	Cvas	1	LogisticRegression	ChemBERTa	MCC	0.05336
+Mono	PRR	Cvas	4	LogisticRegression	ChemBERTa	MCC	-0.03266
+Mono	PRR	Cvas	3	LogisticRegression	ChemBERTa	MCC	0.12373
+Mono	PRR	Cvas	0	LogisticRegression	ChemBERTa	MCC	-0.01516
+Mono	PRR	Cvas	2	LogisticRegression	ChemBERTa	MCC	0.04667
+Mono	ROR	Cvas	1	LogisticRegression	ChemBERTa	MCC	0.03579
+Mono	ROR	Cvas	4	LogisticRegression	ChemBERTa	MCC	0.027
+Mono	ROR	Cvas	3	LogisticRegression	ChemBERTa	MCC	0.12183
+Mono	ROR	Cvas	0	LogisticRegression	ChemBERTa	MCC	-0.01512
+Mono	ROR	Cvas	2	LogisticRegression	ChemBERTa	MCC	0.12833
+Mono	IC	Cvas	1	LogisticRegression	ChemBERTa	MCC	0.01197
+Mono	IC	Cvas	4	LogisticRegression	ChemBERTa	MCC	-0.0297
+Mono	IC	Cvas	3	LogisticRegression	ChemBERTa	MCC	0.07419
+Mono	IC	Cvas	0	LogisticRegression	ChemBERTa	MCC	-0.05666
+Mono	IC	Cvas	2	LogisticRegression	ChemBERTa	MCC	0.12275
+Mono	PRR	Cvas	1	LogisticRegression	ChemBERTa	Accuracy	0.51218
+Mono	PRR	Cvas	4	LogisticRegression	ChemBERTa	Accuracy	0.47866
+Mono	PRR	Cvas	3	LogisticRegression	ChemBERTa	Accuracy	0.55725
+Mono	PRR	Cvas	0	LogisticRegression	ChemBERTa	Accuracy	0.49318
+Mono	PRR	Cvas	2	LogisticRegression	ChemBERTa	Accuracy	0.51127
+Mono	ROR	Cvas	1	LogisticRegression	ChemBERTa	Accuracy	0.49904
+Mono	ROR	Cvas	4	LogisticRegression	ChemBERTa	Accuracy	0.50267
+Mono	ROR	Cvas	3	LogisticRegression	ChemBERTa	Accuracy	0.56011
+Mono	ROR	Cvas	0	LogisticRegression	ChemBERTa	Accuracy	0.48863
+Mono	ROR	Cvas	2	LogisticRegression	ChemBERTa	Accuracy	0.57886
+Mono	IC	Cvas	1	LogisticRegression	ChemBERTa	Accuracy	0.52093
+Mono	IC	Cvas	4	LogisticRegression	ChemBERTa	Accuracy	0.49127
+Mono	IC	Cvas	3	LogisticRegression	ChemBERTa	Accuracy	0.54318
+Mono	IC	Cvas	0	LogisticRegression	ChemBERTa	Accuracy	0.49425
+Mono	IC	Cvas	2	LogisticRegression	ChemBERTa	Accuracy	0.58971
+Mono	PRR	Cvas	1	LogisticRegression	ChemBERTa	Recall	0.45843
+Mono	PRR	Cvas	4	LogisticRegression	ChemBERTa	Recall	0.44953
+Mono	PRR	Cvas	3	LogisticRegression	ChemBERTa	Recall	0.52441
+Mono	PRR	Cvas	0	LogisticRegression	ChemBERTa	Recall	0.49727
+Mono	PRR	Cvas	2	LogisticRegression	ChemBERTa	Recall	0.44854
+Mono	ROR	Cvas	1	LogisticRegression	ChemBERTa	Recall	0.43056
+Mono	ROR	Cvas	4	LogisticRegression	ChemBERTa	Recall	0.43808
+Mono	ROR	Cvas	3	LogisticRegression	ChemBERTa	Recall	0.55135
+Mono	ROR	Cvas	0	LogisticRegression	ChemBERTa	Recall	0.47134
+Mono	ROR	Cvas	2	LogisticRegression	ChemBERTa	Recall	0.65773
+Mono	IC	Cvas	1	LogisticRegression	ChemBERTa	Recall	0.57438
+Mono	IC	Cvas	4	LogisticRegression	ChemBERTa	Recall	0.52841
+Mono	IC	Cvas	3	LogisticRegression	ChemBERTa	Recall	0.58165
+Mono	IC	Cvas	0	LogisticRegression	ChemBERTa	Recall	0.59782
+Mono	IC	Cvas	2	LogisticRegression	ChemBERTa	Recall	0.76352
+Mono	PRR	Cvas	1	LogisticRegression	ChemBERTa	Specificity	0.5958
+Mono	PRR	Cvas	4	LogisticRegression	ChemBERTa	Specificity	0.51755
+Mono	PRR	Cvas	3	LogisticRegression	ChemBERTa	Specificity	0.60022
+Mono	PRR	Cvas	0	LogisticRegression	ChemBERTa	Specificity	0.48733
+Mono	PRR	Cvas	2	LogisticRegression	ChemBERTa	Specificity	0.59827
+Mono	ROR	Cvas	1	LogisticRegression	ChemBERTa	Specificity	0.60559
+Mono	ROR	Cvas	4	LogisticRegression	ChemBERTa	Specificity	0.5889
+Mono	ROR	Cvas	3	LogisticRegression	ChemBERTa	Specificity	0.57159
+Mono	ROR	Cvas	0	LogisticRegression	ChemBERTa	Specificity	0.51332
+Mono	ROR	Cvas	2	LogisticRegression	ChemBERTa	Specificity	0.46946
+Mono	IC	Cvas	1	LogisticRegression	ChemBERTa	Specificity	0.43776
+Mono	IC	Cvas	4	LogisticRegression	ChemBERTa	Specificity	0.44168
+Mono	IC	Cvas	3	LogisticRegression	ChemBERTa	Specificity	0.49284
+Mono	IC	Cvas	0	LogisticRegression	ChemBERTa	Specificity	0.34633
+Mono	IC	Cvas	2	LogisticRegression	ChemBERTa	Specificity	0.34861
+Mono	PRR	Cvas	1	LogisticRegression	ChemBERTa	Precision	0.6383
+Mono	PRR	Cvas	4	LogisticRegression	ChemBERTa	Precision	0.55439
+Mono	PRR	Cvas	3	LogisticRegression	ChemBERTa	Precision	0.63185
+Mono	PRR	Cvas	0	LogisticRegression	ChemBERTa	Precision	0.58077
+Mono	PRR	Cvas	2	LogisticRegression	ChemBERTa	Precision	0.60765
+Mono	ROR	Cvas	1	LogisticRegression	ChemBERTa	Precision	0.62943
+Mono	ROR	Cvas	4	LogisticRegression	ChemBERTa	Precision	0.58727
+Mono	ROR	Cvas	3	LogisticRegression	ChemBERTa	Precision	0.62739
+Mono	ROR	Cvas	0	LogisticRegression	ChemBERTa	Precision	0.58039
+Mono	ROR	Cvas	2	LogisticRegression	ChemBERTa	Precision	0.63231
+Mono	IC	Cvas	1	LogisticRegression	ChemBERTa	Precision	0.61383
+Mono	IC	Cvas	4	LogisticRegression	ChemBERTa	Precision	0.55824
+Mono	IC	Cvas	3	LogisticRegression	ChemBERTa	Precision	0.60009
+Mono	IC	Cvas	0	LogisticRegression	ChemBERTa	Precision	0.56638
+Mono	IC	Cvas	2	LogisticRegression	ChemBERTa	Precision	0.61918
+Mono	PRR	Cvas	1	LogisticRegression	ChemBERTa	PRC AUC	0.63605
+Mono	PRR	Cvas	4	LogisticRegression	ChemBERTa	PRC AUC	0.54348
+Mono	PRR	Cvas	3	LogisticRegression	ChemBERTa	PRC AUC	0.59443
+Mono	PRR	Cvas	0	LogisticRegression	ChemBERTa	PRC AUC	0.56426
+Mono	PRR	Cvas	2	LogisticRegression	ChemBERTa	PRC AUC	0.60482
+Mono	ROR	Cvas	1	LogisticRegression	ChemBERTa	PRC AUC	0.63671
+Mono	ROR	Cvas	4	LogisticRegression	ChemBERTa	PRC AUC	0.59024
+Mono	ROR	Cvas	3	LogisticRegression	ChemBERTa	PRC AUC	0.61763
+Mono	ROR	Cvas	0	LogisticRegression	ChemBERTa	PRC AUC	0.58394
+Mono	ROR	Cvas	2	LogisticRegression	ChemBERTa	PRC AUC	0.67256
+Mono	IC	Cvas	1	LogisticRegression	ChemBERTa	PRC AUC	0.62581
+Mono	IC	Cvas	4	LogisticRegression	ChemBERTa	PRC AUC	0.54293
+Mono	IC	Cvas	3	LogisticRegression	ChemBERTa	PRC AUC	0.59397
+Mono	IC	Cvas	0	LogisticRegression	ChemBERTa	PRC AUC	0.56953
+Mono	IC	Cvas	2	LogisticRegression	ChemBERTa	PRC AUC	0.70338
+Mono	PRR	Cvas	1	LogisticRegression	ChemBERTa	Brier	0.29999
+Mono	PRR	Cvas	4	LogisticRegression	ChemBERTa	Brier	0.34367
+Mono	PRR	Cvas	3	LogisticRegression	ChemBERTa	Brier	0.29841
+Mono	PRR	Cvas	0	LogisticRegression	ChemBERTa	Brier	0.33775
+Mono	PRR	Cvas	2	LogisticRegression	ChemBERTa	Brier	0.26286
+Mono	ROR	Cvas	1	LogisticRegression	ChemBERTa	Brier	0.31703
+Mono	ROR	Cvas	4	LogisticRegression	ChemBERTa	Brier	0.30208
+Mono	ROR	Cvas	3	LogisticRegression	ChemBERTa	Brier	0.30003
+Mono	ROR	Cvas	0	LogisticRegression	ChemBERTa	Brier	0.32003
+Mono	ROR	Cvas	2	LogisticRegression	ChemBERTa	Brier	0.28866
+Mono	IC	Cvas	1	LogisticRegression	ChemBERTa	Brier	0.30006
+Mono	IC	Cvas	4	LogisticRegression	ChemBERTa	Brier	0.33534
+Mono	IC	Cvas	3	LogisticRegression	ChemBERTa	Brier	0.30182
+Mono	IC	Cvas	0	LogisticRegression	ChemBERTa	Brier	0.34209
+Mono	IC	Cvas	2	LogisticRegression	ChemBERTa	Brier	0.25392
+Mono	PRR	Cvas	1	LogisticRegression	ChemBERTa	ECE	0.19428
+Mono	PRR	Cvas	4	LogisticRegression	ChemBERTa	ECE	0.27554
+Mono	PRR	Cvas	3	LogisticRegression	ChemBERTa	ECE	0.20491
+Mono	PRR	Cvas	0	LogisticRegression	ChemBERTa	ECE	0.26038
+Mono	PRR	Cvas	2	LogisticRegression	ChemBERTa	ECE	0.10675
+Mono	ROR	Cvas	1	LogisticRegression	ChemBERTa	ECE	0.23702
+Mono	ROR	Cvas	4	LogisticRegression	ChemBERTa	ECE	0.2286
+Mono	ROR	Cvas	3	LogisticRegression	ChemBERTa	ECE	0.2094
+Mono	ROR	Cvas	0	LogisticRegression	ChemBERTa	ECE	0.22761
+Mono	ROR	Cvas	2	LogisticRegression	ChemBERTa	ECE	0.18763
+Mono	IC	Cvas	1	LogisticRegression	ChemBERTa	ECE	0.20346
+Mono	IC	Cvas	4	LogisticRegression	ChemBERTa	ECE	0.27324
+Mono	IC	Cvas	3	LogisticRegression	ChemBERTa	ECE	0.22052
+Mono	IC	Cvas	0	LogisticRegression	ChemBERTa	ECE	0.26361
+Mono	IC	Cvas	2	LogisticRegression	ChemBERTa	ECE	0.13734

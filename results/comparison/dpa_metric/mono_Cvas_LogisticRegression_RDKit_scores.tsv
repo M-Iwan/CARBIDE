@@ -1,0 +1,196 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Mono	PRR	Cvas	1	LogisticRegression	RDKit	Balanced Accuracy	0.5035
+Mono	PRR	Cvas	4	LogisticRegression	RDKit	Balanced Accuracy	0.5559
+Mono	PRR	Cvas	3	LogisticRegression	RDKit	Balanced Accuracy	0.52037
+Mono	PRR	Cvas	0	LogisticRegression	RDKit	Balanced Accuracy	0.49016
+Mono	PRR	Cvas	2	LogisticRegression	RDKit	Balanced Accuracy	0.58203
+Mono	ROR	Cvas	1	LogisticRegression	RDKit	Balanced Accuracy	0.49234
+Mono	ROR	Cvas	4	LogisticRegression	RDKit	Balanced Accuracy	0.56958
+Mono	ROR	Cvas	3	LogisticRegression	RDKit	Balanced Accuracy	0.53622
+Mono	ROR	Cvas	0	LogisticRegression	RDKit	Balanced Accuracy	0.49526
+Mono	ROR	Cvas	2	LogisticRegression	RDKit	Balanced Accuracy	0.58737
+Mono	IC	Cvas	1	LogisticRegression	RDKit	Balanced Accuracy	0.4775
+Mono	IC	Cvas	4	LogisticRegression	RDKit	Balanced Accuracy	0.54552
+Mono	IC	Cvas	3	LogisticRegression	RDKit	Balanced Accuracy	0.50075
+Mono	IC	Cvas	0	LogisticRegression	RDKit	Balanced Accuracy	0.48852
+Mono	IC	Cvas	2	LogisticRegression	RDKit	Balanced Accuracy	0.57564
+Mono	PRR	Cvas	1	LogisticRegression	RDKit	GeomRS	0.48993
+Mono	PRR	Cvas	4	LogisticRegression	RDKit	GeomRS	0.55528
+Mono	PRR	Cvas	3	LogisticRegression	RDKit	GeomRS	0.51535
+Mono	PRR	Cvas	0	LogisticRegression	RDKit	GeomRS	0.48814
+Mono	PRR	Cvas	2	LogisticRegression	RDKit	GeomRS	0.58065
+Mono	ROR	Cvas	1	LogisticRegression	RDKit	GeomRS	0.4793
+Mono	ROR	Cvas	4	LogisticRegression	RDKit	GeomRS	0.56472
+Mono	ROR	Cvas	3	LogisticRegression	RDKit	GeomRS	0.52357
+Mono	ROR	Cvas	0	LogisticRegression	RDKit	GeomRS	0.49525
+Mono	ROR	Cvas	2	LogisticRegression	RDKit	GeomRS	0.58302
+Mono	IC	Cvas	1	LogisticRegression	RDKit	GeomRS	0.46602
+Mono	IC	Cvas	4	LogisticRegression	RDKit	GeomRS	0.52569
+Mono	IC	Cvas	3	LogisticRegression	RDKit	GeomRS	0.4931
+Mono	IC	Cvas	0	LogisticRegression	RDKit	GeomRS	0.44393
+Mono	IC	Cvas	2	LogisticRegression	RDKit	GeomRS	0.5575
+Mono	PRR	Cvas	1	LogisticRegression	RDKit	HarmRS	0.47674
+Mono	PRR	Cvas	4	LogisticRegression	RDKit	HarmRS	0.55466
+Mono	PRR	Cvas	3	LogisticRegression	RDKit	HarmRS	0.51037
+Mono	PRR	Cvas	0	LogisticRegression	RDKit	HarmRS	0.48614
+Mono	PRR	Cvas	2	LogisticRegression	RDKit	HarmRS	0.57926
+Mono	ROR	Cvas	1	LogisticRegression	RDKit	HarmRS	0.4666
+Mono	ROR	Cvas	4	LogisticRegression	RDKit	HarmRS	0.5599
+Mono	ROR	Cvas	3	LogisticRegression	RDKit	HarmRS	0.51123
+Mono	ROR	Cvas	0	LogisticRegression	RDKit	HarmRS	0.49525
+Mono	ROR	Cvas	2	LogisticRegression	RDKit	HarmRS	0.5787
+Mono	IC	Cvas	1	LogisticRegression	RDKit	HarmRS	0.45482
+Mono	IC	Cvas	4	LogisticRegression	RDKit	HarmRS	0.50658
+Mono	IC	Cvas	3	LogisticRegression	RDKit	HarmRS	0.48557
+Mono	IC	Cvas	0	LogisticRegression	RDKit	HarmRS	0.4034
+Mono	IC	Cvas	2	LogisticRegression	RDKit	HarmRS	0.53993
+Mono	PRR	Cvas	1	LogisticRegression	RDKit	F1 Score	0.4748
+Mono	PRR	Cvas	4	LogisticRegression	RDKit	F1 Score	0.57491
+Mono	PRR	Cvas	3	LogisticRegression	RDKit	F1 Score	0.50945
+Mono	PRR	Cvas	0	LogisticRegression	RDKit	F1 Score	0.55608
+Mono	PRR	Cvas	2	LogisticRegression	RDKit	F1 Score	0.59736
+Mono	ROR	Cvas	1	LogisticRegression	RDKit	F1 Score	0.46492
+Mono	ROR	Cvas	4	LogisticRegression	RDKit	F1 Score	0.56221
+Mono	ROR	Cvas	3	LogisticRegression	RDKit	F1 Score	0.49863
+Mono	ROR	Cvas	0	LogisticRegression	RDKit	F1 Score	0.53511
+Mono	ROR	Cvas	2	LogisticRegression	RDKit	F1 Score	0.58571
+Mono	IC	Cvas	1	LogisticRegression	RDKit	F1 Score	0.58618
+Mono	IC	Cvas	4	LogisticRegression	RDKit	F1 Score	0.6458
+Mono	IC	Cvas	3	LogisticRegression	RDKit	F1 Score	0.57751
+Mono	IC	Cvas	0	LogisticRegression	RDKit	F1 Score	0.6314
+Mono	IC	Cvas	2	LogisticRegression	RDKit	F1 Score	0.67566
+Mono	PRR	Cvas	1	LogisticRegression	RDKit	ROC AUC	0.48212
+Mono	PRR	Cvas	4	LogisticRegression	RDKit	ROC AUC	0.60189
+Mono	PRR	Cvas	3	LogisticRegression	RDKit	ROC AUC	0.53489
+Mono	PRR	Cvas	0	LogisticRegression	RDKit	ROC AUC	0.48926
+Mono	PRR	Cvas	2	LogisticRegression	RDKit	ROC AUC	0.6054
+Mono	ROR	Cvas	1	LogisticRegression	RDKit	ROC AUC	0.48327
+Mono	ROR	Cvas	4	LogisticRegression	RDKit	ROC AUC	0.61017
+Mono	ROR	Cvas	3	LogisticRegression	RDKit	ROC AUC	0.54591
+Mono	ROR	Cvas	0	LogisticRegression	RDKit	ROC AUC	0.49755
+Mono	ROR	Cvas	2	LogisticRegression	RDKit	ROC AUC	0.602
+Mono	IC	Cvas	1	LogisticRegression	RDKit	ROC AUC	0.4801
+Mono	IC	Cvas	4	LogisticRegression	RDKit	ROC AUC	0.61341
+Mono	IC	Cvas	3	LogisticRegression	RDKit	ROC AUC	0.53615
+Mono	IC	Cvas	0	LogisticRegression	RDKit	ROC AUC	0.49076
+Mono	IC	Cvas	2	LogisticRegression	RDKit	ROC AUC	0.60221
+Mono	PRR	Cvas	1	LogisticRegression	RDKit	MCC	0.00702
+Mono	PRR	Cvas	4	LogisticRegression	RDKit	MCC	0.11071
+Mono	PRR	Cvas	3	LogisticRegression	RDKit	MCC	0.04077
+Mono	PRR	Cvas	0	LogisticRegression	RDKit	MCC	-0.01944
+Mono	PRR	Cvas	2	LogisticRegression	RDKit	MCC	0.16213
+Mono	ROR	Cvas	1	LogisticRegression	RDKit	MCC	-0.01537
+Mono	ROR	Cvas	4	LogisticRegression	RDKit	MCC	0.13887
+Mono	ROR	Cvas	3	LogisticRegression	RDKit	MCC	0.07362
+Mono	ROR	Cvas	0	LogisticRegression	RDKit	MCC	-0.00934
+Mono	ROR	Cvas	2	LogisticRegression	RDKit	MCC	0.17356
+Mono	IC	Cvas	1	LogisticRegression	RDKit	MCC	-0.04481
+Mono	IC	Cvas	4	LogisticRegression	RDKit	MCC	0.09459
+Mono	IC	Cvas	3	LogisticRegression	RDKit	MCC	0.00152
+Mono	IC	Cvas	0	LogisticRegression	RDKit	MCC	-0.0247
+Mono	IC	Cvas	2	LogisticRegression	RDKit	MCC	0.15708
+Mono	PRR	Cvas	1	LogisticRegression	RDKit	Accuracy	0.47825
+Mono	PRR	Cvas	4	LogisticRegression	RDKit	Accuracy	0.55213
+Mono	PRR	Cvas	3	LogisticRegression	RDKit	Accuracy	0.51073
+Mono	PRR	Cvas	0	LogisticRegression	RDKit	Accuracy	0.49799
+Mono	PRR	Cvas	2	LogisticRegression	RDKit	Accuracy	0.57552
+Mono	ROR	Cvas	1	LogisticRegression	RDKit	Accuracy	0.46785
+Mono	ROR	Cvas	4	LogisticRegression	RDKit	Accuracy	0.55892
+Mono	ROR	Cvas	3	LogisticRegression	RDKit	Accuracy	0.52075
+Mono	ROR	Cvas	0	LogisticRegression	RDKit	Accuracy	0.49505
+Mono	ROR	Cvas	2	LogisticRegression	RDKit	Accuracy	0.5758
+Mono	IC	Cvas	1	LogisticRegression	RDKit	Accuracy	0.50014
+Mono	IC	Cvas	4	LogisticRegression	RDKit	Accuracy	0.56644
+Mono	IC	Cvas	3	LogisticRegression	RDKit	Accuracy	0.5124
+Mono	IC	Cvas	0	LogisticRegression	RDKit	Accuracy	0.52448
+Mono	IC	Cvas	2	LogisticRegression	RDKit	Accuracy	0.59889
+Mono	PRR	Cvas	1	LogisticRegression	RDKit	Recall	0.38742
+Mono	PRR	Cvas	4	LogisticRegression	RDKit	Recall	0.52969
+Mono	PRR	Cvas	3	LogisticRegression	RDKit	Recall	0.44823
+Mono	PRR	Cvas	0	LogisticRegression	RDKit	Recall	0.53458
+Mono	PRR	Cvas	2	LogisticRegression	RDKit	Recall	0.54189
+Mono	ROR	Cvas	1	LogisticRegression	RDKit	Recall	0.37978
+Mono	ROR	Cvas	4	LogisticRegression	RDKit	Recall	0.49534
+Mono	ROR	Cvas	3	LogisticRegression	RDKit	Recall	0.42045
+Mono	ROR	Cvas	0	LogisticRegression	RDKit	Recall	0.49409
+Mono	ROR	Cvas	2	LogisticRegression	RDKit	Recall	0.51604
+Mono	IC	Cvas	1	LogisticRegression	RDKit	Recall	0.58157
+Mono	IC	Cvas	4	LogisticRegression	RDKit	Recall	0.69126
+Mono	IC	Cvas	3	LogisticRegression	RDKit	Recall	0.58796
+Mono	IC	Cvas	0	LogisticRegression	RDKit	Recall	0.69245
+Mono	IC	Cvas	2	LogisticRegression	RDKit	Recall	0.719
+Mono	PRR	Cvas	1	LogisticRegression	RDKit	Specificity	0.61958
+Mono	PRR	Cvas	4	LogisticRegression	RDKit	Specificity	0.58211
+Mono	PRR	Cvas	3	LogisticRegression	RDKit	Specificity	0.59251
+Mono	PRR	Cvas	0	LogisticRegression	RDKit	Specificity	0.44574
+Mono	PRR	Cvas	2	LogisticRegression	RDKit	Specificity	0.62218
+Mono	ROR	Cvas	1	LogisticRegression	RDKit	Specificity	0.6049
+Mono	ROR	Cvas	4	LogisticRegression	RDKit	Specificity	0.64383
+Mono	ROR	Cvas	3	LogisticRegression	RDKit	Specificity	0.65198
+Mono	ROR	Cvas	0	LogisticRegression	RDKit	Specificity	0.49643
+Mono	ROR	Cvas	2	LogisticRegression	RDKit	Specificity	0.6587
+Mono	IC	Cvas	1	LogisticRegression	RDKit	Specificity	0.37343
+Mono	IC	Cvas	4	LogisticRegression	RDKit	Specificity	0.39977
+Mono	IC	Cvas	3	LogisticRegression	RDKit	Specificity	0.41355
+Mono	IC	Cvas	0	LogisticRegression	RDKit	Specificity	0.2846
+Mono	IC	Cvas	2	LogisticRegression	RDKit	Specificity	0.43227
+Mono	PRR	Cvas	1	LogisticRegression	RDKit	Precision	0.61309
+Mono	PRR	Cvas	4	LogisticRegression	RDKit	Precision	0.62859
+Mono	PRR	Cvas	3	LogisticRegression	RDKit	Precision	0.59003
+Mono	PRR	Cvas	0	LogisticRegression	RDKit	Precision	0.57939
+Mono	PRR	Cvas	2	LogisticRegression	RDKit	Precision	0.66549
+Mono	ROR	Cvas	1	LogisticRegression	RDKit	Precision	0.59929
+Mono	ROR	Cvas	4	LogisticRegression	RDKit	Precision	0.64997
+Mono	ROR	Cvas	3	LogisticRegression	RDKit	Precision	0.61251
+Mono	ROR	Cvas	0	LogisticRegression	RDKit	Precision	0.58356
+Mono	ROR	Cvas	2	LogisticRegression	RDKit	Precision	0.67714
+Mono	IC	Cvas	1	LogisticRegression	RDKit	Precision	0.59087
+Mono	IC	Cvas	4	LogisticRegression	RDKit	Precision	0.60595
+Mono	IC	Cvas	3	LogisticRegression	RDKit	Precision	0.56742
+Mono	IC	Cvas	0	LogisticRegression	RDKit	Precision	0.58025
+Mono	IC	Cvas	2	LogisticRegression	RDKit	Precision	0.63725
+Mono	PRR	Cvas	1	LogisticRegression	RDKit	PRC AUC	0.59651
+Mono	PRR	Cvas	4	LogisticRegression	RDKit	PRC AUC	0.69744
+Mono	PRR	Cvas	3	LogisticRegression	RDKit	PRC AUC	0.62682
+Mono	PRR	Cvas	0	LogisticRegression	RDKit	PRC AUC	0.58471
+Mono	PRR	Cvas	2	LogisticRegression	RDKit	PRC AUC	0.64438
+Mono	ROR	Cvas	1	LogisticRegression	RDKit	PRC AUC	0.58904
+Mono	ROR	Cvas	4	LogisticRegression	RDKit	PRC AUC	0.70715
+Mono	ROR	Cvas	3	LogisticRegression	RDKit	PRC AUC	0.63706
+Mono	ROR	Cvas	0	LogisticRegression	RDKit	PRC AUC	0.59881
+Mono	ROR	Cvas	2	LogisticRegression	RDKit	PRC AUC	0.6572
+Mono	IC	Cvas	1	LogisticRegression	RDKit	PRC AUC	0.59509
+Mono	IC	Cvas	4	LogisticRegression	RDKit	PRC AUC	0.70509
+Mono	IC	Cvas	3	LogisticRegression	RDKit	PRC AUC	0.61688
+Mono	IC	Cvas	0	LogisticRegression	RDKit	PRC AUC	0.58407
+Mono	IC	Cvas	2	LogisticRegression	RDKit	PRC AUC	0.65464
+Mono	PRR	Cvas	1	LogisticRegression	RDKit	Brier	0.31206
+Mono	PRR	Cvas	4	LogisticRegression	RDKit	Brier	0.26484
+Mono	PRR	Cvas	3	LogisticRegression	RDKit	Brier	0.29005
+Mono	PRR	Cvas	0	LogisticRegression	RDKit	Brier	0.3124
+Mono	PRR	Cvas	2	LogisticRegression	RDKit	Brier	0.27325
+Mono	ROR	Cvas	1	LogisticRegression	RDKit	Brier	0.32868
+Mono	ROR	Cvas	4	LogisticRegression	RDKit	Brier	0.2636
+Mono	ROR	Cvas	3	LogisticRegression	RDKit	Brier	0.2878
+Mono	ROR	Cvas	0	LogisticRegression	RDKit	Brier	0.30768
+Mono	ROR	Cvas	2	LogisticRegression	RDKit	Brier	0.27607
+Mono	IC	Cvas	1	LogisticRegression	RDKit	Brier	0.29846
+Mono	IC	Cvas	4	LogisticRegression	RDKit	Brier	0.25999
+Mono	IC	Cvas	3	LogisticRegression	RDKit	Brier	0.28311
+Mono	IC	Cvas	0	LogisticRegression	RDKit	Brier	0.3097
+Mono	IC	Cvas	2	LogisticRegression	RDKit	Brier	0.26383
+Mono	PRR	Cvas	1	LogisticRegression	RDKit	ECE	0.2274
+Mono	PRR	Cvas	4	LogisticRegression	RDKit	ECE	0.15183
+Mono	PRR	Cvas	3	LogisticRegression	RDKit	ECE	0.18654
+Mono	PRR	Cvas	0	LogisticRegression	RDKit	ECE	0.21752
+Mono	PRR	Cvas	2	LogisticRegression	RDKit	ECE	0.18448
+Mono	ROR	Cvas	1	LogisticRegression	RDKit	ECE	0.26255
+Mono	ROR	Cvas	4	LogisticRegression	RDKit	ECE	0.14381
+Mono	ROR	Cvas	3	LogisticRegression	RDKit	ECE	0.1788
+Mono	ROR	Cvas	0	LogisticRegression	RDKit	ECE	0.21289
+Mono	ROR	Cvas	2	LogisticRegression	RDKit	ECE	0.19364
+Mono	IC	Cvas	1	LogisticRegression	RDKit	ECE	0.21169
+Mono	IC	Cvas	4	LogisticRegression	RDKit	ECE	0.16193
+Mono	IC	Cvas	3	LogisticRegression	RDKit	ECE	0.1915
+Mono	IC	Cvas	0	LogisticRegression	RDKit	ECE	0.21924
+Mono	IC	Cvas	2	LogisticRegression	RDKit	ECE	0.13706

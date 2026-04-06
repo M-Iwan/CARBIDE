@@ -1,0 +1,196 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Mono	PRR	Card	1	RandomForestClassifier	Klek	Balanced Accuracy	0.57636
+Mono	PRR	Card	4	RandomForestClassifier	Klek	Balanced Accuracy	0.55329
+Mono	PRR	Card	3	RandomForestClassifier	Klek	Balanced Accuracy	0.55947
+Mono	PRR	Card	2	RandomForestClassifier	Klek	Balanced Accuracy	0.59646
+Mono	PRR	Card	0	RandomForestClassifier	Klek	Balanced Accuracy	0.52323
+Primary	PRR	Card	1	RandomForestClassifier	Klek	Balanced Accuracy	0.57627
+Primary	PRR	Card	4	RandomForestClassifier	Klek	Balanced Accuracy	0.56429
+Primary	PRR	Card	3	RandomForestClassifier	Klek	Balanced Accuracy	0.6006
+Primary	PRR	Card	2	RandomForestClassifier	Klek	Balanced Accuracy	0.68026
+Primary	PRR	Card	0	RandomForestClassifier	Klek	Balanced Accuracy	0.53506
+Secondary	PRR	Card	1	RandomForestClassifier	Klek	Balanced Accuracy	0.57464
+Secondary	PRR	Card	4	RandomForestClassifier	Klek	Balanced Accuracy	0.55658
+Secondary	PRR	Card	3	RandomForestClassifier	Klek	Balanced Accuracy	0.59399
+Secondary	PRR	Card	2	RandomForestClassifier	Klek	Balanced Accuracy	0.63619
+Secondary	PRR	Card	0	RandomForestClassifier	Klek	Balanced Accuracy	0.57153
+Mono	PRR	Card	1	RandomForestClassifier	Klek	GeomRS	0.49477
+Mono	PRR	Card	4	RandomForestClassifier	Klek	GeomRS	0.54682
+Mono	PRR	Card	3	RandomForestClassifier	Klek	GeomRS	0.49556
+Mono	PRR	Card	2	RandomForestClassifier	Klek	GeomRS	0.57751
+Mono	PRR	Card	0	RandomForestClassifier	Klek	GeomRS	0.50111
+Primary	PRR	Card	1	RandomForestClassifier	Klek	GeomRS	0.55224
+Primary	PRR	Card	4	RandomForestClassifier	Klek	GeomRS	0.55861
+Primary	PRR	Card	3	RandomForestClassifier	Klek	GeomRS	0.60058
+Primary	PRR	Card	2	RandomForestClassifier	Klek	GeomRS	0.67773
+Primary	PRR	Card	0	RandomForestClassifier	Klek	GeomRS	0.5337
+Secondary	PRR	Card	1	RandomForestClassifier	Klek	GeomRS	0.57463
+Secondary	PRR	Card	4	RandomForestClassifier	Klek	GeomRS	0.53685
+Secondary	PRR	Card	3	RandomForestClassifier	Klek	GeomRS	0.58941
+Secondary	PRR	Card	2	RandomForestClassifier	Klek	GeomRS	0.63212
+Secondary	PRR	Card	0	RandomForestClassifier	Klek	GeomRS	0.55988
+Mono	PRR	Card	1	RandomForestClassifier	Klek	HarmRS	0.42472
+Mono	PRR	Card	4	RandomForestClassifier	Klek	HarmRS	0.54044
+Mono	PRR	Card	3	RandomForestClassifier	Klek	HarmRS	0.43895
+Mono	PRR	Card	2	RandomForestClassifier	Klek	HarmRS	0.55916
+Mono	PRR	Card	0	RandomForestClassifier	Klek	HarmRS	0.47992
+Primary	PRR	Card	1	RandomForestClassifier	Klek	HarmRS	0.5292
+Primary	PRR	Card	4	RandomForestClassifier	Klek	HarmRS	0.55299
+Primary	PRR	Card	3	RandomForestClassifier	Klek	HarmRS	0.60057
+Primary	PRR	Card	2	RandomForestClassifier	Klek	HarmRS	0.67522
+Primary	PRR	Card	0	RandomForestClassifier	Klek	HarmRS	0.53233
+Secondary	PRR	Card	1	RandomForestClassifier	Klek	HarmRS	0.57462
+Secondary	PRR	Card	4	RandomForestClassifier	Klek	HarmRS	0.51783
+Secondary	PRR	Card	3	RandomForestClassifier	Klek	HarmRS	0.58488
+Secondary	PRR	Card	2	RandomForestClassifier	Klek	HarmRS	0.62806
+Secondary	PRR	Card	0	RandomForestClassifier	Klek	HarmRS	0.54846
+Mono	PRR	Card	1	RandomForestClassifier	Klek	F1 Score	0.41647
+Mono	PRR	Card	4	RandomForestClassifier	Klek	F1 Score	0.56175
+Mono	PRR	Card	3	RandomForestClassifier	Klek	F1 Score	0.42735
+Mono	PRR	Card	2	RandomForestClassifier	Klek	F1 Score	0.56271
+Mono	PRR	Card	0	RandomForestClassifier	Klek	F1 Score	0.47854
+Primary	PRR	Card	1	RandomForestClassifier	Klek	F1 Score	0.53176
+Primary	PRR	Card	4	RandomForestClassifier	Klek	F1 Score	0.66762
+Primary	PRR	Card	3	RandomForestClassifier	Klek	F1 Score	0.65917
+Primary	PRR	Card	2	RandomForestClassifier	Klek	F1 Score	0.70326
+Primary	PRR	Card	0	RandomForestClassifier	Klek	F1 Score	0.61692
+Secondary	PRR	Card	1	RandomForestClassifier	Klek	F1 Score	0.63689
+Secondary	PRR	Card	4	RandomForestClassifier	Klek	F1 Score	0.69293
+Secondary	PRR	Card	3	RandomForestClassifier	Klek	F1 Score	0.68771
+Secondary	PRR	Card	2	RandomForestClassifier	Klek	F1 Score	0.72544
+Secondary	PRR	Card	0	RandomForestClassifier	Klek	F1 Score	0.6883
+Mono	PRR	Card	1	RandomForestClassifier	Klek	ROC AUC	0.59387
+Mono	PRR	Card	4	RandomForestClassifier	Klek	ROC AUC	0.58145
+Mono	PRR	Card	3	RandomForestClassifier	Klek	ROC AUC	0.58903
+Mono	PRR	Card	2	RandomForestClassifier	Klek	ROC AUC	0.63662
+Mono	PRR	Card	0	RandomForestClassifier	Klek	ROC AUC	0.52868
+Primary	PRR	Card	1	RandomForestClassifier	Klek	ROC AUC	0.60165
+Primary	PRR	Card	4	RandomForestClassifier	Klek	ROC AUC	0.59521
+Primary	PRR	Card	3	RandomForestClassifier	Klek	ROC AUC	0.60035
+Primary	PRR	Card	2	RandomForestClassifier	Klek	ROC AUC	0.72422
+Primary	PRR	Card	0	RandomForestClassifier	Klek	ROC AUC	0.60326
+Secondary	PRR	Card	1	RandomForestClassifier	Klek	ROC AUC	0.59857
+Secondary	PRR	Card	4	RandomForestClassifier	Klek	ROC AUC	0.60841
+Secondary	PRR	Card	3	RandomForestClassifier	Klek	ROC AUC	0.61492
+Secondary	PRR	Card	2	RandomForestClassifier	Klek	ROC AUC	0.68729
+Secondary	PRR	Card	0	RandomForestClassifier	Klek	ROC AUC	0.59091
+Mono	PRR	Card	1	RandomForestClassifier	Klek	MCC	0.17302
+Mono	PRR	Card	4	RandomForestClassifier	Klek	MCC	0.10307
+Mono	PRR	Card	3	RandomForestClassifier	Klek	MCC	0.13099
+Mono	PRR	Card	2	RandomForestClassifier	Klek	MCC	0.19086
+Mono	PRR	Card	0	RandomForestClassifier	Klek	MCC	0.04663
+Primary	PRR	Card	1	RandomForestClassifier	Klek	MCC	0.15116
+Primary	PRR	Card	4	RandomForestClassifier	Klek	MCC	0.12561
+Primary	PRR	Card	3	RandomForestClassifier	Klek	MCC	0.19394
+Primary	PRR	Card	2	RandomForestClassifier	Klek	MCC	0.34595
+Primary	PRR	Card	0	RandomForestClassifier	Klek	MCC	0.0677
+Secondary	PRR	Card	1	RandomForestClassifier	Klek	MCC	0.14204
+Secondary	PRR	Card	4	RandomForestClassifier	Klek	MCC	0.11467
+Secondary	PRR	Card	3	RandomForestClassifier	Klek	MCC	0.1845
+Secondary	PRR	Card	2	RandomForestClassifier	Klek	MCC	0.26795
+Secondary	PRR	Card	0	RandomForestClassifier	Klek	MCC	0.14275
+Mono	PRR	Card	1	RandomForestClassifier	Klek	Accuracy	0.48468
+Mono	PRR	Card	4	RandomForestClassifier	Klek	Accuracy	0.52907
+Mono	PRR	Card	3	RandomForestClassifier	Klek	Accuracy	0.48855
+Mono	PRR	Card	2	RandomForestClassifier	Klek	Accuracy	0.55442
+Mono	PRR	Card	0	RandomForestClassifier	Klek	Accuracy	0.48162
+Primary	PRR	Card	1	RandomForestClassifier	Klek	Accuracy	0.52519
+Primary	PRR	Card	4	RandomForestClassifier	Klek	Accuracy	0.58722
+Primary	PRR	Card	3	RandomForestClassifier	Klek	Accuracy	0.60178
+Primary	PRR	Card	2	RandomForestClassifier	Klek	Accuracy	0.66375
+Primary	PRR	Card	0	RandomForestClassifier	Klek	Accuracy	0.54562
+Secondary	PRR	Card	1	RandomForestClassifier	Klek	Accuracy	0.57351
+Secondary	PRR	Card	4	RandomForestClassifier	Klek	Accuracy	0.59876
+Secondary	PRR	Card	3	RandomForestClassifier	Klek	Accuracy	0.61408
+Secondary	PRR	Card	2	RandomForestClassifier	Klek	Accuracy	0.65646
+Secondary	PRR	Card	0	RandomForestClassifier	Klek	Accuracy	0.60327
+Mono	PRR	Card	1	RandomForestClassifier	Klek	Recall	0.28073
+Mono	PRR	Card	4	RandomForestClassifier	Klek	Recall	0.46897
+Mono	PRR	Card	3	RandomForestClassifier	Klek	Recall	0.2998
+Mono	PRR	Card	2	RandomForestClassifier	Klek	Recall	0.44731
+Mono	PRR	Card	0	RandomForestClassifier	Klek	Recall	0.37269
+Primary	PRR	Card	1	RandomForestClassifier	Klek	Recall	0.41158
+Primary	PRR	Card	4	RandomForestClassifier	Klek	Recall	0.64414
+Primary	PRR	Card	3	RandomForestClassifier	Klek	Recall	0.60493
+Primary	PRR	Card	2	RandomForestClassifier	Klek	Recall	0.62168
+Primary	PRR	Card	0	RandomForestClassifier	Klek	Recall	0.57326
+Secondary	PRR	Card	1	RandomForestClassifier	Klek	Recall	0.57098
+Secondary	PRR	Card	4	RandomForestClassifier	Klek	Recall	0.70345
+Secondary	PRR	Card	3	RandomForestClassifier	Klek	Recall	0.66755
+Secondary	PRR	Card	2	RandomForestClassifier	Klek	Recall	0.70811
+Secondary	PRR	Card	0	RandomForestClassifier	Klek	Recall	0.68634
+Mono	PRR	Card	1	RandomForestClassifier	Klek	Specificity	0.87199
+Mono	PRR	Card	4	RandomForestClassifier	Klek	Specificity	0.63761
+Mono	PRR	Card	3	RandomForestClassifier	Klek	Specificity	0.81914
+Mono	PRR	Card	2	RandomForestClassifier	Klek	Specificity	0.7456
+Mono	PRR	Card	0	RandomForestClassifier	Klek	Specificity	0.67378
+Primary	PRR	Card	1	RandomForestClassifier	Klek	Specificity	0.74096
+Primary	PRR	Card	4	RandomForestClassifier	Klek	Specificity	0.48443
+Primary	PRR	Card	3	RandomForestClassifier	Klek	Specificity	0.59627
+Primary	PRR	Card	2	RandomForestClassifier	Klek	Specificity	0.73884
+Primary	PRR	Card	0	RandomForestClassifier	Klek	Specificity	0.49686
+Secondary	PRR	Card	1	RandomForestClassifier	Klek	Specificity	0.57831
+Secondary	PRR	Card	4	RandomForestClassifier	Klek	Specificity	0.40971
+Secondary	PRR	Card	3	RandomForestClassifier	Klek	Specificity	0.52042
+Secondary	PRR	Card	2	RandomForestClassifier	Klek	Specificity	0.56428
+Secondary	PRR	Card	0	RandomForestClassifier	Klek	Specificity	0.45671
+Mono	PRR	Card	1	RandomForestClassifier	Klek	Precision	0.80638
+Mono	PRR	Card	4	RandomForestClassifier	Klek	Precision	0.70031
+Mono	PRR	Card	3	RandomForestClassifier	Klek	Precision	0.7438
+Mono	PRR	Card	2	RandomForestClassifier	Klek	Precision	0.75835
+Mono	PRR	Card	0	RandomForestClassifier	Klek	Precision	0.66837
+Primary	PRR	Card	1	RandomForestClassifier	Klek	Precision	0.75109
+Primary	PRR	Card	4	RandomForestClassifier	Klek	Precision	0.69288
+Primary	PRR	Card	3	RandomForestClassifier	Klek	Precision	0.72408
+Primary	PRR	Card	2	RandomForestClassifier	Klek	Precision	0.80948
+Primary	PRR	Card	0	RandomForestClassifier	Klek	Precision	0.66777
+Secondary	PRR	Card	1	RandomForestClassifier	Klek	Precision	0.72
+Secondary	PRR	Card	4	RandomForestClassifier	Klek	Precision	0.68273
+Secondary	PRR	Card	3	RandomForestClassifier	Klek	Precision	0.70913
+Secondary	PRR	Card	2	RandomForestClassifier	Klek	Precision	0.74363
+Secondary	PRR	Card	0	RandomForestClassifier	Klek	Precision	0.69027
+Mono	PRR	Card	1	RandomForestClassifier	Klek	PRC AUC	0.75374
+Mono	PRR	Card	4	RandomForestClassifier	Klek	PRC AUC	0.72321
+Mono	PRR	Card	3	RandomForestClassifier	Klek	PRC AUC	0.7243
+Mono	PRR	Card	2	RandomForestClassifier	Klek	PRC AUC	0.77619
+Mono	PRR	Card	0	RandomForestClassifier	Klek	PRC AUC	0.65417
+Primary	PRR	Card	1	RandomForestClassifier	Klek	PRC AUC	0.77149
+Primary	PRR	Card	4	RandomForestClassifier	Klek	PRC AUC	0.72656
+Primary	PRR	Card	3	RandomForestClassifier	Klek	PRC AUC	0.72714
+Primary	PRR	Card	2	RandomForestClassifier	Klek	PRC AUC	0.82282
+Primary	PRR	Card	0	RandomForestClassifier	Klek	PRC AUC	0.75246
+Secondary	PRR	Card	1	RandomForestClassifier	Klek	PRC AUC	0.73396
+Secondary	PRR	Card	4	RandomForestClassifier	Klek	PRC AUC	0.73894
+Secondary	PRR	Card	3	RandomForestClassifier	Klek	PRC AUC	0.72768
+Secondary	PRR	Card	2	RandomForestClassifier	Klek	PRC AUC	0.77945
+Secondary	PRR	Card	0	RandomForestClassifier	Klek	PRC AUC	0.72028
+Mono	PRR	Card	1	RandomForestClassifier	Klek	Brier	0.28569
+Mono	PRR	Card	4	RandomForestClassifier	Klek	Brier	0.25707
+Mono	PRR	Card	3	RandomForestClassifier	Klek	Brier	0.26054
+Mono	PRR	Card	2	RandomForestClassifier	Klek	Brier	0.24299
+Mono	PRR	Card	0	RandomForestClassifier	Klek	Brier	0.27845
+Primary	PRR	Card	1	RandomForestClassifier	Klek	Brier	0.24971
+Primary	PRR	Card	4	RandomForestClassifier	Klek	Brier	0.23854
+Primary	PRR	Card	3	RandomForestClassifier	Klek	Brier	0.24222
+Primary	PRR	Card	2	RandomForestClassifier	Klek	Brier	0.21447
+Primary	PRR	Card	0	RandomForestClassifier	Klek	Brier	0.23878
+Secondary	PRR	Card	1	RandomForestClassifier	Klek	Brier	0.24179
+Secondary	PRR	Card	4	RandomForestClassifier	Klek	Brier	0.22918
+Secondary	PRR	Card	3	RandomForestClassifier	Klek	Brier	0.23808
+Secondary	PRR	Card	2	RandomForestClassifier	Klek	Brier	0.22268
+Secondary	PRR	Card	0	RandomForestClassifier	Klek	Brier	0.23589
+Mono	PRR	Card	1	RandomForestClassifier	Klek	ECE	0.2557
+Mono	PRR	Card	4	RandomForestClassifier	Klek	ECE	0.16064
+Mono	PRR	Card	3	RandomForestClassifier	Klek	ECE	0.1812
+Mono	PRR	Card	2	RandomForestClassifier	Klek	ECE	0.16864
+Mono	PRR	Card	0	RandomForestClassifier	Klek	ECE	0.2012
+Primary	PRR	Card	1	RandomForestClassifier	Klek	ECE	0.1782
+Primary	PRR	Card	4	RandomForestClassifier	Klek	ECE	0.10214
+Primary	PRR	Card	3	RandomForestClassifier	Klek	ECE	0.12506
+Primary	PRR	Card	2	RandomForestClassifier	Klek	ECE	0.12325
+Primary	PRR	Card	0	RandomForestClassifier	Klek	ECE	0.12601
+Secondary	PRR	Card	1	RandomForestClassifier	Klek	ECE	0.14617
+Secondary	PRR	Card	4	RandomForestClassifier	Klek	ECE	0.09237
+Secondary	PRR	Card	3	RandomForestClassifier	Klek	ECE	0.11718
+Secondary	PRR	Card	2	RandomForestClassifier	Klek	ECE	0.10879
+Secondary	PRR	Card	0	RandomForestClassifier	Klek	ECE	0.09661

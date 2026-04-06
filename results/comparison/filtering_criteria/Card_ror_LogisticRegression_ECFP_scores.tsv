@@ -1,0 +1,196 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Mono	ROR	Card	1	LogisticRegression	ECFP	Balanced Accuracy	0.53083
+Mono	ROR	Card	4	LogisticRegression	ECFP	Balanced Accuracy	0.60945
+Mono	ROR	Card	3	LogisticRegression	ECFP	Balanced Accuracy	0.49762
+Mono	ROR	Card	0	LogisticRegression	ECFP	Balanced Accuracy	0.54789
+Mono	ROR	Card	2	LogisticRegression	ECFP	Balanced Accuracy	0.61351
+Primary	ROR	Card	1	LogisticRegression	ECFP	Balanced Accuracy	0.53299
+Primary	ROR	Card	4	LogisticRegression	ECFP	Balanced Accuracy	0.53914
+Primary	ROR	Card	3	LogisticRegression	ECFP	Balanced Accuracy	0.47676
+Primary	ROR	Card	0	LogisticRegression	ECFP	Balanced Accuracy	0.58358
+Primary	ROR	Card	2	LogisticRegression	ECFP	Balanced Accuracy	0.55987
+Secondary	ROR	Card	1	LogisticRegression	ECFP	Balanced Accuracy	0.56151
+Secondary	ROR	Card	4	LogisticRegression	ECFP	Balanced Accuracy	0.57574
+Secondary	ROR	Card	3	LogisticRegression	ECFP	Balanced Accuracy	0.42941
+Secondary	ROR	Card	0	LogisticRegression	ECFP	Balanced Accuracy	0.53851
+Secondary	ROR	Card	2	LogisticRegression	ECFP	Balanced Accuracy	0.55276
+Mono	ROR	Card	1	LogisticRegression	ECFP	GeomRS	0.49703
+Mono	ROR	Card	4	LogisticRegression	ECFP	GeomRS	0.60912
+Mono	ROR	Card	3	LogisticRegression	ECFP	GeomRS	0.492
+Mono	ROR	Card	0	LogisticRegression	ECFP	GeomRS	0.54587
+Mono	ROR	Card	2	LogisticRegression	ECFP	GeomRS	0.6079
+Primary	ROR	Card	1	LogisticRegression	ECFP	GeomRS	0.50469
+Primary	ROR	Card	4	LogisticRegression	ECFP	GeomRS	0.53893
+Primary	ROR	Card	3	LogisticRegression	ECFP	GeomRS	0.46793
+Primary	ROR	Card	0	LogisticRegression	ECFP	GeomRS	0.58357
+Primary	ROR	Card	2	LogisticRegression	ECFP	GeomRS	0.558
+Secondary	ROR	Card	1	LogisticRegression	ECFP	GeomRS	0.55291
+Secondary	ROR	Card	4	LogisticRegression	ECFP	GeomRS	0.57522
+Secondary	ROR	Card	3	LogisticRegression	ECFP	GeomRS	0.42941
+Secondary	ROR	Card	0	LogisticRegression	ECFP	GeomRS	0.53719
+Secondary	ROR	Card	2	LogisticRegression	ECFP	GeomRS	0.55089
+Mono	ROR	Card	1	LogisticRegression	ECFP	HarmRS	0.46539
+Mono	ROR	Card	4	LogisticRegression	ECFP	HarmRS	0.6088
+Mono	ROR	Card	3	LogisticRegression	ECFP	HarmRS	0.48645
+Mono	ROR	Card	0	LogisticRegression	ECFP	HarmRS	0.54385
+Mono	ROR	Card	2	LogisticRegression	ECFP	HarmRS	0.60234
+Primary	ROR	Card	1	LogisticRegression	ECFP	HarmRS	0.47789
+Primary	ROR	Card	4	LogisticRegression	ECFP	HarmRS	0.53871
+Primary	ROR	Card	3	LogisticRegression	ECFP	HarmRS	0.45927
+Primary	ROR	Card	0	LogisticRegression	ECFP	HarmRS	0.58356
+Primary	ROR	Card	2	LogisticRegression	ECFP	HarmRS	0.55614
+Secondary	ROR	Card	1	LogisticRegression	ECFP	HarmRS	0.54445
+Secondary	ROR	Card	4	LogisticRegression	ECFP	HarmRS	0.5747
+Secondary	ROR	Card	3	LogisticRegression	ECFP	HarmRS	0.42941
+Secondary	ROR	Card	0	LogisticRegression	ECFP	HarmRS	0.53587
+Secondary	ROR	Card	2	LogisticRegression	ECFP	HarmRS	0.54904
+Mono	ROR	Card	1	LogisticRegression	ECFP	F1 Score	0.43972
+Mono	ROR	Card	4	LogisticRegression	ECFP	F1 Score	0.64777
+Mono	ROR	Card	3	LogisticRegression	ECFP	F1 Score	0.47736
+Mono	ROR	Card	0	LogisticRegression	ECFP	F1 Score	0.55221
+Mono	ROR	Card	2	LogisticRegression	ECFP	F1 Score	0.67474
+Primary	ROR	Card	1	LogisticRegression	ECFP	F1 Score	0.45374
+Primary	ROR	Card	4	LogisticRegression	ECFP	F1 Score	0.57789
+Primary	ROR	Card	3	LogisticRegression	ECFP	F1 Score	0.44348
+Primary	ROR	Card	0	LogisticRegression	ECFP	F1 Score	0.61131
+Primary	ROR	Card	2	LogisticRegression	ECFP	F1 Score	0.60979
+Secondary	ROR	Card	1	LogisticRegression	ECFP	F1 Score	0.53559
+Secondary	ROR	Card	4	LogisticRegression	ECFP	F1 Score	0.6177
+Secondary	ROR	Card	3	LogisticRegression	ECFP	F1 Score	0.45278
+Secondary	ROR	Card	0	LogisticRegression	ECFP	F1 Score	0.54783
+Secondary	ROR	Card	2	LogisticRegression	ECFP	F1 Score	0.55691
+Mono	ROR	Card	1	LogisticRegression	ECFP	ROC AUC	0.55937
+Mono	ROR	Card	4	LogisticRegression	ECFP	ROC AUC	0.63505
+Mono	ROR	Card	3	LogisticRegression	ECFP	ROC AUC	0.49049
+Mono	ROR	Card	0	LogisticRegression	ECFP	ROC AUC	0.56524
+Mono	ROR	Card	2	LogisticRegression	ECFP	ROC AUC	0.63274
+Primary	ROR	Card	1	LogisticRegression	ECFP	ROC AUC	0.55971
+Primary	ROR	Card	4	LogisticRegression	ECFP	ROC AUC	0.58529
+Primary	ROR	Card	3	LogisticRegression	ECFP	ROC AUC	0.4366
+Primary	ROR	Card	0	LogisticRegression	ECFP	ROC AUC	0.60692
+Primary	ROR	Card	2	LogisticRegression	ECFP	ROC AUC	0.57205
+Secondary	ROR	Card	1	LogisticRegression	ECFP	ROC AUC	0.61262
+Secondary	ROR	Card	4	LogisticRegression	ECFP	ROC AUC	0.61095
+Secondary	ROR	Card	3	LogisticRegression	ECFP	ROC AUC	0.40559
+Secondary	ROR	Card	0	LogisticRegression	ECFP	ROC AUC	0.56322
+Secondary	ROR	Card	2	LogisticRegression	ECFP	ROC AUC	0.58492
+Mono	ROR	Card	1	LogisticRegression	ECFP	MCC	0.06577
+Mono	ROR	Card	4	LogisticRegression	ECFP	MCC	0.21746
+Mono	ROR	Card	3	LogisticRegression	ECFP	MCC	-0.00479
+Mono	ROR	Card	0	LogisticRegression	ECFP	MCC	0.09531
+Mono	ROR	Card	2	LogisticRegression	ECFP	MCC	0.22967
+Primary	ROR	Card	1	LogisticRegression	ECFP	MCC	0.06952
+Primary	ROR	Card	4	LogisticRegression	ECFP	MCC	0.07764
+Primary	ROR	Card	3	LogisticRegression	ECFP	MCC	-0.04708
+Primary	ROR	Card	0	LogisticRegression	ECFP	MCC	0.1658
+Primary	ROR	Card	2	LogisticRegression	ECFP	MCC	0.11953
+Secondary	ROR	Card	1	LogisticRegression	ECFP	MCC	0.12418
+Secondary	ROR	Card	4	LogisticRegression	ECFP	MCC	0.15048
+Secondary	ROR	Card	3	LogisticRegression	ECFP	MCC	-0.14048
+Secondary	ROR	Card	0	LogisticRegression	ECFP	MCC	0.07654
+Secondary	ROR	Card	2	LogisticRegression	ECFP	MCC	0.10505
+Mono	ROR	Card	1	LogisticRegression	ECFP	Accuracy	0.50848
+Mono	ROR	Card	4	LogisticRegression	ECFP	Accuracy	0.61211
+Mono	ROR	Card	3	LogisticRegression	ECFP	Accuracy	0.49011
+Mono	ROR	Card	0	LogisticRegression	ECFP	Accuracy	0.54187
+Mono	ROR	Card	2	LogisticRegression	ECFP	Accuracy	0.62357
+Primary	ROR	Card	1	LogisticRegression	ECFP	Accuracy	0.51244
+Primary	ROR	Card	4	LogisticRegression	ECFP	Accuracy	0.54115
+Primary	ROR	Card	3	LogisticRegression	ECFP	Accuracy	0.46756
+Primary	ROR	Card	0	LogisticRegression	ECFP	Accuracy	0.58325
+Primary	ROR	Card	2	LogisticRegression	ECFP	Accuracy	0.56542
+Secondary	ROR	Card	1	LogisticRegression	ECFP	Accuracy	0.54977
+Secondary	ROR	Card	4	LogisticRegression	ECFP	Accuracy	0.579
+Secondary	ROR	Card	3	LogisticRegression	ECFP	Accuracy	0.42936
+Secondary	ROR	Card	0	LogisticRegression	ECFP	Accuracy	0.53369
+Secondary	ROR	Card	2	LogisticRegression	ECFP	Accuracy	0.54725
+Mono	ROR	Card	1	LogisticRegression	ECFP	Recall	0.34444
+Mono	ROR	Card	4	LogisticRegression	ECFP	Recall	0.62938
+Mono	ROR	Card	3	LogisticRegression	ECFP	Recall	0.42308
+Mono	ROR	Card	0	LogisticRegression	ECFP	Recall	0.50085
+Mono	ROR	Card	2	LogisticRegression	ECFP	Recall	0.6963
+Primary	ROR	Card	1	LogisticRegression	ECFP	Recall	0.36162
+Primary	ROR	Card	4	LogisticRegression	ECFP	Recall	0.55426
+Primary	ROR	Card	3	LogisticRegression	ECFP	Recall	0.38545
+Primary	ROR	Card	0	LogisticRegression	ECFP	Recall	0.58106
+Primary	ROR	Card	2	LogisticRegression	ECFP	Recall	0.60556
+Secondary	ROR	Card	1	LogisticRegression	ECFP	Recall	0.46364
+Secondary	ROR	Card	4	LogisticRegression	ECFP	Recall	0.60017
+Secondary	ROR	Card	3	LogisticRegression	ECFP	Recall	0.42893
+Secondary	ROR	Card	0	LogisticRegression	ECFP	Recall	0.50085
+Secondary	ROR	Card	2	LogisticRegression	ECFP	Recall	0.50741
+Mono	ROR	Card	1	LogisticRegression	ECFP	Specificity	0.71722
+Mono	ROR	Card	4	LogisticRegression	ECFP	Specificity	0.58952
+Mono	ROR	Card	3	LogisticRegression	ECFP	Specificity	0.57216
+Mono	ROR	Card	0	LogisticRegression	ECFP	Specificity	0.59492
+Mono	ROR	Card	2	LogisticRegression	ECFP	Specificity	0.53073
+Primary	ROR	Card	1	LogisticRegression	ECFP	Specificity	0.70437
+Primary	ROR	Card	4	LogisticRegression	ECFP	Specificity	0.52402
+Primary	ROR	Card	3	LogisticRegression	ECFP	Specificity	0.56807
+Primary	ROR	Card	0	LogisticRegression	ECFP	Specificity	0.58609
+Primary	ROR	Card	2	LogisticRegression	ECFP	Specificity	0.51418
+Secondary	ROR	Card	1	LogisticRegression	ECFP	Specificity	0.65938
+Secondary	ROR	Card	4	LogisticRegression	ECFP	Specificity	0.55131
+Secondary	ROR	Card	3	LogisticRegression	ECFP	Specificity	0.42989
+Secondary	ROR	Card	0	LogisticRegression	ECFP	Specificity	0.57616
+Secondary	ROR	Card	2	LogisticRegression	ECFP	Specificity	0.59811
+Mono	ROR	Card	1	LogisticRegression	ECFP	Precision	0.60784
+Mono	ROR	Card	4	LogisticRegression	ECFP	Precision	0.66726
+Mono	ROR	Card	3	LogisticRegression	ECFP	Precision	0.54762
+Mono	ROR	Card	0	LogisticRegression	ECFP	Precision	0.6153
+Mono	ROR	Card	2	LogisticRegression	ECFP	Precision	0.65448
+Primary	ROR	Card	1	LogisticRegression	ECFP	Precision	0.60884
+Primary	ROR	Card	4	LogisticRegression	ECFP	Precision	0.60364
+Primary	ROR	Card	3	LogisticRegression	ECFP	Precision	0.52208
+Primary	ROR	Card	0	LogisticRegression	ECFP	Precision	0.64489
+Primary	ROR	Card	2	LogisticRegression	ECFP	Precision	0.61408
+Secondary	ROR	Card	1	LogisticRegression	ECFP	Precision	0.63398
+Secondary	ROR	Card	4	LogisticRegression	ECFP	Precision	0.63628
+Secondary	ROR	Card	3	LogisticRegression	ECFP	Precision	0.47944
+Secondary	ROR	Card	0	LogisticRegression	ECFP	Precision	0.60453
+Secondary	ROR	Card	2	LogisticRegression	ECFP	Precision	0.61712
+Mono	ROR	Card	1	LogisticRegression	ECFP	PRC AUC	0.6247
+Mono	ROR	Card	4	LogisticRegression	ECFP	PRC AUC	0.67413
+Mono	ROR	Card	3	LogisticRegression	ECFP	PRC AUC	0.56322
+Mono	ROR	Card	0	LogisticRegression	ECFP	PRC AUC	0.65521
+Mono	ROR	Card	2	LogisticRegression	ECFP	PRC AUC	0.62485
+Primary	ROR	Card	1	LogisticRegression	ECFP	PRC AUC	0.6087
+Primary	ROR	Card	4	LogisticRegression	ECFP	PRC AUC	0.64236
+Primary	ROR	Card	3	LogisticRegression	ECFP	PRC AUC	0.52571
+Primary	ROR	Card	0	LogisticRegression	ECFP	PRC AUC	0.64258
+Primary	ROR	Card	2	LogisticRegression	ECFP	PRC AUC	0.58557
+Secondary	ROR	Card	1	LogisticRegression	ECFP	PRC AUC	0.63895
+Secondary	ROR	Card	4	LogisticRegression	ECFP	PRC AUC	0.65896
+Secondary	ROR	Card	3	LogisticRegression	ECFP	PRC AUC	0.48893
+Secondary	ROR	Card	0	LogisticRegression	ECFP	PRC AUC	0.60358
+Secondary	ROR	Card	2	LogisticRegression	ECFP	PRC AUC	0.62914
+Mono	ROR	Card	1	LogisticRegression	ECFP	Brier	0.30261
+Mono	ROR	Card	4	LogisticRegression	ECFP	Brier	0.25942
+Mono	ROR	Card	3	LogisticRegression	ECFP	Brier	0.30531
+Mono	ROR	Card	0	LogisticRegression	ECFP	Brier	0.28708
+Mono	ROR	Card	2	LogisticRegression	ECFP	Brier	0.25321
+Primary	ROR	Card	1	LogisticRegression	ECFP	Brier	0.28802
+Primary	ROR	Card	4	LogisticRegression	ECFP	Brier	0.2736
+Primary	ROR	Card	3	LogisticRegression	ECFP	Brier	0.33598
+Primary	ROR	Card	0	LogisticRegression	ECFP	Brier	0.26546
+Primary	ROR	Card	2	LogisticRegression	ECFP	Brier	0.29021
+Secondary	ROR	Card	1	LogisticRegression	ECFP	Brier	0.25143
+Secondary	ROR	Card	4	LogisticRegression	ECFP	Brier	0.2561
+Secondary	ROR	Card	3	LogisticRegression	ECFP	Brier	0.34018
+Secondary	ROR	Card	0	LogisticRegression	ECFP	Brier	0.26856
+Secondary	ROR	Card	2	LogisticRegression	ECFP	Brier	0.2659
+Mono	ROR	Card	1	LogisticRegression	ECFP	ECE	0.21618
+Mono	ROR	Card	4	LogisticRegression	ECFP	ECE	0.12744
+Mono	ROR	Card	3	LogisticRegression	ECFP	ECE	0.18979
+Mono	ROR	Card	0	LogisticRegression	ECFP	ECE	0.16958
+Mono	ROR	Card	2	LogisticRegression	ECFP	ECE	0.10065
+Primary	ROR	Card	1	LogisticRegression	ECFP	ECE	0.17995
+Primary	ROR	Card	4	LogisticRegression	ECFP	ECE	0.1646
+Primary	ROR	Card	3	LogisticRegression	ECFP	ECE	0.22609
+Primary	ROR	Card	0	LogisticRegression	ECFP	ECE	0.13815
+Primary	ROR	Card	2	LogisticRegression	ECFP	ECE	0.18443
+Secondary	ROR	Card	1	LogisticRegression	ECFP	ECE	0.12699
+Secondary	ROR	Card	4	LogisticRegression	ECFP	ECE	0.14604
+Secondary	ROR	Card	3	LogisticRegression	ECFP	ECE	0.25627
+Secondary	ROR	Card	0	LogisticRegression	ECFP	ECE	0.15155
+Secondary	ROR	Card	2	LogisticRegression	ECFP	ECE	0.13445

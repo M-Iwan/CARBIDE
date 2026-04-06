@@ -1,0 +1,196 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Mono	PRR	Cvas	1	LogisticRegression	ECFP	Balanced Accuracy	0.50992
+Mono	PRR	Cvas	4	LogisticRegression	ECFP	Balanced Accuracy	0.57991
+Mono	PRR	Cvas	3	LogisticRegression	ECFP	Balanced Accuracy	0.44985
+Mono	PRR	Cvas	0	LogisticRegression	ECFP	Balanced Accuracy	0.52164
+Mono	PRR	Cvas	2	LogisticRegression	ECFP	Balanced Accuracy	0.56447
+Mono	ROR	Cvas	1	LogisticRegression	ECFP	Balanced Accuracy	0.51097
+Mono	ROR	Cvas	4	LogisticRegression	ECFP	Balanced Accuracy	0.57588
+Mono	ROR	Cvas	3	LogisticRegression	ECFP	Balanced Accuracy	0.49122
+Mono	ROR	Cvas	0	LogisticRegression	ECFP	Balanced Accuracy	0.56449
+Mono	ROR	Cvas	2	LogisticRegression	ECFP	Balanced Accuracy	0.58202
+Mono	IC	Cvas	1	LogisticRegression	ECFP	Balanced Accuracy	0.51057
+Mono	IC	Cvas	4	LogisticRegression	ECFP	Balanced Accuracy	0.56666
+Mono	IC	Cvas	3	LogisticRegression	ECFP	Balanced Accuracy	0.44998
+Mono	IC	Cvas	0	LogisticRegression	ECFP	Balanced Accuracy	0.57022
+Mono	IC	Cvas	2	LogisticRegression	ECFP	Balanced Accuracy	0.58099
+Mono	PRR	Cvas	1	LogisticRegression	ECFP	GeomRS	0.48598
+Mono	PRR	Cvas	4	LogisticRegression	ECFP	GeomRS	0.57924
+Mono	PRR	Cvas	3	LogisticRegression	ECFP	GeomRS	0.44349
+Mono	PRR	Cvas	0	LogisticRegression	ECFP	GeomRS	0.52021
+Mono	PRR	Cvas	2	LogisticRegression	ECFP	GeomRS	0.55771
+Mono	ROR	Cvas	1	LogisticRegression	ECFP	GeomRS	0.49408
+Mono	ROR	Cvas	4	LogisticRegression	ECFP	GeomRS	0.57531
+Mono	ROR	Cvas	3	LogisticRegression	ECFP	GeomRS	0.49014
+Mono	ROR	Cvas	0	LogisticRegression	ECFP	GeomRS	0.56327
+Mono	ROR	Cvas	2	LogisticRegression	ECFP	GeomRS	0.57763
+Mono	IC	Cvas	1	LogisticRegression	ECFP	GeomRS	0.50976
+Mono	IC	Cvas	4	LogisticRegression	ECFP	GeomRS	0.56372
+Mono	IC	Cvas	3	LogisticRegression	ECFP	GeomRS	0.44493
+Mono	IC	Cvas	0	LogisticRegression	ECFP	GeomRS	0.57001
+Mono	IC	Cvas	2	LogisticRegression	ECFP	GeomRS	0.54626
+Mono	PRR	Cvas	1	LogisticRegression	ECFP	HarmRS	0.46316
+Mono	PRR	Cvas	4	LogisticRegression	ECFP	HarmRS	0.57857
+Mono	PRR	Cvas	3	LogisticRegression	ECFP	HarmRS	0.43721
+Mono	PRR	Cvas	0	LogisticRegression	ECFP	HarmRS	0.5188
+Mono	PRR	Cvas	2	LogisticRegression	ECFP	HarmRS	0.55104
+Mono	ROR	Cvas	1	LogisticRegression	ECFP	HarmRS	0.47774
+Mono	ROR	Cvas	4	LogisticRegression	ECFP	HarmRS	0.57475
+Mono	ROR	Cvas	3	LogisticRegression	ECFP	HarmRS	0.48907
+Mono	ROR	Cvas	0	LogisticRegression	ECFP	HarmRS	0.56204
+Mono	ROR	Cvas	2	LogisticRegression	ECFP	HarmRS	0.57326
+Mono	IC	Cvas	1	LogisticRegression	ECFP	HarmRS	0.50895
+Mono	IC	Cvas	4	LogisticRegression	ECFP	HarmRS	0.5608
+Mono	IC	Cvas	3	LogisticRegression	ECFP	HarmRS	0.43993
+Mono	IC	Cvas	0	LogisticRegression	ECFP	HarmRS	0.56981
+Mono	IC	Cvas	2	LogisticRegression	ECFP	HarmRS	0.51361
+Mono	PRR	Cvas	1	LogisticRegression	ECFP	F1 Score	0.45252
+Mono	PRR	Cvas	4	LogisticRegression	ECFP	F1 Score	0.62549
+Mono	PRR	Cvas	3	LogisticRegression	ECFP	F1 Score	0.52437
+Mono	PRR	Cvas	0	LogisticRegression	ECFP	F1 Score	0.5395
+Mono	PRR	Cvas	2	LogisticRegression	ECFP	F1 Score	0.64244
+Mono	ROR	Cvas	1	LogisticRegression	ECFP	F1 Score	0.47252
+Mono	ROR	Cvas	4	LogisticRegression	ECFP	F1 Score	0.62057
+Mono	ROR	Cvas	3	LogisticRegression	ECFP	F1 Score	0.50335
+Mono	ROR	Cvas	0	LogisticRegression	ECFP	F1 Score	0.58388
+Mono	ROR	Cvas	2	LogisticRegression	ECFP	F1 Score	0.6514
+Mono	IC	Cvas	1	LogisticRegression	ECFP	F1 Score	0.57609
+Mono	IC	Cvas	4	LogisticRegression	ECFP	F1 Score	0.62678
+Mono	IC	Cvas	3	LogisticRegression	ECFP	F1 Score	0.5201
+Mono	IC	Cvas	0	LogisticRegression	ECFP	F1 Score	0.61727
+Mono	IC	Cvas	2	LogisticRegression	ECFP	F1 Score	0.70054
+Mono	PRR	Cvas	1	LogisticRegression	ECFP	ROC AUC	0.49997
+Mono	PRR	Cvas	4	LogisticRegression	ECFP	ROC AUC	0.60252
+Mono	PRR	Cvas	3	LogisticRegression	ECFP	ROC AUC	0.44082
+Mono	PRR	Cvas	0	LogisticRegression	ECFP	ROC AUC	0.55375
+Mono	PRR	Cvas	2	LogisticRegression	ECFP	ROC AUC	0.5879
+Mono	ROR	Cvas	1	LogisticRegression	ECFP	ROC AUC	0.51615
+Mono	ROR	Cvas	4	LogisticRegression	ECFP	ROC AUC	0.59884
+Mono	ROR	Cvas	3	LogisticRegression	ECFP	ROC AUC	0.49802
+Mono	ROR	Cvas	0	LogisticRegression	ECFP	ROC AUC	0.59867
+Mono	ROR	Cvas	2	LogisticRegression	ECFP	ROC AUC	0.60925
+Mono	IC	Cvas	1	LogisticRegression	ECFP	ROC AUC	0.52723
+Mono	IC	Cvas	4	LogisticRegression	ECFP	ROC AUC	0.5942
+Mono	IC	Cvas	3	LogisticRegression	ECFP	ROC AUC	0.43427
+Mono	IC	Cvas	0	LogisticRegression	ECFP	ROC AUC	0.6016
+Mono	IC	Cvas	2	LogisticRegression	ECFP	ROC AUC	0.60182
+Mono	PRR	Cvas	1	LogisticRegression	ECFP	MCC	0.02033
+Mono	PRR	Cvas	4	LogisticRegression	ECFP	MCC	0.15865
+Mono	PRR	Cvas	3	LogisticRegression	ECFP	MCC	-0.10035
+Mono	PRR	Cvas	0	LogisticRegression	ECFP	MCC	0.0427
+Mono	PRR	Cvas	2	LogisticRegression	ECFP	MCC	0.12971
+Mono	ROR	Cvas	1	LogisticRegression	ECFP	MCC	0.02214
+Mono	ROR	Cvas	4	LogisticRegression	ECFP	MCC	0.15058
+Mono	ROR	Cvas	3	LogisticRegression	ECFP	MCC	-0.01745
+Mono	ROR	Cvas	0	LogisticRegression	ECFP	MCC	0.12714
+Mono	ROR	Cvas	2	LogisticRegression	ECFP	MCC	0.16425
+Mono	IC	Cvas	1	LogisticRegression	ECFP	MCC	0.02068
+Mono	IC	Cvas	4	LogisticRegression	ECFP	MCC	0.13314
+Mono	IC	Cvas	3	LogisticRegression	ECFP	MCC	-0.09987
+Mono	IC	Cvas	0	LogisticRegression	ECFP	MCC	0.13845
+Mono	IC	Cvas	2	LogisticRegression	ECFP	MCC	0.1763
+Mono	PRR	Cvas	1	LogisticRegression	ECFP	Accuracy	0.47633
+Mono	PRR	Cvas	4	LogisticRegression	ECFP	Accuracy	0.5839
+Mono	PRR	Cvas	3	LogisticRegression	ECFP	Accuracy	0.45992
+Mono	PRR	Cvas	0	LogisticRegression	ECFP	Accuracy	0.51485
+Mono	PRR	Cvas	2	LogisticRegression	ECFP	Accuracy	0.57858
+Mono	ROR	Cvas	1	LogisticRegression	ECFP	Accuracy	0.48263
+Mono	ROR	Cvas	4	LogisticRegression	ECFP	Accuracy	0.57953
+Mono	ROR	Cvas	3	LogisticRegression	ECFP	Accuracy	0.48688
+Mono	ROR	Cvas	0	LogisticRegression	ECFP	Accuracy	0.55793
+Mono	ROR	Cvas	2	LogisticRegression	ECFP	Accuracy	0.5936
+Mono	IC	Cvas	1	LogisticRegression	ECFP	Accuracy	0.51683
+Mono	IC	Cvas	4	LogisticRegression	ECFP	Accuracy	0.57493
+Mono	IC	Cvas	3	LogisticRegression	ECFP	Accuracy	0.45897
+Mono	IC	Cvas	0	LogisticRegression	ECFP	Accuracy	0.57292
+Mono	IC	Cvas	2	LogisticRegression	ECFP	Accuracy	0.61307
+Mono	PRR	Cvas	1	LogisticRegression	ECFP	Recall	0.35551
+Mono	PRR	Cvas	4	LogisticRegression	ECFP	Recall	0.60772
+Mono	PRR	Cvas	3	LogisticRegression	ECFP	Recall	0.52525
+Mono	PRR	Cvas	0	LogisticRegression	ECFP	Recall	0.48317
+Mono	PRR	Cvas	2	LogisticRegression	ECFP	Recall	0.65151
+Mono	ROR	Cvas	1	LogisticRegression	ECFP	Recall	0.38067
+Mono	ROR	Cvas	4	LogisticRegression	ECFP	Recall	0.60136
+Mono	ROR	Cvas	3	LogisticRegression	ECFP	Recall	0.45875
+Mono	ROR	Cvas	0	LogisticRegression	ECFP	Recall	0.5273
+Mono	ROR	Cvas	2	LogisticRegression	ECFP	Recall	0.65342
+Mono	IC	Cvas	1	LogisticRegression	ECFP	Recall	0.53933
+Mono	IC	Cvas	4	LogisticRegression	ECFP	Recall	0.62426
+Mono	IC	Cvas	3	LogisticRegression	ECFP	Recall	0.51726
+Mono	IC	Cvas	0	LogisticRegression	ECFP	Recall	0.58553
+Mono	IC	Cvas	2	LogisticRegression	ECFP	Recall	0.77884
+Mono	PRR	Cvas	1	LogisticRegression	ECFP	Specificity	0.66434
+Mono	PRR	Cvas	4	LogisticRegression	ECFP	Specificity	0.5521
+Mono	PRR	Cvas	3	LogisticRegression	ECFP	Specificity	0.37445
+Mono	PRR	Cvas	0	LogisticRegression	ECFP	Specificity	0.5601
+Mono	PRR	Cvas	2	LogisticRegression	ECFP	Specificity	0.47742
+Mono	ROR	Cvas	1	LogisticRegression	ECFP	Specificity	0.64126
+Mono	ROR	Cvas	4	LogisticRegression	ECFP	Specificity	0.5504
+Mono	ROR	Cvas	3	LogisticRegression	ECFP	Specificity	0.52368
+Mono	ROR	Cvas	0	LogisticRegression	ECFP	Specificity	0.60169
+Mono	ROR	Cvas	2	LogisticRegression	ECFP	Specificity	0.51062
+Mono	IC	Cvas	1	LogisticRegression	ECFP	Specificity	0.48182
+Mono	IC	Cvas	4	LogisticRegression	ECFP	Specificity	0.50906
+Mono	IC	Cvas	3	LogisticRegression	ECFP	Specificity	0.38271
+Mono	IC	Cvas	0	LogisticRegression	ECFP	Specificity	0.55491
+Mono	IC	Cvas	2	LogisticRegression	ECFP	Specificity	0.38313
+Mono	PRR	Cvas	1	LogisticRegression	ECFP	Precision	0.62234
+Mono	PRR	Cvas	4	LogisticRegression	ECFP	Precision	0.64433
+Mono	PRR	Cvas	3	LogisticRegression	ECFP	Precision	0.52349
+Mono	PRR	Cvas	0	LogisticRegression	ECFP	Precision	0.6107
+Mono	PRR	Cvas	2	LogisticRegression	ECFP	Precision	0.63361
+Mono	ROR	Cvas	1	LogisticRegression	ECFP	Precision	0.62279
+Mono	ROR	Cvas	4	LogisticRegression	ECFP	Precision	0.64105
+Mono	ROR	Cvas	3	LogisticRegression	ECFP	Precision	0.55754
+Mono	ROR	Cvas	0	LogisticRegression	ECFP	Precision	0.65406
+Mono	ROR	Cvas	2	LogisticRegression	ECFP	Precision	0.64938
+Mono	IC	Cvas	1	LogisticRegression	ECFP	Precision	0.61824
+Mono	IC	Cvas	4	LogisticRegression	ECFP	Precision	0.62933
+Mono	IC	Cvas	3	LogisticRegression	ECFP	Precision	0.52298
+Mono	IC	Cvas	0	LogisticRegression	ECFP	Precision	0.65264
+Mono	IC	Cvas	2	LogisticRegression	ECFP	Precision	0.63654
+Mono	PRR	Cvas	1	LogisticRegression	ECFP	PRC AUC	0.60024
+Mono	PRR	Cvas	4	LogisticRegression	ECFP	PRC AUC	0.65202
+Mono	PRR	Cvas	3	LogisticRegression	ECFP	PRC AUC	0.53216
+Mono	PRR	Cvas	0	LogisticRegression	ECFP	PRC AUC	0.63792
+Mono	PRR	Cvas	2	LogisticRegression	ECFP	PRC AUC	0.62167
+Mono	ROR	Cvas	1	LogisticRegression	ECFP	PRC AUC	0.61697
+Mono	ROR	Cvas	4	LogisticRegression	ECFP	PRC AUC	0.64471
+Mono	ROR	Cvas	3	LogisticRegression	ECFP	PRC AUC	0.57677
+Mono	ROR	Cvas	0	LogisticRegression	ECFP	PRC AUC	0.6649
+Mono	ROR	Cvas	2	LogisticRegression	ECFP	PRC AUC	0.6335
+Mono	IC	Cvas	1	LogisticRegression	ECFP	PRC AUC	0.63369
+Mono	IC	Cvas	4	LogisticRegression	ECFP	PRC AUC	0.64926
+Mono	IC	Cvas	3	LogisticRegression	ECFP	PRC AUC	0.5288
+Mono	IC	Cvas	0	LogisticRegression	ECFP	PRC AUC	0.66237
+Mono	IC	Cvas	2	LogisticRegression	ECFP	PRC AUC	0.62717
+Mono	PRR	Cvas	1	LogisticRegression	ECFP	Brier	0.31756
+Mono	PRR	Cvas	4	LogisticRegression	ECFP	Brier	0.29597
+Mono	PRR	Cvas	3	LogisticRegression	ECFP	Brier	0.38858
+Mono	PRR	Cvas	0	LogisticRegression	ECFP	Brier	0.2913
+Mono	PRR	Cvas	2	LogisticRegression	ECFP	Brier	0.27031
+Mono	ROR	Cvas	1	LogisticRegression	ECFP	Brier	0.32433
+Mono	ROR	Cvas	4	LogisticRegression	ECFP	Brier	0.30302
+Mono	ROR	Cvas	3	LogisticRegression	ECFP	Brier	0.3086
+Mono	ROR	Cvas	0	LogisticRegression	ECFP	Brier	0.28753
+Mono	ROR	Cvas	2	LogisticRegression	ECFP	Brier	0.25623
+Mono	IC	Cvas	1	LogisticRegression	ECFP	Brier	0.31979
+Mono	IC	Cvas	4	LogisticRegression	ECFP	Brier	0.30045
+Mono	IC	Cvas	3	LogisticRegression	ECFP	Brier	0.37967
+Mono	IC	Cvas	0	LogisticRegression	ECFP	Brier	0.29664
+Mono	IC	Cvas	2	LogisticRegression	ECFP	Brier	0.25839
+Mono	PRR	Cvas	1	LogisticRegression	ECFP	ECE	0.23553
+Mono	PRR	Cvas	4	LogisticRegression	ECFP	ECE	0.22464
+Mono	PRR	Cvas	3	LogisticRegression	ECFP	ECE	0.33287
+Mono	PRR	Cvas	0	LogisticRegression	ECFP	ECE	0.19647
+Mono	PRR	Cvas	2	LogisticRegression	ECFP	ECE	0.15859
+Mono	ROR	Cvas	1	LogisticRegression	ECFP	ECE	0.24441
+Mono	ROR	Cvas	4	LogisticRegression	ECFP	ECE	0.21911
+Mono	ROR	Cvas	3	LogisticRegression	ECFP	ECE	0.22383
+Mono	ROR	Cvas	0	LogisticRegression	ECFP	ECE	0.20803
+Mono	ROR	Cvas	2	LogisticRegression	ECFP	ECE	0.11491
+Mono	IC	Cvas	1	LogisticRegression	ECFP	ECE	0.24312
+Mono	IC	Cvas	4	LogisticRegression	ECFP	ECE	0.22321
+Mono	IC	Cvas	3	LogisticRegression	ECFP	ECE	0.32323
+Mono	IC	Cvas	0	LogisticRegression	ECFP	ECE	0.21608
+Mono	IC	Cvas	2	LogisticRegression	ECFP	ECE	0.13391

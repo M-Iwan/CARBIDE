@@ -1,0 +1,196 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Mono	IC	Card	1	LogisticRegression	ECFP	Balanced Accuracy	0.53001
+Mono	IC	Card	4	LogisticRegression	ECFP	Balanced Accuracy	0.61203
+Mono	IC	Card	3	LogisticRegression	ECFP	Balanced Accuracy	0.42711
+Mono	IC	Card	0	LogisticRegression	ECFP	Balanced Accuracy	0.52393
+Mono	IC	Card	2	LogisticRegression	ECFP	Balanced Accuracy	0.57706
+Primary	IC	Card	1	LogisticRegression	ECFP	Balanced Accuracy	0.5424
+Primary	IC	Card	4	LogisticRegression	ECFP	Balanced Accuracy	0.64982
+Primary	IC	Card	3	LogisticRegression	ECFP	Balanced Accuracy	0.4113
+Primary	IC	Card	0	LogisticRegression	ECFP	Balanced Accuracy	0.55837
+Primary	IC	Card	2	LogisticRegression	ECFP	Balanced Accuracy	0.57372
+Secondary	IC	Card	1	LogisticRegression	ECFP	Balanced Accuracy	0.54196
+Secondary	IC	Card	4	LogisticRegression	ECFP	Balanced Accuracy	0.50094
+Secondary	IC	Card	3	LogisticRegression	ECFP	Balanced Accuracy	0.52311
+Secondary	IC	Card	0	LogisticRegression	ECFP	Balanced Accuracy	0.58851
+Secondary	IC	Card	2	LogisticRegression	ECFP	Balanced Accuracy	0.54551
+Mono	IC	Card	1	LogisticRegression	ECFP	GeomRS	0.52971
+Mono	IC	Card	4	LogisticRegression	ECFP	GeomRS	0.60062
+Mono	IC	Card	3	LogisticRegression	ECFP	GeomRS	0.41944
+Mono	IC	Card	0	LogisticRegression	ECFP	GeomRS	0.50755
+Mono	IC	Card	2	LogisticRegression	ECFP	GeomRS	0.56211
+Primary	IC	Card	1	LogisticRegression	ECFP	GeomRS	0.53141
+Primary	IC	Card	4	LogisticRegression	ECFP	GeomRS	0.64077
+Primary	IC	Card	3	LogisticRegression	ECFP	GeomRS	0.40896
+Primary	IC	Card	0	LogisticRegression	ECFP	GeomRS	0.53205
+Primary	IC	Card	2	LogisticRegression	ECFP	GeomRS	0.53611
+Secondary	IC	Card	1	LogisticRegression	ECFP	GeomRS	0.53652
+Secondary	IC	Card	4	LogisticRegression	ECFP	GeomRS	0.49952
+Secondary	IC	Card	3	LogisticRegression	ECFP	GeomRS	0.52213
+Secondary	IC	Card	0	LogisticRegression	ECFP	GeomRS	0.57757
+Secondary	IC	Card	2	LogisticRegression	ECFP	GeomRS	0.51944
+Mono	IC	Card	1	LogisticRegression	ECFP	HarmRS	0.5294
+Mono	IC	Card	4	LogisticRegression	ECFP	HarmRS	0.58942
+Mono	IC	Card	3	LogisticRegression	ECFP	HarmRS	0.41192
+Mono	IC	Card	0	LogisticRegression	ECFP	HarmRS	0.49169
+Mono	IC	Card	2	LogisticRegression	ECFP	HarmRS	0.54754
+Primary	IC	Card	1	LogisticRegression	ECFP	HarmRS	0.52063
+Primary	IC	Card	4	LogisticRegression	ECFP	HarmRS	0.63184
+Primary	IC	Card	3	LogisticRegression	ECFP	HarmRS	0.40665
+Primary	IC	Card	0	LogisticRegression	ECFP	HarmRS	0.50697
+Primary	IC	Card	2	LogisticRegression	ECFP	HarmRS	0.50097
+Secondary	IC	Card	1	LogisticRegression	ECFP	HarmRS	0.53113
+Secondary	IC	Card	4	LogisticRegression	ECFP	HarmRS	0.49811
+Secondary	IC	Card	3	LogisticRegression	ECFP	HarmRS	0.52117
+Secondary	IC	Card	0	LogisticRegression	ECFP	HarmRS	0.56682
+Secondary	IC	Card	2	LogisticRegression	ECFP	HarmRS	0.49462
+Mono	IC	Card	1	LogisticRegression	ECFP	F1 Score	0.60721
+Mono	IC	Card	4	LogisticRegression	ECFP	F1 Score	0.72615
+Mono	IC	Card	3	LogisticRegression	ECFP	F1 Score	0.53985
+Mono	IC	Card	0	LogisticRegression	ECFP	F1 Score	0.6548
+Mono	IC	Card	2	LogisticRegression	ECFP	F1 Score	0.70146
+Primary	IC	Card	1	LogisticRegression	ECFP	F1 Score	0.66802
+Primary	IC	Card	4	LogisticRegression	ECFP	F1 Score	0.75351
+Primary	IC	Card	3	LogisticRegression	ECFP	F1 Score	0.5011
+Primary	IC	Card	0	LogisticRegression	ECFP	F1 Score	0.70185
+Primary	IC	Card	2	LogisticRegression	ECFP	F1 Score	0.73018
+Secondary	IC	Card	1	LogisticRegression	ECFP	F1 Score	0.65109
+Secondary	IC	Card	4	LogisticRegression	ECFP	F1 Score	0.58678
+Secondary	IC	Card	3	LogisticRegression	ECFP	F1 Score	0.60144
+Secondary	IC	Card	0	LogisticRegression	ECFP	F1 Score	0.70199
+Secondary	IC	Card	2	LogisticRegression	ECFP	F1 Score	0.69143
+Mono	IC	Card	1	LogisticRegression	ECFP	ROC AUC	0.51726
+Mono	IC	Card	4	LogisticRegression	ECFP	ROC AUC	0.64913
+Mono	IC	Card	3	LogisticRegression	ECFP	ROC AUC	0.39267
+Mono	IC	Card	0	LogisticRegression	ECFP	ROC AUC	0.55274
+Mono	IC	Card	2	LogisticRegression	ECFP	ROC AUC	0.60104
+Primary	IC	Card	1	LogisticRegression	ECFP	ROC AUC	0.56296
+Primary	IC	Card	4	LogisticRegression	ECFP	ROC AUC	0.67025
+Primary	IC	Card	3	LogisticRegression	ECFP	ROC AUC	0.39607
+Primary	IC	Card	0	LogisticRegression	ECFP	ROC AUC	0.60407
+Primary	IC	Card	2	LogisticRegression	ECFP	ROC AUC	0.6126
+Secondary	IC	Card	1	LogisticRegression	ECFP	ROC AUC	0.57373
+Secondary	IC	Card	4	LogisticRegression	ECFP	ROC AUC	0.51523
+Secondary	IC	Card	3	LogisticRegression	ECFP	ROC AUC	0.53576
+Secondary	IC	Card	0	LogisticRegression	ECFP	ROC AUC	0.61542
+Secondary	IC	Card	2	LogisticRegression	ECFP	ROC AUC	0.59648
+Mono	IC	Card	1	LogisticRegression	ECFP	MCC	0.05715
+Mono	IC	Card	4	LogisticRegression	ECFP	MCC	0.22495
+Mono	IC	Card	3	LogisticRegression	ECFP	MCC	-0.14128
+Mono	IC	Card	0	LogisticRegression	ECFP	MCC	0.0478
+Mono	IC	Card	2	LogisticRegression	ECFP	MCC	0.15523
+Primary	IC	Card	1	LogisticRegression	ECFP	MCC	0.08313
+Primary	IC	Card	4	LogisticRegression	ECFP	MCC	0.30111
+Primary	IC	Card	3	LogisticRegression	ECFP	MCC	-0.17079
+Primary	IC	Card	0	LogisticRegression	ECFP	MCC	0.12082
+Primary	IC	Card	2	LogisticRegression	ECFP	MCC	0.15842
+Secondary	IC	Card	1	LogisticRegression	ECFP	MCC	0.08109
+Secondary	IC	Card	4	LogisticRegression	ECFP	MCC	0.00181
+Secondary	IC	Card	3	LogisticRegression	ECFP	MCC	0.04459
+Secondary	IC	Card	0	LogisticRegression	ECFP	MCC	0.17693
+Secondary	IC	Card	2	LogisticRegression	ECFP	MCC	0.09355
+Mono	IC	Card	1	LogisticRegression	ECFP	Accuracy	0.53558
+Mono	IC	Card	4	LogisticRegression	ECFP	Accuracy	0.64581
+Mono	IC	Card	3	LogisticRegression	ECFP	Accuracy	0.44911
+Mono	IC	Card	0	LogisticRegression	ECFP	Accuracy	0.55989
+Mono	IC	Card	2	LogisticRegression	ECFP	Accuracy	0.61389
+Primary	IC	Card	1	LogisticRegression	ECFP	Accuracy	0.5761
+Primary	IC	Card	4	LogisticRegression	ECFP	Accuracy	0.68087
+Primary	IC	Card	3	LogisticRegression	ECFP	Accuracy	0.42324
+Primary	IC	Card	0	LogisticRegression	ECFP	Accuracy	0.60526
+Primary	IC	Card	2	LogisticRegression	ECFP	Accuracy	0.63137
+Secondary	IC	Card	1	LogisticRegression	ECFP	Accuracy	0.56571
+Secondary	IC	Card	4	LogisticRegression	ECFP	Accuracy	0.51176
+Secondary	IC	Card	3	LogisticRegression	ECFP	Accuracy	0.53181
+Secondary	IC	Card	0	LogisticRegression	ECFP	Accuracy	0.61978
+Secondary	IC	Card	2	LogisticRegression	ECFP	Accuracy	0.59252
+Mono	IC	Card	1	LogisticRegression	ECFP	Recall	0.54798
+Mono	IC	Card	4	LogisticRegression	ECFP	Recall	0.72966
+Mono	IC	Card	3	LogisticRegression	ECFP	Recall	0.50766
+Mono	IC	Card	0	LogisticRegression	ECFP	Recall	0.65387
+Mono	IC	Card	2	LogisticRegression	ECFP	Recall	0.70758
+Primary	IC	Card	1	LogisticRegression	ECFP	Recall	0.65107
+Primary	IC	Card	4	LogisticRegression	ECFP	Recall	0.75793
+Primary	IC	Card	3	LogisticRegression	ECFP	Recall	0.45503
+Primary	IC	Card	0	LogisticRegression	ECFP	Recall	0.72779
+Primary	IC	Card	2	LogisticRegression	ECFP	Recall	0.77803
+Secondary	IC	Card	1	LogisticRegression	ECFP	Recall	0.61856
+Secondary	IC	Card	4	LogisticRegression	ECFP	Recall	0.53862
+Secondary	IC	Card	3	LogisticRegression	ECFP	Recall	0.55496
+Secondary	IC	Card	0	LogisticRegression	ECFP	Recall	0.70149
+Secondary	IC	Card	2	LogisticRegression	ECFP	Recall	0.71212
+Mono	IC	Card	1	LogisticRegression	ECFP	Specificity	0.51205
+Mono	IC	Card	4	LogisticRegression	ECFP	Specificity	0.4944
+Mono	IC	Card	3	LogisticRegression	ECFP	Specificity	0.34656
+Mono	IC	Card	0	LogisticRegression	ECFP	Specificity	0.39398
+Mono	IC	Card	2	LogisticRegression	ECFP	Specificity	0.44655
+Primary	IC	Card	1	LogisticRegression	ECFP	Specificity	0.43373
+Primary	IC	Card	4	LogisticRegression	ECFP	Specificity	0.54172
+Primary	IC	Card	3	LogisticRegression	ECFP	Specificity	0.36756
+Primary	IC	Card	0	LogisticRegression	ECFP	Specificity	0.38896
+Primary	IC	Card	2	LogisticRegression	ECFP	Specificity	0.36942
+Secondary	IC	Card	1	LogisticRegression	ECFP	Specificity	0.46536
+Secondary	IC	Card	4	LogisticRegression	ECFP	Specificity	0.46326
+Secondary	IC	Card	3	LogisticRegression	ECFP	Specificity	0.49125
+Secondary	IC	Card	0	LogisticRegression	ECFP	Specificity	0.47553
+Secondary	IC	Card	2	LogisticRegression	ECFP	Specificity	0.37889
+Mono	IC	Card	1	LogisticRegression	ECFP	Precision	0.68079
+Mono	IC	Card	4	LogisticRegression	ECFP	Precision	0.72268
+Mono	IC	Card	3	LogisticRegression	ECFP	Precision	0.5764
+Mono	IC	Card	0	LogisticRegression	ECFP	Precision	0.65574
+Mono	IC	Card	2	LogisticRegression	ECFP	Precision	0.69546
+Primary	IC	Card	1	LogisticRegression	ECFP	Precision	0.68588
+Primary	IC	Card	4	LogisticRegression	ECFP	Precision	0.74915
+Primary	IC	Card	3	LogisticRegression	ECFP	Precision	0.55755
+Primary	IC	Card	0	LogisticRegression	ECFP	Precision	0.6777
+Primary	IC	Card	2	LogisticRegression	ECFP	Precision	0.68788
+Secondary	IC	Card	1	LogisticRegression	ECFP	Precision	0.68722
+Secondary	IC	Card	4	LogisticRegression	ECFP	Precision	0.64439
+Secondary	IC	Card	3	LogisticRegression	ECFP	Precision	0.65642
+Secondary	IC	Card	0	LogisticRegression	ECFP	Precision	0.70249
+Secondary	IC	Card	2	LogisticRegression	ECFP	Precision	0.67191
+Mono	IC	Card	1	LogisticRegression	ECFP	PRC AUC	0.67659
+Mono	IC	Card	4	LogisticRegression	ECFP	PRC AUC	0.75641
+Mono	IC	Card	3	LogisticRegression	ECFP	PRC AUC	0.57355
+Mono	IC	Card	0	LogisticRegression	ECFP	PRC AUC	0.70401
+Mono	IC	Card	2	LogisticRegression	ECFP	PRC AUC	0.67995
+Primary	IC	Card	1	LogisticRegression	ECFP	PRC AUC	0.70197
+Primary	IC	Card	4	LogisticRegression	ECFP	PRC AUC	0.76097
+Primary	IC	Card	3	LogisticRegression	ECFP	PRC AUC	0.60099
+Primary	IC	Card	0	LogisticRegression	ECFP	PRC AUC	0.72341
+Primary	IC	Card	2	LogisticRegression	ECFP	PRC AUC	0.72266
+Secondary	IC	Card	1	LogisticRegression	ECFP	PRC AUC	0.71591
+Secondary	IC	Card	4	LogisticRegression	ECFP	PRC AUC	0.66499
+Secondary	IC	Card	3	LogisticRegression	ECFP	PRC AUC	0.71305
+Secondary	IC	Card	0	LogisticRegression	ECFP	PRC AUC	0.71521
+Secondary	IC	Card	2	LogisticRegression	ECFP	PRC AUC	0.7217
+Mono	IC	Card	1	LogisticRegression	ECFP	Brier	0.29152
+Mono	IC	Card	4	LogisticRegression	ECFP	Brier	0.24445
+Mono	IC	Card	3	LogisticRegression	ECFP	Brier	0.40419
+Mono	IC	Card	0	LogisticRegression	ECFP	Brier	0.2651
+Mono	IC	Card	2	LogisticRegression	ECFP	Brier	0.26082
+Primary	IC	Card	1	LogisticRegression	ECFP	Brier	0.28344
+Primary	IC	Card	4	LogisticRegression	ECFP	Brier	0.23
+Primary	IC	Card	3	LogisticRegression	ECFP	Brier	0.40987
+Primary	IC	Card	0	LogisticRegression	ECFP	Brier	0.24524
+Primary	IC	Card	2	LogisticRegression	ECFP	Brier	0.2491
+Secondary	IC	Card	1	LogisticRegression	ECFP	Brier	0.27219
+Secondary	IC	Card	4	LogisticRegression	ECFP	Brier	0.29706
+Secondary	IC	Card	3	LogisticRegression	ECFP	Brier	0.29873
+Secondary	IC	Card	0	LogisticRegression	ECFP	Brier	0.25111
+Secondary	IC	Card	2	LogisticRegression	ECFP	Brier	0.26529
+Mono	IC	Card	1	LogisticRegression	ECFP	ECE	0.19453
+Mono	IC	Card	4	LogisticRegression	ECFP	ECE	0.12645
+Mono	IC	Card	3	LogisticRegression	ECFP	ECE	0.37811
+Mono	IC	Card	0	LogisticRegression	ECFP	ECE	0.16082
+Mono	IC	Card	2	LogisticRegression	ECFP	ECE	0.16055
+Primary	IC	Card	1	LogisticRegression	ECFP	ECE	0.19603
+Primary	IC	Card	4	LogisticRegression	ECFP	ECE	0.1172
+Primary	IC	Card	3	LogisticRegression	ECFP	ECE	0.37384
+Primary	IC	Card	0	LogisticRegression	ECFP	ECE	0.13278
+Primary	IC	Card	2	LogisticRegression	ECFP	ECE	0.14273
+Secondary	IC	Card	1	LogisticRegression	ECFP	ECE	0.1896
+Secondary	IC	Card	4	LogisticRegression	ECFP	ECE	0.23609
+Secondary	IC	Card	3	LogisticRegression	ECFP	ECE	0.20137
+Secondary	IC	Card	0	LogisticRegression	ECFP	ECE	0.16386
+Secondary	IC	Card	2	LogisticRegression	ECFP	ECE	0.17514
