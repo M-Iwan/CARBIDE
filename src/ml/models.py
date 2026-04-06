@@ -49,7 +49,7 @@ class FoldUnit:
         return f"<FoldUnit(fold={self.fold}, model={self.model.__class__.__name__})>"
 
     def __str__(self):
-        eval_score = self.scores.get(('Eval', 'Weighted'), {})
+        eval_score = self.scores.get(('Eval', 'Unweighted'), {})
         total_metrics = eval_score.get('Total', {})
         metrics_str = ', '.join(f"{k}: {v:.4f}" for k, v in total_metrics.items())
         return f"Fold {self.fold} | Model: {self.model.__class__.__name__} | Eval Scores: {metrics_str}"
@@ -160,7 +160,7 @@ class IterEnsemble:
         self.units = units
         self.iter = iter_idx
         self.folds = [unit.fold for unit in self.units]
-        self.eval_scores = [unit.scores[('Eval', 'Weighted')] for unit in self.units]
+        self.eval_scores = [unit.scores[('Eval', 'Unweighted')] for unit in self.units]
         self.summary = self.make_summary()
         self.optuna_score = None
         self.hyperparameters = None
