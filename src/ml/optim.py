@@ -3,7 +3,6 @@ Module with functions for Optuna-based HP optimization
 """
 
 import os
-import pickle
 import joblib
 from typing import Dict, Union
 
@@ -153,7 +152,7 @@ def optuna_hyperparameter_search(model_class, dataset_manager: DatasetManager, t
     n_jobs: int
         Number of jobs used. Passed directly to model's.
     save_dir: str
-        Directory for saving the visualise
+        Directory for saving the results
 
     Returns
     -------

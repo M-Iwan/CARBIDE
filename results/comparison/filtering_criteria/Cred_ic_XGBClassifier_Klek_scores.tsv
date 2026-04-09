@@ -1,0 +1,196 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Mono	IC	Cred	1	XGBClassifier	Klek	Balanced Accuracy	0.55845
+Mono	IC	Cred	4	XGBClassifier	Klek	Balanced Accuracy	0.59013
+Mono	IC	Cred	3	XGBClassifier	Klek	Balanced Accuracy	0.58079
+Mono	IC	Cred	2	XGBClassifier	Klek	Balanced Accuracy	0.55448
+Mono	IC	Cred	0	XGBClassifier	Klek	Balanced Accuracy	0.51497
+Primary	IC	Cred	1	XGBClassifier	Klek	Balanced Accuracy	0.55065
+Primary	IC	Cred	4	XGBClassifier	Klek	Balanced Accuracy	0.55123
+Primary	IC	Cred	3	XGBClassifier	Klek	Balanced Accuracy	0.57831
+Primary	IC	Cred	2	XGBClassifier	Klek	Balanced Accuracy	0.5918
+Primary	IC	Cred	0	XGBClassifier	Klek	Balanced Accuracy	0.54578
+Secondary	IC	Cred	1	XGBClassifier	Klek	Balanced Accuracy	0.56405
+Secondary	IC	Cred	4	XGBClassifier	Klek	Balanced Accuracy	0.53389
+Secondary	IC	Cred	3	XGBClassifier	Klek	Balanced Accuracy	0.54651
+Secondary	IC	Cred	2	XGBClassifier	Klek	Balanced Accuracy	0.55726
+Secondary	IC	Cred	0	XGBClassifier	Klek	Balanced Accuracy	0.55799
+Mono	IC	Cred	1	XGBClassifier	Klek	GeomRS	0.55751
+Mono	IC	Cred	4	XGBClassifier	Klek	GeomRS	0.57761
+Mono	IC	Cred	3	XGBClassifier	Klek	GeomRS	0.55876
+Mono	IC	Cred	2	XGBClassifier	Klek	GeomRS	0.48569
+Mono	IC	Cred	0	XGBClassifier	Klek	GeomRS	0.47475
+Primary	IC	Cred	1	XGBClassifier	Klek	GeomRS	0.5469
+Primary	IC	Cred	4	XGBClassifier	Klek	GeomRS	0.48393
+Primary	IC	Cred	3	XGBClassifier	Klek	GeomRS	0.55547
+Primary	IC	Cred	2	XGBClassifier	Klek	GeomRS	0.52995
+Primary	IC	Cred	0	XGBClassifier	Klek	GeomRS	0.50721
+Secondary	IC	Cred	1	XGBClassifier	Klek	GeomRS	0.51796
+Secondary	IC	Cred	4	XGBClassifier	Klek	GeomRS	0.41417
+Secondary	IC	Cred	3	XGBClassifier	Klek	GeomRS	0.48744
+Secondary	IC	Cred	2	XGBClassifier	Klek	GeomRS	0.44945
+Secondary	IC	Cred	0	XGBClassifier	Klek	GeomRS	0.47288
+Mono	IC	Cred	1	XGBClassifier	Klek	HarmRS	0.55658
+Mono	IC	Cred	4	XGBClassifier	Klek	HarmRS	0.56536
+Mono	IC	Cred	3	XGBClassifier	Klek	HarmRS	0.53757
+Mono	IC	Cred	2	XGBClassifier	Klek	HarmRS	0.42543
+Mono	IC	Cred	0	XGBClassifier	Klek	HarmRS	0.43767
+Primary	IC	Cred	1	XGBClassifier	Klek	HarmRS	0.54318
+Primary	IC	Cred	4	XGBClassifier	Klek	HarmRS	0.42484
+Primary	IC	Cred	3	XGBClassifier	Klek	HarmRS	0.53353
+Primary	IC	Cred	2	XGBClassifier	Klek	HarmRS	0.47457
+Primary	IC	Cred	0	XGBClassifier	Klek	HarmRS	0.47136
+Secondary	IC	Cred	1	XGBClassifier	Klek	HarmRS	0.47563
+Secondary	IC	Cred	4	XGBClassifier	Klek	HarmRS	0.3213
+Secondary	IC	Cred	3	XGBClassifier	Klek	HarmRS	0.43476
+Secondary	IC	Cred	2	XGBClassifier	Klek	HarmRS	0.36249
+Secondary	IC	Cred	0	XGBClassifier	Klek	HarmRS	0.40075
+Mono	IC	Cred	1	XGBClassifier	Klek	F1 Score	0.63632
+Mono	IC	Cred	4	XGBClassifier	Klek	F1 Score	0.70579
+Mono	IC	Cred	3	XGBClassifier	Klek	F1 Score	0.71497
+Mono	IC	Cred	2	XGBClassifier	Klek	F1 Score	0.73636
+Mono	IC	Cred	0	XGBClassifier	Klek	F1 Score	0.67606
+Primary	IC	Cred	1	XGBClassifier	Klek	F1 Score	0.6461
+Primary	IC	Cred	4	XGBClassifier	Klek	F1 Score	0.73336
+Primary	IC	Cred	3	XGBClassifier	Klek	F1 Score	0.71399
+Primary	IC	Cred	2	XGBClassifier	Klek	F1 Score	0.76292
+Primary	IC	Cred	0	XGBClassifier	Klek	F1 Score	0.70179
+Secondary	IC	Cred	1	XGBClassifier	Klek	F1 Score	0.7299
+Secondary	IC	Cred	4	XGBClassifier	Klek	F1 Score	0.74731
+Secondary	IC	Cred	3	XGBClassifier	Klek	F1 Score	0.72405
+Secondary	IC	Cred	2	XGBClassifier	Klek	F1 Score	0.76069
+Secondary	IC	Cred	0	XGBClassifier	Klek	F1 Score	0.74774
+Mono	IC	Cred	1	XGBClassifier	Klek	ROC AUC	0.57648
+Mono	IC	Cred	4	XGBClassifier	Klek	ROC AUC	0.63791
+Mono	IC	Cred	3	XGBClassifier	Klek	ROC AUC	0.61662
+Mono	IC	Cred	2	XGBClassifier	Klek	ROC AUC	0.62455
+Mono	IC	Cred	0	XGBClassifier	Klek	ROC AUC	0.56049
+Primary	IC	Cred	1	XGBClassifier	Klek	ROC AUC	0.5816
+Primary	IC	Cred	4	XGBClassifier	Klek	ROC AUC	0.60235
+Primary	IC	Cred	3	XGBClassifier	Klek	ROC AUC	0.6117
+Primary	IC	Cred	2	XGBClassifier	Klek	ROC AUC	0.68198
+Primary	IC	Cred	0	XGBClassifier	Klek	ROC AUC	0.56355
+Secondary	IC	Cred	1	XGBClassifier	Klek	ROC AUC	0.60578
+Secondary	IC	Cred	4	XGBClassifier	Klek	ROC AUC	0.61153
+Secondary	IC	Cred	3	XGBClassifier	Klek	ROC AUC	0.56245
+Secondary	IC	Cred	2	XGBClassifier	Klek	ROC AUC	0.66462
+Secondary	IC	Cred	0	XGBClassifier	Klek	ROC AUC	0.59428
+Mono	IC	Cred	1	XGBClassifier	Klek	MCC	0.11273
+Mono	IC	Cred	4	XGBClassifier	Klek	MCC	0.18131
+Mono	IC	Cred	3	XGBClassifier	Klek	MCC	0.16662
+Mono	IC	Cred	2	XGBClassifier	Klek	MCC	0.12711
+Mono	IC	Cred	0	XGBClassifier	Klek	MCC	0.03163
+Primary	IC	Cred	1	XGBClassifier	Klek	MCC	0.09844
+Primary	IC	Cred	4	XGBClassifier	Klek	MCC	0.11862
+Primary	IC	Cred	3	XGBClassifier	Klek	MCC	0.16174
+Primary	IC	Cred	2	XGBClassifier	Klek	MCC	0.21635
+Primary	IC	Cred	0	XGBClassifier	Klek	MCC	0.0977
+Secondary	IC	Cred	1	XGBClassifier	Klek	MCC	0.14037
+Secondary	IC	Cred	4	XGBClassifier	Klek	MCC	0.09038
+Secondary	IC	Cred	3	XGBClassifier	Klek	MCC	0.10469
+Secondary	IC	Cred	2	XGBClassifier	Klek	MCC	0.15233
+Secondary	IC	Cred	0	XGBClassifier	Klek	MCC	0.14303
+Mono	IC	Cred	1	XGBClassifier	Klek	Accuracy	0.56752
+Mono	IC	Cred	4	XGBClassifier	Klek	Accuracy	0.62301
+Mono	IC	Cred	3	XGBClassifier	Klek	Accuracy	0.62432
+Mono	IC	Cred	2	XGBClassifier	Klek	Accuracy	0.62649
+Mono	IC	Cred	0	XGBClassifier	Klek	Accuracy	0.5675
+Primary	IC	Cred	1	XGBClassifier	Klek	Accuracy	0.56866
+Primary	IC	Cred	4	XGBClassifier	Klek	Accuracy	0.62301
+Primary	IC	Cred	3	XGBClassifier	Klek	Accuracy	0.62252
+Primary	IC	Cred	2	XGBClassifier	Klek	Accuracy	0.6627
+Primary	IC	Cred	0	XGBClassifier	Klek	Accuracy	0.59884
+Secondary	IC	Cred	1	XGBClassifier	Klek	Accuracy	0.62678
+Secondary	IC	Cred	4	XGBClassifier	Klek	Accuracy	0.6255
+Secondary	IC	Cred	3	XGBClassifier	Klek	Accuracy	0.61441
+Secondary	IC	Cred	2	XGBClassifier	Klek	Accuracy	0.64595
+Secondary	IC	Cred	0	XGBClassifier	Klek	Accuracy	0.63597
+Mono	IC	Cred	1	XGBClassifier	Klek	Recall	0.59075
+Mono	IC	Cred	4	XGBClassifier	Klek	Recall	0.71104
+Mono	IC	Cred	3	XGBClassifier	Klek	Recall	0.73922
+Mono	IC	Cred	2	XGBClassifier	Klek	Recall	0.82198
+Mono	IC	Cred	0	XGBClassifier	Klek	Recall	0.7145
+Primary	IC	Cred	1	XGBClassifier	Klek	Recall	0.61477
+Primary	IC	Cred	4	XGBClassifier	Klek	Recall	0.81519
+Primary	IC	Cred	3	XGBClassifier	Klek	Recall	0.73922
+Primary	IC	Cred	2	XGBClassifier	Klek	Recall	0.8552
+Primary	IC	Cred	0	XGBClassifier	Klek	Recall	0.74733
+Secondary	IC	Cred	1	XGBClassifier	Klek	Recall	0.78737
+Secondary	IC	Cred	4	XGBClassifier	Klek	Recall	0.87079
+Secondary	IC	Cred	3	XGBClassifier	Klek	Recall	0.79364
+Secondary	IC	Cred	2	XGBClassifier	Klek	Recall	0.88671
+Secondary	IC	Cred	0	XGBClassifier	Klek	Recall	0.8542
+Mono	IC	Cred	1	XGBClassifier	Klek	Specificity	0.52615
+Mono	IC	Cred	4	XGBClassifier	Klek	Specificity	0.46922
+Mono	IC	Cred	3	XGBClassifier	Klek	Specificity	0.42236
+Mono	IC	Cred	2	XGBClassifier	Klek	Specificity	0.28698
+Mono	IC	Cred	0	XGBClassifier	Klek	Specificity	0.31545
+Primary	IC	Cred	1	XGBClassifier	Klek	Specificity	0.48653
+Primary	IC	Cred	4	XGBClassifier	Klek	Specificity	0.28728
+Primary	IC	Cred	3	XGBClassifier	Klek	Specificity	0.41739
+Primary	IC	Cred	2	XGBClassifier	Klek	Specificity	0.3284
+Primary	IC	Cred	0	XGBClassifier	Klek	Specificity	0.34424
+Secondary	IC	Cred	1	XGBClassifier	Klek	Specificity	0.34073
+Secondary	IC	Cred	4	XGBClassifier	Klek	Specificity	0.19699
+Secondary	IC	Cred	3	XGBClassifier	Klek	Specificity	0.29938
+Secondary	IC	Cred	2	XGBClassifier	Klek	Specificity	0.22781
+Secondary	IC	Cred	0	XGBClassifier	Klek	Specificity	0.26178
+Mono	IC	Cred	1	XGBClassifier	Klek	Precision	0.68951
+Mono	IC	Cred	4	XGBClassifier	Klek	Precision	0.70062
+Mono	IC	Cred	3	XGBClassifier	Klek	Precision	0.69226
+Mono	IC	Cred	2	XGBClassifier	Klek	Precision	0.6669
+Mono	IC	Cred	0	XGBClassifier	Klek	Precision	0.64154
+Primary	IC	Cred	1	XGBClassifier	Klek	Precision	0.68079
+Primary	IC	Cred	4	XGBClassifier	Klek	Precision	0.66645
+Primary	IC	Cred	3	XGBClassifier	Klek	Precision	0.69043
+Primary	IC	Cred	2	XGBClassifier	Klek	Precision	0.68861
+Primary	IC	Cred	0	XGBClassifier	Klek	Precision	0.66149
+Secondary	IC	Cred	1	XGBClassifier	Klek	Precision	0.68025
+Secondary	IC	Cred	4	XGBClassifier	Klek	Precision	0.6545
+Secondary	IC	Cred	3	XGBClassifier	Klek	Precision	0.66568
+Secondary	IC	Cred	2	XGBClassifier	Klek	Precision	0.66603
+Secondary	IC	Cred	0	XGBClassifier	Klek	Precision	0.66488
+Mono	IC	Cred	1	XGBClassifier	Klek	PRC AUC	0.71602
+Mono	IC	Cred	4	XGBClassifier	Klek	PRC AUC	0.75793
+Mono	IC	Cred	3	XGBClassifier	Klek	PRC AUC	0.73343
+Mono	IC	Cred	2	XGBClassifier	Klek	PRC AUC	0.75817
+Mono	IC	Cred	0	XGBClassifier	Klek	PRC AUC	0.68783
+Primary	IC	Cred	1	XGBClassifier	Klek	PRC AUC	0.72175
+Primary	IC	Cred	4	XGBClassifier	Klek	PRC AUC	0.72097
+Primary	IC	Cred	3	XGBClassifier	Klek	PRC AUC	0.72364
+Primary	IC	Cred	2	XGBClassifier	Klek	PRC AUC	0.79
+Primary	IC	Cred	0	XGBClassifier	Klek	PRC AUC	0.68429
+Secondary	IC	Cred	1	XGBClassifier	Klek	PRC AUC	0.72761
+Secondary	IC	Cred	4	XGBClassifier	Klek	PRC AUC	0.72019
+Secondary	IC	Cred	3	XGBClassifier	Klek	PRC AUC	0.6945
+Secondary	IC	Cred	2	XGBClassifier	Klek	PRC AUC	0.77585
+Secondary	IC	Cred	0	XGBClassifier	Klek	PRC AUC	0.70654
+Mono	IC	Cred	1	XGBClassifier	Klek	Brier	0.25316
+Mono	IC	Cred	4	XGBClassifier	Klek	Brier	0.23934
+Mono	IC	Cred	3	XGBClassifier	Klek	Brier	0.23606
+Mono	IC	Cred	2	XGBClassifier	Klek	Brier	0.23309
+Mono	IC	Cred	0	XGBClassifier	Klek	Brier	0.25176
+Primary	IC	Cred	1	XGBClassifier	Klek	Brier	0.26125
+Primary	IC	Cred	4	XGBClassifier	Klek	Brier	0.23965
+Primary	IC	Cred	3	XGBClassifier	Klek	Brier	0.24324
+Primary	IC	Cred	2	XGBClassifier	Klek	Brier	0.21521
+Primary	IC	Cred	0	XGBClassifier	Klek	Brier	0.2518
+Secondary	IC	Cred	1	XGBClassifier	Klek	Brier	0.23754
+Secondary	IC	Cred	4	XGBClassifier	Klek	Brier	0.24034
+Secondary	IC	Cred	3	XGBClassifier	Klek	Brier	0.2575
+Secondary	IC	Cred	2	XGBClassifier	Klek	Brier	0.22479
+Secondary	IC	Cred	0	XGBClassifier	Klek	Brier	0.24512
+Mono	IC	Cred	1	XGBClassifier	Klek	ECE	0.11606
+Mono	IC	Cred	4	XGBClassifier	Klek	ECE	0.10659
+Mono	IC	Cred	3	XGBClassifier	Klek	ECE	0.07825
+Mono	IC	Cred	2	XGBClassifier	Klek	ECE	0.11443
+Mono	IC	Cred	0	XGBClassifier	Klek	ECE	0.11055
+Primary	IC	Cred	1	XGBClassifier	Klek	ECE	0.15261
+Primary	IC	Cred	4	XGBClassifier	Klek	ECE	0.09773
+Primary	IC	Cred	3	XGBClassifier	Klek	ECE	0.10404
+Primary	IC	Cred	2	XGBClassifier	Klek	ECE	0.05475
+Primary	IC	Cred	0	XGBClassifier	Klek	ECE	0.1383
+Secondary	IC	Cred	1	XGBClassifier	Klek	ECE	0.11232
+Secondary	IC	Cred	4	XGBClassifier	Klek	ECE	0.12029
+Secondary	IC	Cred	3	XGBClassifier	Klek	ECE	0.14628
+Secondary	IC	Cred	2	XGBClassifier	Klek	ECE	0.09271
+Secondary	IC	Cred	0	XGBClassifier	Klek	ECE	0.12144

@@ -1,0 +1,196 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Mono	PRR	Cred	1	RandomForestClassifier	ECFP	Balanced Accuracy	0.56282
+Mono	PRR	Cred	4	RandomForestClassifier	ECFP	Balanced Accuracy	0.58135
+Mono	PRR	Cred	3	RandomForestClassifier	ECFP	Balanced Accuracy	0.56616
+Mono	PRR	Cred	0	RandomForestClassifier	ECFP	Balanced Accuracy	0.51378
+Mono	PRR	Cred	2	RandomForestClassifier	ECFP	Balanced Accuracy	0.56296
+Mono	PRR	Card	1	RandomForestClassifier	ECFP	Balanced Accuracy	0.54406
+Mono	PRR	Card	4	RandomForestClassifier	ECFP	Balanced Accuracy	0.59542
+Mono	PRR	Card	3	RandomForestClassifier	ECFP	Balanced Accuracy	0.58598
+Mono	PRR	Card	0	RandomForestClassifier	ECFP	Balanced Accuracy	0.51479
+Mono	PRR	Card	2	RandomForestClassifier	ECFP	Balanced Accuracy	0.53966
+Mono	PRR	Cvas	1	RandomForestClassifier	ECFP	Balanced Accuracy	0.52154
+Mono	PRR	Cvas	4	RandomForestClassifier	ECFP	Balanced Accuracy	0.61862
+Mono	PRR	Cvas	3	RandomForestClassifier	ECFP	Balanced Accuracy	0.54069
+Mono	PRR	Cvas	0	RandomForestClassifier	ECFP	Balanced Accuracy	0.55799
+Mono	PRR	Cvas	2	RandomForestClassifier	ECFP	Balanced Accuracy	0.63947
+Mono	PRR	Cred	1	RandomForestClassifier	ECFP	GeomRS	0.47827
+Mono	PRR	Cred	4	RandomForestClassifier	ECFP	GeomRS	0.57187
+Mono	PRR	Cred	3	RandomForestClassifier	ECFP	GeomRS	0.52761
+Mono	PRR	Cred	0	RandomForestClassifier	ECFP	GeomRS	0.43834
+Mono	PRR	Cred	2	RandomForestClassifier	ECFP	GeomRS	0.54275
+Mono	PRR	Card	1	RandomForestClassifier	ECFP	GeomRS	0.50963
+Mono	PRR	Card	4	RandomForestClassifier	ECFP	GeomRS	0.5851
+Mono	PRR	Card	3	RandomForestClassifier	ECFP	GeomRS	0.5444
+Mono	PRR	Card	0	RandomForestClassifier	ECFP	GeomRS	0.46959
+Mono	PRR	Card	2	RandomForestClassifier	ECFP	GeomRS	0.52725
+Mono	PRR	Cvas	1	RandomForestClassifier	ECFP	GeomRS	0.48874
+Mono	PRR	Cvas	4	RandomForestClassifier	ECFP	GeomRS	0.59576
+Mono	PRR	Cvas	3	RandomForestClassifier	ECFP	GeomRS	0.5269
+Mono	PRR	Cvas	0	RandomForestClassifier	ECFP	GeomRS	0.54671
+Mono	PRR	Cvas	2	RandomForestClassifier	ECFP	GeomRS	0.62638
+Mono	PRR	Cred	1	RandomForestClassifier	ECFP	HarmRS	0.40641
+Mono	PRR	Cred	4	RandomForestClassifier	ECFP	HarmRS	0.56255
+Mono	PRR	Cred	3	RandomForestClassifier	ECFP	HarmRS	0.49168
+Mono	PRR	Cred	0	RandomForestClassifier	ECFP	HarmRS	0.37398
+Mono	PRR	Cred	2	RandomForestClassifier	ECFP	HarmRS	0.52327
+Mono	PRR	Card	1	RandomForestClassifier	ECFP	HarmRS	0.47738
+Mono	PRR	Card	4	RandomForestClassifier	ECFP	HarmRS	0.57496
+Mono	PRR	Card	3	RandomForestClassifier	ECFP	HarmRS	0.50576
+Mono	PRR	Card	0	RandomForestClassifier	ECFP	HarmRS	0.42835
+Mono	PRR	Card	2	RandomForestClassifier	ECFP	HarmRS	0.51513
+Mono	PRR	Cvas	1	RandomForestClassifier	ECFP	HarmRS	0.45801
+Mono	PRR	Cvas	4	RandomForestClassifier	ECFP	HarmRS	0.57374
+Mono	PRR	Cvas	3	RandomForestClassifier	ECFP	HarmRS	0.51346
+Mono	PRR	Cvas	0	RandomForestClassifier	ECFP	HarmRS	0.53564
+Mono	PRR	Cvas	2	RandomForestClassifier	ECFP	HarmRS	0.61357
+Mono	PRR	Cred	1	RandomForestClassifier	ECFP	F1 Score	0.39321
+Mono	PRR	Cred	4	RandomForestClassifier	ECFP	F1 Score	0.56497
+Mono	PRR	Cred	3	RandomForestClassifier	ECFP	F1 Score	0.4754
+Mono	PRR	Cred	0	RandomForestClassifier	ECFP	F1 Score	0.35288
+Mono	PRR	Cred	2	RandomForestClassifier	ECFP	F1 Score	0.51227
+Mono	PRR	Card	1	RandomForestClassifier	ECFP	F1 Score	0.46559
+Mono	PRR	Card	4	RandomForestClassifier	ECFP	F1 Score	0.5765
+Mono	PRR	Card	3	RandomForestClassifier	ECFP	F1 Score	0.49067
+Mono	PRR	Card	0	RandomForestClassifier	ECFP	F1 Score	0.40816
+Mono	PRR	Card	2	RandomForestClassifier	ECFP	F1 Score	0.5098
+Mono	PRR	Cvas	1	RandomForestClassifier	ECFP	F1 Score	0.44553
+Mono	PRR	Cvas	4	RandomForestClassifier	ECFP	F1 Score	0.56631
+Mono	PRR	Cvas	3	RandomForestClassifier	ECFP	F1 Score	0.50778
+Mono	PRR	Cvas	0	RandomForestClassifier	ECFP	F1 Score	0.53479
+Mono	PRR	Cvas	2	RandomForestClassifier	ECFP	F1 Score	0.61072
+Mono	PRR	Cred	1	RandomForestClassifier	ECFP	ROC AUC	0.55336
+Mono	PRR	Cred	4	RandomForestClassifier	ECFP	ROC AUC	0.60885
+Mono	PRR	Cred	3	RandomForestClassifier	ECFP	ROC AUC	0.58168
+Mono	PRR	Cred	0	RandomForestClassifier	ECFP	ROC AUC	0.56546
+Mono	PRR	Cred	2	RandomForestClassifier	ECFP	ROC AUC	0.6207
+Mono	PRR	Card	1	RandomForestClassifier	ECFP	ROC AUC	0.53501
+Mono	PRR	Card	4	RandomForestClassifier	ECFP	ROC AUC	0.62134
+Mono	PRR	Card	3	RandomForestClassifier	ECFP	ROC AUC	0.59649
+Mono	PRR	Card	0	RandomForestClassifier	ECFP	ROC AUC	0.54274
+Mono	PRR	Card	2	RandomForestClassifier	ECFP	ROC AUC	0.61824
+Mono	PRR	Cvas	1	RandomForestClassifier	ECFP	ROC AUC	0.49863
+Mono	PRR	Cvas	4	RandomForestClassifier	ECFP	ROC AUC	0.63964
+Mono	PRR	Cvas	3	RandomForestClassifier	ECFP	ROC AUC	0.5644
+Mono	PRR	Cvas	0	RandomForestClassifier	ECFP	ROC AUC	0.57532
+Mono	PRR	Cvas	2	RandomForestClassifier	ECFP	ROC AUC	0.68313
+Mono	PRR	Cred	1	RandomForestClassifier	ECFP	MCC	0.14801
+Mono	PRR	Cred	4	RandomForestClassifier	ECFP	MCC	0.1621
+Mono	PRR	Cred	3	RandomForestClassifier	ECFP	MCC	0.14096
+Mono	PRR	Cred	0	RandomForestClassifier	ECFP	MCC	0.0319
+Mono	PRR	Cred	2	RandomForestClassifier	ECFP	MCC	0.12895
+Mono	PRR	Card	1	RandomForestClassifier	ECFP	MCC	0.09188
+Mono	PRR	Card	4	RandomForestClassifier	ECFP	MCC	0.19035
+Mono	PRR	Card	3	RandomForestClassifier	ECFP	MCC	0.18453
+Mono	PRR	Card	0	RandomForestClassifier	ECFP	MCC	0.0319
+Mono	PRR	Card	2	RandomForestClassifier	ECFP	MCC	0.07995
+Mono	PRR	Cvas	1	RandomForestClassifier	ECFP	MCC	0.0448
+Mono	PRR	Cvas	4	RandomForestClassifier	ECFP	MCC	0.24283
+Mono	PRR	Cvas	3	RandomForestClassifier	ECFP	MCC	0.08214
+Mono	PRR	Cvas	0	RandomForestClassifier	ECFP	MCC	0.11614
+Mono	PRR	Cvas	2	RandomForestClassifier	ECFP	MCC	0.28063
+Mono	PRR	Cred	1	RandomForestClassifier	ECFP	Accuracy	0.49383
+Mono	PRR	Cred	4	RandomForestClassifier	ECFP	Accuracy	0.56084
+Mono	PRR	Cred	3	RandomForestClassifier	ECFP	Accuracy	0.52814
+Mono	PRR	Cred	0	RandomForestClassifier	ECFP	Accuracy	0.46169
+Mono	PRR	Cred	2	RandomForestClassifier	ECFP	Accuracy	0.53642
+Mono	PRR	Card	1	RandomForestClassifier	ECFP	Accuracy	0.49977
+Mono	PRR	Card	4	RandomForestClassifier	ECFP	Accuracy	0.57376
+Mono	PRR	Card	3	RandomForestClassifier	ECFP	Accuracy	0.54584
+Mono	PRR	Card	0	RandomForestClassifier	ECFP	Accuracy	0.47379
+Mono	PRR	Card	2	RandomForestClassifier	ECFP	Accuracy	0.51923
+Mono	PRR	Cvas	1	RandomForestClassifier	ECFP	Accuracy	0.47921
+Mono	PRR	Cvas	4	RandomForestClassifier	ECFP	Accuracy	0.58593
+Mono	PRR	Cvas	3	RandomForestClassifier	ECFP	Accuracy	0.51823
+Mono	PRR	Cvas	0	RandomForestClassifier	ECFP	Accuracy	0.53629
+Mono	PRR	Cvas	2	RandomForestClassifier	ECFP	Accuracy	0.61661
+Mono	PRR	Cred	1	RandomForestClassifier	ECFP	Recall	0.26612
+Mono	PRR	Cred	4	RandomForestClassifier	ECFP	Recall	0.4768
+Mono	PRR	Cred	3	RandomForestClassifier	ECFP	Recall	0.36081
+Mono	PRR	Cred	0	RandomForestClassifier	ECFP	Recall	0.24578
+Mono	PRR	Cred	2	RandomForestClassifier	ECFP	Recall	0.41348
+Mono	PRR	Card	1	RandomForestClassifier	ECFP	Recall	0.3536
+Mono	PRR	Card	4	RandomForestClassifier	ECFP	Recall	0.48506
+Mono	PRR	Card	3	RandomForestClassifier	ECFP	Recall	0.36918
+Mono	PRR	Card	0	RandomForestClassifier	ECFP	Recall	0.30385
+Mono	PRR	Card	2	RandomForestClassifier	ECFP	Recall	0.4246
+Mono	PRR	Cvas	1	RandomForestClassifier	ECFP	Recall	0.33951
+Mono	PRR	Cvas	4	RandomForestClassifier	ECFP	Recall	0.452
+Mono	PRR	Cvas	3	RandomForestClassifier	ECFP	Recall	0.41935
+Mono	PRR	Cvas	0	RandomForestClassifier	ECFP	Recall	0.44632
+Mono	PRR	Cvas	2	RandomForestClassifier	ECFP	Recall	0.51077
+Mono	PRR	Cred	1	RandomForestClassifier	ECFP	Specificity	0.85952
+Mono	PRR	Cred	4	RandomForestClassifier	ECFP	Specificity	0.6859
+Mono	PRR	Cred	3	RandomForestClassifier	ECFP	Specificity	0.7715
+Mono	PRR	Cred	0	RandomForestClassifier	ECFP	Specificity	0.78178
+Mono	PRR	Cred	2	RandomForestClassifier	ECFP	Specificity	0.71244
+Mono	PRR	Card	1	RandomForestClassifier	ECFP	Specificity	0.73452
+Mono	PRR	Card	4	RandomForestClassifier	ECFP	Specificity	0.70577
+Mono	PRR	Card	3	RandomForestClassifier	ECFP	Specificity	0.80278
+Mono	PRR	Card	0	RandomForestClassifier	ECFP	Specificity	0.72573
+Mono	PRR	Card	2	RandomForestClassifier	ECFP	Specificity	0.65473
+Mono	PRR	Cvas	1	RandomForestClassifier	ECFP	Specificity	0.70357
+Mono	PRR	Cvas	4	RandomForestClassifier	ECFP	Specificity	0.78524
+Mono	PRR	Cvas	3	RandomForestClassifier	ECFP	Specificity	0.66203
+Mono	PRR	Cvas	0	RandomForestClassifier	ECFP	Specificity	0.66967
+Mono	PRR	Cvas	2	RandomForestClassifier	ECFP	Specificity	0.76816
+Mono	PRR	Cred	1	RandomForestClassifier	ECFP	Precision	0.75262
+Mono	PRR	Cred	4	RandomForestClassifier	ECFP	Precision	0.69316
+Mono	PRR	Cred	3	RandomForestClassifier	ECFP	Precision	0.69666
+Mono	PRR	Cred	0	RandomForestClassifier	ECFP	Precision	0.62543
+Mono	PRR	Cred	2	RandomForestClassifier	ECFP	Precision	0.67308
+Mono	PRR	Card	1	RandomForestClassifier	ECFP	Precision	0.68143
+Mono	PRR	Card	4	RandomForestClassifier	ECFP	Precision	0.71043
+Mono	PRR	Card	3	RandomForestClassifier	ECFP	Precision	0.73136
+Mono	PRR	Card	0	RandomForestClassifier	ECFP	Precision	0.62155
+Mono	PRR	Card	2	RandomForestClassifier	ECFP	Precision	0.63779
+Mono	PRR	Cvas	1	RandomForestClassifier	ECFP	Precision	0.64781
+Mono	PRR	Cvas	4	RandomForestClassifier	ECFP	Precision	0.758
+Mono	PRR	Cvas	3	RandomForestClassifier	ECFP	Precision	0.64345
+Mono	PRR	Cvas	0	RandomForestClassifier	ECFP	Precision	0.667
+Mono	PRR	Cvas	2	RandomForestClassifier	ECFP	Precision	0.7593
+Mono	PRR	Cred	1	RandomForestClassifier	ECFP	PRC AUC	0.71522
+Mono	PRR	Cred	4	RandomForestClassifier	ECFP	PRC AUC	0.70635
+Mono	PRR	Cred	3	RandomForestClassifier	ECFP	PRC AUC	0.69058
+Mono	PRR	Cred	0	RandomForestClassifier	ECFP	PRC AUC	0.64479
+Mono	PRR	Cred	2	RandomForestClassifier	ECFP	PRC AUC	0.70068
+Mono	PRR	Card	1	RandomForestClassifier	ECFP	PRC AUC	0.70086
+Mono	PRR	Card	4	RandomForestClassifier	ECFP	PRC AUC	0.71099
+Mono	PRR	Card	3	RandomForestClassifier	ECFP	PRC AUC	0.70033
+Mono	PRR	Card	0	RandomForestClassifier	ECFP	PRC AUC	0.64237
+Mono	PRR	Card	2	RandomForestClassifier	ECFP	PRC AUC	0.70843
+Mono	PRR	Cvas	1	RandomForestClassifier	ECFP	PRC AUC	0.66907
+Mono	PRR	Cvas	4	RandomForestClassifier	ECFP	PRC AUC	0.74393
+Mono	PRR	Cvas	3	RandomForestClassifier	ECFP	PRC AUC	0.6686
+Mono	PRR	Cvas	0	RandomForestClassifier	ECFP	PRC AUC	0.65438
+Mono	PRR	Cvas	2	RandomForestClassifier	ECFP	PRC AUC	0.77261
+Mono	PRR	Cred	1	RandomForestClassifier	ECFP	ECE	0.21286
+Mono	PRR	Cred	4	RandomForestClassifier	ECFP	ECE	0.14351
+Mono	PRR	Cred	3	RandomForestClassifier	ECFP	ECE	0.1463
+Mono	PRR	Cred	0	RandomForestClassifier	ECFP	ECE	0.16555
+Mono	PRR	Cred	2	RandomForestClassifier	ECFP	ECE	0.12832
+Mono	PRR	Card	1	RandomForestClassifier	ECFP	ECE	0.18477
+Mono	PRR	Card	4	RandomForestClassifier	ECFP	ECE	0.13485
+Mono	PRR	Card	3	RandomForestClassifier	ECFP	ECE	0.13154
+Mono	PRR	Card	0	RandomForestClassifier	ECFP	ECE	0.17537
+Mono	PRR	Card	2	RandomForestClassifier	ECFP	ECE	0.13178
+Mono	PRR	Cvas	1	RandomForestClassifier	ECFP	ECE	0.17655
+Mono	PRR	Cvas	4	RandomForestClassifier	ECFP	ECE	0.11409
+Mono	PRR	Cvas	3	RandomForestClassifier	ECFP	ECE	0.13412
+Mono	PRR	Cvas	0	RandomForestClassifier	ECFP	ECE	0.13077
+Mono	PRR	Cvas	2	RandomForestClassifier	ECFP	ECE	0.11515
+Mono	PRR	Cred	1	RandomForestClassifier	ECFP	Brier	0.28218
+Mono	PRR	Cred	4	RandomForestClassifier	ECFP	Brier	0.25242
+Mono	PRR	Cred	3	RandomForestClassifier	ECFP	Brier	0.25707
+Mono	PRR	Cred	0	RandomForestClassifier	ECFP	Brier	0.26613
+Mono	PRR	Cred	2	RandomForestClassifier	ECFP	Brier	0.24981
+Mono	PRR	Card	1	RandomForestClassifier	ECFP	Brier	0.2787
+Mono	PRR	Card	4	RandomForestClassifier	ECFP	Brier	0.24668
+Mono	PRR	Card	3	RandomForestClassifier	ECFP	Brier	0.25168
+Mono	PRR	Card	0	RandomForestClassifier	ECFP	Brier	0.27151
+Mono	PRR	Card	2	RandomForestClassifier	ECFP	Brier	0.24896
+Mono	PRR	Cvas	1	RandomForestClassifier	ECFP	Brier	0.28419
+Mono	PRR	Cvas	4	RandomForestClassifier	ECFP	Brier	0.24189
+Mono	PRR	Cvas	3	RandomForestClassifier	ECFP	Brier	0.25657
+Mono	PRR	Cvas	0	RandomForestClassifier	ECFP	Brier	0.2601
+Mono	PRR	Cvas	2	RandomForestClassifier	ECFP	Brier	0.23105

@@ -1,0 +1,196 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Mono	PRR	Cred	1	XGBClassifier	ECFP	Balanced Accuracy	0.53561
+Mono	PRR	Cred	4	XGBClassifier	ECFP	Balanced Accuracy	0.63708
+Mono	PRR	Cred	3	XGBClassifier	ECFP	Balanced Accuracy	0.53342
+Mono	PRR	Cred	2	XGBClassifier	ECFP	Balanced Accuracy	0.63279
+Mono	PRR	Cred	0	XGBClassifier	ECFP	Balanced Accuracy	0.55601
+Mono	PRR	Card	1	XGBClassifier	ECFP	Balanced Accuracy	0.54521
+Mono	PRR	Card	4	XGBClassifier	ECFP	Balanced Accuracy	0.62207
+Mono	PRR	Card	3	XGBClassifier	ECFP	Balanced Accuracy	0.55913
+Mono	PRR	Card	2	XGBClassifier	ECFP	Balanced Accuracy	0.6214
+Mono	PRR	Card	0	XGBClassifier	ECFP	Balanced Accuracy	0.56464
+Mono	PRR	Cvas	1	XGBClassifier	ECFP	Balanced Accuracy	0.52602
+Mono	PRR	Cvas	4	XGBClassifier	ECFP	Balanced Accuracy	0.63053
+Mono	PRR	Cvas	3	XGBClassifier	ECFP	Balanced Accuracy	0.5067
+Mono	PRR	Cvas	2	XGBClassifier	ECFP	Balanced Accuracy	0.61984
+Mono	PRR	Cvas	0	XGBClassifier	ECFP	Balanced Accuracy	0.57385
+Mono	PRR	Cred	1	XGBClassifier	ECFP	GeomRS	0.51053
+Mono	PRR	Cred	4	XGBClassifier	ECFP	GeomRS	0.63395
+Mono	PRR	Cred	3	XGBClassifier	ECFP	GeomRS	0.5159
+Mono	PRR	Cred	2	XGBClassifier	ECFP	GeomRS	0.63007
+Mono	PRR	Cred	0	XGBClassifier	ECFP	GeomRS	0.55487
+Mono	PRR	Card	1	XGBClassifier	ECFP	GeomRS	0.51871
+Mono	PRR	Card	4	XGBClassifier	ECFP	GeomRS	0.61969
+Mono	PRR	Card	3	XGBClassifier	ECFP	GeomRS	0.53695
+Mono	PRR	Card	2	XGBClassifier	ECFP	GeomRS	0.62104
+Mono	PRR	Card	0	XGBClassifier	ECFP	GeomRS	0.56457
+Mono	PRR	Cvas	1	XGBClassifier	ECFP	GeomRS	0.50232
+Mono	PRR	Cvas	4	XGBClassifier	ECFP	GeomRS	0.62568
+Mono	PRR	Cvas	3	XGBClassifier	ECFP	GeomRS	0.49953
+Mono	PRR	Cvas	2	XGBClassifier	ECFP	GeomRS	0.61843
+Mono	PRR	Cvas	0	XGBClassifier	ECFP	GeomRS	0.57371
+Mono	PRR	Cred	1	XGBClassifier	ECFP	HarmRS	0.48661
+Mono	PRR	Cred	4	XGBClassifier	ECFP	HarmRS	0.63085
+Mono	PRR	Cred	3	XGBClassifier	ECFP	HarmRS	0.49896
+Mono	PRR	Cred	2	XGBClassifier	ECFP	HarmRS	0.62735
+Mono	PRR	Cred	0	XGBClassifier	ECFP	HarmRS	0.55374
+Mono	PRR	Card	1	XGBClassifier	ECFP	HarmRS	0.49351
+Mono	PRR	Card	4	XGBClassifier	ECFP	HarmRS	0.61732
+Mono	PRR	Card	3	XGBClassifier	ECFP	HarmRS	0.51566
+Mono	PRR	Card	2	XGBClassifier	ECFP	HarmRS	0.62067
+Mono	PRR	Card	0	XGBClassifier	ECFP	HarmRS	0.5645
+Mono	PRR	Cvas	1	XGBClassifier	ECFP	HarmRS	0.47969
+Mono	PRR	Cvas	4	XGBClassifier	ECFP	HarmRS	0.62086
+Mono	PRR	Cvas	3	XGBClassifier	ECFP	HarmRS	0.49246
+Mono	PRR	Cvas	2	XGBClassifier	ECFP	HarmRS	0.61703
+Mono	PRR	Cvas	0	XGBClassifier	ECFP	HarmRS	0.57356
+Mono	PRR	Cred	1	XGBClassifier	ECFP	F1 Score	0.47841
+Mono	PRR	Cred	4	XGBClassifier	ECFP	F1 Score	0.64662
+Mono	PRR	Cred	3	XGBClassifier	ECFP	F1 Score	0.48953
+Mono	PRR	Cred	2	XGBClassifier	ECFP	F1 Score	0.69532
+Mono	PRR	Cred	0	XGBClassifier	ECFP	F1 Score	0.61777
+Mono	PRR	Card	1	XGBClassifier	ECFP	F1 Score	0.48499
+Mono	PRR	Card	4	XGBClassifier	ECFP	F1 Score	0.63604
+Mono	PRR	Card	3	XGBClassifier	ECFP	F1 Score	0.5043
+Mono	PRR	Card	2	XGBClassifier	ECFP	F1 Score	0.66884
+Mono	PRR	Card	0	XGBClassifier	ECFP	F1 Score	0.60293
+Mono	PRR	Cvas	1	XGBClassifier	ECFP	F1 Score	0.47187
+Mono	PRR	Cvas	4	XGBClassifier	ECFP	F1 Score	0.632
+Mono	PRR	Cvas	3	XGBClassifier	ECFP	F1 Score	0.49544
+Mono	PRR	Cvas	2	XGBClassifier	ECFP	F1 Score	0.67638
+Mono	PRR	Cvas	0	XGBClassifier	ECFP	F1 Score	0.60991
+Mono	PRR	Cred	1	XGBClassifier	ECFP	ROC AUC	0.5599
+Mono	PRR	Cred	4	XGBClassifier	ECFP	ROC AUC	0.66891
+Mono	PRR	Cred	3	XGBClassifier	ECFP	ROC AUC	0.52444
+Mono	PRR	Cred	2	XGBClassifier	ECFP	ROC AUC	0.66744
+Mono	PRR	Cred	0	XGBClassifier	ECFP	ROC AUC	0.57346
+Mono	PRR	Card	1	XGBClassifier	ECFP	ROC AUC	0.56852
+Mono	PRR	Card	4	XGBClassifier	ECFP	ROC AUC	0.65451
+Mono	PRR	Card	3	XGBClassifier	ECFP	ROC AUC	0.57126
+Mono	PRR	Card	2	XGBClassifier	ECFP	ROC AUC	0.66232
+Mono	PRR	Card	0	XGBClassifier	ECFP	ROC AUC	0.58911
+Mono	PRR	Cvas	1	XGBClassifier	ECFP	ROC AUC	0.51976
+Mono	PRR	Cvas	4	XGBClassifier	ECFP	ROC AUC	0.65128
+Mono	PRR	Cvas	3	XGBClassifier	ECFP	ROC AUC	0.51326
+Mono	PRR	Cvas	2	XGBClassifier	ECFP	ROC AUC	0.66694
+Mono	PRR	Cvas	0	XGBClassifier	ECFP	ROC AUC	0.59369
+Mono	PRR	Cred	1	XGBClassifier	ECFP	MCC	0.0728
+Mono	PRR	Cred	4	XGBClassifier	ECFP	MCC	0.26953
+Mono	PRR	Cred	3	XGBClassifier	ECFP	MCC	0.06799
+Mono	PRR	Cred	2	XGBClassifier	ECFP	MCC	0.26497
+Mono	PRR	Cred	0	XGBClassifier	ECFP	MCC	0.11035
+Mono	PRR	Card	1	XGBClassifier	ECFP	MCC	0.09264
+Mono	PRR	Card	4	XGBClassifier	ECFP	MCC	0.23985
+Mono	PRR	Card	3	XGBClassifier	ECFP	MCC	0.12143
+Mono	PRR	Card	2	XGBClassifier	ECFP	MCC	0.23984
+Mono	PRR	Card	0	XGBClassifier	ECFP	MCC	0.12682
+Mono	PRR	Cvas	1	XGBClassifier	ECFP	MCC	0.05307
+Mono	PRR	Cvas	4	XGBClassifier	ECFP	MCC	0.2574
+Mono	PRR	Cvas	3	XGBClassifier	ECFP	MCC	0.01336
+Mono	PRR	Cvas	2	XGBClassifier	ECFP	MCC	0.23777
+Mono	PRR	Cvas	0	XGBClassifier	ECFP	MCC	0.14488
+Mono	PRR	Cred	1	XGBClassifier	ECFP	Accuracy	0.49794
+Mono	PRR	Cred	4	XGBClassifier	ECFP	Accuracy	0.62471
+Mono	PRR	Cred	3	XGBClassifier	ECFP	Accuracy	0.50832
+Mono	PRR	Cred	2	XGBClassifier	ECFP	Accuracy	0.64321
+Mono	PRR	Cred	0	XGBClassifier	ECFP	Accuracy	0.5629
+Mono	PRR	Card	1	XGBClassifier	ECFP	Accuracy	0.50617
+Mono	PRR	Card	4	XGBClassifier	ECFP	Accuracy	0.61141
+Mono	PRR	Card	3	XGBClassifier	ECFP	Accuracy	0.53027
+Mono	PRR	Card	2	XGBClassifier	ECFP	Accuracy	0.6252
+Mono	PRR	Card	0	XGBClassifier	ECFP	Accuracy	0.5629
+Mono	PRR	Cvas	1	XGBClassifier	ECFP	Accuracy	0.48972
+Mono	PRR	Cvas	4	XGBClassifier	ECFP	Accuracy	0.61521
+Mono	PRR	Cvas	3	XGBClassifier	ECFP	Accuracy	0.49097
+Mono	PRR	Cvas	2	XGBClassifier	ECFP	Accuracy	0.62725
+Mono	PRR	Cvas	0	XGBClassifier	ECFP	Accuracy	0.57137
+Mono	PRR	Cred	1	XGBClassifier	ECFP	Recall	0.37361
+Mono	PRR	Cred	4	XGBClassifier	ECFP	Recall	0.57406
+Mono	PRR	Cred	3	XGBClassifier	ECFP	Recall	0.39785
+Mono	PRR	Cred	2	XGBClassifier	ECFP	Recall	0.69145
+Mono	PRR	Cred	0	XGBClassifier	ECFP	Recall	0.59149
+Mono	PRR	Card	1	XGBClassifier	ECFP	Recall	0.37732
+Mono	PRR	Card	4	XGBClassifier	ECFP	Recall	0.56771
+Mono	PRR	Card	3	XGBClassifier	ECFP	Recall	0.40323
+Mono	PRR	Card	2	XGBClassifier	ECFP	Recall	0.64281
+Mono	PRR	Card	0	XGBClassifier	ECFP	Recall	0.55571
+Mono	PRR	Cvas	1	XGBClassifier	ECFP	Recall	0.3699
+Mono	PRR	Cvas	4	XGBClassifier	ECFP	Recall	0.55245
+Mono	PRR	Cvas	3	XGBClassifier	ECFP	Recall	0.42174
+Mono	PRR	Cvas	2	XGBClassifier	ECFP	Recall	0.66157
+Mono	PRR	Cvas	0	XGBClassifier	ECFP	Recall	0.56111
+Mono	PRR	Cred	1	XGBClassifier	ECFP	Specificity	0.69762
+Mono	PRR	Cred	4	XGBClassifier	ECFP	Specificity	0.70009
+Mono	PRR	Cred	3	XGBClassifier	ECFP	Specificity	0.66898
+Mono	PRR	Cred	2	XGBClassifier	ECFP	Specificity	0.57413
+Mono	PRR	Cred	0	XGBClassifier	ECFP	Specificity	0.52052
+Mono	PRR	Card	1	XGBClassifier	ECFP	Specificity	0.7131
+Mono	PRR	Card	4	XGBClassifier	ECFP	Specificity	0.67644
+Mono	PRR	Card	3	XGBClassifier	ECFP	Specificity	0.71503
+Mono	PRR	Card	2	XGBClassifier	ECFP	Specificity	0.6
+Mono	PRR	Card	0	XGBClassifier	ECFP	Specificity	0.57357
+Mono	PRR	Cvas	1	XGBClassifier	ECFP	Specificity	0.68214
+Mono	PRR	Cvas	4	XGBClassifier	ECFP	Specificity	0.70861
+Mono	PRR	Cvas	3	XGBClassifier	ECFP	Specificity	0.59166
+Mono	PRR	Cvas	2	XGBClassifier	ECFP	Specificity	0.57811
+Mono	PRR	Cvas	0	XGBClassifier	ECFP	Specificity	0.58659
+Mono	PRR	Cred	1	XGBClassifier	ECFP	Precision	0.66491
+Mono	PRR	Cred	4	XGBClassifier	ECFP	Precision	0.74016
+Mono	PRR	Cred	3	XGBClassifier	ECFP	Precision	0.6361
+Mono	PRR	Cred	2	XGBClassifier	ECFP	Precision	0.69923
+Mono	PRR	Cred	0	XGBClassifier	ECFP	Precision	0.64649
+Mono	PRR	Card	1	XGBClassifier	ECFP	Precision	0.67867
+Mono	PRR	Card	4	XGBClassifier	ECFP	Precision	0.72308
+Mono	PRR	Card	3	XGBClassifier	ECFP	Precision	0.67298
+Mono	PRR	Card	2	XGBClassifier	ECFP	Precision	0.69706
+Mono	PRR	Card	0	XGBClassifier	ECFP	Precision	0.65893
+Mono	PRR	Cvas	1	XGBClassifier	ECFP	Precision	0.65144
+Mono	PRR	Cvas	4	XGBClassifier	ECFP	Precision	0.73832
+Mono	PRR	Cvas	3	XGBClassifier	ECFP	Precision	0.60034
+Mono	PRR	Cvas	2	XGBClassifier	ECFP	Precision	0.69186
+Mono	PRR	Cvas	0	XGBClassifier	ECFP	Precision	0.66801
+Mono	PRR	Cred	1	XGBClassifier	ECFP	PRC AUC	0.68998
+Mono	PRR	Cred	4	XGBClassifier	ECFP	PRC AUC	0.75245
+Mono	PRR	Cred	3	XGBClassifier	ECFP	PRC AUC	0.64949
+Mono	PRR	Cred	2	XGBClassifier	ECFP	PRC AUC	0.69557
+Mono	PRR	Cred	0	XGBClassifier	ECFP	PRC AUC	0.66096
+Mono	PRR	Card	1	XGBClassifier	ECFP	PRC AUC	0.7025
+Mono	PRR	Card	4	XGBClassifier	ECFP	PRC AUC	0.74401
+Mono	PRR	Card	3	XGBClassifier	ECFP	PRC AUC	0.67839
+Mono	PRR	Card	2	XGBClassifier	ECFP	PRC AUC	0.72834
+Mono	PRR	Card	0	XGBClassifier	ECFP	PRC AUC	0.68935
+Mono	PRR	Cvas	1	XGBClassifier	ECFP	PRC AUC	0.65231
+Mono	PRR	Cvas	4	XGBClassifier	ECFP	PRC AUC	0.7396
+Mono	PRR	Cvas	3	XGBClassifier	ECFP	PRC AUC	0.6381
+Mono	PRR	Cvas	2	XGBClassifier	ECFP	PRC AUC	0.70815
+Mono	PRR	Cvas	0	XGBClassifier	ECFP	PRC AUC	0.68016
+Mono	PRR	Cred	1	XGBClassifier	ECFP	ECE	0.20732
+Mono	PRR	Cred	4	XGBClassifier	ECFP	ECE	0.11415
+Mono	PRR	Cred	3	XGBClassifier	ECFP	ECE	0.17973
+Mono	PRR	Cred	2	XGBClassifier	ECFP	ECE	0.07664
+Mono	PRR	Cred	0	XGBClassifier	ECFP	ECE	0.14172
+Mono	PRR	Card	1	XGBClassifier	ECFP	ECE	0.20625
+Mono	PRR	Card	4	XGBClassifier	ECFP	ECE	0.11304
+Mono	PRR	Card	3	XGBClassifier	ECFP	ECE	0.15206
+Mono	PRR	Card	2	XGBClassifier	ECFP	ECE	0.07059
+Mono	PRR	Card	0	XGBClassifier	ECFP	ECE	0.11856
+Mono	PRR	Cvas	1	XGBClassifier	ECFP	ECE	0.1817
+Mono	PRR	Cvas	4	XGBClassifier	ECFP	ECE	0.11964
+Mono	PRR	Cvas	3	XGBClassifier	ECFP	ECE	0.14414
+Mono	PRR	Cvas	2	XGBClassifier	ECFP	ECE	0.05839
+Mono	PRR	Cvas	0	XGBClassifier	ECFP	ECE	0.12197
+Mono	PRR	Cred	1	XGBClassifier	ECFP	Brier	0.29285
+Mono	PRR	Cred	4	XGBClassifier	ECFP	Brier	0.2384
+Mono	PRR	Cred	3	XGBClassifier	ECFP	Brier	0.2919
+Mono	PRR	Cred	2	XGBClassifier	ECFP	Brier	0.23013
+Mono	PRR	Cred	0	XGBClassifier	ECFP	Brier	0.26542
+Mono	PRR	Card	1	XGBClassifier	ECFP	Brier	0.29006
+Mono	PRR	Card	4	XGBClassifier	ECFP	Brier	0.24199
+Mono	PRR	Card	3	XGBClassifier	ECFP	Brier	0.27234
+Mono	PRR	Card	2	XGBClassifier	ECFP	Brier	0.22968
+Mono	PRR	Card	0	XGBClassifier	ECFP	Brier	0.26167
+Mono	PRR	Cvas	1	XGBClassifier	ECFP	Brier	0.28374
+Mono	PRR	Cvas	4	XGBClassifier	ECFP	Brier	0.24559
+Mono	PRR	Cvas	3	XGBClassifier	ECFP	Brier	0.27341
+Mono	PRR	Cvas	2	XGBClassifier	ECFP	Brier	0.22723
+Mono	PRR	Cvas	0	XGBClassifier	ECFP	Brier	0.2559

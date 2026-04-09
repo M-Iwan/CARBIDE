@@ -2085,6 +2085,36 @@ def step_1(df: pd.DataFrame):
 Step 2
 """
 
+def filter_mono(entry_list: List[Tuple]):
+    """
+    Iterate over combined drug-indication values and keep only the Primary Subject drugs if they are the only
+    drug administered. Basically, monotherapy
+
+    Parameters
+    ----------
+    entry_list: Tuple[str]
+        A List of tuples holding information about drugs (sequence number, role code, drug name, indication).
+
+    Returns
+    -------
+    mono: List[Tuple[str]]
+        A list with a single drug entry
+    """
+    if isinstance(entry_list, NAType):
+        return pd.NA
+
+    mono = []
+
+    for entry in entry_list:
+        if entry[1] == 'PS' and len(entry_list) == 1:
+            mono.append(entry)
+
+    if not mono:
+        return pd.NA
+
+    return mono
+
+
 def filter_primary(entry_list: List[Tuple]):
     """
     Iterate over combined drug-indication values and keep only the Primary Subject drugs
@@ -2114,7 +2144,7 @@ def filter_primary(entry_list: List[Tuple]):
     return primaries
 
 
-def filter_primsec(entry_list):
+def filter_secondary(entry_list):
     """
     Iterate over combined drug-indication values and keep Primary and Secondary Suspect drugs
 
@@ -2240,10 +2270,11 @@ def step_2(df: pd.DataFrame, llt_2_pt: Dict[str, str], max_ps: int = None, max_d
     max_reactions: int
         Maximum number of allowed reactions.
     filter_type: str
-        Type of filter to use. Either 'primary' or 'primsec'
+        Type of filter to use. Either 'mono', 'primary', or 'secondary'
 
     Returns
     -------
+    df: pd.DataFrame
 
     """
     df['reactions'] = df['reactions'].apply(map_llt, llt_2_pt=llt_2_pt)
@@ -2268,12 +2299,14 @@ def step_2(df: pd.DataFrame, llt_2_pt: Dict[str, str], max_ps: int = None, max_d
 
     df = df[(df.num_drug > 0) & (df.num_reac > 0)]
 
-    if filter_type == 'primary':
+    if filter_type == 'mono':
+        df['drugs'] = df['drug_indi'].apply(filter_mono)
+    elif filter_type == 'primary':
         df['drugs'] = df['drug_indi'].apply(filter_primary)
-    elif filter_type == 'primsec':
-        df['drugs'] = df['drug_indi'].apply(filter_primsec)
+    elif filter_type == 'secondary':
+        df['drugs'] = df['drug_indi'].apply(filter_secondary)
     else:
-        raise ValueError('Allowed options for < filter_type > are: < primary, primsec >')
+        raise ValueError('Allowed options for < filter_type > are: < mono, primary, secondary >')
 
     df = df.explode('drugs')
     exp = df.drugs.apply(lambda drugs: pd.Series(drugs) if isinstance(drugs, tuple) else pd.Series([pd.NA]*4))

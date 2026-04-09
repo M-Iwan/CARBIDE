@@ -1,0 +1,196 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Mono	IC	Cred	1	XGBClassifier	ECFP	Balanced Accuracy	0.55362
+Mono	IC	Cred	4	XGBClassifier	ECFP	Balanced Accuracy	0.59448
+Mono	IC	Cred	3	XGBClassifier	ECFP	Balanced Accuracy	0.48496
+Mono	IC	Cred	2	XGBClassifier	ECFP	Balanced Accuracy	0.60024
+Mono	IC	Cred	0	XGBClassifier	ECFP	Balanced Accuracy	0.53629
+Mono	IC	Card	1	XGBClassifier	ECFP	Balanced Accuracy	0.53602
+Mono	IC	Card	4	XGBClassifier	ECFP	Balanced Accuracy	0.59998
+Mono	IC	Card	3	XGBClassifier	ECFP	Balanced Accuracy	0.50923
+Mono	IC	Card	2	XGBClassifier	ECFP	Balanced Accuracy	0.58476
+Mono	IC	Card	0	XGBClassifier	ECFP	Balanced Accuracy	0.55051
+Mono	IC	Cvas	1	XGBClassifier	ECFP	Balanced Accuracy	0.49781
+Mono	IC	Cvas	4	XGBClassifier	ECFP	Balanced Accuracy	0.57866
+Mono	IC	Cvas	3	XGBClassifier	ECFP	Balanced Accuracy	0.46881
+Mono	IC	Cvas	2	XGBClassifier	ECFP	Balanced Accuracy	0.59669
+Mono	IC	Cvas	0	XGBClassifier	ECFP	Balanced Accuracy	0.54655
+Mono	IC	Cred	1	XGBClassifier	ECFP	GeomRS	0.55333
+Mono	IC	Cred	4	XGBClassifier	ECFP	GeomRS	0.57946
+Mono	IC	Cred	3	XGBClassifier	ECFP	GeomRS	0.47859
+Mono	IC	Cred	2	XGBClassifier	ECFP	GeomRS	0.5523
+Mono	IC	Cred	0	XGBClassifier	ECFP	GeomRS	0.50038
+Mono	IC	Card	1	XGBClassifier	ECFP	GeomRS	0.53576
+Mono	IC	Card	4	XGBClassifier	ECFP	GeomRS	0.58701
+Mono	IC	Card	3	XGBClassifier	ECFP	GeomRS	0.50568
+Mono	IC	Card	2	XGBClassifier	ECFP	GeomRS	0.52603
+Mono	IC	Card	0	XGBClassifier	ECFP	GeomRS	0.51809
+Mono	IC	Cvas	1	XGBClassifier	ECFP	GeomRS	0.48302
+Mono	IC	Cvas	4	XGBClassifier	ECFP	GeomRS	0.55106
+Mono	IC	Cvas	3	XGBClassifier	ECFP	GeomRS	0.45118
+Mono	IC	Cvas	2	XGBClassifier	ECFP	GeomRS	0.51912
+Mono	IC	Cvas	0	XGBClassifier	ECFP	GeomRS	0.51012
+Mono	IC	Cred	1	XGBClassifier	ECFP	HarmRS	0.55304
+Mono	IC	Cred	4	XGBClassifier	ECFP	HarmRS	0.56481
+Mono	IC	Cred	3	XGBClassifier	ECFP	HarmRS	0.4723
+Mono	IC	Cred	2	XGBClassifier	ECFP	HarmRS	0.50818
+Mono	IC	Cred	0	XGBClassifier	ECFP	HarmRS	0.46687
+Mono	IC	Card	1	XGBClassifier	ECFP	HarmRS	0.53549
+Mono	IC	Card	4	XGBClassifier	ECFP	HarmRS	0.57431
+Mono	IC	Card	3	XGBClassifier	ECFP	HarmRS	0.50215
+Mono	IC	Card	2	XGBClassifier	ECFP	HarmRS	0.47321
+Mono	IC	Card	0	XGBClassifier	ECFP	HarmRS	0.48757
+Mono	IC	Cvas	1	XGBClassifier	ECFP	HarmRS	0.46868
+Mono	IC	Cvas	4	XGBClassifier	ECFP	HarmRS	0.52478
+Mono	IC	Cvas	3	XGBClassifier	ECFP	HarmRS	0.43421
+Mono	IC	Cvas	2	XGBClassifier	ECFP	HarmRS	0.45163
+Mono	IC	Cvas	0	XGBClassifier	ECFP	HarmRS	0.47612
+Mono	IC	Cred	1	XGBClassifier	ECFP	F1 Score	0.61434
+Mono	IC	Cred	4	XGBClassifier	ECFP	F1 Score	0.69629
+Mono	IC	Cred	3	XGBClassifier	ECFP	F1 Score	0.57152
+Mono	IC	Cred	2	XGBClassifier	ECFP	F1 Score	0.73315
+Mono	IC	Cred	0	XGBClassifier	ECFP	F1 Score	0.67143
+Mono	IC	Card	1	XGBClassifier	ECFP	F1 Score	0.59704
+Mono	IC	Card	4	XGBClassifier	ECFP	F1 Score	0.69749
+Mono	IC	Card	3	XGBClassifier	ECFP	F1 Score	0.58448
+Mono	IC	Card	2	XGBClassifier	ECFP	F1 Score	0.72787
+Mono	IC	Card	0	XGBClassifier	ECFP	F1 Score	0.68039
+Mono	IC	Cvas	1	XGBClassifier	ECFP	F1 Score	0.61641
+Mono	IC	Cvas	4	XGBClassifier	ECFP	F1 Score	0.70027
+Mono	IC	Cvas	3	XGBClassifier	ECFP	F1 Score	0.58192
+Mono	IC	Cvas	2	XGBClassifier	ECFP	F1 Score	0.74927
+Mono	IC	Cvas	0	XGBClassifier	ECFP	F1 Score	0.68111
+Mono	IC	Cred	1	XGBClassifier	ECFP	ROC AUC	0.58541
+Mono	IC	Cred	4	XGBClassifier	ECFP	ROC AUC	0.66174
+Mono	IC	Cred	3	XGBClassifier	ECFP	ROC AUC	0.49311
+Mono	IC	Cred	2	XGBClassifier	ECFP	ROC AUC	0.66345
+Mono	IC	Cred	0	XGBClassifier	ECFP	ROC AUC	0.56519
+Mono	IC	Card	1	XGBClassifier	ECFP	ROC AUC	0.55563
+Mono	IC	Card	4	XGBClassifier	ECFP	ROC AUC	0.65067
+Mono	IC	Card	3	XGBClassifier	ECFP	ROC AUC	0.52844
+Mono	IC	Card	2	XGBClassifier	ECFP	ROC AUC	0.65911
+Mono	IC	Card	0	XGBClassifier	ECFP	ROC AUC	0.58418
+Mono	IC	Cvas	1	XGBClassifier	ECFP	ROC AUC	0.50753
+Mono	IC	Cvas	4	XGBClassifier	ECFP	ROC AUC	0.64029
+Mono	IC	Cvas	3	XGBClassifier	ECFP	ROC AUC	0.48762
+Mono	IC	Cvas	2	XGBClassifier	ECFP	ROC AUC	0.7065
+Mono	IC	Cvas	0	XGBClassifier	ECFP	ROC AUC	0.58299
+Mono	IC	Cred	1	XGBClassifier	ECFP	MCC	0.1045
+Mono	IC	Cred	4	XGBClassifier	ECFP	MCC	0.1944
+Mono	IC	Cred	3	XGBClassifier	ECFP	MCC	-0.0299
+Mono	IC	Cred	2	XGBClassifier	ECFP	MCC	0.22869
+Mono	IC	Cred	0	XGBClassifier	ECFP	MCC	0.07768
+Mono	IC	Card	1	XGBClassifier	ECFP	MCC	0.07017
+Mono	IC	Card	4	XGBClassifier	ECFP	MCC	0.20472
+Mono	IC	Card	3	XGBClassifier	ECFP	MCC	0.01829
+Mono	IC	Card	2	XGBClassifier	ECFP	MCC	0.19835
+Mono	IC	Card	0	XGBClassifier	ECFP	MCC	0.10772
+Mono	IC	Cvas	1	XGBClassifier	ECFP	MCC	-0.00439
+Mono	IC	Cvas	4	XGBClassifier	ECFP	MCC	0.16708
+Mono	IC	Cvas	3	XGBClassifier	ECFP	MCC	-0.0632
+Mono	IC	Cvas	2	XGBClassifier	ECFP	MCC	0.24323
+Mono	IC	Cvas	0	XGBClassifier	ECFP	MCC	0.10014
+Mono	IC	Cred	1	XGBClassifier	ECFP	Accuracy	0.55779
+Mono	IC	Cred	4	XGBClassifier	ECFP	Accuracy	0.62053
+Mono	IC	Cred	3	XGBClassifier	ECFP	Accuracy	0.49947
+Mono	IC	Cred	2	XGBClassifier	ECFP	Accuracy	0.64198
+Mono	IC	Cred	0	XGBClassifier	ECFP	Accuracy	0.57379
+Mono	IC	Card	1	XGBClassifier	ECFP	Accuracy	0.53997
+Mono	IC	Card	4	XGBClassifier	ECFP	Accuracy	0.62433
+Mono	IC	Card	3	XGBClassifier	ECFP	Accuracy	0.52035
+Mono	IC	Card	2	XGBClassifier	ECFP	Accuracy	0.63011
+Mono	IC	Card	0	XGBClassifier	ECFP	Accuracy	0.58669
+Mono	IC	Cvas	1	XGBClassifier	ECFP	Accuracy	0.52581
+Mono	IC	Cvas	4	XGBClassifier	ECFP	Accuracy	0.61331
+Mono	IC	Cvas	3	XGBClassifier	ECFP	Accuracy	0.49239
+Mono	IC	Cvas	2	XGBClassifier	ECFP	Accuracy	0.64894
+Mono	IC	Cvas	0	XGBClassifier	ECFP	Accuracy	0.58468
+Mono	IC	Cred	1	XGBClassifier	ECFP	Recall	0.57153
+Mono	IC	Cred	4	XGBClassifier	ECFP	Recall	0.72727
+Mono	IC	Cred	3	XGBClassifier	ECFP	Recall	0.56332
+Mono	IC	Cred	2	XGBClassifier	ECFP	Recall	0.8353
+Mono	IC	Cred	0	XGBClassifier	ECFP	Recall	0.72924
+Mono	IC	Card	1	XGBClassifier	ECFP	Recall	0.553
+Mono	IC	Card	4	XGBClassifier	ECFP	Recall	0.72409
+Mono	IC	Card	3	XGBClassifier	ECFP	Recall	0.5693
+Mono	IC	Card	2	XGBClassifier	ECFP	Recall	0.84017
+Mono	IC	Card	0	XGBClassifier	ECFP	Recall	0.73666
+Mono	IC	Cvas	1	XGBClassifier	ECFP	Recall	0.61824
+Mono	IC	Cvas	4	XGBClassifier	ECFP	Recall	0.75524
+Mono	IC	Cvas	3	XGBClassifier	ECFP	Recall	0.59618
+Mono	IC	Cvas	2	XGBClassifier	ECFP	Recall	0.8909
+Mono	IC	Cvas	0	XGBClassifier	ECFP	Recall	0.74274
+Mono	IC	Cred	1	XGBClassifier	ECFP	Specificity	0.53571
+Mono	IC	Cred	4	XGBClassifier	ECFP	Specificity	0.46168
+Mono	IC	Cred	3	XGBClassifier	ECFP	Specificity	0.4066
+Mono	IC	Cred	2	XGBClassifier	ECFP	Specificity	0.36517
+Mono	IC	Cred	0	XGBClassifier	ECFP	Specificity	0.34334
+Mono	IC	Card	1	XGBClassifier	ECFP	Specificity	0.51905
+Mono	IC	Card	4	XGBClassifier	ECFP	Specificity	0.47588
+Mono	IC	Card	3	XGBClassifier	ECFP	Specificity	0.44917
+Mono	IC	Card	2	XGBClassifier	ECFP	Specificity	0.32935
+Mono	IC	Card	0	XGBClassifier	ECFP	Specificity	0.36436
+Mono	IC	Cvas	1	XGBClassifier	ECFP	Specificity	0.37738
+Mono	IC	Cvas	4	XGBClassifier	ECFP	Specificity	0.40208
+Mono	IC	Cvas	3	XGBClassifier	ECFP	Specificity	0.34144
+Mono	IC	Cvas	2	XGBClassifier	ECFP	Specificity	0.30249
+Mono	IC	Cvas	0	XGBClassifier	ECFP	Specificity	0.35035
+Mono	IC	Cred	1	XGBClassifier	ECFP	Precision	0.66408
+Mono	IC	Cred	4	XGBClassifier	ECFP	Precision	0.66783
+Mono	IC	Cred	3	XGBClassifier	ECFP	Precision	0.57995
+Mono	IC	Cred	2	XGBClassifier	ECFP	Precision	0.65326
+Mono	IC	Cred	0	XGBClassifier	ECFP	Precision	0.62212
+Mono	IC	Card	1	XGBClassifier	ECFP	Precision	0.6487
+Mono	IC	Card	4	XGBClassifier	ECFP	Precision	0.67277
+Mono	IC	Card	3	XGBClassifier	ECFP	Precision	0.6005
+Mono	IC	Card	2	XGBClassifier	ECFP	Precision	0.64206
+Mono	IC	Card	0	XGBClassifier	ECFP	Precision	0.6321
+Mono	IC	Cvas	1	XGBClassifier	ECFP	Precision	0.61459
+Mono	IC	Cvas	4	XGBClassifier	ECFP	Precision	0.65275
+Mono	IC	Cvas	3	XGBClassifier	ECFP	Precision	0.56834
+Mono	IC	Cvas	2	XGBClassifier	ECFP	Precision	0.6465
+Mono	IC	Cvas	0	XGBClassifier	ECFP	Precision	0.62893
+Mono	IC	Cred	1	XGBClassifier	ECFP	PRC AUC	0.71522
+Mono	IC	Cred	4	XGBClassifier	ECFP	PRC AUC	0.74618
+Mono	IC	Cred	3	XGBClassifier	ECFP	PRC AUC	0.62331
+Mono	IC	Cred	2	XGBClassifier	ECFP	PRC AUC	0.68852
+Mono	IC	Cred	0	XGBClassifier	ECFP	PRC AUC	0.65866
+Mono	IC	Card	1	XGBClassifier	ECFP	PRC AUC	0.69118
+Mono	IC	Card	4	XGBClassifier	ECFP	PRC AUC	0.7206
+Mono	IC	Card	3	XGBClassifier	ECFP	PRC AUC	0.64585
+Mono	IC	Card	2	XGBClassifier	ECFP	PRC AUC	0.69646
+Mono	IC	Card	0	XGBClassifier	ECFP	PRC AUC	0.68201
+Mono	IC	Cvas	1	XGBClassifier	ECFP	PRC AUC	0.6442
+Mono	IC	Cvas	4	XGBClassifier	ECFP	PRC AUC	0.73304
+Mono	IC	Cvas	3	XGBClassifier	ECFP	PRC AUC	0.62606
+Mono	IC	Cvas	2	XGBClassifier	ECFP	PRC AUC	0.75021
+Mono	IC	Cvas	0	XGBClassifier	ECFP	PRC AUC	0.67493
+Mono	IC	Cred	1	XGBClassifier	ECFP	ECE	0.13939
+Mono	IC	Cred	4	XGBClassifier	ECFP	ECE	0.07667
+Mono	IC	Cred	3	XGBClassifier	ECFP	ECE	0.19541
+Mono	IC	Cred	2	XGBClassifier	ECFP	ECE	0.06898
+Mono	IC	Cred	0	XGBClassifier	ECFP	ECE	0.12265
+Mono	IC	Card	1	XGBClassifier	ECFP	ECE	0.15432
+Mono	IC	Card	4	XGBClassifier	ECFP	ECE	0.08008
+Mono	IC	Card	3	XGBClassifier	ECFP	ECE	0.14878
+Mono	IC	Card	2	XGBClassifier	ECFP	ECE	0.08814
+Mono	IC	Card	0	XGBClassifier	ECFP	ECE	0.09227
+Mono	IC	Cvas	1	XGBClassifier	ECFP	ECE	0.14794
+Mono	IC	Cvas	4	XGBClassifier	ECFP	ECE	0.09002
+Mono	IC	Cvas	3	XGBClassifier	ECFP	ECE	0.19689
+Mono	IC	Cvas	2	XGBClassifier	ECFP	ECE	0.09861
+Mono	IC	Cvas	0	XGBClassifier	ECFP	ECE	0.10609
+Mono	IC	Cred	1	XGBClassifier	ECFP	Brier	0.261
+Mono	IC	Cred	4	XGBClassifier	ECFP	Brier	0.22942
+Mono	IC	Cred	3	XGBClassifier	ECFP	Brier	0.28881
+Mono	IC	Cred	2	XGBClassifier	ECFP	Brier	0.22963
+Mono	IC	Cred	0	XGBClassifier	ECFP	Brier	0.25738
+Mono	IC	Card	1	XGBClassifier	ECFP	Brier	0.26909
+Mono	IC	Card	4	XGBClassifier	ECFP	Brier	0.23711
+Mono	IC	Card	3	XGBClassifier	ECFP	Brier	0.27467
+Mono	IC	Card	2	XGBClassifier	ECFP	Brier	0.23301
+Mono	IC	Card	0	XGBClassifier	ECFP	Brier	0.24265
+Mono	IC	Cvas	1	XGBClassifier	ECFP	Brier	0.26602
+Mono	IC	Cvas	4	XGBClassifier	ECFP	Brier	0.24397
+Mono	IC	Cvas	3	XGBClassifier	ECFP	Brier	0.28494
+Mono	IC	Cvas	2	XGBClassifier	ECFP	Brier	0.22154
+Mono	IC	Cvas	0	XGBClassifier	ECFP	Brier	0.24994

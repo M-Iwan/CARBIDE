@@ -9,12 +9,61 @@ from copy import deepcopy
 
 import numpy as np
 import pandas as pd
-from sklearn.metrics import confusion_matrix, roc_auc_score
+from sklearn.metrics import confusion_matrix, roc_auc_score, average_precision_score
+from sklearn.calibration import calibration_curve
 
 from src.data.utils import IndexedDict
 from src.ml.manager import DatasetManager
 from src.ml.transform import DataTransformer
-from src.ml.models import FoldUnit, IterEnsemble
+from src.ml.models import FoldUnit, IterEnsemble, UnitAdapter
+
+
+def ece_score(y_true: np.ndarray, y_score: np.ndarray, sample_weight: np.ndarray = None, n_bins: int = 10):
+    """
+    Compute the Expected Calibration Error score.
+
+    Parameters
+    ----------
+    y_true : np.ndarray
+        Array with true binary values
+    y_score: np.ndarray
+        Predicted probabilities in range [0, 1]
+    sample_weight : np.ndarray
+        Array of sample weights. Must be the same shape as y_true
+    n_bins: int
+        Number of bins to use. Default is 10.
+
+    Returns
+    -------
+    ece: float
+        Expected Calibration Error score
+    """
+
+    bin_edges = np.linspace(0, 1, n_bins + 1)
+    bin_indices = np.clip(np.digitize(y_score, bin_edges) -1, 0, n_bins - 1)
+
+    prob_true = np.zeros(n_bins)
+    prob_pred = np.zeros(n_bins)
+    bin_weights = np.zeros(n_bins)
+
+    for bin_idx in range(n_bins):
+        mask = bin_indices == bin_idx
+
+        # these are sometimes empty
+        if mask.sum() == 0:
+            continue
+
+        weights = sample_weight[mask]
+        bin_weights[bin_idx] = weights.sum()
+
+        prob_true[bin_idx] = np.average(y_true[mask], weights=weights)
+        prob_pred[bin_idx] = np.average(y_score[mask], weights=weights)
+
+    total_weight = sample_weight.sum()
+    ece = np.sum((bin_weights / total_weight) * np.abs(prob_true - prob_pred))
+
+    return ece
+
 
 def inner_score(y_true: np.ndarray, y_pred: np.ndarray, y_score: np.ndarray, y_wgts: Optional[np.ndarray] = None) -> Dict[str, float]:
     """
@@ -64,7 +113,10 @@ def inner_score(y_true: np.ndarray, y_pred: np.ndarray, y_score: np.ndarray, y_w
         'HarmRS': np.round(safe_div(2 * rec * spec, rec + spec), 5),
         'F1 Score': np.round(safe_div(2 * tp, 2 * tp + fp + fn), 5),
         'ROC AUC': np.round(roc_auc_score(y_true=y_true, y_score=y_score, sample_weight=y_wgts), 5),
-        'MCC': np.round(safe_div((tp * tn) - (fp * fn), np.sqrt((tp + fp) * (tp + fn) * (tn + fp) * (tn + fn))), 5)
+        'MCC': np.round(safe_div((tp * tn) - (fp * fn), np.sqrt((tp + fp) * (tp + fn) * (tn + fp) * (tn + fn))), 5),
+        'PRC AUC': np.round(average_precision_score(y_true=y_true, y_score=y_score, sample_weight=y_wgts), 5),
+        'Brier': np.round((np.sum((y_score - y_true)**2))/len(y_true), 5),
+        'ECE': np.round(ece_score(y_true=y_true, y_score=y_score, sample_weight=y_wgts), 5)
     }
 
     return metrics
@@ -178,6 +230,60 @@ def fold_evaluate(model, dataset_manager: DatasetManager, transformer: DataTrans
                                                         y_wgts=y_wgts_eval, y_sign=y_sign_eval)
 
         units.append(unit)
+
+    return IterEnsemble(units, iter_idx=iter_idx)
+
+
+def demo_fold_evaluate(model, dataset_manager: DatasetManager, iter_idx: int):
+    """
+    Evaluate model using pre-defined folds using only demographic information.
+
+    Parameters
+    ----------
+    model
+        Instance of a model class
+    dataset_manager: DatasetManager
+        Instance of DatasetManager
+    iter_idx: int
+        Number of iteration. For logging purposes.
+    """
+    units = []
+
+    for fold in dataset_manager.folds:
+        data = dataset_manager.get_train_eval_data(fold)
+        fold_unit, fold_score = deepcopy(model), {}
+
+        # Code specifically adap
+        x_train, x_eval = data['Train']['demo'], data['Eval']['demo']
+        y_train, y_eval = data['Train']['y'], data['Eval']['y']
+        y_wgts_train, y_wgts_eval = data['Train']['wgts'], data['Eval']['wgts']
+        y_sign_train, y_sign_eval = data['Train']['sign'], data['Eval']['sign']
+
+        fold_unit.fit(x_train, y_train, sample_weight=y_wgts_train)
+
+        y_pred_train = fold_unit.predict(x_train)
+        y_pred_eval = fold_unit.predict(x_eval)
+
+        y_score_train = fold_unit.predict_proba(x_train)[:, 1]
+        y_score_eval = fold_unit.predict_proba(x_eval)[:, 1]
+
+        fold_score[('Train', 'Unweighted')] = outer_score(y_true=y_train, y_pred=y_pred_train, y_score=y_score_train,
+                                                           y_wgts=np.ones_like(y_pred_train), y_sign=y_sign_train)
+        fold_score[('Train', 'Weighted')] = outer_score(y_true=y_train, y_pred=y_pred_train, y_score=y_score_train,
+                                                         y_wgts=y_wgts_train, y_sign=y_sign_train)
+
+        fold_score[('Eval', 'Unweighted')] = outer_score(y_true=y_eval, y_pred=y_pred_eval, y_score=y_score_eval,
+                                                          y_wgts=np.ones_like(y_pred_eval), y_sign=y_sign_eval)
+        fold_score[('Eval', 'Weighted')] = outer_score(y_true=y_eval, y_pred=y_pred_eval, y_score=y_score_eval,
+                                                        y_wgts=y_wgts_eval, y_sign=y_sign_eval)
+
+        unit_adapter = UnitAdapter(
+            model=fold_unit,
+            scores=fold_score,
+            fold=fold
+        )
+
+        units.append(unit_adapter)
 
     return IterEnsemble(units, iter_idx=iter_idx)
 

@@ -1,0 +1,196 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Primary	IC	Cred	4	XGBClassifier	CDDD	Balanced Accuracy	0.59198
+Primary	IC	Cred	1	XGBClassifier	CDDD	Balanced Accuracy	0.53512
+Primary	IC	Cred	3	XGBClassifier	CDDD	Balanced Accuracy	0.55145
+Primary	IC	Cred	0	XGBClassifier	CDDD	Balanced Accuracy	0.56565
+Primary	IC	Cred	2	XGBClassifier	CDDD	Balanced Accuracy	0.58337
+Primary	IC	Card	4	XGBClassifier	CDDD	Balanced Accuracy	0.56812
+Primary	IC	Card	1	XGBClassifier	CDDD	Balanced Accuracy	0.51918
+Primary	IC	Card	3	XGBClassifier	CDDD	Balanced Accuracy	0.53917
+Primary	IC	Card	0	XGBClassifier	CDDD	Balanced Accuracy	0.57325
+Primary	IC	Card	2	XGBClassifier	CDDD	Balanced Accuracy	0.57296
+Primary	IC	Cvas	4	XGBClassifier	CDDD	Balanced Accuracy	0.56086
+Primary	IC	Cvas	1	XGBClassifier	CDDD	Balanced Accuracy	0.53198
+Primary	IC	Cvas	3	XGBClassifier	CDDD	Balanced Accuracy	0.52964
+Primary	IC	Cvas	0	XGBClassifier	CDDD	Balanced Accuracy	0.54938
+Primary	IC	Cvas	2	XGBClassifier	CDDD	Balanced Accuracy	0.57877
+Primary	IC	Cred	4	XGBClassifier	CDDD	GeomRS	0.56496
+Primary	IC	Cred	1	XGBClassifier	CDDD	GeomRS	0.52779
+Primary	IC	Cred	3	XGBClassifier	CDDD	GeomRS	0.53862
+Primary	IC	Cred	0	XGBClassifier	CDDD	GeomRS	0.54022
+Primary	IC	Cred	2	XGBClassifier	CDDD	GeomRS	0.54431
+Primary	IC	Card	4	XGBClassifier	CDDD	GeomRS	0.52988
+Primary	IC	Card	1	XGBClassifier	CDDD	GeomRS	0.49079
+Primary	IC	Card	3	XGBClassifier	CDDD	GeomRS	0.51545
+Primary	IC	Card	0	XGBClassifier	CDDD	GeomRS	0.54988
+Primary	IC	Card	2	XGBClassifier	CDDD	GeomRS	0.51072
+Primary	IC	Cvas	4	XGBClassifier	CDDD	GeomRS	0.51279
+Primary	IC	Cvas	1	XGBClassifier	CDDD	GeomRS	0.51427
+Primary	IC	Cvas	3	XGBClassifier	CDDD	GeomRS	0.49756
+Primary	IC	Cvas	0	XGBClassifier	CDDD	GeomRS	0.52792
+Primary	IC	Cvas	2	XGBClassifier	CDDD	GeomRS	0.51589
+Primary	IC	Cred	4	XGBClassifier	CDDD	HarmRS	0.53918
+Primary	IC	Cred	1	XGBClassifier	CDDD	HarmRS	0.52056
+Primary	IC	Cred	3	XGBClassifier	CDDD	HarmRS	0.52609
+Primary	IC	Cred	0	XGBClassifier	CDDD	HarmRS	0.51593
+Primary	IC	Cred	2	XGBClassifier	CDDD	HarmRS	0.50786
+Primary	IC	Card	4	XGBClassifier	CDDD	HarmRS	0.49422
+Primary	IC	Card	1	XGBClassifier	CDDD	HarmRS	0.46396
+Primary	IC	Card	3	XGBClassifier	CDDD	HarmRS	0.49277
+Primary	IC	Card	0	XGBClassifier	CDDD	HarmRS	0.52746
+Primary	IC	Card	2	XGBClassifier	CDDD	HarmRS	0.45524
+Primary	IC	Cvas	4	XGBClassifier	CDDD	HarmRS	0.46883
+Primary	IC	Cvas	1	XGBClassifier	CDDD	HarmRS	0.49714
+Primary	IC	Cvas	3	XGBClassifier	CDDD	HarmRS	0.46743
+Primary	IC	Cvas	0	XGBClassifier	CDDD	HarmRS	0.5073
+Primary	IC	Cvas	2	XGBClassifier	CDDD	HarmRS	0.45985
+Primary	IC	Cred	4	XGBClassifier	CDDD	F1 Score	0.69536
+Primary	IC	Cred	1	XGBClassifier	CDDD	F1 Score	0.64571
+Primary	IC	Cred	3	XGBClassifier	CDDD	F1 Score	0.65795
+Primary	IC	Cred	0	XGBClassifier	CDDD	F1 Score	0.69427
+Primary	IC	Cred	2	XGBClassifier	CDDD	F1 Score	0.7242
+Primary	IC	Card	4	XGBClassifier	CDDD	F1 Score	0.68569
+Primary	IC	Card	1	XGBClassifier	CDDD	F1 Score	0.67173
+Primary	IC	Card	3	XGBClassifier	CDDD	F1 Score	0.66506
+Primary	IC	Card	0	XGBClassifier	CDDD	F1 Score	0.69821
+Primary	IC	Card	2	XGBClassifier	CDDD	F1 Score	0.73417
+Primary	IC	Cvas	4	XGBClassifier	CDDD	F1 Score	0.68763
+Primary	IC	Cvas	1	XGBClassifier	CDDD	F1 Score	0.6668
+Primary	IC	Cvas	3	XGBClassifier	CDDD	F1 Score	0.66709
+Primary	IC	Cvas	0	XGBClassifier	CDDD	F1 Score	0.6741
+Primary	IC	Cvas	2	XGBClassifier	CDDD	F1 Score	0.73952
+Primary	IC	Cred	4	XGBClassifier	CDDD	ROC AUC	0.63431
+Primary	IC	Cred	1	XGBClassifier	CDDD	ROC AUC	0.54444
+Primary	IC	Cred	3	XGBClassifier	CDDD	ROC AUC	0.58079
+Primary	IC	Cred	0	XGBClassifier	CDDD	ROC AUC	0.60631
+Primary	IC	Cred	2	XGBClassifier	CDDD	ROC AUC	0.63959
+Primary	IC	Card	4	XGBClassifier	CDDD	ROC AUC	0.61166
+Primary	IC	Card	1	XGBClassifier	CDDD	ROC AUC	0.52795
+Primary	IC	Card	3	XGBClassifier	CDDD	ROC AUC	0.57058
+Primary	IC	Card	0	XGBClassifier	CDDD	ROC AUC	0.61172
+Primary	IC	Card	2	XGBClassifier	CDDD	ROC AUC	0.64349
+Primary	IC	Cvas	4	XGBClassifier	CDDD	ROC AUC	0.59956
+Primary	IC	Cvas	1	XGBClassifier	CDDD	ROC AUC	0.54077
+Primary	IC	Cvas	3	XGBClassifier	CDDD	ROC AUC	0.55534
+Primary	IC	Cvas	0	XGBClassifier	CDDD	ROC AUC	0.57643
+Primary	IC	Cvas	2	XGBClassifier	CDDD	ROC AUC	0.64664
+Primary	IC	Cred	4	XGBClassifier	CDDD	MCC	0.19689
+Primary	IC	Cred	1	XGBClassifier	CDDD	MCC	0.06866
+Primary	IC	Cred	3	XGBClassifier	CDDD	MCC	0.10402
+Primary	IC	Cred	0	XGBClassifier	CDDD	MCC	0.13737
+Primary	IC	Cred	2	XGBClassifier	CDDD	MCC	0.18271
+Primary	IC	Card	4	XGBClassifier	CDDD	MCC	0.14935
+Primary	IC	Card	1	XGBClassifier	CDDD	MCC	0.03923
+Primary	IC	Card	3	XGBClassifier	CDDD	MCC	0.08114
+Primary	IC	Card	0	XGBClassifier	CDDD	MCC	0.15275
+Primary	IC	Card	2	XGBClassifier	CDDD	MCC	0.17056
+Primary	IC	Cvas	4	XGBClassifier	CDDD	MCC	0.13668
+Primary	IC	Cvas	1	XGBClassifier	CDDD	MCC	0.06407
+Primary	IC	Cvas	3	XGBClassifier	CDDD	MCC	0.06247
+Primary	IC	Cvas	0	XGBClassifier	CDDD	MCC	0.10175
+Primary	IC	Cvas	2	XGBClassifier	CDDD	MCC	0.18531
+Primary	IC	Cred	4	XGBClassifier	CDDD	Accuracy	0.6165
+Primary	IC	Cred	1	XGBClassifier	CDDD	Accuracy	0.56032
+Primary	IC	Cred	3	XGBClassifier	CDDD	Accuracy	0.5769
+Primary	IC	Cred	0	XGBClassifier	CDDD	Accuracy	0.60373
+Primary	IC	Cred	2	XGBClassifier	CDDD	Accuracy	0.63032
+Primary	IC	Card	4	XGBClassifier	CDDD	Accuracy	0.59653
+Primary	IC	Card	1	XGBClassifier	CDDD	Accuracy	0.56751
+Primary	IC	Card	3	XGBClassifier	CDDD	Accuracy	0.57321
+Primary	IC	Card	0	XGBClassifier	CDDD	Accuracy	0.61004
+Primary	IC	Card	2	XGBClassifier	CDDD	Accuracy	0.63106
+Primary	IC	Cvas	4	XGBClassifier	CDDD	Accuracy	0.59237
+Primary	IC	Cvas	1	XGBClassifier	CDDD	Accuracy	0.57084
+Primary	IC	Cvas	3	XGBClassifier	CDDD	Accuracy	0.56871
+Primary	IC	Cvas	0	XGBClassifier	CDDD	Accuracy	0.5839
+Primary	IC	Cvas	2	XGBClassifier	CDDD	Accuracy	0.63746
+Primary	IC	Cred	4	XGBClassifier	CDDD	Recall	0.76879
+Primary	IC	Cred	1	XGBClassifier	CDDD	Recall	0.6234
+Primary	IC	Cred	3	XGBClassifier	CDDD	Recall	0.6697
+Primary	IC	Cred	0	XGBClassifier	CDDD	Recall	0.73336
+Primary	IC	Cred	2	XGBClassifier	CDDD	Recall	0.79324
+Primary	IC	Card	4	XGBClassifier	CDDD	Recall	0.77303
+Primary	IC	Card	1	XGBClassifier	CDDD	Recall	0.6885
+Primary	IC	Card	3	XGBClassifier	CDDD	Recall	0.69734
+Primary	IC	Card	0	XGBClassifier	CDDD	Recall	0.73526
+Primary	IC	Card	2	XGBClassifier	CDDD	Recall	0.83266
+Primary	IC	Cvas	4	XGBClassifier	CDDD	Recall	0.78805
+Primary	IC	Cvas	1	XGBClassifier	CDDD	Recall	0.66813
+Primary	IC	Cvas	3	XGBClassifier	CDDD	Recall	0.71116
+Primary	IC	Cvas	0	XGBClassifier	CDDD	Recall	0.70141
+Primary	IC	Cvas	2	XGBClassifier	CDDD	Recall	0.84111
+Primary	IC	Cred	4	XGBClassifier	CDDD	Specificity	0.41518
+Primary	IC	Cred	1	XGBClassifier	CDDD	Specificity	0.44684
+Primary	IC	Cred	3	XGBClassifier	CDDD	Specificity	0.43319
+Primary	IC	Cred	0	XGBClassifier	CDDD	Specificity	0.39795
+Primary	IC	Cred	2	XGBClassifier	CDDD	Specificity	0.37349
+Primary	IC	Card	4	XGBClassifier	CDDD	Specificity	0.36322
+Primary	IC	Card	1	XGBClassifier	CDDD	Specificity	0.34986
+Primary	IC	Card	3	XGBClassifier	CDDD	Specificity	0.381
+Primary	IC	Card	0	XGBClassifier	CDDD	Specificity	0.41123
+Primary	IC	Card	2	XGBClassifier	CDDD	Specificity	0.31325
+Primary	IC	Cvas	4	XGBClassifier	CDDD	Specificity	0.33367
+Primary	IC	Cvas	1	XGBClassifier	CDDD	Specificity	0.39583
+Primary	IC	Cvas	3	XGBClassifier	CDDD	Specificity	0.34812
+Primary	IC	Cvas	0	XGBClassifier	CDDD	Specificity	0.39734
+Primary	IC	Cvas	2	XGBClassifier	CDDD	Specificity	0.31642
+Primary	IC	Cred	4	XGBClassifier	CDDD	Precision	0.63474
+Primary	IC	Cred	1	XGBClassifier	CDDD	Precision	0.66967
+Primary	IC	Cred	3	XGBClassifier	CDDD	Precision	0.6466
+Primary	IC	Cred	0	XGBClassifier	CDDD	Precision	0.65915
+Primary	IC	Cred	2	XGBClassifier	CDDD	Precision	0.66622
+Primary	IC	Card	4	XGBClassifier	CDDD	Precision	0.61609
+Primary	IC	Card	1	XGBClassifier	CDDD	Precision	0.65576
+Primary	IC	Card	3	XGBClassifier	CDDD	Precision	0.63564
+Primary	IC	Card	0	XGBClassifier	CDDD	Precision	0.66472
+Primary	IC	Card	2	XGBClassifier	CDDD	Precision	0.65652
+Primary	IC	Cvas	4	XGBClassifier	CDDD	Precision	0.6099
+Primary	IC	Cvas	1	XGBClassifier	CDDD	Precision	0.66547
+Primary	IC	Cvas	3	XGBClassifier	CDDD	Precision	0.62816
+Primary	IC	Cvas	0	XGBClassifier	CDDD	Precision	0.64884
+Primary	IC	Cvas	2	XGBClassifier	CDDD	Precision	0.65983
+Primary	IC	Cred	4	XGBClassifier	CDDD	PRC AUC	0.67965
+Primary	IC	Cred	1	XGBClassifier	CDDD	PRC AUC	0.68998
+Primary	IC	Cred	3	XGBClassifier	CDDD	PRC AUC	0.68462
+Primary	IC	Cred	0	XGBClassifier	CDDD	PRC AUC	0.69684
+Primary	IC	Cred	2	XGBClassifier	CDDD	PRC AUC	0.73171
+Primary	IC	Card	4	XGBClassifier	CDDD	PRC AUC	0.67337
+Primary	IC	Card	1	XGBClassifier	CDDD	PRC AUC	0.67461
+Primary	IC	Card	3	XGBClassifier	CDDD	PRC AUC	0.67752
+Primary	IC	Card	0	XGBClassifier	CDDD	PRC AUC	0.69973
+Primary	IC	Card	2	XGBClassifier	CDDD	PRC AUC	0.73116
+Primary	IC	Cvas	4	XGBClassifier	CDDD	PRC AUC	0.65906
+Primary	IC	Cvas	1	XGBClassifier	CDDD	PRC AUC	0.68784
+Primary	IC	Cvas	3	XGBClassifier	CDDD	PRC AUC	0.6628
+Primary	IC	Cvas	0	XGBClassifier	CDDD	PRC AUC	0.67654
+Primary	IC	Cvas	2	XGBClassifier	CDDD	PRC AUC	0.73676
+Primary	IC	Cred	4	XGBClassifier	CDDD	ECE	0.08777
+Primary	IC	Cred	1	XGBClassifier	CDDD	ECE	0.1663
+Primary	IC	Cred	3	XGBClassifier	CDDD	ECE	0.11593
+Primary	IC	Cred	0	XGBClassifier	CDDD	ECE	0.0802
+Primary	IC	Cred	2	XGBClassifier	CDDD	ECE	0.07748
+Primary	IC	Card	4	XGBClassifier	CDDD	ECE	0.11467
+Primary	IC	Card	1	XGBClassifier	CDDD	ECE	0.15619
+Primary	IC	Card	3	XGBClassifier	CDDD	ECE	0.12159
+Primary	IC	Card	0	XGBClassifier	CDDD	ECE	0.08046
+Primary	IC	Card	2	XGBClassifier	CDDD	ECE	0.08008
+Primary	IC	Cvas	4	XGBClassifier	CDDD	ECE	0.12789
+Primary	IC	Cvas	1	XGBClassifier	CDDD	ECE	0.15851
+Primary	IC	Cvas	3	XGBClassifier	CDDD	ECE	0.14203
+Primary	IC	Cvas	0	XGBClassifier	CDDD	ECE	0.12617
+Primary	IC	Cvas	2	XGBClassifier	CDDD	ECE	0.06267
+Primary	IC	Cred	4	XGBClassifier	CDDD	Brier	0.24445
+Primary	IC	Cred	1	XGBClassifier	CDDD	Brier	0.27232
+Primary	IC	Cred	3	XGBClassifier	CDDD	Brier	0.25553
+Primary	IC	Cred	0	XGBClassifier	CDDD	Brier	0.24004
+Primary	IC	Cred	2	XGBClassifier	CDDD	Brier	0.23136
+Primary	IC	Card	4	XGBClassifier	CDDD	Brier	0.25322
+Primary	IC	Card	1	XGBClassifier	CDDD	Brier	0.26594
+Primary	IC	Card	3	XGBClassifier	CDDD	Brier	0.25893
+Primary	IC	Card	0	XGBClassifier	CDDD	Brier	0.23878
+Primary	IC	Card	2	XGBClassifier	CDDD	Brier	0.23101
+Primary	IC	Cvas	4	XGBClassifier	CDDD	Brier	0.2596
+Primary	IC	Cvas	1	XGBClassifier	CDDD	Brier	0.26501
+Primary	IC	Cvas	3	XGBClassifier	CDDD	Brier	0.26378
+Primary	IC	Cvas	0	XGBClassifier	CDDD	Brier	0.25632
+Primary	IC	Cvas	2	XGBClassifier	CDDD	Brier	0.22825

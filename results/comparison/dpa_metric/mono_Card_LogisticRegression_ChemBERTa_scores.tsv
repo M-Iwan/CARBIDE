@@ -1,0 +1,196 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Mono	PRR	Card	1	LogisticRegression	ChemBERTa	Balanced Accuracy	0.55565
+Mono	PRR	Card	4	LogisticRegression	ChemBERTa	Balanced Accuracy	0.46819
+Mono	PRR	Card	3	LogisticRegression	ChemBERTa	Balanced Accuracy	0.54654
+Mono	PRR	Card	0	LogisticRegression	ChemBERTa	Balanced Accuracy	0.46484
+Mono	PRR	Card	2	LogisticRegression	ChemBERTa	Balanced Accuracy	0.60245
+Mono	ROR	Card	1	LogisticRegression	ChemBERTa	Balanced Accuracy	0.5564
+Mono	ROR	Card	4	LogisticRegression	ChemBERTa	Balanced Accuracy	0.48002
+Mono	ROR	Card	3	LogisticRegression	ChemBERTa	Balanced Accuracy	0.52116
+Mono	ROR	Card	0	LogisticRegression	ChemBERTa	Balanced Accuracy	0.47142
+Mono	ROR	Card	2	LogisticRegression	ChemBERTa	Balanced Accuracy	0.57988
+Mono	IC	Card	1	LogisticRegression	ChemBERTa	Balanced Accuracy	0.52558
+Mono	IC	Card	4	LogisticRegression	ChemBERTa	Balanced Accuracy	0.47076
+Mono	IC	Card	3	LogisticRegression	ChemBERTa	Balanced Accuracy	0.54408
+Mono	IC	Card	0	LogisticRegression	ChemBERTa	Balanced Accuracy	0.49235
+Mono	IC	Card	2	LogisticRegression	ChemBERTa	Balanced Accuracy	0.57528
+Mono	PRR	Card	1	LogisticRegression	ChemBERTa	GeomRS	0.54513
+Mono	PRR	Card	4	LogisticRegression	ChemBERTa	GeomRS	0.46794
+Mono	PRR	Card	3	LogisticRegression	ChemBERTa	GeomRS	0.54344
+Mono	PRR	Card	0	LogisticRegression	ChemBERTa	GeomRS	0.46142
+Mono	PRR	Card	2	LogisticRegression	ChemBERTa	GeomRS	0.60244
+Mono	ROR	Card	1	LogisticRegression	ChemBERTa	GeomRS	0.54723
+Mono	ROR	Card	4	LogisticRegression	ChemBERTa	GeomRS	0.47971
+Mono	ROR	Card	3	LogisticRegression	ChemBERTa	GeomRS	0.51173
+Mono	ROR	Card	0	LogisticRegression	ChemBERTa	GeomRS	0.46729
+Mono	ROR	Card	2	LogisticRegression	ChemBERTa	GeomRS	0.5794
+Mono	IC	Card	1	LogisticRegression	ChemBERTa	GeomRS	0.51481
+Mono	IC	Card	4	LogisticRegression	ChemBERTa	GeomRS	0.46653
+Mono	IC	Card	3	LogisticRegression	ChemBERTa	GeomRS	0.54408
+Mono	IC	Card	0	LogisticRegression	ChemBERTa	GeomRS	0.48157
+Mono	IC	Card	2	LogisticRegression	ChemBERTa	GeomRS	0.5491
+Mono	PRR	Card	1	LogisticRegression	ChemBERTa	HarmRS	0.53481
+Mono	PRR	Card	4	LogisticRegression	ChemBERTa	HarmRS	0.46768
+Mono	PRR	Card	3	LogisticRegression	ChemBERTa	HarmRS	0.54035
+Mono	PRR	Card	0	LogisticRegression	ChemBERTa	HarmRS	0.45803
+Mono	PRR	Card	2	LogisticRegression	ChemBERTa	HarmRS	0.60244
+Mono	ROR	Card	1	LogisticRegression	ChemBERTa	HarmRS	0.53821
+Mono	ROR	Card	4	LogisticRegression	ChemBERTa	HarmRS	0.4794
+Mono	ROR	Card	3	LogisticRegression	ChemBERTa	HarmRS	0.50248
+Mono	ROR	Card	0	LogisticRegression	ChemBERTa	HarmRS	0.46319
+Mono	ROR	Card	2	LogisticRegression	ChemBERTa	HarmRS	0.57892
+Mono	IC	Card	1	LogisticRegression	ChemBERTa	HarmRS	0.50426
+Mono	IC	Card	4	LogisticRegression	ChemBERTa	HarmRS	0.46234
+Mono	IC	Card	3	LogisticRegression	ChemBERTa	HarmRS	0.54408
+Mono	IC	Card	0	LogisticRegression	ChemBERTa	HarmRS	0.47104
+Mono	IC	Card	2	LogisticRegression	ChemBERTa	HarmRS	0.52411
+Mono	PRR	Card	1	LogisticRegression	ChemBERTa	F1 Score	0.52558
+Mono	PRR	Card	4	LogisticRegression	ChemBERTa	F1 Score	0.49468
+Mono	PRR	Card	3	LogisticRegression	ChemBERTa	F1 Score	0.54671
+Mono	PRR	Card	0	LogisticRegression	ChemBERTa	F1 Score	0.46226
+Mono	PRR	Card	2	LogisticRegression	ChemBERTa	F1 Score	0.6344
+Mono	ROR	Card	1	LogisticRegression	ChemBERTa	F1 Score	0.53078
+Mono	ROR	Card	4	LogisticRegression	ChemBERTa	F1 Score	0.5056
+Mono	ROR	Card	3	LogisticRegression	ChemBERTa	F1 Score	0.49435
+Mono	ROR	Card	0	LogisticRegression	ChemBERTa	F1 Score	0.46523
+Mono	ROR	Card	2	LogisticRegression	ChemBERTa	F1 Score	0.62504
+Mono	IC	Card	1	LogisticRegression	ChemBERTa	F1 Score	0.60887
+Mono	IC	Card	4	LogisticRegression	ChemBERTa	F1 Score	0.54268
+Mono	IC	Card	3	LogisticRegression	ChemBERTa	F1 Score	0.57727
+Mono	IC	Card	0	LogisticRegression	ChemBERTa	F1 Score	0.57963
+Mono	IC	Card	2	LogisticRegression	ChemBERTa	F1 Score	0.68296
+Mono	PRR	Card	1	LogisticRegression	ChemBERTa	ROC AUC	0.55799
+Mono	PRR	Card	4	LogisticRegression	ChemBERTa	ROC AUC	0.45175
+Mono	PRR	Card	3	LogisticRegression	ChemBERTa	ROC AUC	0.55274
+Mono	PRR	Card	0	LogisticRegression	ChemBERTa	ROC AUC	0.46074
+Mono	PRR	Card	2	LogisticRegression	ChemBERTa	ROC AUC	0.6419
+Mono	ROR	Card	1	LogisticRegression	ChemBERTa	ROC AUC	0.57361
+Mono	ROR	Card	4	LogisticRegression	ChemBERTa	ROC AUC	0.48614
+Mono	ROR	Card	3	LogisticRegression	ChemBERTa	ROC AUC	0.54837
+Mono	ROR	Card	0	LogisticRegression	ChemBERTa	ROC AUC	0.47107
+Mono	ROR	Card	2	LogisticRegression	ChemBERTa	ROC AUC	0.61594
+Mono	IC	Card	1	LogisticRegression	ChemBERTa	ROC AUC	0.55624
+Mono	IC	Card	4	LogisticRegression	ChemBERTa	ROC AUC	0.46078
+Mono	IC	Card	3	LogisticRegression	ChemBERTa	ROC AUC	0.55719
+Mono	IC	Card	0	LogisticRegression	ChemBERTa	ROC AUC	0.47663
+Mono	IC	Card	2	LogisticRegression	ChemBERTa	ROC AUC	0.63718
+Mono	PRR	Card	1	LogisticRegression	ChemBERTa	MCC	0.11257
+Mono	PRR	Card	4	LogisticRegression	ChemBERTa	MCC	-0.0629
+Mono	PRR	Card	3	LogisticRegression	ChemBERTa	MCC	0.09267
+Mono	PRR	Card	0	LogisticRegression	ChemBERTa	MCC	-0.07012
+Mono	PRR	Card	2	LogisticRegression	ChemBERTa	MCC	0.20263
+Mono	ROR	Card	1	LogisticRegression	ChemBERTa	MCC	0.11376
+Mono	ROR	Card	4	LogisticRegression	ChemBERTa	MCC	-0.03951
+Mono	ROR	Card	3	LogisticRegression	ChemBERTa	MCC	0.04269
+Mono	ROR	Card	0	LogisticRegression	ChemBERTa	MCC	-0.05707
+Mono	ROR	Card	2	LogisticRegression	ChemBERTa	MCC	0.15835
+Mono	IC	Card	1	LogisticRegression	ChemBERTa	MCC	0.05195
+Mono	IC	Card	4	LogisticRegression	ChemBERTa	MCC	-0.05817
+Mono	IC	Card	3	LogisticRegression	ChemBERTa	MCC	0.08731
+Mono	IC	Card	0	LogisticRegression	ChemBERTa	MCC	-0.01547
+Mono	IC	Card	2	LogisticRegression	ChemBERTa	MCC	0.15994
+Mono	PRR	Card	1	LogisticRegression	ChemBERTa	Accuracy	0.54117
+Mono	PRR	Card	4	LogisticRegression	ChemBERTa	Accuracy	0.4658
+Mono	PRR	Card	3	LogisticRegression	ChemBERTa	Accuracy	0.5384
+Mono	PRR	Card	0	LogisticRegression	ChemBERTa	Accuracy	0.4568
+Mono	PRR	Card	2	LogisticRegression	ChemBERTa	Accuracy	0.60209
+Mono	ROR	Card	1	LogisticRegression	ChemBERTa	Accuracy	0.54287
+Mono	ROR	Card	4	LogisticRegression	ChemBERTa	Accuracy	0.47734
+Mono	ROR	Card	3	LogisticRegression	ChemBERTa	Accuracy	0.50734
+Mono	ROR	Card	0	LogisticRegression	ChemBERTa	Accuracy	0.46252
+Mono	ROR	Card	2	LogisticRegression	ChemBERTa	Accuracy	0.58344
+Mono	IC	Card	1	LogisticRegression	ChemBERTa	Accuracy	0.53982
+Mono	IC	Card	4	LogisticRegression	ChemBERTa	Accuracy	0.48052
+Mono	IC	Card	3	LogisticRegression	ChemBERTa	Accuracy	0.54433
+Mono	IC	Card	0	LogisticRegression	ChemBERTa	Accuracy	0.50699
+Mono	IC	Card	2	LogisticRegression	ChemBERTa	Accuracy	0.60111
+Mono	PRR	Card	1	LogisticRegression	ChemBERTa	Recall	0.44803
+Mono	PRR	Card	4	LogisticRegression	ChemBERTa	Recall	0.45277
+Mono	PRR	Card	3	LogisticRegression	ChemBERTa	Recall	0.48836
+Mono	PRR	Card	0	LogisticRegression	ChemBERTa	Recall	0.40856
+Mono	PRR	Card	2	LogisticRegression	ChemBERTa	Recall	0.60011
+Mono	ROR	Card	1	LogisticRegression	ChemBERTa	Recall	0.45579
+Mono	ROR	Card	4	LogisticRegression	ChemBERTa	Recall	0.46277
+Mono	ROR	Card	3	LogisticRegression	ChemBERTa	Recall	0.42249
+Mono	ROR	Card	0	LogisticRegression	ChemBERTa	Recall	0.40912
+Mono	ROR	Card	2	LogisticRegression	ChemBERTa	Recall	0.60353
+Mono	IC	Card	1	LogisticRegression	ChemBERTa	Recall	0.63142
+Mono	IC	Card	4	LogisticRegression	ChemBERTa	Recall	0.53373
+Mono	IC	Card	3	LogisticRegression	ChemBERTa	Recall	0.54581
+Mono	IC	Card	0	LogisticRegression	ChemBERTa	Recall	0.59477
+Mono	IC	Card	2	LogisticRegression	ChemBERTa	Recall	0.74687
+Mono	PRR	Card	1	LogisticRegression	ChemBERTa	Specificity	0.66327
+Mono	PRR	Card	4	LogisticRegression	ChemBERTa	Specificity	0.48361
+Mono	PRR	Card	3	LogisticRegression	ChemBERTa	Specificity	0.60473
+Mono	PRR	Card	0	LogisticRegression	ChemBERTa	Specificity	0.52113
+Mono	PRR	Card	2	LogisticRegression	ChemBERTa	Specificity	0.60478
+Mono	ROR	Card	1	LogisticRegression	ChemBERTa	Specificity	0.65701
+Mono	ROR	Card	4	LogisticRegression	ChemBERTa	Specificity	0.49727
+Mono	ROR	Card	3	LogisticRegression	ChemBERTa	Specificity	0.61983
+Mono	ROR	Card	0	LogisticRegression	ChemBERTa	Specificity	0.53373
+Mono	ROR	Card	2	LogisticRegression	ChemBERTa	Specificity	0.55624
+Mono	IC	Card	1	LogisticRegression	ChemBERTa	Specificity	0.41973
+Mono	IC	Card	4	LogisticRegression	ChemBERTa	Specificity	0.40779
+Mono	IC	Card	3	LogisticRegression	ChemBERTa	Specificity	0.54235
+Mono	IC	Card	0	LogisticRegression	ChemBERTa	Specificity	0.38992
+Mono	IC	Card	2	LogisticRegression	ChemBERTa	Specificity	0.4037
+Mono	PRR	Card	1	LogisticRegression	ChemBERTa	Precision	0.63559
+Mono	PRR	Card	4	LogisticRegression	ChemBERTa	Precision	0.54513
+Mono	PRR	Card	3	LogisticRegression	ChemBERTa	Precision	0.62091
+Mono	PRR	Card	0	LogisticRegression	ChemBERTa	Precision	0.53222
+Mono	PRR	Card	2	LogisticRegression	ChemBERTa	Precision	0.67283
+Mono	ROR	Card	1	LogisticRegression	ChemBERTa	Precision	0.6353
+Mono	ROR	Card	4	LogisticRegression	ChemBERTa	Precision	0.55716
+Mono	ROR	Card	3	LogisticRegression	ChemBERTa	Precision	0.59567
+Mono	ROR	Card	0	LogisticRegression	ChemBERTa	Precision	0.53919
+Mono	ROR	Card	2	LogisticRegression	ChemBERTa	Precision	0.64814
+Mono	IC	Card	1	LogisticRegression	ChemBERTa	Precision	0.58788
+Mono	IC	Card	4	LogisticRegression	ChemBERTa	Precision	0.55194
+Mono	IC	Card	3	LogisticRegression	ChemBERTa	Precision	0.61256
+Mono	IC	Card	0	LogisticRegression	ChemBERTa	Precision	0.56524
+Mono	IC	Card	2	LogisticRegression	ChemBERTa	Precision	0.62913
+Mono	PRR	Card	1	LogisticRegression	ChemBERTa	PRC AUC	0.59613
+Mono	PRR	Card	4	LogisticRegression	ChemBERTa	PRC AUC	0.53689
+Mono	PRR	Card	3	LogisticRegression	ChemBERTa	PRC AUC	0.59994
+Mono	PRR	Card	0	LogisticRegression	ChemBERTa	PRC AUC	0.54764
+Mono	PRR	Card	2	LogisticRegression	ChemBERTa	PRC AUC	0.70661
+Mono	ROR	Card	1	LogisticRegression	ChemBERTa	PRC AUC	0.60968
+Mono	ROR	Card	4	LogisticRegression	ChemBERTa	PRC AUC	0.55577
+Mono	ROR	Card	3	LogisticRegression	ChemBERTa	PRC AUC	0.60169
+Mono	ROR	Card	0	LogisticRegression	ChemBERTa	PRC AUC	0.56601
+Mono	ROR	Card	2	LogisticRegression	ChemBERTa	PRC AUC	0.68374
+Mono	IC	Card	1	LogisticRegression	ChemBERTa	PRC AUC	0.60324
+Mono	IC	Card	4	LogisticRegression	ChemBERTa	PRC AUC	0.54241
+Mono	IC	Card	3	LogisticRegression	ChemBERTa	PRC AUC	0.60698
+Mono	IC	Card	0	LogisticRegression	ChemBERTa	PRC AUC	0.56251
+Mono	IC	Card	2	LogisticRegression	ChemBERTa	PRC AUC	0.7014
+Mono	PRR	Card	1	LogisticRegression	ChemBERTa	Brier	0.29562
+Mono	PRR	Card	4	LogisticRegression	ChemBERTa	Brier	0.35975
+Mono	PRR	Card	3	LogisticRegression	ChemBERTa	Brier	0.32469
+Mono	PRR	Card	0	LogisticRegression	ChemBERTa	Brier	0.30828
+Mono	PRR	Card	2	LogisticRegression	ChemBERTa	Brier	0.24532
+Mono	ROR	Card	1	LogisticRegression	ChemBERTa	Brier	0.29328
+Mono	ROR	Card	4	LogisticRegression	ChemBERTa	Brier	0.33582
+Mono	ROR	Card	3	LogisticRegression	ChemBERTa	Brier	0.3172
+Mono	ROR	Card	0	LogisticRegression	ChemBERTa	Brier	0.31939
+Mono	ROR	Card	2	LogisticRegression	ChemBERTa	Brier	0.25905
+Mono	IC	Card	1	LogisticRegression	ChemBERTa	Brier	0.27561
+Mono	IC	Card	4	LogisticRegression	ChemBERTa	Brier	0.33952
+Mono	IC	Card	3	LogisticRegression	ChemBERTa	Brier	0.30967
+Mono	IC	Card	0	LogisticRegression	ChemBERTa	Brier	0.33259
+Mono	IC	Card	2	LogisticRegression	ChemBERTa	Brier	0.24691
+Mono	PRR	Card	1	LogisticRegression	ChemBERTa	ECE	0.18784
+Mono	PRR	Card	4	LogisticRegression	ChemBERTa	ECE	0.27882
+Mono	PRR	Card	3	LogisticRegression	ChemBERTa	ECE	0.23456
+Mono	PRR	Card	0	LogisticRegression	ChemBERTa	ECE	0.21201
+Mono	PRR	Card	2	LogisticRegression	ChemBERTa	ECE	0.0917
+Mono	ROR	Card	1	LogisticRegression	ChemBERTa	ECE	0.18015
+Mono	ROR	Card	4	LogisticRegression	ChemBERTa	ECE	0.25951
+Mono	ROR	Card	3	LogisticRegression	ChemBERTa	ECE	0.24891
+Mono	ROR	Card	0	LogisticRegression	ChemBERTa	ECE	0.23318
+Mono	ROR	Card	2	LogisticRegression	ChemBERTa	ECE	0.13515
+Mono	IC	Card	1	LogisticRegression	ChemBERTa	ECE	0.1572
+Mono	IC	Card	4	LogisticRegression	ChemBERTa	ECE	0.2596
+Mono	IC	Card	3	LogisticRegression	ChemBERTa	ECE	0.21767
+Mono	IC	Card	0	LogisticRegression	ChemBERTa	ECE	0.24709
+Mono	IC	Card	2	LogisticRegression	ChemBERTa	ECE	0.11324

@@ -261,6 +261,50 @@ class DataTransformer:
 
         return x_array
 
+    def fit_transform(self, x_array: np.ndarray):
+        """
+        Fit all enabled preprocessing steps and transform data accordingly.
+
+        Parameters
+        -----------
+        x_array: np.ndarray
+            Input feature array to fit on and transform.
+
+        Returns
+        --------
+        np.ndarray
+            Transformed feature array.
+        """
+
+        x_array = self.validate_features(x_array)
+
+        if self.use_masks:
+            if not self.masks_fit:
+                self.fit_masks(x_array)
+            x_array = self.apply_masks(x_array)
+
+        if self.use_corr:
+            if not self.corr_fit:
+                self.fit_corr(x_array)
+            x_array = self.apply_corr(x_array)
+
+        if self.use_imputer:
+            if not self.imputer_fit:
+                self.fit_imputer(x_array)
+            x_array = self.apply_imputer(x_array)
+
+        if self.use_selector:
+            if not self.selector_fit:
+                self.fit_selector(x_array)
+            x_array = self.apply_selector(x_array)
+
+        if self.use_scaler:
+            if not self.scaler_fit:
+                self.fit_scaler(x_array)
+            x_array = self.apply_scaler(x_array)
+
+        return x_array
+
 
 def prepare_transformer(descriptors: str):
     """
@@ -293,7 +337,7 @@ def prepare_transformer(descriptors: str):
     }
 
     descriptors_flags = {
-        'Morgan': binary,
+        'ECFP': binary,
         'MACCS': binary,
         'Klek': binary,
         'CDDD': continuous,

@@ -1,0 +1,196 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Mono	IC	Cred	1	XGBClassifier	Klek	Balanced Accuracy	0.54511
+Mono	IC	Cred	4	XGBClassifier	Klek	Balanced Accuracy	0.60899
+Mono	IC	Cred	3	XGBClassifier	Klek	Balanced Accuracy	0.58885
+Mono	IC	Cred	2	XGBClassifier	Klek	Balanced Accuracy	0.58055
+Mono	IC	Cred	0	XGBClassifier	Klek	Balanced Accuracy	0.51698
+Mono	IC	Card	1	XGBClassifier	Klek	Balanced Accuracy	0.52941
+Mono	IC	Card	4	XGBClassifier	Klek	Balanced Accuracy	0.60831
+Mono	IC	Card	3	XGBClassifier	Klek	Balanced Accuracy	0.58279
+Mono	IC	Card	2	XGBClassifier	Klek	Balanced Accuracy	0.58979
+Mono	IC	Card	0	XGBClassifier	Klek	Balanced Accuracy	0.54353
+Mono	IC	Cvas	1	XGBClassifier	Klek	Balanced Accuracy	0.51106
+Mono	IC	Cvas	4	XGBClassifier	Klek	Balanced Accuracy	0.5472
+Mono	IC	Cvas	3	XGBClassifier	Klek	Balanced Accuracy	0.56178
+Mono	IC	Cvas	2	XGBClassifier	Klek	Balanced Accuracy	0.57418
+Mono	IC	Cvas	0	XGBClassifier	Klek	Balanced Accuracy	0.54055
+Mono	IC	Cred	1	XGBClassifier	Klek	GeomRS	0.54343
+Mono	IC	Cred	4	XGBClassifier	Klek	GeomRS	0.6037
+Mono	IC	Cred	3	XGBClassifier	Klek	GeomRS	0.57409
+Mono	IC	Cred	2	XGBClassifier	Klek	GeomRS	0.5276
+Mono	IC	Cred	0	XGBClassifier	Klek	GeomRS	0.48054
+Mono	IC	Card	1	XGBClassifier	Klek	GeomRS	0.52609
+Mono	IC	Card	4	XGBClassifier	Klek	GeomRS	0.59851
+Mono	IC	Card	3	XGBClassifier	Klek	GeomRS	0.57707
+Mono	IC	Card	2	XGBClassifier	Klek	GeomRS	0.53626
+Mono	IC	Card	0	XGBClassifier	Klek	GeomRS	0.5065
+Mono	IC	Cvas	1	XGBClassifier	Klek	GeomRS	0.51049
+Mono	IC	Cvas	4	XGBClassifier	Klek	GeomRS	0.51401
+Mono	IC	Cvas	3	XGBClassifier	Klek	GeomRS	0.53601
+Mono	IC	Cvas	2	XGBClassifier	Klek	GeomRS	0.49166
+Mono	IC	Cvas	0	XGBClassifier	Klek	GeomRS	0.50049
+Mono	IC	Cred	1	XGBClassifier	Klek	HarmRS	0.54176
+Mono	IC	Cred	4	XGBClassifier	Klek	HarmRS	0.59845
+Mono	IC	Cred	3	XGBClassifier	Klek	HarmRS	0.55971
+Mono	IC	Cred	2	XGBClassifier	Klek	HarmRS	0.47947
+Mono	IC	Cred	0	XGBClassifier	Klek	HarmRS	0.44667
+Mono	IC	Card	1	XGBClassifier	Klek	HarmRS	0.5228
+Mono	IC	Card	4	XGBClassifier	Klek	HarmRS	0.58886
+Mono	IC	Card	3	XGBClassifier	Klek	HarmRS	0.5714
+Mono	IC	Card	2	XGBClassifier	Klek	HarmRS	0.48759
+Mono	IC	Card	0	XGBClassifier	Klek	HarmRS	0.472
+Mono	IC	Cvas	1	XGBClassifier	Klek	HarmRS	0.50992
+Mono	IC	Cvas	4	XGBClassifier	Klek	HarmRS	0.48282
+Mono	IC	Cvas	3	XGBClassifier	Klek	HarmRS	0.51141
+Mono	IC	Cvas	2	XGBClassifier	Klek	HarmRS	0.421
+Mono	IC	Cvas	0	XGBClassifier	Klek	HarmRS	0.4634
+Mono	IC	Cred	1	XGBClassifier	Klek	F1 Score	0.61953
+Mono	IC	Cred	4	XGBClassifier	Klek	F1 Score	0.68716
+Mono	IC	Cred	3	XGBClassifier	Klek	F1 Score	0.68798
+Mono	IC	Cred	2	XGBClassifier	Klek	F1 Score	0.72019
+Mono	IC	Cred	0	XGBClassifier	Klek	F1 Score	0.65459
+Mono	IC	Card	1	XGBClassifier	Klek	F1 Score	0.6136
+Mono	IC	Card	4	XGBClassifier	Klek	F1 Score	0.69845
+Mono	IC	Card	3	XGBClassifier	Klek	F1 Score	0.6619
+Mono	IC	Card	2	XGBClassifier	Klek	F1 Score	0.72848
+Mono	IC	Card	0	XGBClassifier	Klek	F1 Score	0.67905
+Mono	IC	Cvas	1	XGBClassifier	Klek	F1 Score	0.57714
+Mono	IC	Cvas	4	XGBClassifier	Klek	F1 Score	0.6788
+Mono	IC	Cvas	3	XGBClassifier	Klek	F1 Score	0.68002
+Mono	IC	Cvas	2	XGBClassifier	Klek	F1 Score	0.73318
+Mono	IC	Cvas	0	XGBClassifier	Klek	F1 Score	0.6794
+Mono	IC	Cred	1	XGBClassifier	Klek	ROC AUC	0.56984
+Mono	IC	Cred	4	XGBClassifier	Klek	ROC AUC	0.66092
+Mono	IC	Cred	3	XGBClassifier	Klek	ROC AUC	0.62296
+Mono	IC	Cred	2	XGBClassifier	Klek	ROC AUC	0.65371
+Mono	IC	Cred	0	XGBClassifier	Klek	ROC AUC	0.56503
+Mono	IC	Card	1	XGBClassifier	Klek	ROC AUC	0.54986
+Mono	IC	Card	4	XGBClassifier	Klek	ROC AUC	0.64944
+Mono	IC	Card	3	XGBClassifier	Klek	ROC AUC	0.61491
+Mono	IC	Card	2	XGBClassifier	Klek	ROC AUC	0.66047
+Mono	IC	Card	0	XGBClassifier	Klek	ROC AUC	0.57175
+Mono	IC	Cvas	1	XGBClassifier	Klek	ROC AUC	0.54374
+Mono	IC	Cvas	4	XGBClassifier	Klek	ROC AUC	0.60599
+Mono	IC	Cvas	3	XGBClassifier	Klek	ROC AUC	0.62493
+Mono	IC	Cvas	2	XGBClassifier	Klek	ROC AUC	0.62498
+Mono	IC	Cvas	0	XGBClassifier	Klek	ROC AUC	0.58303
+Mono	IC	Cred	1	XGBClassifier	Klek	MCC	0.08825
+Mono	IC	Cred	4	XGBClassifier	Klek	MCC	0.21829
+Mono	IC	Cred	3	XGBClassifier	Klek	MCC	0.18275
+Mono	IC	Cred	2	XGBClassifier	Klek	MCC	0.18471
+Mono	IC	Cred	0	XGBClassifier	Klek	MCC	0.03614
+Mono	IC	Card	1	XGBClassifier	Klek	MCC	0.05772
+Mono	IC	Card	4	XGBClassifier	Klek	MCC	0.21999
+Mono	IC	Card	3	XGBClassifier	Klek	MCC	0.16586
+Mono	IC	Card	2	XGBClassifier	Klek	MCC	0.20733
+Mono	IC	Card	0	XGBClassifier	Klek	MCC	0.09369
+Mono	IC	Cvas	1	XGBClassifier	Klek	MCC	0.02154
+Mono	IC	Cvas	4	XGBClassifier	Klek	MCC	0.10072
+Mono	IC	Cvas	3	XGBClassifier	Klek	MCC	0.13011
+Mono	IC	Cvas	2	XGBClassifier	Klek	MCC	0.18598
+Mono	IC	Cvas	0	XGBClassifier	Klek	MCC	0.08785
+Mono	IC	Cred	1	XGBClassifier	Klek	Accuracy	0.55505
+Mono	IC	Cred	4	XGBClassifier	Klek	Accuracy	0.62471
+Mono	IC	Cred	3	XGBClassifier	Klek	Accuracy	0.6131
+Mono	IC	Cred	2	XGBClassifier	Klek	Accuracy	0.62357
+Mono	IC	Cred	0	XGBClassifier	Klek	Accuracy	0.55403
+Mono	IC	Card	1	XGBClassifier	Klek	Accuracy	0.54317
+Mono	IC	Card	4	XGBClassifier	Klek	Accuracy	0.62966
+Mono	IC	Card	3	XGBClassifier	Klek	Accuracy	0.59788
+Mono	IC	Card	2	XGBClassifier	Klek	Accuracy	0.63339
+Mono	IC	Card	0	XGBClassifier	Klek	Accuracy	0.58185
+Mono	IC	Cvas	1	XGBClassifier	Klek	Accuracy	0.51667
+Mono	IC	Cvas	4	XGBClassifier	Klek	Accuracy	0.58403
+Mono	IC	Cvas	3	XGBClassifier	Klek	Accuracy	0.59292
+Mono	IC	Cvas	2	XGBClassifier	Klek	Accuracy	0.62684
+Mono	IC	Cvas	0	XGBClassifier	Klek	Accuracy	0.58024
+Mono	IC	Cred	1	XGBClassifier	Klek	Recall	0.58784
+Mono	IC	Cred	4	XGBClassifier	Klek	Recall	0.68913
+Mono	IC	Cred	3	XGBClassifier	Klek	Recall	0.71983
+Mono	IC	Cred	2	XGBClassifier	Klek	Recall	0.82279
+Mono	IC	Cred	0	XGBClassifier	Klek	Recall	0.70763
+Mono	IC	Card	1	XGBClassifier	Klek	Recall	0.58858
+Mono	IC	Card	4	XGBClassifier	Klek	Recall	0.7171
+Mono	IC	Card	3	XGBClassifier	Klek	Recall	0.66428
+Mono	IC	Card	2	XGBClassifier	Klek	Recall	0.8353
+Mono	IC	Card	0	XGBClassifier	Klek	Recall	0.74072
+Mono	IC	Cvas	1	XGBClassifier	Klek	Recall	0.53521
+Mono	IC	Cvas	4	XGBClassifier	Klek	Recall	0.7349
+Mono	IC	Cvas	3	XGBClassifier	Klek	Recall	0.72999
+Mono	IC	Cvas	2	XGBClassifier	Klek	Recall	0.87074
+Mono	IC	Cvas	0	XGBClassifier	Klek	Recall	0.74477
+Mono	IC	Cred	1	XGBClassifier	Klek	Specificity	0.50238
+Mono	IC	Cred	4	XGBClassifier	Klek	Specificity	0.52886
+Mono	IC	Cred	3	XGBClassifier	Klek	Specificity	0.45786
+Mono	IC	Cred	2	XGBClassifier	Klek	Specificity	0.33831
+Mono	IC	Cred	0	XGBClassifier	Klek	Specificity	0.32633
+Mono	IC	Card	1	XGBClassifier	Klek	Specificity	0.47024
+Mono	IC	Card	4	XGBClassifier	Klek	Specificity	0.49953
+Mono	IC	Card	3	XGBClassifier	Klek	Specificity	0.5013
+Mono	IC	Card	2	XGBClassifier	Klek	Specificity	0.34428
+Mono	IC	Card	0	XGBClassifier	Klek	Specificity	0.34635
+Mono	IC	Cvas	1	XGBClassifier	Klek	Specificity	0.4869
+Mono	IC	Cvas	4	XGBClassifier	Klek	Specificity	0.35951
+Mono	IC	Cvas	3	XGBClassifier	Klek	Specificity	0.39357
+Mono	IC	Cvas	2	XGBClassifier	Klek	Specificity	0.27761
+Mono	IC	Cvas	0	XGBClassifier	Klek	Specificity	0.33634
+Mono	IC	Cred	1	XGBClassifier	Klek	Precision	0.65483
+Mono	IC	Cred	4	XGBClassifier	Klek	Precision	0.68521
+Mono	IC	Cred	3	XGBClassifier	Klek	Precision	0.65883
+Mono	IC	Cred	2	XGBClassifier	Klek	Precision	0.64035
+Mono	IC	Cred	0	XGBClassifier	Klek	Precision	0.60895
+Mono	IC	Card	1	XGBClassifier	Klek	Precision	0.64084
+Mono	IC	Card	4	XGBClassifier	Klek	Precision	0.68075
+Mono	IC	Card	3	XGBClassifier	Klek	Precision	0.65955
+Mono	IC	Card	2	XGBClassifier	Klek	Precision	0.64589
+Mono	IC	Card	0	XGBClassifier	Klek	Precision	0.62686
+Mono	IC	Cvas	1	XGBClassifier	Klek	Precision	0.62619
+Mono	IC	Cvas	4	XGBClassifier	Klek	Precision	0.63066
+Mono	IC	Cvas	3	XGBClassifier	Klek	Precision	0.63646
+Mono	IC	Cvas	2	XGBClassifier	Klek	Precision	0.63315
+Mono	IC	Cvas	0	XGBClassifier	Klek	Precision	0.62458
+Mono	IC	Cred	1	XGBClassifier	Klek	PRC AUC	0.68319
+Mono	IC	Cred	4	XGBClassifier	Klek	PRC AUC	0.75339
+Mono	IC	Cred	3	XGBClassifier	Klek	PRC AUC	0.69704
+Mono	IC	Cred	2	XGBClassifier	Klek	PRC AUC	0.73314
+Mono	IC	Cred	0	XGBClassifier	Klek	PRC AUC	0.65659
+Mono	IC	Card	1	XGBClassifier	Klek	PRC AUC	0.67349
+Mono	IC	Card	4	XGBClassifier	Klek	PRC AUC	0.72616
+Mono	IC	Card	3	XGBClassifier	Klek	PRC AUC	0.70277
+Mono	IC	Card	2	XGBClassifier	Klek	PRC AUC	0.72842
+Mono	IC	Card	0	XGBClassifier	Klek	PRC AUC	0.65148
+Mono	IC	Cvas	1	XGBClassifier	Klek	PRC AUC	0.6785
+Mono	IC	Cvas	4	XGBClassifier	Klek	PRC AUC	0.70112
+Mono	IC	Cvas	3	XGBClassifier	Klek	PRC AUC	0.70837
+Mono	IC	Cvas	2	XGBClassifier	Klek	PRC AUC	0.67248
+Mono	IC	Cvas	0	XGBClassifier	Klek	PRC AUC	0.66483
+Mono	IC	Cred	1	XGBClassifier	Klek	ECE	0.11101
+Mono	IC	Cred	4	XGBClassifier	Klek	ECE	0.09836
+Mono	IC	Cred	3	XGBClassifier	Klek	ECE	0.05614
+Mono	IC	Cred	2	XGBClassifier	Klek	ECE	0.09014
+Mono	IC	Cred	0	XGBClassifier	Klek	ECE	0.11665
+Mono	IC	Card	1	XGBClassifier	Klek	ECE	0.12493
+Mono	IC	Card	4	XGBClassifier	Klek	ECE	0.08787
+Mono	IC	Card	3	XGBClassifier	Klek	ECE	0.08925
+Mono	IC	Card	2	XGBClassifier	Klek	ECE	0.0686
+Mono	IC	Card	0	XGBClassifier	Klek	ECE	0.1241
+Mono	IC	Cvas	1	XGBClassifier	Klek	ECE	0.15272
+Mono	IC	Cvas	4	XGBClassifier	Klek	ECE	0.11001
+Mono	IC	Cvas	3	XGBClassifier	Klek	ECE	0.07751
+Mono	IC	Cvas	2	XGBClassifier	Klek	ECE	0.08422
+Mono	IC	Cvas	0	XGBClassifier	Klek	ECE	0.1207
+Mono	IC	Cred	1	XGBClassifier	Klek	Brier	0.25573
+Mono	IC	Cred	4	XGBClassifier	Klek	Brier	0.23432
+Mono	IC	Cred	3	XGBClassifier	Klek	Brier	0.24
+Mono	IC	Cred	2	XGBClassifier	Klek	Brier	0.23381
+Mono	IC	Cred	0	XGBClassifier	Klek	Brier	0.25611
+Mono	IC	Card	1	XGBClassifier	Klek	Brier	0.261
+Mono	IC	Card	4	XGBClassifier	Klek	Brier	0.23905
+Mono	IC	Card	3	XGBClassifier	Klek	Brier	0.24925
+Mono	IC	Card	2	XGBClassifier	Klek	Brier	0.22879
+Mono	IC	Card	0	XGBClassifier	Klek	Brier	0.25433
+Mono	IC	Cvas	1	XGBClassifier	Klek	Brier	0.26724
+Mono	IC	Cvas	4	XGBClassifier	Klek	Brier	0.24692
+Mono	IC	Cvas	3	XGBClassifier	Klek	Brier	0.23582
+Mono	IC	Cvas	2	XGBClassifier	Klek	Brier	0.24014
+Mono	IC	Cvas	0	XGBClassifier	Klek	Brier	0.25537

@@ -1,0 +1,4 @@
+metric	null_hypothesis	null_rejected	outcome	effect_size	w_stat	p_value	r_stat
+PRC AUC	Mono == Primary	True	Mono < Primary	Medium	90992.0	4.056577516653855e-28	-0.44593932197713537
+PRC AUC	Mono == Secondary	True	Mono < Secondary	Small	128540.5	8.436424771790151e-08	-0.21730221795984228
+PRC AUC	Primary == Secondary	True	Primary > Secondary	Small	123799.5	1.28474699946147e-09	0.2461707083162077

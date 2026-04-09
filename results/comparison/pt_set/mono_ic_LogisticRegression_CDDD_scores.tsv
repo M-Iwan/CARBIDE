@@ -1,0 +1,196 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Mono	IC	Cred	1	LogisticRegression	CDDD	Balanced Accuracy	0.51996
+Mono	IC	Cred	4	LogisticRegression	CDDD	Balanced Accuracy	0.4994
+Mono	IC	Cred	3	LogisticRegression	CDDD	Balanced Accuracy	0.50839
+Mono	IC	Cred	2	LogisticRegression	CDDD	Balanced Accuracy	0.52942
+Mono	IC	Cred	0	LogisticRegression	CDDD	Balanced Accuracy	0.5116
+Mono	IC	Card	1	LogisticRegression	CDDD	Balanced Accuracy	0.50438
+Mono	IC	Card	4	LogisticRegression	CDDD	Balanced Accuracy	0.54215
+Mono	IC	Card	3	LogisticRegression	CDDD	Balanced Accuracy	0.51243
+Mono	IC	Card	2	LogisticRegression	CDDD	Balanced Accuracy	0.62227
+Mono	IC	Card	0	LogisticRegression	CDDD	Balanced Accuracy	0.55441
+Mono	IC	Cvas	1	LogisticRegression	CDDD	Balanced Accuracy	0.54995
+Mono	IC	Cvas	4	LogisticRegression	CDDD	Balanced Accuracy	0.56358
+Mono	IC	Cvas	3	LogisticRegression	CDDD	Balanced Accuracy	0.4811
+Mono	IC	Cvas	2	LogisticRegression	CDDD	Balanced Accuracy	0.56842
+Mono	IC	Cvas	0	LogisticRegression	CDDD	Balanced Accuracy	0.51852
+Mono	IC	Cred	1	LogisticRegression	CDDD	GeomRS	0.51741
+Mono	IC	Cred	4	LogisticRegression	CDDD	GeomRS	0.49929
+Mono	IC	Cred	3	LogisticRegression	CDDD	GeomRS	0.50194
+Mono	IC	Cred	2	LogisticRegression	CDDD	GeomRS	0.52545
+Mono	IC	Cred	0	LogisticRegression	CDDD	GeomRS	0.50088
+Mono	IC	Card	1	LogisticRegression	CDDD	GeomRS	0.50383
+Mono	IC	Card	4	LogisticRegression	CDDD	GeomRS	0.5376
+Mono	IC	Card	3	LogisticRegression	CDDD	GeomRS	0.50357
+Mono	IC	Card	2	LogisticRegression	CDDD	GeomRS	0.61603
+Mono	IC	Card	0	LogisticRegression	CDDD	GeomRS	0.55216
+Mono	IC	Cvas	1	LogisticRegression	CDDD	GeomRS	0.54879
+Mono	IC	Cvas	4	LogisticRegression	CDDD	GeomRS	0.55715
+Mono	IC	Cvas	3	LogisticRegression	CDDD	GeomRS	0.48023
+Mono	IC	Cvas	2	LogisticRegression	CDDD	GeomRS	0.56778
+Mono	IC	Cvas	0	LogisticRegression	CDDD	GeomRS	0.51214
+Mono	IC	Cred	1	LogisticRegression	CDDD	HarmRS	0.51487
+Mono	IC	Cred	4	LogisticRegression	CDDD	HarmRS	0.49918
+Mono	IC	Cred	3	LogisticRegression	CDDD	HarmRS	0.49559
+Mono	IC	Cred	2	LogisticRegression	CDDD	HarmRS	0.5215
+Mono	IC	Cred	0	LogisticRegression	CDDD	HarmRS	0.49038
+Mono	IC	Card	1	LogisticRegression	CDDD	HarmRS	0.50329
+Mono	IC	Card	4	LogisticRegression	CDDD	HarmRS	0.5331
+Mono	IC	Card	3	LogisticRegression	CDDD	HarmRS	0.49487
+Mono	IC	Card	2	LogisticRegression	CDDD	HarmRS	0.60984
+Mono	IC	Card	0	LogisticRegression	CDDD	HarmRS	0.54992
+Mono	IC	Cvas	1	LogisticRegression	CDDD	HarmRS	0.54764
+Mono	IC	Cvas	4	LogisticRegression	CDDD	HarmRS	0.5508
+Mono	IC	Cvas	3	LogisticRegression	CDDD	HarmRS	0.47937
+Mono	IC	Cvas	2	LogisticRegression	CDDD	HarmRS	0.56713
+Mono	IC	Cvas	0	LogisticRegression	CDDD	HarmRS	0.50584
+Mono	IC	Cred	1	LogisticRegression	CDDD	F1 Score	0.53994
+Mono	IC	Cred	4	LogisticRegression	CDDD	F1 Score	0.53776
+Mono	IC	Cred	3	LogisticRegression	CDDD	F1 Score	0.50017
+Mono	IC	Cred	2	LogisticRegression	CDDD	F1 Score	0.60381
+Mono	IC	Cred	0	LogisticRegression	CDDD	F1 Score	0.61106
+Mono	IC	Card	1	LogisticRegression	CDDD	F1 Score	0.57028
+Mono	IC	Card	4	LogisticRegression	CDDD	F1 Score	0.6225
+Mono	IC	Card	3	LogisticRegression	CDDD	F1 Score	0.49487
+Mono	IC	Card	2	LogisticRegression	CDDD	F1 Score	0.69785
+Mono	IC	Card	0	LogisticRegression	CDDD	F1 Score	0.62348
+Mono	IC	Cvas	1	LogisticRegression	CDDD	F1 Score	0.62034
+Mono	IC	Cvas	4	LogisticRegression	CDDD	F1 Score	0.64885
+Mono	IC	Cvas	3	LogisticRegression	CDDD	F1 Score	0.50551
+Mono	IC	Cvas	2	LogisticRegression	CDDD	F1 Score	0.62169
+Mono	IC	Cvas	0	LogisticRegression	CDDD	F1 Score	0.60594
+Mono	IC	Cred	1	LogisticRegression	CDDD	ROC AUC	0.52107
+Mono	IC	Cred	4	LogisticRegression	CDDD	ROC AUC	0.50189
+Mono	IC	Cred	3	LogisticRegression	CDDD	ROC AUC	0.48584
+Mono	IC	Cred	2	LogisticRegression	CDDD	ROC AUC	0.52834
+Mono	IC	Cred	0	LogisticRegression	CDDD	ROC AUC	0.49778
+Mono	IC	Card	1	LogisticRegression	CDDD	ROC AUC	0.50847
+Mono	IC	Card	4	LogisticRegression	CDDD	ROC AUC	0.52277
+Mono	IC	Card	3	LogisticRegression	CDDD	ROC AUC	0.49065
+Mono	IC	Card	2	LogisticRegression	CDDD	ROC AUC	0.63791
+Mono	IC	Card	0	LogisticRegression	CDDD	ROC AUC	0.55466
+Mono	IC	Cvas	1	LogisticRegression	CDDD	ROC AUC	0.56009
+Mono	IC	Cvas	4	LogisticRegression	CDDD	ROC AUC	0.57966
+Mono	IC	Cvas	3	LogisticRegression	CDDD	ROC AUC	0.47497
+Mono	IC	Cvas	2	LogisticRegression	CDDD	ROC AUC	0.60409
+Mono	IC	Cvas	0	LogisticRegression	CDDD	ROC AUC	0.53411
+Mono	IC	Cred	1	LogisticRegression	CDDD	MCC	0.039
+Mono	IC	Cred	4	LogisticRegression	CDDD	MCC	-0.00117
+Mono	IC	Cred	3	LogisticRegression	CDDD	MCC	0.01669
+Mono	IC	Cred	2	LogisticRegression	CDDD	MCC	0.05848
+Mono	IC	Cred	0	LogisticRegression	CDDD	MCC	0.0233
+Mono	IC	Card	1	LogisticRegression	CDDD	MCC	0.00852
+Mono	IC	Card	4	LogisticRegression	CDDD	MCC	0.08369
+Mono	IC	Card	3	LogisticRegression	CDDD	MCC	0.02486
+Mono	IC	Card	2	LogisticRegression	CDDD	MCC	0.24666
+Mono	IC	Card	0	LogisticRegression	CDDD	MCC	0.10754
+Mono	IC	Cvas	1	LogisticRegression	CDDD	MCC	0.0976
+Mono	IC	Cvas	4	LogisticRegression	CDDD	MCC	0.12712
+Mono	IC	Cvas	3	LogisticRegression	CDDD	MCC	-0.03722
+Mono	IC	Cvas	2	LogisticRegression	CDDD	MCC	0.13509
+Mono	IC	Cvas	0	LogisticRegression	CDDD	MCC	0.03686
+Mono	IC	Cred	1	LogisticRegression	CDDD	Accuracy	0.50799
+Mono	IC	Cred	4	LogisticRegression	CDDD	Accuracy	0.49734
+Mono	IC	Cred	3	LogisticRegression	CDDD	Accuracy	0.49345
+Mono	IC	Cred	2	LogisticRegression	CDDD	Accuracy	0.54092
+Mono	IC	Cred	0	LogisticRegression	CDDD	Accuracy	0.53185
+Mono	IC	Card	1	LogisticRegression	CDDD	Accuracy	0.50982
+Mono	IC	Card	4	LogisticRegression	CDDD	Accuracy	0.55589
+Mono	IC	Card	3	LogisticRegression	CDDD	Accuracy	0.49487
+Mono	IC	Card	2	LogisticRegression	CDDD	Accuracy	0.63789
+Mono	IC	Card	0	LogisticRegression	CDDD	Accuracy	0.56411
+Mono	IC	Cvas	1	LogisticRegression	CDDD	Accuracy	0.55825
+Mono	IC	Cvas	4	LogisticRegression	CDDD	Accuracy	0.58023
+Mono	IC	Cvas	3	LogisticRegression	CDDD	Accuracy	0.47575
+Mono	IC	Cvas	2	LogisticRegression	CDDD	Accuracy	0.57324
+Mono	IC	Cvas	0	LogisticRegression	CDDD	Accuracy	0.53427
+Mono	IC	Cred	1	LogisticRegression	CDDD	Recall	0.4685
+Mono	IC	Cred	4	LogisticRegression	CDDD	Recall	0.48887
+Mono	IC	Cred	3	LogisticRegression	CDDD	Recall	0.42772
+Mono	IC	Cred	2	LogisticRegression	CDDD	Recall	0.59416
+Mono	IC	Cred	0	LogisticRegression	CDDD	Recall	0.6158
+Mono	IC	Card	1	LogisticRegression	CDDD	Recall	0.5278
+Mono	IC	Card	4	LogisticRegression	CDDD	Recall	0.61221
+Mono	IC	Card	3	LogisticRegression	CDDD	Recall	0.41756
+Mono	IC	Card	2	LogisticRegression	CDDD	Recall	0.71022
+Mono	IC	Card	0	LogisticRegression	CDDD	Recall	0.60432
+Mono	IC	Cvas	1	LogisticRegression	CDDD	Recall	0.58562
+Mono	IC	Cvas	4	LogisticRegression	CDDD	Recall	0.64844
+Mono	IC	Cvas	3	LogisticRegression	CDDD	Recall	0.45221
+Mono	IC	Cvas	2	LogisticRegression	CDDD	Recall	0.59555
+Mono	IC	Cvas	0	LogisticRegression	CDDD	Recall	0.59959
+Mono	IC	Cred	1	LogisticRegression	CDDD	Specificity	0.57143
+Mono	IC	Cred	4	LogisticRegression	CDDD	Specificity	0.50993
+Mono	IC	Cred	3	LogisticRegression	CDDD	Specificity	0.58905
+Mono	IC	Cred	2	LogisticRegression	CDDD	Specificity	0.46468
+Mono	IC	Cred	0	LogisticRegression	CDDD	Specificity	0.40741
+Mono	IC	Card	1	LogisticRegression	CDDD	Specificity	0.48095
+Mono	IC	Card	4	LogisticRegression	CDDD	Specificity	0.47209
+Mono	IC	Card	3	LogisticRegression	CDDD	Specificity	0.6073
+Mono	IC	Card	2	LogisticRegression	CDDD	Specificity	0.53433
+Mono	IC	Card	0	LogisticRegression	CDDD	Specificity	0.5045
+Mono	IC	Cvas	1	LogisticRegression	CDDD	Specificity	0.51429
+Mono	IC	Cvas	4	LogisticRegression	CDDD	Specificity	0.47871
+Mono	IC	Cvas	3	LogisticRegression	CDDD	Specificity	0.50999
+Mono	IC	Cvas	2	LogisticRegression	CDDD	Specificity	0.54129
+Mono	IC	Cvas	0	LogisticRegression	CDDD	Specificity	0.43744
+Mono	IC	Cred	1	LogisticRegression	CDDD	Precision	0.6371
+Mono	IC	Cred	4	LogisticRegression	CDDD	Precision	0.59751
+Mono	IC	Cred	3	LogisticRegression	CDDD	Precision	0.60219
+Mono	IC	Cred	2	LogisticRegression	CDDD	Precision	0.61378
+Mono	IC	Cred	0	LogisticRegression	CDDD	Precision	0.60638
+Mono	IC	Card	1	LogisticRegression	CDDD	Precision	0.62021
+Mono	IC	Card	4	LogisticRegression	CDDD	Precision	0.63314
+Mono	IC	Card	3	LogisticRegression	CDDD	Precision	0.6073
+Mono	IC	Card	2	LogisticRegression	CDDD	Precision	0.68591
+Mono	IC	Card	0	LogisticRegression	CDDD	Precision	0.64388
+Mono	IC	Cvas	1	LogisticRegression	CDDD	Precision	0.65943
+Mono	IC	Cvas	4	LogisticRegression	CDDD	Precision	0.64927
+Mono	IC	Cvas	3	LogisticRegression	CDDD	Precision	0.57305
+Mono	IC	Cvas	2	LogisticRegression	CDDD	Precision	0.65023
+Mono	IC	Cvas	0	LogisticRegression	CDDD	Precision	0.61241
+Mono	IC	Cred	1	LogisticRegression	CDDD	PRC AUC	0.64949
+Mono	IC	Cred	4	LogisticRegression	CDDD	PRC AUC	0.59198
+Mono	IC	Cred	3	LogisticRegression	CDDD	PRC AUC	0.61584
+Mono	IC	Cred	2	LogisticRegression	CDDD	PRC AUC	0.63546
+Mono	IC	Cred	0	LogisticRegression	CDDD	PRC AUC	0.60711
+Mono	IC	Card	1	LogisticRegression	CDDD	PRC AUC	0.62046
+Mono	IC	Card	4	LogisticRegression	CDDD	PRC AUC	0.62058
+Mono	IC	Card	3	LogisticRegression	CDDD	PRC AUC	0.59168
+Mono	IC	Card	2	LogisticRegression	CDDD	PRC AUC	0.67252
+Mono	IC	Card	0	LogisticRegression	CDDD	PRC AUC	0.63914
+Mono	IC	Cvas	1	LogisticRegression	CDDD	PRC AUC	0.66237
+Mono	IC	Cvas	4	LogisticRegression	CDDD	PRC AUC	0.6511
+Mono	IC	Cvas	3	LogisticRegression	CDDD	PRC AUC	0.59979
+Mono	IC	Cvas	2	LogisticRegression	CDDD	PRC AUC	0.62728
+Mono	IC	Cvas	0	LogisticRegression	CDDD	PRC AUC	0.63427
+Mono	IC	Cred	1	LogisticRegression	CDDD	ECE	0.23696
+Mono	IC	Cred	4	LogisticRegression	CDDD	ECE	0.25346
+Mono	IC	Cred	3	LogisticRegression	CDDD	ECE	0.31645
+Mono	IC	Cred	2	LogisticRegression	CDDD	ECE	0.19006
+Mono	IC	Cred	0	LogisticRegression	CDDD	ECE	0.25249
+Mono	IC	Card	1	LogisticRegression	CDDD	ECE	0.26822
+Mono	IC	Card	4	LogisticRegression	CDDD	ECE	0.22622
+Mono	IC	Card	3	LogisticRegression	CDDD	ECE	0.31708
+Mono	IC	Card	2	LogisticRegression	CDDD	ECE	0.13896
+Mono	IC	Card	0	LogisticRegression	CDDD	ECE	0.20323
+Mono	IC	Cvas	1	LogisticRegression	CDDD	ECE	0.20833
+Mono	IC	Cvas	4	LogisticRegression	CDDD	ECE	0.17481
+Mono	IC	Cvas	3	LogisticRegression	CDDD	ECE	0.32213
+Mono	IC	Cvas	2	LogisticRegression	CDDD	ECE	0.17451
+Mono	IC	Cvas	0	LogisticRegression	CDDD	ECE	0.20862
+Mono	IC	Cred	1	LogisticRegression	CDDD	Brier	0.31593
+Mono	IC	Cred	4	LogisticRegression	CDDD	Brier	0.31903
+Mono	IC	Cred	3	LogisticRegression	CDDD	Brier	0.3839
+Mono	IC	Cred	2	LogisticRegression	CDDD	Brier	0.29665
+Mono	IC	Cred	0	LogisticRegression	CDDD	Brier	0.32149
+Mono	IC	Card	1	LogisticRegression	CDDD	Brier	0.33379
+Mono	IC	Card	4	LogisticRegression	CDDD	Brier	0.29761
+Mono	IC	Card	3	LogisticRegression	CDDD	Brier	0.3827
+Mono	IC	Card	2	LogisticRegression	CDDD	Brier	0.25051
+Mono	IC	Card	0	LogisticRegression	CDDD	Brier	0.29123
+Mono	IC	Cvas	1	LogisticRegression	CDDD	Brier	0.29605
+Mono	IC	Cvas	4	LogisticRegression	CDDD	Brier	0.28724
+Mono	IC	Cvas	3	LogisticRegression	CDDD	Brier	0.38264
+Mono	IC	Cvas	2	LogisticRegression	CDDD	Brier	0.26817
+Mono	IC	Cvas	0	LogisticRegression	CDDD	Brier	0.30523

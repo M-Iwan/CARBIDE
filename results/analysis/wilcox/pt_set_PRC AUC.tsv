@@ -1,0 +1,4 @@
+metric	null_hypothesis	null_rejected	outcome	effect_size	w_stat	p_value	r_stat
+PRC AUC	Cred == Card	False	Cred == Card	Negligible	161522.0	0.6846722155212659	0.01647409843053082
+PRC AUC	Cred == Cvas	True	Cred > Cvas	Small	136730.5	3.659482712259979e-05	0.16743237277557046
+PRC AUC	Card == Cvas	True	Card > Cvas	Small	136324.5	2.8025820376655965e-05	0.16990455313513267

@@ -1,0 +1,196 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Mono	IC	Cred	1	XGBClassifier	ChemBERTa	Balanced Accuracy	0.56001
+Mono	IC	Cred	4	XGBClassifier	ChemBERTa	Balanced Accuracy	0.51574
+Mono	IC	Cred	3	XGBClassifier	ChemBERTa	Balanced Accuracy	0.53935
+Mono	IC	Cred	2	XGBClassifier	ChemBERTa	Balanced Accuracy	0.5971
+Mono	IC	Cred	0	XGBClassifier	ChemBERTa	Balanced Accuracy	0.5186
+Mono	IC	Card	1	XGBClassifier	ChemBERTa	Balanced Accuracy	0.5473
+Mono	IC	Card	4	XGBClassifier	ChemBERTa	Balanced Accuracy	0.53397
+Mono	IC	Card	3	XGBClassifier	ChemBERTa	Balanced Accuracy	0.52358
+Mono	IC	Card	2	XGBClassifier	ChemBERTa	Balanced Accuracy	0.59686
+Mono	IC	Card	0	XGBClassifier	ChemBERTa	Balanced Accuracy	0.51988
+Mono	IC	Cvas	1	XGBClassifier	ChemBERTa	Balanced Accuracy	0.50922
+Mono	IC	Cvas	4	XGBClassifier	ChemBERTa	Balanced Accuracy	0.53185
+Mono	IC	Cvas	3	XGBClassifier	ChemBERTa	Balanced Accuracy	0.55657
+Mono	IC	Cvas	2	XGBClassifier	ChemBERTa	Balanced Accuracy	0.54901
+Mono	IC	Cvas	0	XGBClassifier	ChemBERTa	Balanced Accuracy	0.52856
+Mono	IC	Cred	1	XGBClassifier	ChemBERTa	GeomRS	0.54229
+Mono	IC	Cred	4	XGBClassifier	ChemBERTa	GeomRS	0.4909
+Mono	IC	Cred	3	XGBClassifier	ChemBERTa	GeomRS	0.51976
+Mono	IC	Cred	2	XGBClassifier	ChemBERTa	GeomRS	0.54413
+Mono	IC	Cred	0	XGBClassifier	ChemBERTa	GeomRS	0.4606
+Mono	IC	Card	1	XGBClassifier	ChemBERTa	GeomRS	0.5377
+Mono	IC	Card	4	XGBClassifier	ChemBERTa	GeomRS	0.50815
+Mono	IC	Card	3	XGBClassifier	ChemBERTa	GeomRS	0.50415
+Mono	IC	Card	2	XGBClassifier	ChemBERTa	GeomRS	0.54836
+Mono	IC	Card	0	XGBClassifier	ChemBERTa	GeomRS	0.46742
+Mono	IC	Cvas	1	XGBClassifier	ChemBERTa	GeomRS	0.47875
+Mono	IC	Cvas	4	XGBClassifier	ChemBERTa	GeomRS	0.47998
+Mono	IC	Cvas	3	XGBClassifier	ChemBERTa	GeomRS	0.5222
+Mono	IC	Cvas	2	XGBClassifier	ChemBERTa	GeomRS	0.44883
+Mono	IC	Cvas	0	XGBClassifier	ChemBERTa	GeomRS	0.45059
+Mono	IC	Cred	1	XGBClassifier	ChemBERTa	HarmRS	0.52512
+Mono	IC	Cred	4	XGBClassifier	ChemBERTa	HarmRS	0.46726
+Mono	IC	Cred	3	XGBClassifier	ChemBERTa	HarmRS	0.50088
+Mono	IC	Cred	2	XGBClassifier	ChemBERTa	HarmRS	0.49587
+Mono	IC	Cred	0	XGBClassifier	ChemBERTa	HarmRS	0.40908
+Mono	IC	Card	1	XGBClassifier	ChemBERTa	HarmRS	0.52827
+Mono	IC	Card	4	XGBClassifier	ChemBERTa	HarmRS	0.48357
+Mono	IC	Card	3	XGBClassifier	ChemBERTa	HarmRS	0.48544
+Mono	IC	Card	2	XGBClassifier	ChemBERTa	HarmRS	0.50381
+Mono	IC	Card	0	XGBClassifier	ChemBERTa	HarmRS	0.42025
+Mono	IC	Cvas	1	XGBClassifier	ChemBERTa	HarmRS	0.4501
+Mono	IC	Cvas	4	XGBClassifier	ChemBERTa	HarmRS	0.43316
+Mono	IC	Cvas	3	XGBClassifier	ChemBERTa	HarmRS	0.48996
+Mono	IC	Cvas	2	XGBClassifier	ChemBERTa	HarmRS	0.36693
+Mono	IC	Cvas	0	XGBClassifier	ChemBERTa	HarmRS	0.38412
+Mono	IC	Cred	1	XGBClassifier	ChemBERTa	F1 Score	0.67914
+Mono	IC	Cred	4	XGBClassifier	ChemBERTa	F1 Score	0.6401
+Mono	IC	Cred	3	XGBClassifier	ChemBERTa	F1 Score	0.65111
+Mono	IC	Cred	2	XGBClassifier	ChemBERTa	F1 Score	0.73426
+Mono	IC	Cred	0	XGBClassifier	ChemBERTa	F1 Score	0.6751
+Mono	IC	Card	1	XGBClassifier	ChemBERTa	F1 Score	0.65106
+Mono	IC	Card	4	XGBClassifier	ChemBERTa	F1 Score	0.65808
+Mono	IC	Card	3	XGBClassifier	ChemBERTa	F1 Score	0.63636
+Mono	IC	Card	2	XGBClassifier	ChemBERTa	F1 Score	0.73071
+Mono	IC	Card	0	XGBClassifier	ChemBERTa	F1 Score	0.67193
+Mono	IC	Cvas	1	XGBClassifier	ChemBERTa	F1 Score	0.65134
+Mono	IC	Cvas	4	XGBClassifier	ChemBERTa	F1 Score	0.68263
+Mono	IC	Cvas	3	XGBClassifier	ChemBERTa	F1 Score	0.68525
+Mono	IC	Cvas	2	XGBClassifier	ChemBERTa	F1 Score	0.72069
+Mono	IC	Cvas	0	XGBClassifier	ChemBERTa	F1 Score	0.69708
+Mono	IC	Cred	1	XGBClassifier	ChemBERTa	ROC AUC	0.58993
+Mono	IC	Cred	4	XGBClassifier	ChemBERTa	ROC AUC	0.54402
+Mono	IC	Cred	3	XGBClassifier	ChemBERTa	ROC AUC	0.57325
+Mono	IC	Cred	2	XGBClassifier	ChemBERTa	ROC AUC	0.64118
+Mono	IC	Cred	0	XGBClassifier	ChemBERTa	ROC AUC	0.54143
+Mono	IC	Card	1	XGBClassifier	ChemBERTa	ROC AUC	0.57156
+Mono	IC	Card	4	XGBClassifier	ChemBERTa	ROC AUC	0.55808
+Mono	IC	Card	3	XGBClassifier	ChemBERTa	ROC AUC	0.53508
+Mono	IC	Card	2	XGBClassifier	ChemBERTa	ROC AUC	0.64901
+Mono	IC	Card	0	XGBClassifier	ChemBERTa	ROC AUC	0.54423
+Mono	IC	Cvas	1	XGBClassifier	ChemBERTa	ROC AUC	0.54116
+Mono	IC	Cvas	4	XGBClassifier	ChemBERTa	ROC AUC	0.56489
+Mono	IC	Cvas	3	XGBClassifier	ChemBERTa	ROC AUC	0.57831
+Mono	IC	Cvas	2	XGBClassifier	ChemBERTa	ROC AUC	0.57994
+Mono	IC	Cvas	0	XGBClassifier	ChemBERTa	ROC AUC	0.54271
+Mono	IC	Cred	1	XGBClassifier	ChemBERTa	MCC	0.12267
+Mono	IC	Cred	4	XGBClassifier	ChemBERTa	MCC	0.03262
+Mono	IC	Cred	3	XGBClassifier	ChemBERTa	MCC	0.08115
+Mono	IC	Cred	2	XGBClassifier	ChemBERTa	MCC	0.22473
+Mono	IC	Cred	0	XGBClassifier	ChemBERTa	MCC	0.0417
+Mono	IC	Card	1	XGBClassifier	ChemBERTa	MCC	0.09446
+Mono	IC	Card	4	XGBClassifier	ChemBERTa	MCC	0.07088
+Mono	IC	Card	3	XGBClassifier	ChemBERTa	MCC	0.04844
+Mono	IC	Card	2	XGBClassifier	ChemBERTa	MCC	0.22098
+Mono	IC	Card	0	XGBClassifier	ChemBERTa	MCC	0.044
+Mono	IC	Cvas	1	XGBClassifier	ChemBERTa	MCC	0.01916
+Mono	IC	Cvas	4	XGBClassifier	ChemBERTa	MCC	0.07081
+Mono	IC	Cvas	3	XGBClassifier	ChemBERTa	MCC	0.12166
+Mono	IC	Cvas	2	XGBClassifier	ChemBERTa	MCC	0.1269
+Mono	IC	Cvas	0	XGBClassifier	ChemBERTa	MCC	0.06783
+Mono	IC	Cred	1	XGBClassifier	ChemBERTa	Accuracy	0.59251
+Mono	IC	Cred	4	XGBClassifier	ChemBERTa	Accuracy	0.54677
+Mono	IC	Cred	3	XGBClassifier	ChemBERTa	Accuracy	0.56602
+Mono	IC	Cred	2	XGBClassifier	ChemBERTa	Accuracy	0.64075
+Mono	IC	Cred	0	XGBClassifier	ChemBERTa	Accuracy	0.56492
+Mono	IC	Card	1	XGBClassifier	ChemBERTa	Accuracy	0.57104
+Mono	IC	Card	4	XGBClassifier	ChemBERTa	Accuracy	0.56616
+Mono	IC	Card	3	XGBClassifier	ChemBERTa	Accuracy	0.54973
+Mono	IC	Card	2	XGBClassifier	ChemBERTa	Accuracy	0.63871
+Mono	IC	Card	0	XGBClassifier	ChemBERTa	Accuracy	0.56411
+Mono	IC	Cvas	1	XGBClassifier	ChemBERTa	Accuracy	0.54957
+Mono	IC	Cvas	4	XGBClassifier	ChemBERTa	Accuracy	0.57681
+Mono	IC	Cvas	3	XGBClassifier	ChemBERTa	Accuracy	0.59221
+Mono	IC	Cvas	2	XGBClassifier	ChemBERTa	Accuracy	0.60516
+Mono	IC	Cvas	0	XGBClassifier	ChemBERTa	Accuracy	0.58226
+Mono	IC	Cred	1	XGBClassifier	ChemBERTa	Recall	0.69978
+Mono	IC	Cred	4	XGBClassifier	ChemBERTa	Recall	0.67387
+Mono	IC	Cred	3	XGBClassifier	ChemBERTa	Recall	0.68339
+Mono	IC	Cred	2	XGBClassifier	ChemBERTa	Recall	0.84295
+Mono	IC	Cred	0	XGBClassifier	ChemBERTa	Recall	0.75692
+Mono	IC	Card	1	XGBClassifier	ChemBERTa	Recall	0.64937
+Mono	IC	Card	4	XGBClassifier	ChemBERTa	Recall	0.69803
+Mono	IC	Card	3	XGBClassifier	ChemBERTa	Recall	0.66487
+Mono	IC	Card	2	XGBClassifier	ChemBERTa	Recall	0.83252
+Mono	IC	Card	0	XGBClassifier	ChemBERTa	Recall	0.74747
+Mono	IC	Cvas	1	XGBClassifier	ChemBERTa	Recall	0.68273
+Mono	IC	Cvas	4	XGBClassifier	ChemBERTa	Recall	0.76097
+Mono	IC	Cvas	3	XGBClassifier	ChemBERTa	Recall	0.7491
+Mono	IC	Cvas	2	XGBClassifier	ChemBERTa	Recall	0.86518
+Mono	IC	Cvas	0	XGBClassifier	ChemBERTa	Recall	0.80486
+Mono	IC	Cred	1	XGBClassifier	ChemBERTa	Specificity	0.42024
+Mono	IC	Cred	4	XGBClassifier	ChemBERTa	Specificity	0.35762
+Mono	IC	Cred	3	XGBClassifier	ChemBERTa	Specificity	0.39531
+Mono	IC	Cred	2	XGBClassifier	ChemBERTa	Specificity	0.35124
+Mono	IC	Cred	0	XGBClassifier	ChemBERTa	Specificity	0.28028
+Mono	IC	Card	1	XGBClassifier	ChemBERTa	Specificity	0.44524
+Mono	IC	Card	4	XGBClassifier	ChemBERTa	Specificity	0.36991
+Mono	IC	Card	3	XGBClassifier	ChemBERTa	Specificity	0.38228
+Mono	IC	Card	2	XGBClassifier	ChemBERTa	Specificity	0.36119
+Mono	IC	Card	0	XGBClassifier	ChemBERTa	Specificity	0.29229
+Mono	IC	Cvas	1	XGBClassifier	ChemBERTa	Specificity	0.33571
+Mono	IC	Cvas	4	XGBClassifier	ChemBERTa	Specificity	0.30274
+Mono	IC	Cvas	3	XGBClassifier	ChemBERTa	Specificity	0.36403
+Mono	IC	Cvas	2	XGBClassifier	ChemBERTa	Specificity	0.23284
+Mono	IC	Cvas	0	XGBClassifier	ChemBERTa	Specificity	0.25225
+Mono	IC	Cred	1	XGBClassifier	ChemBERTa	Precision	0.65968
+Mono	IC	Cred	4	XGBClassifier	ChemBERTa	Precision	0.60955
+Mono	IC	Cred	3	XGBClassifier	ChemBERTa	Precision	0.62174
+Mono	IC	Cred	2	XGBClassifier	ChemBERTa	Precision	0.6504
+Mono	IC	Cred	0	XGBClassifier	ChemBERTa	Precision	0.60924
+Mono	IC	Card	1	XGBClassifier	ChemBERTa	Precision	0.65276
+Mono	IC	Card	4	XGBClassifier	ChemBERTa	Precision	0.62245
+Mono	IC	Card	3	XGBClassifier	ChemBERTa	Precision	0.6102
+Mono	IC	Card	2	XGBClassifier	ChemBERTa	Precision	0.65109
+Mono	IC	Card	0	XGBClassifier	ChemBERTa	Precision	0.61025
+Mono	IC	Cvas	1	XGBClassifier	ChemBERTa	Precision	0.62272
+Mono	IC	Cvas	4	XGBClassifier	ChemBERTa	Precision	0.61892
+Mono	IC	Cvas	3	XGBClassifier	ChemBERTa	Precision	0.63142
+Mono	IC	Cvas	2	XGBClassifier	ChemBERTa	Precision	0.61756
+Mono	IC	Cvas	0	XGBClassifier	ChemBERTa	Precision	0.61475
+Mono	IC	Cred	1	XGBClassifier	ChemBERTa	PRC AUC	0.70209
+Mono	IC	Cred	4	XGBClassifier	ChemBERTa	PRC AUC	0.6465
+Mono	IC	Cred	3	XGBClassifier	ChemBERTa	PRC AUC	0.66207
+Mono	IC	Cred	2	XGBClassifier	ChemBERTa	PRC AUC	0.70219
+Mono	IC	Cred	0	XGBClassifier	ChemBERTa	PRC AUC	0.63027
+Mono	IC	Card	1	XGBClassifier	ChemBERTa	PRC AUC	0.6938
+Mono	IC	Card	4	XGBClassifier	ChemBERTa	PRC AUC	0.65103
+Mono	IC	Card	3	XGBClassifier	ChemBERTa	PRC AUC	0.62874
+Mono	IC	Card	2	XGBClassifier	ChemBERTa	PRC AUC	0.70155
+Mono	IC	Card	0	XGBClassifier	ChemBERTa	PRC AUC	0.62482
+Mono	IC	Cvas	1	XGBClassifier	ChemBERTa	PRC AUC	0.68028
+Mono	IC	Cvas	4	XGBClassifier	ChemBERTa	PRC AUC	0.65828
+Mono	IC	Cvas	3	XGBClassifier	ChemBERTa	PRC AUC	0.66439
+Mono	IC	Cvas	2	XGBClassifier	ChemBERTa	PRC AUC	0.66632
+Mono	IC	Cvas	0	XGBClassifier	ChemBERTa	PRC AUC	0.62519
+Mono	IC	Cred	1	XGBClassifier	ChemBERTa	ECE	0.09327
+Mono	IC	Cred	4	XGBClassifier	ChemBERTa	ECE	0.13047
+Mono	IC	Cred	3	XGBClassifier	ChemBERTa	ECE	0.09491
+Mono	IC	Cred	2	XGBClassifier	ChemBERTa	ECE	0.06395
+Mono	IC	Cred	0	XGBClassifier	ChemBERTa	ECE	0.09782
+Mono	IC	Card	1	XGBClassifier	ChemBERTa	ECE	0.12213
+Mono	IC	Card	4	XGBClassifier	ChemBERTa	ECE	0.10556
+Mono	IC	Card	3	XGBClassifier	ChemBERTa	ECE	0.1181
+Mono	IC	Card	2	XGBClassifier	ChemBERTa	ECE	0.06682
+Mono	IC	Card	0	XGBClassifier	ChemBERTa	ECE	0.10787
+Mono	IC	Cvas	1	XGBClassifier	ChemBERTa	ECE	0.13796
+Mono	IC	Cvas	4	XGBClassifier	ChemBERTa	ECE	0.09367
+Mono	IC	Cvas	3	XGBClassifier	ChemBERTa	ECE	0.09584
+Mono	IC	Cvas	2	XGBClassifier	ChemBERTa	ECE	0.08316
+Mono	IC	Cvas	0	XGBClassifier	ChemBERTa	ECE	0.10954
+Mono	IC	Cred	1	XGBClassifier	ChemBERTa	Brier	0.24274
+Mono	IC	Cred	4	XGBClassifier	ChemBERTa	Brier	0.26588
+Mono	IC	Cred	3	XGBClassifier	ChemBERTa	Brier	0.25172
+Mono	IC	Cred	2	XGBClassifier	ChemBERTa	Brier	0.23224
+Mono	IC	Cred	0	XGBClassifier	ChemBERTa	Brier	0.25209
+Mono	IC	Card	1	XGBClassifier	ChemBERTa	Brier	0.25361
+Mono	IC	Card	4	XGBClassifier	ChemBERTa	Brier	0.25614
+Mono	IC	Card	3	XGBClassifier	ChemBERTa	Brier	0.25894
+Mono	IC	Card	2	XGBClassifier	ChemBERTa	Brier	0.23286
+Mono	IC	Card	0	XGBClassifier	ChemBERTa	Brier	0.25767
+Mono	IC	Cvas	1	XGBClassifier	ChemBERTa	Brier	0.25804
+Mono	IC	Cvas	4	XGBClassifier	ChemBERTa	Brier	0.24939
+Mono	IC	Cvas	3	XGBClassifier	ChemBERTa	Brier	0.25179
+Mono	IC	Cvas	2	XGBClassifier	ChemBERTa	Brier	0.24759
+Mono	IC	Cvas	0	XGBClassifier	ChemBERTa	Brier	0.25842

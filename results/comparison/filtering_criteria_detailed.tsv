@@ -1,0 +1,703 @@
+Dataset	Descriptors	Metric	Model	Mean	STD
+Mono	CDDD	Accuracy	LogisticRegression	0.53612	0.04472
+Mono	CDDD	Accuracy	RandomForestClassifier	0.58826	0.04411
+Mono	CDDD	Accuracy	XGBClassifier	0.58872	0.04251
+Mono	CDDD	Balanced Accuracy	LogisticRegression	0.53363	0.03641
+Mono	CDDD	Balanced Accuracy	RandomForestClassifier	0.57252	0.03834
+Mono	CDDD	Balanced Accuracy	XGBClassifier	0.56889	0.03304
+Mono	CDDD	Brier	LogisticRegression	0.30874	0.04295
+Mono	CDDD	Brier	RandomForestClassifier	0.23887	0.00907
+Mono	CDDD	Brier	XGBClassifier	0.24392	0.01591
+Mono	CDDD	ECE	LogisticRegression	0.22647	0.06694
+Mono	CDDD	ECE	RandomForestClassifier	0.10328	0.04079
+Mono	CDDD	ECE	XGBClassifier	0.10431	0.04313
+Mono	CDDD	F1 Score	LogisticRegression	0.58268	0.06967
+Mono	CDDD	F1 Score	RandomForestClassifier	0.65193	0.06133
+Mono	CDDD	F1 Score	XGBClassifier	0.65185	0.06435
+Mono	CDDD	GeomRS	LogisticRegression	0.5265	0.03559
+Mono	CDDD	GeomRS	RandomForestClassifier	0.55748	0.04578
+Mono	CDDD	GeomRS	XGBClassifier	0.54949	0.04831
+Mono	CDDD	HarmRS	LogisticRegression	0.51954	0.03584
+Mono	CDDD	HarmRS	RandomForestClassifier	0.54358	0.05714
+Mono	CDDD	HarmRS	XGBClassifier	0.53249	0.06825
+Mono	CDDD	MCC	LogisticRegression	0.06691	0.07266
+Mono	CDDD	MCC	RandomForestClassifier	0.14705	0.07903
+Mono	CDDD	MCC	XGBClassifier	0.14216	0.06755
+Mono	CDDD	PRC AUC	LogisticRegression	0.65871	0.04856
+Mono	CDDD	PRC AUC	RandomForestClassifier	0.71474	0.05849
+Mono	CDDD	PRC AUC	XGBClassifier	0.71366	0.03872
+Mono	CDDD	Precision	LogisticRegression	0.64495	0.04877
+Mono	CDDD	Precision	RandomForestClassifier	0.67505	0.04632
+Mono	CDDD	Precision	XGBClassifier	0.67287	0.03504
+Mono	CDDD	ROC AUC	LogisticRegression	0.54525	0.05018
+Mono	CDDD	ROC AUC	RandomForestClassifier	0.61108	0.05926
+Mono	CDDD	ROC AUC	XGBClassifier	0.60641	0.04515
+Mono	CDDD	Recall	LogisticRegression	0.53912	0.10248
+Mono	CDDD	Recall	RandomForestClassifier	0.64244	0.11259
+Mono	CDDD	Recall	XGBClassifier	0.64421	0.123
+Mono	CDDD	Specificity	LogisticRegression	0.52813	0.08756
+Mono	CDDD	Specificity	RandomForestClassifier	0.50259	0.11732
+Mono	CDDD	Specificity	XGBClassifier	0.49358	0.13175
+Mono	ChemBERTa	Accuracy	LogisticRegression	0.5239	0.05676
+Mono	ChemBERTa	Accuracy	RandomForestClassifier	0.56375	0.03916
+Mono	ChemBERTa	Accuracy	XGBClassifier	0.5678	0.04128
+Mono	ChemBERTa	Balanced Accuracy	LogisticRegression	0.52134	0.05284
+Mono	ChemBERTa	Balanced Accuracy	RandomForestClassifier	0.54475	0.0254
+Mono	ChemBERTa	Balanced Accuracy	XGBClassifier	0.55003	0.03147
+Mono	ChemBERTa	Brier	LogisticRegression	0.30849	0.04265
+Mono	ChemBERTa	Brier	RandomForestClassifier	0.24365	0.00851
+Mono	ChemBERTa	Brier	XGBClassifier	0.252	0.01469
+Mono	ChemBERTa	ECE	LogisticRegression	0.22772	0.06993
+Mono	ChemBERTa	ECE	RandomForestClassifier	0.09893	0.04221
+Mono	ChemBERTa	ECE	XGBClassifier	0.11725	0.0397
+Mono	ChemBERTa	F1 Score	LogisticRegression	0.57062	0.07206
+Mono	ChemBERTa	F1 Score	RandomForestClassifier	0.63111	0.06286
+Mono	ChemBERTa	F1 Score	XGBClassifier	0.63146	0.06426
+Mono	ChemBERTa	GeomRS	LogisticRegression	0.51513	0.05278
+Mono	ChemBERTa	GeomRS	RandomForestClassifier	0.52996	0.02993
+Mono	ChemBERTa	GeomRS	XGBClassifier	0.53324	0.04293
+Mono	ChemBERTa	HarmRS	LogisticRegression	0.50914	0.05391
+Mono	ChemBERTa	HarmRS	RandomForestClassifier	0.51623	0.0418
+Mono	ChemBERTa	HarmRS	XGBClassifier	0.51799	0.05901
+Mono	ChemBERTa	MCC	LogisticRegression	0.0427	0.10452
+Mono	ChemBERTa	MCC	RandomForestClassifier	0.09121	0.05234
+Mono	ChemBERTa	MCC	XGBClassifier	0.10166	0.06534
+Mono	ChemBERTa	PRC AUC	LogisticRegression	0.63714	0.06988
+Mono	ChemBERTa	PRC AUC	RandomForestClassifier	0.68064	0.04088
+Mono	ChemBERTa	PRC AUC	XGBClassifier	0.68819	0.03986
+Mono	ChemBERTa	Precision	LogisticRegression	0.63382	0.05956
+Mono	ChemBERTa	Precision	RandomForestClassifier	0.65085	0.03802
+Mono	ChemBERTa	Precision	XGBClassifier	0.65737	0.03896
+Mono	ChemBERTa	ROC AUC	LogisticRegression	0.529	0.07612
+Mono	ChemBERTa	ROC AUC	RandomForestClassifier	0.56896	0.03855
+Mono	ChemBERTa	ROC AUC	XGBClassifier	0.57667	0.04373
+Mono	ChemBERTa	Recall	LogisticRegression	0.52453	0.09802
+Mono	ChemBERTa	Recall	RandomForestClassifier	0.62156	0.10805
+Mono	ChemBERTa	Recall	XGBClassifier	0.61815	0.11437
+Mono	ChemBERTa	Specificity	LogisticRegression	0.51814	0.09546
+Mono	ChemBERTa	Specificity	RandomForestClassifier	0.46794	0.09783
+Mono	ChemBERTa	Specificity	XGBClassifier	0.48192	0.12213
+Mono	ECFP	Accuracy	LogisticRegression	0.54319	0.06051
+Mono	ECFP	Accuracy	RandomForestClassifier	0.55416	0.05686
+Mono	ECFP	Accuracy	XGBClassifier	0.57663	0.05893
+Mono	ECFP	Balanced Accuracy	LogisticRegression	0.54072	0.05244
+Mono	ECFP	Balanced Accuracy	RandomForestClassifier	0.56514	0.0392
+Mono	ECFP	Balanced Accuracy	XGBClassifier	0.56717	0.0481
+Mono	ECFP	Brier	LogisticRegression	0.29445	0.03921
+Mono	ECFP	Brier	RandomForestClassifier	0.24818	0.02047
+Mono	ECFP	Brier	XGBClassifier	0.25468	0.0254
+Mono	ECFP	ECE	LogisticRegression	0.21054	0.0664
+Mono	ECFP	ECE	RandomForestClassifier	0.13208	0.05166
+Mono	ECFP	ECE	XGBClassifier	0.13235	0.05115
+Mono	ECFP	F1 Score	LogisticRegression	0.58962	0.08217
+Mono	ECFP	F1 Score	RandomForestClassifier	0.55981	0.11186
+Mono	ECFP	F1 Score	XGBClassifier	0.62677	0.08444
+Mono	ECFP	GeomRS	LogisticRegression	0.53293	0.05382
+Mono	ECFP	GeomRS	RandomForestClassifier	0.53519	0.0498
+Mono	ECFP	GeomRS	XGBClassifier	0.55333	0.05358
+Mono	ECFP	HarmRS	LogisticRegression	0.52543	0.05675
+Mono	ECFP	HarmRS	RandomForestClassifier	0.50775	0.06382
+Mono	ECFP	HarmRS	XGBClassifier	0.54035	0.06256
+Mono	ECFP	MCC	LogisticRegression	0.08104	0.10345
+Mono	ECFP	MCC	RandomForestClassifier	0.13517	0.07965
+Mono	ECFP	MCC	XGBClassifier	0.13589	0.0968
+Mono	ECFP	PRC AUC	LogisticRegression	0.66314	0.05797
+Mono	ECFP	PRC AUC	RandomForestClassifier	0.7151	0.05262
+Mono	ECFP	PRC AUC	XGBClassifier	0.70183	0.04947
+Mono	ECFP	Precision	LogisticRegression	0.65046	0.05732
+Mono	ECFP	Precision	RandomForestClassifier	0.69304	0.0446
+Mono	ECFP	Precision	XGBClassifier	0.67373	0.04577
+Mono	ECFP	ROC AUC	LogisticRegression	0.56042	0.06698
+Mono	ECFP	ROC AUC	RandomForestClassifier	0.59641	0.05715
+Mono	ECFP	ROC AUC	XGBClassifier	0.59703	0.06444
+Mono	ECFP	Recall	LogisticRegression	0.54829	0.11334
+Mono	ECFP	Recall	RandomForestClassifier	0.49247	0.16868
+Mono	ECFP	Recall	XGBClassifier	0.59891	0.13317
+Mono	ECFP	Specificity	LogisticRegression	0.53315	0.09674
+Mono	ECFP	Specificity	RandomForestClassifier	0.63781	0.17129
+Mono	ECFP	Specificity	XGBClassifier	0.53542	0.12423
+Mono	Klek	Accuracy	LogisticRegression	0.55322	0.04621
+Mono	Klek	Accuracy	RandomForestClassifier	0.54988	0.04827
+Mono	Klek	Accuracy	XGBClassifier	0.5805	0.04125
+Mono	Klek	Balanced Accuracy	LogisticRegression	0.55164	0.03875
+Mono	Klek	Balanced Accuracy	RandomForestClassifier	0.56075	0.02946
+Mono	Klek	Balanced Accuracy	XGBClassifier	0.57135	0.03094
+Mono	Klek	Brier	LogisticRegression	0.27888	0.03247
+Mono	Klek	Brier	RandomForestClassifier	0.25089	0.01765
+Mono	Klek	Brier	XGBClassifier	0.25299	0.01688
+Mono	Klek	ECE	LogisticRegression	0.17779	0.0562
+Mono	Klek	ECE	RandomForestClassifier	0.13377	0.0561
+Mono	Klek	ECE	XGBClassifier	0.12594	0.04409
+Mono	Klek	F1 Score	LogisticRegression	0.59674	0.0669
+Mono	Klek	F1 Score	RandomForestClassifier	0.55853	0.1042
+Mono	Klek	F1 Score	XGBClassifier	0.62898	0.07516
+Mono	Klek	GeomRS	LogisticRegression	0.54293	0.04266
+Mono	Klek	GeomRS	RandomForestClassifier	0.52881	0.04313
+Mono	Klek	GeomRS	XGBClassifier	0.55326	0.04303
+Mono	Klek	HarmRS	LogisticRegression	0.53458	0.04818
+Mono	Klek	HarmRS	RandomForestClassifier	0.50022	0.06262
+Mono	Klek	HarmRS	XGBClassifier	0.5367	0.05925
+Mono	Klek	MCC	LogisticRegression	0.10249	0.07644
+Mono	Klek	MCC	RandomForestClassifier	0.1274	0.06188
+Mono	Klek	MCC	XGBClassifier	0.14488	0.06176
+Mono	Klek	PRC AUC	LogisticRegression	0.68372	0.0436
+Mono	Klek	PRC AUC	RandomForestClassifier	0.70293	0.04594
+Mono	Klek	PRC AUC	XGBClassifier	0.70778	0.04016
+Mono	Klek	Precision	LogisticRegression	0.66428	0.03751
+Mono	Klek	Precision	RandomForestClassifier	0.69236	0.05059
+Mono	Klek	Precision	XGBClassifier	0.68313	0.03956
+Mono	Klek	ROC AUC	LogisticRegression	0.57719	0.04791
+Mono	Klek	ROC AUC	RandomForestClassifier	0.59126	0.03696
+Mono	Klek	ROC AUC	XGBClassifier	0.60118	0.03657
+Mono	Klek	Recall	LogisticRegression	0.55007	0.10284
+Mono	Klek	Recall	RandomForestClassifier	0.49412	0.16717
+Mono	Klek	Recall	XGBClassifier	0.60009	0.13271
+Mono	Klek	Specificity	LogisticRegression	0.55321	0.10618
+Mono	Klek	Specificity	RandomForestClassifier	0.62739	0.18416
+Mono	Klek	Specificity	XGBClassifier	0.54261	0.14982
+Mono	MACCS	Accuracy	LogisticRegression	0.53044	0.047
+Mono	MACCS	Accuracy	RandomForestClassifier	0.58124	0.05147
+Mono	MACCS	Accuracy	XGBClassifier	0.58875	0.03814
+Mono	MACCS	Balanced Accuracy	LogisticRegression	0.51904	0.03632
+Mono	MACCS	Balanced Accuracy	RandomForestClassifier	0.57175	0.03607
+Mono	MACCS	Balanced Accuracy	XGBClassifier	0.57604	0.02685
+Mono	MACCS	Brier	LogisticRegression	0.27807	0.01717
+Mono	MACCS	Brier	RandomForestClassifier	0.23751	0.01218
+Mono	MACCS	Brier	XGBClassifier	0.2463	0.01709
+Mono	MACCS	ECE	LogisticRegression	0.18218	0.03577
+Mono	MACCS	ECE	RandomForestClassifier	0.09993	0.04209
+Mono	MACCS	ECE	XGBClassifier	0.11299	0.04452
+Mono	MACCS	F1 Score	LogisticRegression	0.57835	0.08673
+Mono	MACCS	F1 Score	RandomForestClassifier	0.63672	0.07412
+Mono	MACCS	F1 Score	XGBClassifier	0.64268	0.06786
+Mono	MACCS	GeomRS	LogisticRegression	0.49767	0.04156
+Mono	MACCS	GeomRS	RandomForestClassifier	0.56223	0.04077
+Mono	MACCS	GeomRS	XGBClassifier	0.56056	0.03889
+Mono	MACCS	HarmRS	LogisticRegression	0.47811	0.05377
+Mono	MACCS	HarmRS	RandomForestClassifier	0.5532	0.04785
+Mono	MACCS	HarmRS	XGBClassifier	0.54612	0.05351
+Mono	MACCS	MCC	LogisticRegression	0.03962	0.0733
+Mono	MACCS	MCC	RandomForestClassifier	0.14353	0.07287
+Mono	MACCS	MCC	XGBClassifier	0.15341	0.05286
+Mono	MACCS	PRC AUC	LogisticRegression	0.65709	0.04976
+Mono	MACCS	PRC AUC	RandomForestClassifier	0.72482	0.04408
+Mono	MACCS	PRC AUC	XGBClassifier	0.72123	0.03555
+Mono	MACCS	Precision	LogisticRegression	0.63533	0.04652
+Mono	MACCS	Precision	RandomForestClassifier	0.67427	0.0373
+Mono	MACCS	Precision	XGBClassifier	0.68267	0.03328
+Mono	MACCS	ROC AUC	LogisticRegression	0.53299	0.04077
+Mono	MACCS	ROC AUC	RandomForestClassifier	0.61283	0.04745
+Mono	MACCS	ROC AUC	XGBClassifier	0.61339	0.03777
+Mono	MACCS	Recall	LogisticRegression	0.54603	0.1411
+Mono	MACCS	Recall	RandomForestClassifier	0.61347	0.11447
+Mono	MACCS	Recall	XGBClassifier	0.62015	0.12048
+Mono	MACCS	Specificity	LogisticRegression	0.49205	0.15769
+Mono	MACCS	Specificity	RandomForestClassifier	0.53003	0.08538
+Mono	MACCS	Specificity	XGBClassifier	0.53194	0.13179
+Mono	RDKit	Accuracy	LogisticRegression	0.54525	0.0523
+Mono	RDKit	Accuracy	RandomForestClassifier	0.57524	0.05042
+Mono	RDKit	Accuracy	XGBClassifier	0.58943	0.04034
+Mono	RDKit	Balanced Accuracy	LogisticRegression	0.53633	0.04823
+Mono	RDKit	Balanced Accuracy	RandomForestClassifier	0.5612	0.04117
+Mono	RDKit	Balanced Accuracy	XGBClassifier	0.57441	0.03105
+Mono	RDKit	Brier	LogisticRegression	0.28012	0.0263
+Mono	RDKit	Brier	RandomForestClassifier	0.23921	0.01071
+Mono	RDKit	Brier	XGBClassifier	0.24604	0.01715
+Mono	RDKit	ECE	LogisticRegression	0.18536	0.04393
+Mono	RDKit	ECE	RandomForestClassifier	0.09947	0.03961
+Mono	RDKit	ECE	XGBClassifier	0.11588	0.0425
+Mono	RDKit	F1 Score	LogisticRegression	0.59623	0.07655
+Mono	RDKit	F1 Score	RandomForestClassifier	0.63533	0.07102
+Mono	RDKit	F1 Score	XGBClassifier	0.64614	0.0656
+Mono	RDKit	GeomRS	LogisticRegression	0.52525	0.05439
+Mono	RDKit	GeomRS	RandomForestClassifier	0.54963	0.04441
+Mono	RDKit	GeomRS	XGBClassifier	0.55759	0.04046
+Mono	RDKit	HarmRS	LogisticRegression	0.51472	0.06191
+Mono	RDKit	HarmRS	RandomForestClassifier	0.53876	0.05156
+Mono	RDKit	HarmRS	XGBClassifier	0.54216	0.05498
+Mono	RDKit	MCC	LogisticRegression	0.07225	0.09579
+Mono	RDKit	MCC	RandomForestClassifier	0.12337	0.0834
+Mono	RDKit	MCC	XGBClassifier	0.15174	0.06401
+Mono	RDKit	PRC AUC	LogisticRegression	0.67961	0.05478
+Mono	RDKit	PRC AUC	RandomForestClassifier	0.70473	0.04949
+Mono	RDKit	PRC AUC	XGBClassifier	0.71986	0.03556
+Mono	RDKit	Precision	LogisticRegression	0.64813	0.04791
+Mono	RDKit	Precision	RandomForestClassifier	0.66488	0.04692
+Mono	RDKit	Precision	XGBClassifier	0.68065	0.03835
+Mono	RDKit	ROC AUC	LogisticRegression	0.55926	0.06564
+Mono	RDKit	ROC AUC	RandomForestClassifier	0.59783	0.05605
+Mono	RDKit	ROC AUC	XGBClassifier	0.61215	0.04203
+Mono	RDKit	Recall	LogisticRegression	0.56018	0.10942
+Mono	RDKit	Recall	RandomForestClassifier	0.6174	0.11411
+Mono	RDKit	Recall	XGBClassifier	0.62819	0.12359
+Mono	RDKit	Specificity	LogisticRegression	0.51248	0.11964
+Mono	RDKit	Specificity	RandomForestClassifier	0.50501	0.09824
+Mono	RDKit	Specificity	XGBClassifier	0.52063	0.13539
+Primary	CDDD	Accuracy	LogisticRegression	0.55633	0.05292
+Primary	CDDD	Accuracy	RandomForestClassifier	0.61085	0.04325
+Primary	CDDD	Accuracy	XGBClassifier	0.61106	0.03633
+Primary	CDDD	Balanced Accuracy	LogisticRegression	0.5501	0.04547
+Primary	CDDD	Balanced Accuracy	RandomForestClassifier	0.58803	0.02499
+Primary	CDDD	Balanced Accuracy	XGBClassifier	0.59144	0.02446
+Primary	CDDD	Brier	LogisticRegression	0.28835	0.03845
+Primary	CDDD	Brier	RandomForestClassifier	0.23363	0.01172
+Primary	CDDD	Brier	XGBClassifier	0.23648	0.01435
+Primary	CDDD	ECE	LogisticRegression	0.19524	0.053
+Primary	CDDD	ECE	RandomForestClassifier	0.09535	0.03588
+Primary	CDDD	ECE	XGBClassifier	0.09659	0.0348
+Primary	CDDD	F1 Score	LogisticRegression	0.6063	0.07342
+Primary	CDDD	F1 Score	RandomForestClassifier	0.67169	0.07203
+Primary	CDDD	F1 Score	XGBClassifier	0.66376	0.07364
+Primary	CDDD	GeomRS	LogisticRegression	0.54294	0.04631
+Primary	CDDD	GeomRS	RandomForestClassifier	0.56855	0.03684
+Primary	CDDD	GeomRS	XGBClassifier	0.57475	0.03303
+Primary	CDDD	HarmRS	LogisticRegression	0.53597	0.04812
+Primary	CDDD	HarmRS	RandomForestClassifier	0.55093	0.05592
+Primary	CDDD	HarmRS	XGBClassifier	0.55915	0.04665
+Primary	CDDD	MCC	LogisticRegression	0.09968	0.09071
+Primary	CDDD	MCC	RandomForestClassifier	0.18299	0.05526
+Primary	CDDD	MCC	XGBClassifier	0.18706	0.05096
+Primary	CDDD	PRC AUC	LogisticRegression	0.67692	0.05026
+Primary	CDDD	PRC AUC	RandomForestClassifier	0.73671	0.04923
+Primary	CDDD	PRC AUC	XGBClassifier	0.72772	0.04154
+Primary	CDDD	Precision	LogisticRegression	0.6589	0.04886
+Primary	CDDD	Precision	RandomForestClassifier	0.68577	0.03365
+Primary	CDDD	Precision	XGBClassifier	0.69434	0.03261
+Primary	CDDD	ROC AUC	LogisticRegression	0.56535	0.0566
+Primary	CDDD	ROC AUC	RandomForestClassifier	0.63575	0.04654
+Primary	CDDD	ROC AUC	XGBClassifier	0.62962	0.03872
+Primary	CDDD	Recall	LogisticRegression	0.56862	0.10466
+Primary	CDDD	Recall	RandomForestClassifier	0.67005	0.13129
+Primary	CDDD	Recall	XGBClassifier	0.6469	0.12702
+Primary	CDDD	Specificity	LogisticRegression	0.53158	0.0913
+Primary	CDDD	Specificity	RandomForestClassifier	0.50601	0.12194
+Primary	CDDD	Specificity	XGBClassifier	0.53598	0.13266
+Primary	ChemBERTa	Accuracy	LogisticRegression	0.50903	0.05088
+Primary	ChemBERTa	Accuracy	RandomForestClassifier	0.56699	0.05537
+Primary	ChemBERTa	Accuracy	XGBClassifier	0.57857	0.034
+Primary	ChemBERTa	Balanced Accuracy	LogisticRegression	0.50254	0.04295
+Primary	ChemBERTa	Balanced Accuracy	RandomForestClassifier	0.5425	0.03662
+Primary	ChemBERTa	Balanced Accuracy	XGBClassifier	0.55815	0.02672
+Primary	ChemBERTa	Brier	LogisticRegression	0.31464	0.041
+Primary	ChemBERTa	Brier	RandomForestClassifier	0.24097	0.01303
+Primary	ChemBERTa	Brier	XGBClassifier	0.24768	0.01378
+Primary	ChemBERTa	ECE	LogisticRegression	0.23482	0.06341
+Primary	ChemBERTa	ECE	RandomForestClassifier	0.09205	0.04045
+Primary	ChemBERTa	ECE	XGBClassifier	0.11135	0.03432
+Primary	ChemBERTa	F1 Score	LogisticRegression	0.56188	0.07191
+Primary	ChemBERTa	F1 Score	RandomForestClassifier	0.62942	0.09757
+Primary	ChemBERTa	F1 Score	XGBClassifier	0.63757	0.07306
+Primary	ChemBERTa	GeomRS	LogisticRegression	0.496	0.04185
+Primary	ChemBERTa	GeomRS	RandomForestClassifier	0.51631	0.0529
+Primary	ChemBERTa	GeomRS	XGBClassifier	0.53866	0.05044
+Primary	ChemBERTa	HarmRS	LogisticRegression	0.4897	0.04266
+Primary	ChemBERTa	HarmRS	RandomForestClassifier	0.49313	0.07199
+Primary	ChemBERTa	HarmRS	XGBClassifier	0.5217	0.07162
+Primary	ChemBERTa	MCC	LogisticRegression	0.00588	0.08517
+Primary	ChemBERTa	MCC	RandomForestClassifier	0.08741	0.07518
+Primary	ChemBERTa	MCC	XGBClassifier	0.11688	0.05415
+Primary	ChemBERTa	PRC AUC	LogisticRegression	0.62318	0.05739
+Primary	ChemBERTa	PRC AUC	RandomForestClassifier	0.69203	0.06042
+Primary	ChemBERTa	PRC AUC	XGBClassifier	0.70803	0.04435
+Primary	ChemBERTa	Precision	LogisticRegression	0.61516	0.05259
+Primary	ChemBERTa	Precision	RandomForestClassifier	0.64759	0.04859
+Primary	ChemBERTa	Precision	XGBClassifier	0.66519	0.03979
+Primary	ChemBERTa	ROC AUC	LogisticRegression	0.50387	0.05907
+Primary	ChemBERTa	ROC AUC	RandomForestClassifier	0.57728	0.05343
+Primary	ChemBERTa	ROC AUC	XGBClassifier	0.59489	0.03607
+Primary	ChemBERTa	Recall	LogisticRegression	0.5228	0.0995
+Primary	ChemBERTa	Recall	RandomForestClassifier	0.62688	0.15122
+Primary	ChemBERTa	Recall	XGBClassifier	0.62242	0.12079
+Primary	ChemBERTa	Specificity	LogisticRegression	0.48228	0.0806
+Primary	ChemBERTa	Specificity	RandomForestClassifier	0.45811	0.13801
+Primary	ChemBERTa	Specificity	XGBClassifier	0.49389	0.13591
+Primary	ECFP	Accuracy	LogisticRegression	0.5652	0.06797
+Primary	ECFP	Accuracy	RandomForestClassifier	0.59032	0.04991
+Primary	ECFP	Accuracy	XGBClassifier	0.59883	0.05562
+Primary	ECFP	Balanced Accuracy	LogisticRegression	0.55875	0.05802
+Primary	ECFP	Balanced Accuracy	RandomForestClassifier	0.58439	0.0338
+Primary	ECFP	Balanced Accuracy	XGBClassifier	0.58485	0.04389
+Primary	ECFP	Brier	LogisticRegression	0.27888	0.04297
+Primary	ECFP	Brier	RandomForestClassifier	0.23808	0.0166
+Primary	ECFP	Brier	XGBClassifier	0.24311	0.0233
+Primary	ECFP	ECE	LogisticRegression	0.17996	0.06071
+Primary	ECFP	ECE	RandomForestClassifier	0.10927	0.04228
+Primary	ECFP	ECE	XGBClassifier	0.11358	0.04268
+Primary	ECFP	F1 Score	LogisticRegression	0.61204	0.09295
+Primary	ECFP	F1 Score	RandomForestClassifier	0.61219	0.11517
+Primary	ECFP	F1 Score	XGBClassifier	0.64458	0.09218
+Primary	ECFP	GeomRS	LogisticRegression	0.55007	0.05891
+Primary	ECFP	GeomRS	RandomForestClassifier	0.55599	0.05074
+Primary	ECFP	GeomRS	XGBClassifier	0.56826	0.05143
+Primary	ECFP	HarmRS	LogisticRegression	0.54169	0.0612
+Primary	ECFP	HarmRS	RandomForestClassifier	0.53012	0.06967
+Primary	ECFP	HarmRS	XGBClassifier	0.5528	0.06294
+Primary	ECFP	MCC	LogisticRegression	0.11709	0.1149
+Primary	ECFP	MCC	RandomForestClassifier	0.17494	0.0668
+Primary	ECFP	MCC	XGBClassifier	0.17318	0.08992
+Primary	ECFP	PRC AUC	LogisticRegression	0.68036	0.06917
+Primary	ECFP	PRC AUC	RandomForestClassifier	0.73146	0.05037
+Primary	ECFP	PRC AUC	XGBClassifier	0.72762	0.0555
+Primary	ECFP	Precision	LogisticRegression	0.66458	0.06697
+Primary	ECFP	Precision	RandomForestClassifier	0.70553	0.03287
+Primary	ECFP	Precision	XGBClassifier	0.68977	0.04301
+Primary	ECFP	ROC AUC	LogisticRegression	0.57773	0.07712
+Primary	ECFP	ROC AUC	RandomForestClassifier	0.62127	0.04573
+Primary	ECFP	ROC AUC	XGBClassifier	0.62343	0.05974
+Primary	ECFP	Recall	LogisticRegression	0.57597	0.12575
+Primary	ECFP	Recall	RandomForestClassifier	0.56618	0.17922
+Primary	ECFP	Recall	XGBClassifier	0.6182	0.14445
+Primary	ECFP	Specificity	LogisticRegression	0.54154	0.09895
+Primary	ECFP	Specificity	RandomForestClassifier	0.6026	0.18133
+Primary	ECFP	Specificity	XGBClassifier	0.55149	0.13563
+Primary	Klek	Accuracy	LogisticRegression	0.55717	0.05142
+Primary	Klek	Accuracy	RandomForestClassifier	0.58009	0.04874
+Primary	Klek	Accuracy	XGBClassifier	0.58954	0.04413
+Primary	Klek	Balanced Accuracy	LogisticRegression	0.54827	0.04457
+Primary	Klek	Balanced Accuracy	RandomForestClassifier	0.57046	0.03636
+Primary	Klek	Balanced Accuracy	XGBClassifier	0.57667	0.02783
+Primary	Klek	Brier	LogisticRegression	0.27953	0.03595
+Primary	Klek	Brier	RandomForestClassifier	0.23983	0.01688
+Primary	Klek	Brier	XGBClassifier	0.24676	0.01778
+Primary	Klek	ECE	LogisticRegression	0.18581	0.05414
+Primary	Klek	ECE	RandomForestClassifier	0.10886	0.04355
+Primary	Klek	ECE	XGBClassifier	0.11999	0.03895
+Primary	Klek	F1 Score	LogisticRegression	0.60449	0.08314
+Primary	Klek	F1 Score	RandomForestClassifier	0.60636	0.11771
+Primary	Klek	F1 Score	XGBClassifier	0.63286	0.09203
+Primary	Klek	GeomRS	LogisticRegression	0.53654	0.0484
+Primary	Klek	GeomRS	RandomForestClassifier	0.53434	0.05709
+Primary	Klek	GeomRS	XGBClassifier	0.55638	0.04201
+Primary	Klek	HarmRS	LogisticRegression	0.52537	0.05463
+Primary	Klek	HarmRS	RandomForestClassifier	0.50265	0.08162
+Primary	Klek	HarmRS	XGBClassifier	0.53778	0.05953
+Primary	Klek	MCC	LogisticRegression	0.0961	0.0875
+Primary	Klek	MCC	RandomForestClassifier	0.14859	0.0724
+Primary	Klek	MCC	XGBClassifier	0.1567	0.05576
+Primary	Klek	PRC AUC	LogisticRegression	0.67501	0.0605
+Primary	Klek	PRC AUC	RandomForestClassifier	0.72149	0.05299
+Primary	Klek	PRC AUC	XGBClassifier	0.71706	0.04349
+Primary	Klek	Precision	LogisticRegression	0.65891	0.05722
+Primary	Klek	Precision	RandomForestClassifier	0.69267	0.04958
+Primary	Klek	Precision	XGBClassifier	0.68716	0.03182
+Primary	Klek	ROC AUC	LogisticRegression	0.56618	0.05776
+Primary	Klek	ROC AUC	RandomForestClassifier	0.61031	0.04385
+Primary	Klek	ROC AUC	XGBClassifier	0.61265	0.03585
+Primary	Klek	Recall	LogisticRegression	0.56743	0.11707
+Primary	Klek	Recall	RandomForestClassifier	0.56976	0.19118
+Primary	Klek	Recall	XGBClassifier	0.60414	0.14814
+Primary	Klek	Specificity	LogisticRegression	0.52912	0.12183
+Primary	Klek	Specificity	RandomForestClassifier	0.57117	0.20938
+Primary	Klek	Specificity	XGBClassifier	0.54919	0.15196
+Primary	MACCS	Accuracy	LogisticRegression	0.54871	0.04188
+Primary	MACCS	Accuracy	RandomForestClassifier	0.59848	0.05282
+Primary	MACCS	Accuracy	XGBClassifier	0.60345	0.04394
+Primary	MACCS	Balanced Accuracy	LogisticRegression	0.53608	0.02603
+Primary	MACCS	Balanced Accuracy	RandomForestClassifier	0.58038	0.03635
+Primary	MACCS	Balanced Accuracy	XGBClassifier	0.59422	0.03223
+Primary	MACCS	Brier	LogisticRegression	0.26516	0.01659
+Primary	MACCS	Brier	RandomForestClassifier	0.23405	0.0128
+Primary	MACCS	Brier	XGBClassifier	0.24145	0.01554
+Primary	MACCS	ECE	LogisticRegression	0.15825	0.03179
+Primary	MACCS	ECE	RandomForestClassifier	0.09697	0.03715
+Primary	MACCS	ECE	XGBClassifier	0.11419	0.03414
+Primary	MACCS	F1 Score	LogisticRegression	0.58618	0.10441
+Primary	MACCS	F1 Score	RandomForestClassifier	0.65551	0.08135
+Primary	MACCS	F1 Score	XGBClassifier	0.64361	0.08116
+Primary	MACCS	GeomRS	LogisticRegression	0.50637	0.04254
+Primary	MACCS	GeomRS	RandomForestClassifier	0.56364	0.04567
+Primary	MACCS	GeomRS	XGBClassifier	0.57962	0.0382
+Primary	MACCS	HarmRS	LogisticRegression	0.47971	0.06284
+Primary	MACCS	HarmRS	RandomForestClassifier	0.54822	0.0595
+Primary	MACCS	HarmRS	XGBClassifier	0.5657	0.04685
+Primary	MACCS	MCC	LogisticRegression	0.07438	0.05303
+Primary	MACCS	MCC	RandomForestClassifier	0.16436	0.07466
+Primary	MACCS	MCC	XGBClassifier	0.19047	0.06457
+Primary	MACCS	PRC AUC	LogisticRegression	0.67724	0.05122
+Primary	MACCS	PRC AUC	RandomForestClassifier	0.7339	0.04536
+Primary	MACCS	PRC AUC	XGBClassifier	0.73699	0.04378
+Primary	MACCS	Precision	LogisticRegression	0.6528	0.04708
+Primary	MACCS	Precision	RandomForestClassifier	0.68109	0.03735
+Primary	MACCS	Precision	XGBClassifier	0.70349	0.03349
+Primary	MACCS	ROC AUC	LogisticRegression	0.55647	0.0277
+Primary	MACCS	ROC AUC	RandomForestClassifier	0.62511	0.04708
+Primary	MACCS	ROC AUC	XGBClassifier	0.63324	0.03404
+Primary	MACCS	Recall	LogisticRegression	0.55278	0.16849
+Primary	MACCS	Recall	RandomForestClassifier	0.64417	0.133
+Primary	MACCS	Recall	XGBClassifier	0.60553	0.13301
+Primary	MACCS	Specificity	LogisticRegression	0.51938	0.18303
+Primary	MACCS	Specificity	RandomForestClassifier	0.5166	0.11947
+Primary	MACCS	Specificity	XGBClassifier	0.58291	0.13544
+Primary	RDKit	Accuracy	LogisticRegression	0.56819	0.0511
+Primary	RDKit	Accuracy	RandomForestClassifier	0.6078	0.04499
+Primary	RDKit	Accuracy	XGBClassifier	0.60353	0.04557
+Primary	RDKit	Balanced Accuracy	LogisticRegression	0.55489	0.04326
+Primary	RDKit	Balanced Accuracy	RandomForestClassifier	0.58851	0.03598
+Primary	RDKit	Balanced Accuracy	XGBClassifier	0.58611	0.03622
+Primary	RDKit	Brier	LogisticRegression	0.25796	0.024
+Primary	RDKit	Brier	RandomForestClassifier	0.23393	0.01239
+Primary	RDKit	Brier	XGBClassifier	0.23707	0.01839
+Primary	RDKit	ECE	LogisticRegression	0.14526	0.04285
+Primary	RDKit	ECE	RandomForestClassifier	0.0963	0.03495
+Primary	RDKit	ECE	XGBClassifier	0.10627	0.03516
+Primary	RDKit	F1 Score	LogisticRegression	0.6089	0.10046
+Primary	RDKit	F1 Score	RandomForestClassifier	0.66773	0.0647
+Primary	RDKit	F1 Score	XGBClassifier	0.65702	0.07407
+Primary	RDKit	GeomRS	LogisticRegression	0.53202	0.0536
+Primary	RDKit	GeomRS	RandomForestClassifier	0.57556	0.03954
+Primary	RDKit	GeomRS	XGBClassifier	0.57023	0.04542
+Primary	RDKit	HarmRS	LogisticRegression	0.51089	0.06649
+Primary	RDKit	HarmRS	RandomForestClassifier	0.56345	0.04888
+Primary	RDKit	HarmRS	XGBClassifier	0.55556	0.05889
+Primary	RDKit	MCC	LogisticRegression	0.11195	0.08845
+Primary	RDKit	MCC	RandomForestClassifier	0.18007	0.07506
+Primary	RDKit	MCC	XGBClassifier	0.17546	0.0752
+Primary	RDKit	PRC AUC	LogisticRegression	0.70466	0.06331
+Primary	RDKit	PRC AUC	RandomForestClassifier	0.72014	0.05736
+Primary	RDKit	PRC AUC	XGBClassifier	0.73518	0.0505
+Primary	RDKit	Precision	LogisticRegression	0.66879	0.05022
+Primary	RDKit	Precision	RandomForestClassifier	0.68756	0.04377
+Primary	RDKit	Precision	XGBClassifier	0.68933	0.03513
+Primary	RDKit	ROC AUC	LogisticRegression	0.59107	0.0564
+Primary	RDKit	ROC AUC	RandomForestClassifier	0.6263	0.05508
+Primary	RDKit	ROC AUC	XGBClassifier	0.63495	0.05006
+Primary	RDKit	Recall	LogisticRegression	0.57564	0.1542
+Primary	RDKit	Recall	RandomForestClassifier	0.6567	0.10842
+Primary	RDKit	Recall	XGBClassifier	0.63842	0.12666
+Primary	RDKit	Specificity	LogisticRegression	0.53414	0.16708
+Primary	RDKit	Specificity	RandomForestClassifier	0.52032	0.10776
+Primary	RDKit	Specificity	XGBClassifier	0.5338	0.13047
+Secondary	CDDD	Accuracy	LogisticRegression	0.55017	0.04434
+Secondary	CDDD	Accuracy	RandomForestClassifier	0.61076	0.05169
+Secondary	CDDD	Accuracy	XGBClassifier	0.60221	0.04564
+Secondary	CDDD	Balanced Accuracy	LogisticRegression	0.53108	0.03795
+Secondary	CDDD	Balanced Accuracy	RandomForestClassifier	0.56206	0.04314
+Secondary	CDDD	Balanced Accuracy	XGBClassifier	0.56719	0.02906
+Secondary	CDDD	Brier	LogisticRegression	0.28176	0.03746
+Secondary	CDDD	Brier	RandomForestClassifier	0.23196	0.01301
+Secondary	CDDD	Brier	XGBClassifier	0.23692	0.01233
+Secondary	CDDD	ECE	LogisticRegression	0.18484	0.05538
+Secondary	CDDD	ECE	RandomForestClassifier	0.08053	0.03926
+Secondary	CDDD	ECE	XGBClassifier	0.09485	0.02954
+Secondary	CDDD	F1 Score	LogisticRegression	0.60903	0.07759
+Secondary	CDDD	F1 Score	RandomForestClassifier	0.68931	0.08242
+Secondary	CDDD	F1 Score	XGBClassifier	0.66824	0.08866
+Secondary	CDDD	GeomRS	LogisticRegression	0.51545	0.04553
+Secondary	CDDD	GeomRS	RandomForestClassifier	0.50077	0.09601
+Secondary	CDDD	GeomRS	XGBClassifier	0.53358	0.05062
+Secondary	CDDD	HarmRS	LogisticRegression	0.50091	0.05643
+Secondary	CDDD	HarmRS	RandomForestClassifier	0.45596	0.13851
+Secondary	CDDD	HarmRS	XGBClassifier	0.50425	0.07694
+Secondary	CDDD	MCC	LogisticRegression	0.06259	0.07647
+Secondary	CDDD	MCC	RandomForestClassifier	0.14223	0.08928
+Secondary	CDDD	MCC	XGBClassifier	0.14396	0.06229
+Secondary	CDDD	PRC AUC	LogisticRegression	0.67127	0.05983
+Secondary	CDDD	PRC AUC	RandomForestClassifier	0.72169	0.05502
+Secondary	CDDD	PRC AUC	XGBClassifier	0.71321	0.04957
+Secondary	CDDD	Precision	LogisticRegression	0.64211	0.04664
+Secondary	CDDD	Precision	RandomForestClassifier	0.66274	0.03895
+Secondary	CDDD	Precision	XGBClassifier	0.66775	0.03751
+Secondary	CDDD	ROC AUC	LogisticRegression	0.55363	0.0578
+Secondary	CDDD	ROC AUC	RandomForestClassifier	0.62078	0.06025
+Secondary	CDDD	ROC AUC	XGBClassifier	0.61517	0.04271
+Secondary	CDDD	Recall	LogisticRegression	0.58657	0.11559
+Secondary	CDDD	Recall	RandomForestClassifier	0.73525	0.16122
+Secondary	CDDD	Recall	XGBClassifier	0.68312	0.15241
+Secondary	CDDD	Specificity	LogisticRegression	0.4756	0.12421
+Secondary	CDDD	Specificity	RandomForestClassifier	0.38886	0.18684
+Secondary	CDDD	Specificity	XGBClassifier	0.45127	0.15236
+Secondary	ChemBERTa	Accuracy	LogisticRegression	0.52839	0.05319
+Secondary	ChemBERTa	Accuracy	RandomForestClassifier	0.56817	0.0658
+Secondary	ChemBERTa	Accuracy	XGBClassifier	0.57541	0.04131
+Secondary	ChemBERTa	Balanced Accuracy	LogisticRegression	0.51457	0.0458
+Secondary	ChemBERTa	Balanced Accuracy	RandomForestClassifier	0.51805	0.04432
+Secondary	ChemBERTa	Balanced Accuracy	XGBClassifier	0.53771	0.0316
+Secondary	ChemBERTa	Brier	LogisticRegression	0.30154	0.03662
+Secondary	ChemBERTa	Brier	RandomForestClassifier	0.23937	0.01294
+Secondary	ChemBERTa	Brier	XGBClassifier	0.24869	0.01221
+Secondary	ChemBERTa	ECE	LogisticRegression	0.21621	0.05584
+Secondary	ChemBERTa	ECE	RandomForestClassifier	0.08243	0.03649
+Secondary	ChemBERTa	ECE	XGBClassifier	0.11426	0.03237
+Secondary	ChemBERTa	F1 Score	LogisticRegression	0.58592	0.08456
+Secondary	ChemBERTa	F1 Score	RandomForestClassifier	0.65099	0.10519
+Secondary	ChemBERTa	F1 Score	XGBClassifier	0.6492	0.08622
+Secondary	ChemBERTa	GeomRS	LogisticRegression	0.50431	0.04858
+Secondary	ChemBERTa	GeomRS	RandomForestClassifier	0.45067	0.09249
+Secondary	ChemBERTa	GeomRS	XGBClassifier	0.49722	0.07034
+Secondary	ChemBERTa	HarmRS	LogisticRegression	0.49456	0.05359
+Secondary	ChemBERTa	HarmRS	RandomForestClassifier	0.40396	0.13191
+Secondary	ChemBERTa	HarmRS	XGBClassifier	0.46452	0.10336
+Secondary	ChemBERTa	MCC	LogisticRegression	0.02908	0.09098
+Secondary	ChemBERTa	MCC	RandomForestClassifier	0.04262	0.0976
+Secondary	ChemBERTa	MCC	XGBClassifier	0.07765	0.0659
+Secondary	ChemBERTa	PRC AUC	LogisticRegression	0.636	0.06364
+Secondary	ChemBERTa	PRC AUC	RandomForestClassifier	0.67703	0.06314
+Secondary	ChemBERTa	PRC AUC	XGBClassifier	0.68565	0.05463
+Secondary	ChemBERTa	Precision	LogisticRegression	0.62482	0.05949
+Secondary	ChemBERTa	Precision	RandomForestClassifier	0.62661	0.05437
+Secondary	ChemBERTa	Precision	XGBClassifier	0.64486	0.04566
+Secondary	ChemBERTa	ROC AUC	LogisticRegression	0.52124	0.06505
+Secondary	ChemBERTa	ROC AUC	RandomForestClassifier	0.55603	0.06211
+Secondary	ChemBERTa	ROC AUC	XGBClassifier	0.5749	0.03873
+Secondary	ChemBERTa	Recall	LogisticRegression	0.55759	0.11133
+Secondary	ChemBERTa	Recall	RandomForestClassifier	0.69307	0.17773
+Secondary	ChemBERTa	Recall	XGBClassifier	0.66613	0.14312
+Secondary	ChemBERTa	Specificity	LogisticRegression	0.47155	0.09416
+Secondary	ChemBERTa	Specificity	RandomForestClassifier	0.34303	0.17327
+Secondary	ChemBERTa	Specificity	XGBClassifier	0.40928	0.15997
+Secondary	ECFP	Accuracy	LogisticRegression	0.56351	0.05909
+Secondary	ECFP	Accuracy	RandomForestClassifier	0.59912	0.04784
+Secondary	ECFP	Accuracy	XGBClassifier	0.59227	0.06484
+Secondary	ECFP	Balanced Accuracy	LogisticRegression	0.54837	0.05219
+Secondary	ECFP	Balanced Accuracy	RandomForestClassifier	0.56898	0.03723
+Secondary	ECFP	Balanced Accuracy	XGBClassifier	0.56321	0.0528
+Secondary	ECFP	Brier	LogisticRegression	0.27137	0.03532
+Secondary	ECFP	Brier	RandomForestClassifier	0.23408	0.01544
+Secondary	ECFP	Brier	XGBClassifier	0.24391	0.027
+Secondary	ECFP	ECE	LogisticRegression	0.16903	0.0567
+Secondary	ECFP	ECE	RandomForestClassifier	0.09309	0.03408
+Secondary	ECFP	ECE	XGBClassifier	0.11589	0.04402
+Secondary	ECFP	F1 Score	LogisticRegression	0.62194	0.08018
+Secondary	ECFP	F1 Score	RandomForestClassifier	0.6449	0.11694
+Secondary	ECFP	F1 Score	XGBClassifier	0.65077	0.10306
+Secondary	ECFP	GeomRS	LogisticRegression	0.54011	0.05342
+Secondary	ECFP	GeomRS	RandomForestClassifier	0.51657	0.08338
+Secondary	ECFP	GeomRS	XGBClassifier	0.53367	0.0679
+Secondary	ECFP	HarmRS	LogisticRegression	0.53215	0.05593
+Secondary	ECFP	HarmRS	RandomForestClassifier	0.47491	0.12094
+Secondary	ECFP	HarmRS	XGBClassifier	0.50779	0.08903
+Secondary	ECFP	MCC	LogisticRegression	0.09646	0.10412
+Secondary	ECFP	MCC	RandomForestClassifier	0.14982	0.07547
+Secondary	ECFP	MCC	XGBClassifier	0.13386	0.1102
+Secondary	ECFP	PRC AUC	LogisticRegression	0.67307	0.07235
+Secondary	ECFP	PRC AUC	RandomForestClassifier	0.72267	0.05176
+Secondary	ECFP	PRC AUC	XGBClassifier	0.70935	0.06581
+Secondary	ECFP	Precision	LogisticRegression	0.65363	0.06157
+Secondary	ECFP	Precision	RandomForestClassifier	0.68303	0.04096
+Secondary	ECFP	Precision	XGBClassifier	0.66645	0.05371
+Secondary	ECFP	ROC AUC	LogisticRegression	0.56748	0.07105
+Secondary	ECFP	ROC AUC	RandomForestClassifier	0.62166	0.04907
+Secondary	ECFP	ROC AUC	XGBClassifier	0.60643	0.07322
+Secondary	ECFP	Recall	LogisticRegression	0.59765	0.10496
+Secondary	ECFP	Recall	RandomForestClassifier	0.64447	0.20456
+Secondary	ECFP	Recall	XGBClassifier	0.6508	0.16238
+Secondary	ECFP	Specificity	LogisticRegression	0.49909	0.0872
+Secondary	ECFP	Specificity	RandomForestClassifier	0.49349	0.23348
+Secondary	ECFP	Specificity	XGBClassifier	0.47561	0.16163
+Secondary	Klek	Accuracy	LogisticRegression	0.57767	0.05134
+Secondary	Klek	Accuracy	RandomForestClassifier	0.591	0.04086
+Secondary	Klek	Accuracy	XGBClassifier	0.60086	0.03932
+Secondary	Klek	Balanced Accuracy	LogisticRegression	0.56169	0.04572
+Secondary	Klek	Balanced Accuracy	RandomForestClassifier	0.55995	0.03317
+Secondary	Klek	Balanced Accuracy	XGBClassifier	0.57108	0.02596
+Secondary	Klek	Brier	LogisticRegression	0.26603	0.03365
+Secondary	Klek	Brier	RandomForestClassifier	0.23532	0.01164
+Secondary	Klek	Brier	XGBClassifier	0.23938	0.01296
+Secondary	Klek	ECE	LogisticRegression	0.16073	0.05993
+Secondary	Klek	ECE	RandomForestClassifier	0.09441	0.02765
+Secondary	Klek	ECE	XGBClassifier	0.10367	0.02738
+Secondary	Klek	F1 Score	LogisticRegression	0.63512	0.07531
+Secondary	Klek	F1 Score	RandomForestClassifier	0.64244	0.10635
+Secondary	Klek	F1 Score	XGBClassifier	0.65911	0.08902
+Secondary	Klek	GeomRS	LogisticRegression	0.55249	0.04661
+Secondary	Klek	GeomRS	RandomForestClassifier	0.50511	0.09145
+Secondary	Klek	GeomRS	XGBClassifier	0.53867	0.05669
+Secondary	Klek	HarmRS	LogisticRegression	0.54354	0.04862
+Secondary	Klek	HarmRS	RandomForestClassifier	0.46409	0.13468
+Secondary	Klek	HarmRS	XGBClassifier	0.51074	0.0858
+Secondary	Klek	MCC	LogisticRegression	0.12325	0.09135
+Secondary	Klek	MCC	RandomForestClassifier	0.12831	0.06188
+Secondary	Klek	MCC	XGBClassifier	0.14881	0.04776
+Secondary	Klek	PRC AUC	LogisticRegression	0.68383	0.05993
+Secondary	Klek	PRC AUC	RandomForestClassifier	0.71931	0.04737
+Secondary	Klek	PRC AUC	XGBClassifier	0.71747	0.04768
+Secondary	Klek	Precision	LogisticRegression	0.66629	0.05477
+Secondary	Klek	Precision	RandomForestClassifier	0.67417	0.03835
+Secondary	Klek	Precision	XGBClassifier	0.67555	0.0347
+Secondary	Klek	ROC AUC	LogisticRegression	0.58553	0.05773
+Secondary	Klek	ROC AUC	RandomForestClassifier	0.61595	0.03123
+Secondary	Klek	ROC AUC	XGBClassifier	0.61772	0.03175
+Secondary	Klek	Recall	LogisticRegression	0.61205	0.10263
+Secondary	Klek	Recall	RandomForestClassifier	0.64395	0.19555
+Secondary	Klek	Recall	XGBClassifier	0.65992	0.15623
+Secondary	Klek	Specificity	LogisticRegression	0.51133	0.0963
+Secondary	Klek	Specificity	RandomForestClassifier	0.47596	0.23339
+Secondary	Klek	Specificity	XGBClassifier	0.48225	0.17117
+Secondary	MACCS	Accuracy	LogisticRegression	0.56388	0.04462
+Secondary	MACCS	Accuracy	RandomForestClassifier	0.6021	0.04574
+Secondary	MACCS	Accuracy	XGBClassifier	0.60091	0.03719
+Secondary	MACCS	Balanced Accuracy	LogisticRegression	0.53525	0.02855
+Secondary	MACCS	Balanced Accuracy	RandomForestClassifier	0.56981	0.03077
+Secondary	MACCS	Balanced Accuracy	XGBClassifier	0.57337	0.02549
+Secondary	MACCS	Brier	LogisticRegression	0.25724	0.01543
+Secondary	MACCS	Brier	RandomForestClassifier	0.23263	0.01176
+Secondary	MACCS	Brier	XGBClassifier	0.23933	0.01215
+Secondary	MACCS	ECE	LogisticRegression	0.13786	0.0256
+Secondary	MACCS	ECE	RandomForestClassifier	0.07867	0.03694
+Secondary	MACCS	ECE	XGBClassifier	0.10221	0.02723
+Secondary	MACCS	F1 Score	LogisticRegression	0.60701	0.12543
+Secondary	MACCS	F1 Score	RandomForestClassifier	0.66764	0.08596
+Secondary	MACCS	F1 Score	XGBClassifier	0.65464	0.09223
+Secondary	MACCS	GeomRS	LogisticRegression	0.48044	0.07399
+Secondary	MACCS	GeomRS	RandomForestClassifier	0.53707	0.05633
+Secondary	MACCS	GeomRS	XGBClassifier	0.54137	0.05501
+Secondary	MACCS	HarmRS	LogisticRegression	0.43692	0.11022
+Secondary	MACCS	HarmRS	RandomForestClassifier	0.50904	0.08491
+Secondary	MACCS	HarmRS	XGBClassifier	0.51352	0.08313
+Secondary	MACCS	MCC	LogisticRegression	0.07402	0.05977
+Secondary	MACCS	MCC	RandomForestClassifier	0.14847	0.06349
+Secondary	MACCS	MCC	XGBClassifier	0.15359	0.04907
+Secondary	MACCS	PRC AUC	LogisticRegression	0.67654	0.05773
+Secondary	MACCS	PRC AUC	RandomForestClassifier	0.72271	0.05313
+Secondary	MACCS	PRC AUC	XGBClassifier	0.72334	0.04424
+Secondary	MACCS	Precision	LogisticRegression	0.65284	0.04609
+Secondary	MACCS	Precision	RandomForestClassifier	0.67007	0.03803
+Secondary	MACCS	Precision	XGBClassifier	0.68084	0.03112
+Secondary	MACCS	ROC AUC	LogisticRegression	0.56315	0.03029
+Secondary	MACCS	ROC AUC	RandomForestClassifier	0.61951	0.04082
+Secondary	MACCS	ROC AUC	XGBClassifier	0.61814	0.02807
+Secondary	MACCS	Recall	LogisticRegression	0.59972	0.20871
+Secondary	MACCS	Recall	RandomForestClassifier	0.68024	0.15195
+Secondary	MACCS	Recall	XGBClassifier	0.64961	0.16029
+Secondary	MACCS	Specificity	LogisticRegression	0.47078	0.23264
+Secondary	MACCS	Specificity	RandomForestClassifier	0.45937	0.15334
+Secondary	MACCS	Specificity	XGBClassifier	0.49714	0.17868
+Secondary	RDKit	Accuracy	LogisticRegression	0.58272	0.04306
+Secondary	RDKit	Accuracy	RandomForestClassifier	0.61359	0.05588
+Secondary	RDKit	Accuracy	XGBClassifier	0.60782	0.0535
+Secondary	RDKit	Balanced Accuracy	LogisticRegression	0.55557	0.03567
+Secondary	RDKit	Balanced Accuracy	RandomForestClassifier	0.56993	0.0474
+Secondary	RDKit	Balanced Accuracy	XGBClassifier	0.57563	0.04681
+Secondary	RDKit	Brier	LogisticRegression	0.25148	0.01957
+Secondary	RDKit	Brier	RandomForestClassifier	0.2321	0.01384
+Secondary	RDKit	Brier	XGBClassifier	0.23561	0.01725
+Secondary	RDKit	ECE	LogisticRegression	0.13257	0.03375
+Secondary	RDKit	ECE	RandomForestClassifier	0.08676	0.03418
+Secondary	RDKit	ECE	XGBClassifier	0.10264	0.02988
+Secondary	RDKit	F1 Score	LogisticRegression	0.62688	0.11491
+Secondary	RDKit	F1 Score	RandomForestClassifier	0.68678	0.09208
+Secondary	RDKit	F1 Score	XGBClassifier	0.67007	0.09047
+Secondary	RDKit	GeomRS	LogisticRegression	0.51132	0.07142
+Secondary	RDKit	GeomRS	RandomForestClassifier	0.52568	0.07771
+Secondary	RDKit	GeomRS	XGBClassifier	0.5446	0.06983
+Secondary	RDKit	HarmRS	LogisticRegression	0.47425	0.10188
+Secondary	RDKit	HarmRS	RandomForestClassifier	0.48911	0.10994
+Secondary	RDKit	HarmRS	XGBClassifier	0.51782	0.09577
+Secondary	RDKit	MCC	LogisticRegression	0.11631	0.07263
+Secondary	RDKit	MCC	RandomForestClassifier	0.15302	0.09809
+Secondary	RDKit	MCC	XGBClassifier	0.15849	0.09454
+Secondary	RDKit	PRC AUC	LogisticRegression	0.7048	0.06165
+Secondary	RDKit	PRC AUC	RandomForestClassifier	0.71168	0.06706
+Secondary	RDKit	PRC AUC	XGBClassifier	0.72625	0.06368
+Secondary	RDKit	Precision	LogisticRegression	0.67178	0.03642
+Secondary	RDKit	Precision	RandomForestClassifier	0.66631	0.04783
+Secondary	RDKit	Precision	XGBClassifier	0.67645	0.0503
+Secondary	RDKit	ROC AUC	LogisticRegression	0.59655	0.04423
+Secondary	RDKit	ROC AUC	RandomForestClassifier	0.61468	0.06208
+Secondary	RDKit	ROC AUC	XGBClassifier	0.62649	0.06001
+Secondary	RDKit	Recall	LogisticRegression	0.61573	0.19001
+Secondary	RDKit	Recall	RandomForestClassifier	0.7212	0.15307
+Secondary	RDKit	Recall	XGBClassifier	0.67729	0.14911
+Secondary	RDKit	Specificity	LogisticRegression	0.49542	0.219
+Secondary	RDKit	Specificity	RandomForestClassifier	0.41866	0.16076
+Secondary	RDKit	Specificity	XGBClassifier	0.47398	0.16354

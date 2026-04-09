@@ -1,0 +1,196 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Mono	PRR	Card	1	XGBClassifier	ECFP	Balanced Accuracy	0.55645
+Mono	PRR	Card	4	XGBClassifier	ECFP	Balanced Accuracy	0.62587
+Mono	PRR	Card	3	XGBClassifier	ECFP	Balanced Accuracy	0.53675
+Mono	PRR	Card	0	XGBClassifier	ECFP	Balanced Accuracy	0.55005
+Mono	PRR	Card	2	XGBClassifier	ECFP	Balanced Accuracy	0.63107
+Primary	PRR	Card	1	XGBClassifier	ECFP	Balanced Accuracy	0.543
+Primary	PRR	Card	4	XGBClassifier	ECFP	Balanced Accuracy	0.63742
+Primary	PRR	Card	3	XGBClassifier	ECFP	Balanced Accuracy	0.56464
+Primary	PRR	Card	0	XGBClassifier	ECFP	Balanced Accuracy	0.59318
+Primary	PRR	Card	2	XGBClassifier	ECFP	Balanced Accuracy	0.63244
+Secondary	PRR	Card	1	XGBClassifier	ECFP	Balanced Accuracy	0.56859
+Secondary	PRR	Card	4	XGBClassifier	ECFP	Balanced Accuracy	0.60367
+Secondary	PRR	Card	3	XGBClassifier	ECFP	Balanced Accuracy	0.52279
+Secondary	PRR	Card	0	XGBClassifier	ECFP	Balanced Accuracy	0.55534
+Secondary	PRR	Card	2	XGBClassifier	ECFP	Balanced Accuracy	0.58155
+Mono	PRR	Card	1	XGBClassifier	ECFP	GeomRS	0.53461
+Mono	PRR	Card	4	XGBClassifier	ECFP	GeomRS	0.62494
+Mono	PRR	Card	3	XGBClassifier	ECFP	GeomRS	0.5223
+Mono	PRR	Card	0	XGBClassifier	ECFP	GeomRS	0.5498
+Mono	PRR	Card	2	XGBClassifier	ECFP	GeomRS	0.6299
+Primary	PRR	Card	1	XGBClassifier	ECFP	GeomRS	0.5394
+Primary	PRR	Card	4	XGBClassifier	ECFP	GeomRS	0.63586
+Primary	PRR	Card	3	XGBClassifier	ECFP	GeomRS	0.55852
+Primary	PRR	Card	0	XGBClassifier	ECFP	GeomRS	0.59312
+Primary	PRR	Card	2	XGBClassifier	ECFP	GeomRS	0.6223
+Secondary	PRR	Card	1	XGBClassifier	ECFP	GeomRS	0.56673
+Secondary	PRR	Card	4	XGBClassifier	ECFP	GeomRS	0.56818
+Secondary	PRR	Card	3	XGBClassifier	ECFP	GeomRS	0.52276
+Secondary	PRR	Card	0	XGBClassifier	ECFP	GeomRS	0.54167
+Secondary	PRR	Card	2	XGBClassifier	ECFP	GeomRS	0.57093
+Mono	PRR	Card	1	XGBClassifier	ECFP	HarmRS	0.51362
+Mono	PRR	Card	4	XGBClassifier	ECFP	HarmRS	0.62401
+Mono	PRR	Card	3	XGBClassifier	ECFP	HarmRS	0.50825
+Mono	PRR	Card	0	XGBClassifier	ECFP	HarmRS	0.54954
+Mono	PRR	Card	2	XGBClassifier	ECFP	HarmRS	0.62874
+Primary	PRR	Card	1	XGBClassifier	ECFP	HarmRS	0.53582
+Primary	PRR	Card	4	XGBClassifier	ECFP	HarmRS	0.6343
+Primary	PRR	Card	3	XGBClassifier	ECFP	HarmRS	0.55245
+Primary	PRR	Card	0	XGBClassifier	ECFP	HarmRS	0.59307
+Primary	PRR	Card	2	XGBClassifier	ECFP	HarmRS	0.61232
+Secondary	PRR	Card	1	XGBClassifier	ECFP	HarmRS	0.56487
+Secondary	PRR	Card	4	XGBClassifier	ECFP	HarmRS	0.53479
+Secondary	PRR	Card	3	XGBClassifier	ECFP	HarmRS	0.52272
+Secondary	PRR	Card	0	XGBClassifier	ECFP	HarmRS	0.52833
+Secondary	PRR	Card	2	XGBClassifier	ECFP	HarmRS	0.5605
+Mono	PRR	Card	1	XGBClassifier	ECFP	F1 Score	0.51735
+Mono	PRR	Card	4	XGBClassifier	ECFP	F1 Score	0.66486
+Mono	PRR	Card	3	XGBClassifier	ECFP	F1 Score	0.5141
+Mono	PRR	Card	0	XGBClassifier	ECFP	F1 Score	0.61903
+Mono	PRR	Card	2	XGBClassifier	ECFP	F1 Score	0.70555
+Primary	PRR	Card	1	XGBClassifier	ECFP	F1 Score	0.56928
+Primary	PRR	Card	4	XGBClassifier	ECFP	F1 Score	0.71511
+Primary	PRR	Card	3	XGBClassifier	ECFP	F1 Score	0.57245
+Primary	PRR	Card	0	XGBClassifier	ECFP	F1 Score	0.64625
+Primary	PRR	Card	2	XGBClassifier	ECFP	F1 Score	0.73993
+Secondary	PRR	Card	1	XGBClassifier	ECFP	F1 Score	0.65873
+Secondary	PRR	Card	4	XGBClassifier	ECFP	F1 Score	0.75475
+Secondary	PRR	Card	3	XGBClassifier	ECFP	F1 Score	0.57889
+Secondary	PRR	Card	0	XGBClassifier	ECFP	F1 Score	0.67805
+Secondary	PRR	Card	2	XGBClassifier	ECFP	F1 Score	0.69615
+Mono	PRR	Card	1	XGBClassifier	ECFP	ROC AUC	0.56656
+Mono	PRR	Card	4	XGBClassifier	ECFP	ROC AUC	0.66715
+Mono	PRR	Card	3	XGBClassifier	ECFP	ROC AUC	0.54464
+Mono	PRR	Card	0	XGBClassifier	ECFP	ROC AUC	0.56985
+Mono	PRR	Card	2	XGBClassifier	ECFP	ROC AUC	0.6707
+Primary	PRR	Card	1	XGBClassifier	ECFP	ROC AUC	0.56914
+Primary	PRR	Card	4	XGBClassifier	ECFP	ROC AUC	0.67632
+Primary	PRR	Card	3	XGBClassifier	ECFP	ROC AUC	0.55613
+Primary	PRR	Card	0	XGBClassifier	ECFP	ROC AUC	0.60533
+Primary	PRR	Card	2	XGBClassifier	ECFP	ROC AUC	0.68907
+Secondary	PRR	Card	1	XGBClassifier	ECFP	ROC AUC	0.59147
+Secondary	PRR	Card	4	XGBClassifier	ECFP	ROC AUC	0.67686
+Secondary	PRR	Card	3	XGBClassifier	ECFP	ROC AUC	0.51631
+Secondary	PRR	Card	0	XGBClassifier	ECFP	ROC AUC	0.60173
+Secondary	PRR	Card	2	XGBClassifier	ECFP	ROC AUC	0.62941
+Mono	PRR	Card	1	XGBClassifier	ECFP	MCC	0.1116
+Mono	PRR	Card	4	XGBClassifier	ECFP	MCC	0.24115
+Mono	PRR	Card	3	XGBClassifier	ECFP	MCC	0.07261
+Mono	PRR	Card	0	XGBClassifier	ECFP	MCC	0.09639
+Mono	PRR	Card	2	XGBClassifier	ECFP	MCC	0.25442
+Primary	PRR	Card	1	XGBClassifier	ECFP	MCC	0.08215
+Primary	PRR	Card	4	XGBClassifier	ECFP	MCC	0.26708
+Primary	PRR	Card	3	XGBClassifier	ECFP	MCC	0.12545
+Primary	PRR	Card	0	XGBClassifier	ECFP	MCC	0.17921
+Primary	PRR	Card	2	XGBClassifier	ECFP	MCC	0.26644
+Secondary	PRR	Card	1	XGBClassifier	ECFP	MCC	0.13161
+Secondary	PRR	Card	4	XGBClassifier	ECFP	MCC	0.22465
+Secondary	PRR	Card	3	XGBClassifier	ECFP	MCC	0.04384
+Secondary	PRR	Card	0	XGBClassifier	ECFP	MCC	0.11065
+Secondary	PRR	Card	2	XGBClassifier	ECFP	MCC	0.16239
+Mono	PRR	Card	1	XGBClassifier	ECFP	Accuracy	0.50857
+Mono	PRR	Card	4	XGBClassifier	ECFP	Accuracy	0.61607
+Mono	PRR	Card	3	XGBClassifier	ECFP	Accuracy	0.50297
+Mono	PRR	Card	0	XGBClassifier	ECFP	Accuracy	0.5547
+Mono	PRR	Card	2	XGBClassifier	ECFP	Accuracy	0.64189
+Primary	PRR	Card	1	XGBClassifier	ECFP	Accuracy	0.52364
+Primary	PRR	Card	4	XGBClassifier	ECFP	Accuracy	0.65024
+Primary	PRR	Card	3	XGBClassifier	ECFP	Accuracy	0.54198
+Primary	PRR	Card	0	XGBClassifier	ECFP	Accuracy	0.59101
+Primary	PRR	Card	2	XGBClassifier	ECFP	Accuracy	0.66424
+Secondary	PRR	Card	1	XGBClassifier	ECFP	Accuracy	0.58286
+Secondary	PRR	Card	4	XGBClassifier	ECFP	Accuracy	0.66223
+Secondary	PRR	Card	3	XGBClassifier	ECFP	Accuracy	0.5212
+Secondary	PRR	Card	0	XGBClassifier	ECFP	Accuracy	0.5892
+Secondary	PRR	Card	2	XGBClassifier	ECFP	Accuracy	0.61273
+Mono	PRR	Card	1	XGBClassifier	ECFP	Recall	0.40206
+Mono	PRR	Card	4	XGBClassifier	ECFP	Recall	0.59172
+Mono	PRR	Card	3	XGBClassifier	ECFP	Recall	0.41306
+Mono	PRR	Card	0	XGBClassifier	ECFP	Recall	0.56686
+Mono	PRR	Card	2	XGBClassifier	ECFP	Recall	0.66945
+Primary	PRR	Card	1	XGBClassifier	ECFP	Recall	0.48057
+Primary	PRR	Card	4	XGBClassifier	ECFP	Recall	0.68207
+Primary	PRR	Card	3	XGBClassifier	ECFP	Recall	0.48168
+Primary	PRR	Card	0	XGBClassifier	ECFP	Recall	0.58535
+Primary	PRR	Card	2	XGBClassifier	ECFP	Recall	0.74526
+Secondary	PRR	Card	1	XGBClassifier	ECFP	Recall	0.61459
+Secondary	PRR	Card	4	XGBClassifier	ECFP	Recall	0.80759
+Secondary	PRR	Card	3	XGBClassifier	ECFP	Recall	0.51699
+Secondary	PRR	Card	0	XGBClassifier	ECFP	Recall	0.67781
+Secondary	PRR	Card	2	XGBClassifier	ECFP	Recall	0.69219
+Mono	PRR	Card	1	XGBClassifier	ECFP	Specificity	0.71084
+Mono	PRR	Card	4	XGBClassifier	ECFP	Specificity	0.66002
+Mono	PRR	Card	3	XGBClassifier	ECFP	Specificity	0.66044
+Mono	PRR	Card	0	XGBClassifier	ECFP	Specificity	0.53325
+Mono	PRR	Card	2	XGBClassifier	ECFP	Specificity	0.59269
+Primary	PRR	Card	1	XGBClassifier	ECFP	Specificity	0.60542
+Primary	PRR	Card	4	XGBClassifier	ECFP	Specificity	0.59278
+Primary	PRR	Card	3	XGBClassifier	ECFP	Specificity	0.64761
+Primary	PRR	Card	0	XGBClassifier	ECFP	Specificity	0.601
+Primary	PRR	Card	2	XGBClassifier	ECFP	Specificity	0.51962
+Secondary	PRR	Card	1	XGBClassifier	ECFP	Specificity	0.52259
+Secondary	PRR	Card	4	XGBClassifier	ECFP	Specificity	0.39975
+Secondary	PRR	Card	3	XGBClassifier	ECFP	Specificity	0.52859
+Secondary	PRR	Card	0	XGBClassifier	ECFP	Specificity	0.43287
+Secondary	PRR	Card	2	XGBClassifier	ECFP	Specificity	0.47091
+Mono	PRR	Card	1	XGBClassifier	ECFP	Precision	0.72532
+Mono	PRR	Card	4	XGBClassifier	ECFP	Precision	0.75862
+Mono	PRR	Card	3	XGBClassifier	ECFP	Precision	0.68057
+Mono	PRR	Card	0	XGBClassifier	ECFP	Precision	0.68178
+Mono	PRR	Card	2	XGBClassifier	ECFP	Precision	0.74578
+Primary	PRR	Card	1	XGBClassifier	ECFP	Precision	0.69816
+Primary	PRR	Card	4	XGBClassifier	ECFP	Precision	0.75152
+Primary	PRR	Card	3	XGBClassifier	ECFP	Precision	0.70537
+Primary	PRR	Card	0	XGBClassifier	ECFP	Precision	0.7213
+Primary	PRR	Card	2	XGBClassifier	ECFP	Precision	0.73468
+Secondary	PRR	Card	1	XGBClassifier	ECFP	Precision	0.70971
+Secondary	PRR	Card	4	XGBClassifier	ECFP	Precision	0.70841
+Secondary	PRR	Card	3	XGBClassifier	ECFP	Precision	0.65763
+Secondary	PRR	Card	0	XGBClassifier	ECFP	Precision	0.67829
+Secondary	PRR	Card	2	XGBClassifier	ECFP	Precision	0.70015
+Mono	PRR	Card	1	XGBClassifier	ECFP	PRC AUC	0.74061
+Mono	PRR	Card	4	XGBClassifier	ECFP	PRC AUC	0.78548
+Mono	PRR	Card	3	XGBClassifier	ECFP	PRC AUC	0.70494
+Mono	PRR	Card	0	XGBClassifier	ECFP	PRC AUC	0.71049
+Mono	PRR	Card	2	XGBClassifier	ECFP	PRC AUC	0.77317
+Primary	PRR	Card	1	XGBClassifier	ECFP	PRC AUC	0.72827
+Primary	PRR	Card	4	XGBClassifier	ECFP	PRC AUC	0.78546
+Primary	PRR	Card	3	XGBClassifier	ECFP	PRC AUC	0.72166
+Primary	PRR	Card	0	XGBClassifier	ECFP	PRC AUC	0.7254
+Primary	PRR	Card	2	XGBClassifier	ECFP	PRC AUC	0.7823
+Secondary	PRR	Card	1	XGBClassifier	ECFP	PRC AUC	0.71753
+Secondary	PRR	Card	4	XGBClassifier	ECFP	PRC AUC	0.78605
+Secondary	PRR	Card	3	XGBClassifier	ECFP	PRC AUC	0.67481
+Secondary	PRR	Card	0	XGBClassifier	ECFP	PRC AUC	0.71599
+Secondary	PRR	Card	2	XGBClassifier	ECFP	PRC AUC	0.76212
+Mono	PRR	Card	1	XGBClassifier	ECFP	Brier	0.29316
+Mono	PRR	Card	4	XGBClassifier	ECFP	Brier	0.23644
+Mono	PRR	Card	3	XGBClassifier	ECFP	Brier	0.2833
+Mono	PRR	Card	0	XGBClassifier	ECFP	Brier	0.26554
+Mono	PRR	Card	2	XGBClassifier	ECFP	Brier	0.22591
+Primary	PRR	Card	1	XGBClassifier	ECFP	Brier	0.25689
+Primary	PRR	Card	4	XGBClassifier	ECFP	Brier	0.22634
+Primary	PRR	Card	3	XGBClassifier	ECFP	Brier	0.28176
+Primary	PRR	Card	0	XGBClassifier	ECFP	Brier	0.24683
+Primary	PRR	Card	2	XGBClassifier	ECFP	Brier	0.21221
+Secondary	PRR	Card	1	XGBClassifier	ECFP	Brier	0.24266
+Secondary	PRR	Card	4	XGBClassifier	ECFP	Brier	0.2166
+Secondary	PRR	Card	3	XGBClassifier	ECFP	Brier	0.27891
+Secondary	PRR	Card	0	XGBClassifier	ECFP	Brier	0.23395
+Secondary	PRR	Card	2	XGBClassifier	ECFP	Brier	0.22905
+Mono	PRR	Card	1	XGBClassifier	ECFP	ECE	0.22462
+Mono	PRR	Card	4	XGBClassifier	ECFP	ECE	0.14023
+Mono	PRR	Card	3	XGBClassifier	ECFP	ECE	0.18599
+Mono	PRR	Card	0	XGBClassifier	ECFP	ECE	0.14497
+Mono	PRR	Card	2	XGBClassifier	ECFP	ECE	0.11201
+Primary	PRR	Card	1	XGBClassifier	ECFP	ECE	0.16741
+Primary	PRR	Card	4	XGBClassifier	ECFP	ECE	0.10627
+Primary	PRR	Card	3	XGBClassifier	ECFP	ECE	0.17182
+Primary	PRR	Card	0	XGBClassifier	ECFP	ECE	0.13155
+Primary	PRR	Card	2	XGBClassifier	ECFP	ECE	0.06193
+Secondary	PRR	Card	1	XGBClassifier	ECFP	ECE	0.13174
+Secondary	PRR	Card	4	XGBClassifier	ECFP	ECE	0.07488
+Secondary	PRR	Card	3	XGBClassifier	ECFP	ECE	0.14603
+Secondary	PRR	Card	0	XGBClassifier	ECFP	ECE	0.09123
+Secondary	PRR	Card	2	XGBClassifier	ECFP	ECE	0.10644

@@ -10,7 +10,7 @@ from sklearn.model_selection import StratifiedGroupKFold
 from src.data.utils import embeddings_to_rdkit
 
 
-def butina_cluster(df: pd.DataFrame, fp_col: str = 'Morgan', threshold: float = 0.3,
+def butina_cluster(df: pd.DataFrame, fp_col: str = 'ECFP', threshold: float = 0.3,
                    n_jobs: int = -2, batch_size: int = 256) -> pd.DataFrame:
     """
     Performs Butina Clustering using RDKit. Parallel computing and batch processing is supported.
@@ -20,7 +20,7 @@ def butina_cluster(df: pd.DataFrame, fp_col: str = 'Morgan', threshold: float = 
     df: pd.DataFrame
         Pandas DataFrame with fingerprint column.
     fp_col: str
-        Name of the column with fingerprints. Default is Morgan
+        Name of the column with fingerprints. Default is ECFP
     threshold: float
         Distance threshold. Pair of FPs is marked as neighbors if distance <= threshold. Default is 0.3
     n_jobs: int
@@ -110,7 +110,7 @@ def butina_cluster(df: pd.DataFrame, fp_col: str = 'Morgan', threshold: float = 
     return df
 
 
-def butina_split(df: pd.DataFrame, smiles_col: str = 'SMILES', fp_col: str = 'Morgan', strat_col: Union[str, List[str]] = 'Class',
+def butina_split(df: pd.DataFrame, smiles_col: str = 'SMILES', fp_col: str = 'ECFP', strat_col: Union[str, List[str]] = 'Class',
                  threshold: float = 0.3, batch_size: int = 256, n_splits: int = 10, n_jobs: int = -2,
                  random_state: int = 0, cluster_col: str = None):
     """
@@ -123,7 +123,7 @@ def butina_split(df: pd.DataFrame, smiles_col: str = 'SMILES', fp_col: str = 'Mo
     smiles_col: str
         name of the column with SMILES strings.
     fp_col: str
-        Name of the column with fingerprints. Default is Morgan
+        Name of the column with fingerprints. Default is ECFP
     strat_col: Union[str, List[str]]
         Name(s) of column(s) to use for stratified split.
     threshold: float

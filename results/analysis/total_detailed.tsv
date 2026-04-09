@@ -1,0 +1,1081 @@
+Series	Test_Fold	Model	Descriptors	Metric	Value
+Weighted	1	XGBClassifier	ChemBERTa	Recall	0.50509
+Unweighted	1	XGBClassifier	ChemBERTa	Recall	0.46027
+Weighted	3	XGBClassifier	ChemBERTa	Recall	0.53451
+Unweighted	3	XGBClassifier	ChemBERTa	Recall	0.47462
+Weighted	4	XGBClassifier	ChemBERTa	Recall	0.62284
+Unweighted	4	XGBClassifier	ChemBERTa	Recall	0.59109
+Weighted	0	XGBClassifier	ChemBERTa	Recall	0.54989
+Unweighted	0	XGBClassifier	ChemBERTa	Recall	0.52187
+Weighted	2	XGBClassifier	ChemBERTa	Recall	0.57685
+Unweighted	2	XGBClassifier	ChemBERTa	Recall	0.54238
+Weighted	1	XGBClassifier	RDKit	Recall	0.51771
+Unweighted	1	XGBClassifier	RDKit	Recall	0.47953
+Weighted	3	XGBClassifier	RDKit	Recall	0.56269
+Unweighted	3	XGBClassifier	RDKit	Recall	0.52596
+Weighted	4	XGBClassifier	RDKit	Recall	0.56609
+Unweighted	4	XGBClassifier	RDKit	Recall	0.53491
+Weighted	0	XGBClassifier	RDKit	Recall	0.49104
+Unweighted	0	XGBClassifier	RDKit	Recall	0.4601
+Weighted	2	XGBClassifier	RDKit	Recall	0.65298
+Unweighted	2	XGBClassifier	RDKit	Recall	0.60148
+Weighted	1	XGBClassifier	MACCS	Recall	0.52495
+Unweighted	1	XGBClassifier	MACCS	Recall	0.48538
+Weighted	3	XGBClassifier	MACCS	Recall	0.54099
+Unweighted	3	XGBClassifier	MACCS	Recall	0.50058
+Weighted	4	XGBClassifier	MACCS	Recall	0.56299
+Unweighted	4	XGBClassifier	MACCS	Recall	0.51097
+Weighted	0	XGBClassifier	MACCS	Recall	0.45566
+Unweighted	0	XGBClassifier	MACCS	Recall	0.44942
+Weighted	2	XGBClassifier	MACCS	Recall	0.67278
+Unweighted	2	XGBClassifier	MACCS	Recall	0.59937
+Weighted	1	XGBClassifier	Klek	Recall	0.37544
+Unweighted	1	XGBClassifier	Klek	Recall	0.33093
+Weighted	3	XGBClassifier	Klek	Recall	0.55449
+Unweighted	3	XGBClassifier	Klek	Recall	0.50904
+Weighted	4	XGBClassifier	Klek	Recall	0.50571
+Unweighted	4	XGBClassifier	Klek	Recall	0.50199
+Weighted	0	XGBClassifier	Klek	Recall	0.55336
+Unweighted	0	XGBClassifier	Klek	Recall	0.54124
+Weighted	2	XGBClassifier	Klek	Recall	0.64216
+Unweighted	2	XGBClassifier	Klek	Recall	0.57158
+Weighted	1	XGBClassifier	ECFP	Recall	0.51769
+Unweighted	1	XGBClassifier	ECFP	Recall	0.45683
+Weighted	3	XGBClassifier	ECFP	Recall	0.52175
+Unweighted	3	XGBClassifier	ECFP	Recall	0.45683
+Weighted	4	XGBClassifier	ECFP	Recall	0.56667
+Unweighted	4	XGBClassifier	ECFP	Recall	0.56815
+Weighted	0	XGBClassifier	ECFP	Recall	0.49103
+Unweighted	0	XGBClassifier	ECFP	Recall	0.4601
+Weighted	2	XGBClassifier	ECFP	Recall	0.71337
+Unweighted	2	XGBClassifier	ECFP	Recall	0.64931
+Weighted	1	XGBClassifier	CDDD	Recall	0.45477
+Unweighted	1	XGBClassifier	CDDD	Recall	0.41589
+Weighted	3	XGBClassifier	CDDD	Recall	0.61167
+Unweighted	3	XGBClassifier	CDDD	Recall	0.56534
+Weighted	4	XGBClassifier	CDDD	Recall	0.62605
+Unweighted	4	XGBClassifier	CDDD	Recall	0.60306
+Weighted	0	XGBClassifier	CDDD	Recall	0.62164
+Unweighted	0	XGBClassifier	CDDD	Recall	0.55125
+Weighted	2	XGBClassifier	CDDD	Recall	0.6821
+Unweighted	2	XGBClassifier	CDDD	Recall	0.63349
+Weighted	1	LogisticRegression	ChemBERTa	Recall	0.4327
+Unweighted	1	LogisticRegression	ChemBERTa	Recall	0.42071
+Weighted	0	LogisticRegression	ChemBERTa	Recall	0.50274
+Unweighted	0	LogisticRegression	ChemBERTa	Recall	0.48481
+Weighted	3	LogisticRegression	ChemBERTa	Recall	0.45082
+Unweighted	3	LogisticRegression	ChemBERTa	Recall	0.44749
+Weighted	2	LogisticRegression	ChemBERTa	Recall	0.46119
+Unweighted	2	LogisticRegression	ChemBERTa	Recall	0.47098
+Weighted	4	LogisticRegression	ChemBERTa	Recall	0.51928
+Unweighted	4	LogisticRegression	ChemBERTa	Recall	0.4887
+Weighted	3	LogisticRegression	RDKit	Recall	0.55067
+Unweighted	3	LogisticRegression	RDKit	Recall	0.54201
+Weighted	1	LogisticRegression	RDKit	Recall	0.40828
+Unweighted	1	LogisticRegression	RDKit	Recall	0.38768
+Weighted	4	LogisticRegression	RDKit	Recall	0.54006
+Unweighted	4	LogisticRegression	RDKit	Recall	0.54754
+Weighted	0	LogisticRegression	RDKit	Recall	0.46075
+Unweighted	0	LogisticRegression	RDKit	Recall	0.4591
+Weighted	2	LogisticRegression	RDKit	Recall	0.57067
+Unweighted	2	LogisticRegression	RDKit	Recall	0.54063
+Weighted	1	LogisticRegression	MACCS	Recall	0.43284
+Unweighted	1	LogisticRegression	MACCS	Recall	0.41864
+Weighted	3	LogisticRegression	MACCS	Recall	0.42135
+Unweighted	3	LogisticRegression	MACCS	Recall	0.38915
+Weighted	4	LogisticRegression	MACCS	Recall	0.4948
+Unweighted	4	LogisticRegression	MACCS	Recall	0.47141
+Weighted	0	LogisticRegression	MACCS	Recall	0.54551
+Unweighted	0	LogisticRegression	MACCS	Recall	0.51987
+Weighted	2	LogisticRegression	MACCS	Recall	0.50923
+Unweighted	2	LogisticRegression	MACCS	Recall	0.48646
+Weighted	1	LogisticRegression	Klek	Recall	0.32948
+Unweighted	1	LogisticRegression	Klek	Recall	0.30134
+Weighted	4	LogisticRegression	Klek	Recall	0.50076
+Unweighted	4	LogisticRegression	Klek	Recall	0.51562
+Weighted	0	LogisticRegression	Klek	Recall	0.52995
+Unweighted	0	LogisticRegression	Klek	Recall	0.52721
+Weighted	3	LogisticRegression	Klek	Recall	0.5186
+Unweighted	3	LogisticRegression	Klek	Recall	0.48425
+Weighted	2	LogisticRegression	Klek	Recall	0.58486
+Unweighted	2	LogisticRegression	Klek	Recall	0.55786
+Weighted	3	LogisticRegression	ECFP	Recall	0.41017
+Unweighted	3	LogisticRegression	ECFP	Recall	0.37894
+Weighted	1	LogisticRegression	ECFP	Recall	0.45687
+Unweighted	1	LogisticRegression	ECFP	Recall	0.40592
+Weighted	4	LogisticRegression	ECFP	Recall	0.5587
+Unweighted	4	LogisticRegression	ECFP	Recall	0.55851
+Weighted	0	LogisticRegression	ECFP	Recall	0.62908
+Unweighted	0	LogisticRegression	ECFP	Recall	0.60301
+Weighted	2	LogisticRegression	ECFP	Recall	0.62855
+Unweighted	2	LogisticRegression	ECFP	Recall	0.58319
+Weighted	1	LogisticRegression	CDDD	Recall	0.38191
+Unweighted	1	LogisticRegression	CDDD	Recall	0.387
+Weighted	3	LogisticRegression	CDDD	Recall	0.36707
+Unweighted	3	LogisticRegression	CDDD	Recall	0.38361
+Weighted	4	LogisticRegression	CDDD	Recall	0.65115
+Unweighted	4	LogisticRegression	CDDD	Recall	0.63996
+Weighted	0	LogisticRegression	CDDD	Recall	0.54358
+Unweighted	0	LogisticRegression	CDDD	Recall	0.52554
+Weighted	2	LogisticRegression	CDDD	Recall	0.55384
+Unweighted	2	LogisticRegression	CDDD	Recall	0.53781
+Weighted	4	RandomForestClassifier	ChemBERTa	Recall	0.58002
+Unweighted	4	RandomForestClassifier	ChemBERTa	Recall	0.59242
+Weighted	1	RandomForestClassifier	ChemBERTa	Recall	0.47883
+Unweighted	1	RandomForestClassifier	ChemBERTa	Recall	0.46577
+Weighted	0	RandomForestClassifier	ChemBERTa	Recall	0.73388
+Unweighted	0	RandomForestClassifier	ChemBERTa	Recall	0.68848
+Weighted	3	RandomForestClassifier	ChemBERTa	Recall	0.38356
+Unweighted	3	RandomForestClassifier	ChemBERTa	Recall	0.39032
+Weighted	2	RandomForestClassifier	ChemBERTa	Recall	0.7193
+Unweighted	2	RandomForestClassifier	ChemBERTa	Recall	0.67358
+Weighted	1	RandomForestClassifier	RDKit	Recall	0.55693
+Unweighted	1	RandomForestClassifier	RDKit	Recall	0.53939
+Weighted	3	RandomForestClassifier	RDKit	Recall	0.56334
+Unweighted	3	RandomForestClassifier	RDKit	Recall	0.55397
+Weighted	4	RandomForestClassifier	RDKit	Recall	0.54845
+Unweighted	4	RandomForestClassifier	RDKit	Recall	0.5635
+Weighted	0	RandomForestClassifier	RDKit	Recall	0.59894
+Unweighted	0	RandomForestClassifier	RDKit	Recall	0.5783
+Weighted	2	RandomForestClassifier	RDKit	Recall	0.53251
+Unweighted	2	RandomForestClassifier	RDKit	Recall	0.5357
+Weighted	1	RandomForestClassifier	MACCS	Recall	0.36782
+Unweighted	1	RandomForestClassifier	MACCS	Recall	0.35948
+Weighted	3	RandomForestClassifier	MACCS	Recall	0.46317
+Unweighted	3	RandomForestClassifier	MACCS	Recall	0.43816
+Weighted	4	RandomForestClassifier	MACCS	Recall	0.59046
+Unweighted	4	RandomForestClassifier	MACCS	Recall	0.59242
+Weighted	0	RandomForestClassifier	MACCS	Recall	0.70941
+Unweighted	0	RandomForestClassifier	MACCS	Recall	0.69449
+Weighted	2	RandomForestClassifier	MACCS	Recall	0.72441
+Unweighted	2	RandomForestClassifier	MACCS	Recall	0.66338
+Weighted	1	RandomForestClassifier	Klek	Recall	0.33883
+Unweighted	1	RandomForestClassifier	Klek	Recall	0.32989
+Weighted	3	RandomForestClassifier	Klek	Recall	0.49304
+Unweighted	3	RandomForestClassifier	Klek	Recall	0.49592
+Weighted	4	RandomForestClassifier	Klek	Recall	0.5146
+Unweighted	4	RandomForestClassifier	Klek	Recall	0.51762
+Weighted	0	RandomForestClassifier	Klek	Recall	0.46186
+Unweighted	0	RandomForestClassifier	Klek	Recall	0.46878
+Weighted	2	RandomForestClassifier	Klek	Recall	0.41988
+Unweighted	2	RandomForestClassifier	Klek	Recall	0.4235
+Weighted	3	RandomForestClassifier	ECFP	Recall	0.35062
+Unweighted	3	RandomForestClassifier	ECFP	Recall	0.3416
+Weighted	1	RandomForestClassifier	ECFP	Recall	0.31985
+Unweighted	1	RandomForestClassifier	ECFP	Recall	0.31132
+Weighted	4	RandomForestClassifier	ECFP	Recall	0.53428
+Unweighted	4	RandomForestClassifier	ECFP	Recall	0.55386
+Weighted	0	RandomForestClassifier	ECFP	Recall	0.43844
+Unweighted	0	RandomForestClassifier	ECFP	Recall	0.43472
+Weighted	2	RandomForestClassifier	ECFP	Recall	0.50141
+Unweighted	2	RandomForestClassifier	ECFP	Recall	0.46746
+Weighted	4	RandomForestClassifier	CDDD	Recall	0.60802
+Unweighted	4	RandomForestClassifier	CDDD	Recall	0.62001
+Weighted	0	RandomForestClassifier	CDDD	Recall	0.53015
+Unweighted	0	RandomForestClassifier	CDDD	Recall	0.5379
+Weighted	2	RandomForestClassifier	CDDD	Recall	0.62939
+Unweighted	2	RandomForestClassifier	CDDD	Recall	0.61766
+Weighted	3	RandomForestClassifier	CDDD	Recall	0.55209
+Unweighted	3	RandomForestClassifier	CDDD	Recall	0.5528
+Weighted	1	RandomForestClassifier	CDDD	Recall	0.47885
+Unweighted	1	RandomForestClassifier	CDDD	Recall	0.4472
+Weighted	1	XGBClassifier	ChemBERTa	Specificity	0.59609
+Unweighted	1	XGBClassifier	ChemBERTa	Specificity	0.58598
+Weighted	3	XGBClassifier	ChemBERTa	Specificity	0.58838
+Unweighted	3	XGBClassifier	ChemBERTa	Specificity	0.57992
+Weighted	4	XGBClassifier	ChemBERTa	Specificity	0.49111
+Unweighted	4	XGBClassifier	ChemBERTa	Specificity	0.51122
+Weighted	0	XGBClassifier	ChemBERTa	Specificity	0.49733
+Unweighted	0	XGBClassifier	ChemBERTa	Specificity	0.50867
+Weighted	2	XGBClassifier	ChemBERTa	Specificity	0.56834
+Unweighted	2	XGBClassifier	ChemBERTa	Specificity	0.54591
+Weighted	1	XGBClassifier	RDKit	Specificity	0.60372
+Unweighted	1	XGBClassifier	RDKit	Specificity	0.58497
+Weighted	3	XGBClassifier	RDKit	Specificity	0.61023
+Unweighted	3	XGBClassifier	RDKit	Specificity	0.58443
+Weighted	4	XGBClassifier	RDKit	Specificity	0.60716
+Unweighted	4	XGBClassifier	RDKit	Specificity	0.61433
+Weighted	0	XGBClassifier	RDKit	Specificity	0.62953
+Unweighted	0	XGBClassifier	RDKit	Specificity	0.63138
+Weighted	2	XGBClassifier	RDKit	Specificity	0.63236
+Unweighted	2	XGBClassifier	RDKit	Specificity	0.59508
+Weighted	1	XGBClassifier	MACCS	Specificity	0.64205
+Unweighted	1	XGBClassifier	MACCS	Specificity	0.62532
+Weighted	3	XGBClassifier	MACCS	Specificity	0.6076
+Unweighted	3	XGBClassifier	MACCS	Specificity	0.60943
+Weighted	4	XGBClassifier	MACCS	Specificity	0.61421
+Unweighted	4	XGBClassifier	MACCS	Specificity	0.61196
+Weighted	0	XGBClassifier	MACCS	Specificity	0.63736
+Unweighted	0	XGBClassifier	MACCS	Specificity	0.63981
+Weighted	2	XGBClassifier	MACCS	Specificity	0.6376
+Unweighted	2	XGBClassifier	MACCS	Specificity	0.62569
+Weighted	1	XGBClassifier	Klek	Specificity	0.75053
+Unweighted	1	XGBClassifier	Klek	Specificity	0.73172
+Weighted	3	XGBClassifier	Klek	Specificity	0.63734
+Unweighted	3	XGBClassifier	Klek	Specificity	0.61434
+Weighted	4	XGBClassifier	Klek	Specificity	0.61975
+Unweighted	4	XGBClassifier	Klek	Specificity	0.60488
+Weighted	0	XGBClassifier	Klek	Specificity	0.52994
+Unweighted	0	XGBClassifier	Klek	Specificity	0.53958
+Weighted	2	XGBClassifier	Klek	Specificity	0.56413
+Unweighted	2	XGBClassifier	Klek	Specificity	0.56046
+Weighted	1	XGBClassifier	ECFP	Specificity	0.60058
+Unweighted	1	XGBClassifier	ECFP	Specificity	0.61775
+Weighted	3	XGBClassifier	ECFP	Specificity	0.62889
+Unweighted	3	XGBClassifier	ECFP	Specificity	0.63525
+Weighted	4	XGBClassifier	ECFP	Specificity	0.61561
+Unweighted	4	XGBClassifier	ECFP	Specificity	0.5974
+Weighted	0	XGBClassifier	ECFP	Specificity	0.68609
+Unweighted	0	XGBClassifier	ECFP	Specificity	0.68244
+Weighted	2	XGBClassifier	ECFP	Specificity	0.54858
+Unweighted	2	XGBClassifier	ECFP	Specificity	0.53387
+Weighted	1	XGBClassifier	CDDD	Specificity	0.65188
+Unweighted	1	XGBClassifier	CDDD	Specificity	0.63944
+Weighted	3	XGBClassifier	CDDD	Specificity	0.55701
+Unweighted	3	XGBClassifier	CDDD	Specificity	0.54549
+Weighted	4	XGBClassifier	CDDD	Specificity	0.58414
+Unweighted	4	XGBClassifier	CDDD	Specificity	0.55411
+Weighted	0	XGBClassifier	CDDD	Specificity	0.58955
+Unweighted	0	XGBClassifier	CDDD	Specificity	0.61124
+Weighted	2	XGBClassifier	CDDD	Specificity	0.57844
+Unweighted	2	XGBClassifier	CDDD	Specificity	0.56749
+Weighted	1	LogisticRegression	ChemBERTa	Specificity	0.49572
+Unweighted	1	LogisticRegression	ChemBERTa	Specificity	0.49017
+Weighted	0	LogisticRegression	ChemBERTa	Specificity	0.43267
+Unweighted	0	LogisticRegression	ChemBERTa	Specificity	0.45199
+Weighted	3	LogisticRegression	ChemBERTa	Specificity	0.57868
+Unweighted	3	LogisticRegression	ChemBERTa	Specificity	0.56311
+Weighted	2	LogisticRegression	ChemBERTa	Specificity	0.5084
+Unweighted	2	LogisticRegression	ChemBERTa	Specificity	0.50025
+Weighted	4	LogisticRegression	ChemBERTa	Specificity	0.45414
+Unweighted	4	LogisticRegression	ChemBERTa	Specificity	0.49115
+Weighted	3	LogisticRegression	RDKit	Specificity	0.54336
+Unweighted	3	LogisticRegression	RDKit	Specificity	0.52459
+Weighted	1	LogisticRegression	RDKit	Specificity	0.68446
+Unweighted	1	LogisticRegression	RDKit	Specificity	0.6465
+Weighted	4	LogisticRegression	RDKit	Specificity	0.56991
+Unweighted	4	LogisticRegression	RDKit	Specificity	0.55214
+Weighted	0	LogisticRegression	RDKit	Specificity	0.63533
+Unweighted	0	LogisticRegression	RDKit	Specificity	0.6267
+Weighted	2	LogisticRegression	RDKit	Specificity	0.64242
+Unweighted	2	LogisticRegression	RDKit	Specificity	0.60462
+Weighted	1	LogisticRegression	MACCS	Specificity	0.69624
+Unweighted	1	LogisticRegression	MACCS	Specificity	0.67524
+Weighted	3	LogisticRegression	MACCS	Specificity	0.62473
+Unweighted	3	LogisticRegression	MACCS	Specificity	0.65451
+Weighted	4	LogisticRegression	MACCS	Specificity	0.57635
+Unweighted	4	LogisticRegression	MACCS	Specificity	0.59662
+Weighted	0	LogisticRegression	MACCS	Specificity	0.5594
+Unweighted	0	LogisticRegression	MACCS	Specificity	0.5644
+Weighted	2	LogisticRegression	MACCS	Specificity	0.49714
+Unweighted	2	LogisticRegression	MACCS	Specificity	0.50075
+Weighted	1	LogisticRegression	Klek	Specificity	0.77092
+Unweighted	1	LogisticRegression	Klek	Specificity	0.73828
+Weighted	4	LogisticRegression	Klek	Specificity	0.66475
+Unweighted	4	LogisticRegression	Klek	Specificity	0.63636
+Weighted	0	LogisticRegression	Klek	Specificity	0.57996
+Unweighted	0	LogisticRegression	Klek	Specificity	0.57424
+Weighted	3	LogisticRegression	Klek	Specificity	0.53364
+Unweighted	3	LogisticRegression	Klek	Specificity	0.51926
+Weighted	2	LogisticRegression	Klek	Specificity	0.67135
+Unweighted	2	LogisticRegression	Klek	Specificity	0.63522
+Weighted	3	LogisticRegression	ECFP	Specificity	0.60429
+Unweighted	3	LogisticRegression	ECFP	Specificity	0.63115
+Weighted	1	LogisticRegression	ECFP	Specificity	0.67484
+Unweighted	1	LogisticRegression	ECFP	Specificity	0.67726
+Weighted	4	LogisticRegression	ECFP	Specificity	0.62522
+Unweighted	4	LogisticRegression	ECFP	Specificity	0.6096
+Weighted	0	LogisticRegression	ECFP	Specificity	0.54078
+Unweighted	0	LogisticRegression	ECFP	Specificity	0.53864
+Weighted	2	LogisticRegression	ECFP	Specificity	0.5627
+Unweighted	2	LogisticRegression	ECFP	Specificity	0.54089
+Weighted	1	LogisticRegression	CDDD	Specificity	0.63197
+Unweighted	1	LogisticRegression	CDDD	Specificity	0.61372
+Weighted	3	LogisticRegression	CDDD	Specificity	0.6673
+Unweighted	3	LogisticRegression	CDDD	Specificity	0.65164
+Weighted	4	LogisticRegression	CDDD	Specificity	0.47338
+Unweighted	4	LogisticRegression	CDDD	Specificity	0.44392
+Weighted	0	LogisticRegression	CDDD	Specificity	0.54599
+Unweighted	0	LogisticRegression	CDDD	Specificity	0.57143
+Weighted	2	LogisticRegression	CDDD	Specificity	0.51328
+Unweighted	2	LogisticRegression	CDDD	Specificity	0.50527
+Weighted	4	RandomForestClassifier	ChemBERTa	Specificity	0.54125
+Unweighted	4	RandomForestClassifier	ChemBERTa	Specificity	0.53955
+Weighted	1	RandomForestClassifier	ChemBERTa	Specificity	0.65161
+Unweighted	1	RandomForestClassifier	ChemBERTa	Specificity	0.61876
+Weighted	0	RandomForestClassifier	ChemBERTa	Specificity	0.33007
+Unweighted	0	RandomForestClassifier	ChemBERTa	Specificity	0.3466
+Weighted	3	RandomForestClassifier	ChemBERTa	Specificity	0.58963
+Unweighted	3	RandomForestClassifier	ChemBERTa	Specificity	0.58811
+Weighted	2	RandomForestClassifier	ChemBERTa	Specificity	0.48092
+Unweighted	2	RandomForestClassifier	ChemBERTa	Specificity	0.44155
+Weighted	1	RandomForestClassifier	RDKit	Specificity	0.53848
+Unweighted	1	RandomForestClassifier	RDKit	Specificity	0.50227
+Weighted	3	RandomForestClassifier	RDKit	Specificity	0.51097
+Unweighted	3	RandomForestClassifier	RDKit	Specificity	0.52213
+Weighted	4	RandomForestClassifier	RDKit	Specificity	0.6118
+Unweighted	4	RandomForestClassifier	RDKit	Specificity	0.58638
+Weighted	0	RandomForestClassifier	RDKit	Specificity	0.49491
+Unweighted	0	RandomForestClassifier	RDKit	Specificity	0.49602
+Weighted	2	RandomForestClassifier	RDKit	Specificity	0.70104
+Unweighted	2	RandomForestClassifier	RDKit	Specificity	0.66784
+Weighted	1	RandomForestClassifier	MACCS	Specificity	0.71134
+Unweighted	1	RandomForestClassifier	MACCS	Specificity	0.69339
+Weighted	3	RandomForestClassifier	MACCS	Specificity	0.58248
+Unweighted	3	RandomForestClassifier	MACCS	Specificity	0.59795
+Weighted	4	RandomForestClassifier	MACCS	Specificity	0.49811
+Unweighted	4	RandomForestClassifier	MACCS	Specificity	0.48603
+Weighted	0	RandomForestClassifier	MACCS	Specificity	0.42114
+Unweighted	0	RandomForestClassifier	MACCS	Specificity	0.40281
+Weighted	2	RandomForestClassifier	MACCS	Specificity	0.51143
+Unweighted	2	RandomForestClassifier	MACCS	Specificity	0.48971
+Weighted	1	RandomForestClassifier	Klek	Specificity	0.81476
+Unweighted	1	RandomForestClassifier	Klek	Specificity	0.77862
+Weighted	3	RandomForestClassifier	Klek	Specificity	0.70016
+Unweighted	3	RandomForestClassifier	Klek	Specificity	0.65902
+Weighted	4	RandomForestClassifier	Klek	Specificity	0.59197
+Unweighted	4	RandomForestClassifier	Klek	Specificity	0.60645
+Weighted	0	RandomForestClassifier	Klek	Specificity	0.63204
+Unweighted	0	RandomForestClassifier	Klek	Specificity	0.60796
+Weighted	2	RandomForestClassifier	Klek	Specificity	0.78487
+Unweighted	2	RandomForestClassifier	Klek	Specificity	0.75464
+Weighted	3	RandomForestClassifier	ECFP	Specificity	0.75981
+Unweighted	3	RandomForestClassifier	ECFP	Specificity	0.74836
+Weighted	1	RandomForestClassifier	ECFP	Specificity	0.74898
+Unweighted	1	RandomForestClassifier	ECFP	Specificity	0.74584
+Weighted	4	RandomForestClassifier	ECFP	Specificity	0.58981
+Unweighted	4	RandomForestClassifier	ECFP	Specificity	0.57851
+Weighted	0	RandomForestClassifier	ECFP	Specificity	0.75192
+Unweighted	0	RandomForestClassifier	ECFP	Specificity	0.7377
+Weighted	2	RandomForestClassifier	ECFP	Specificity	0.65493
+Unweighted	2	RandomForestClassifier	ECFP	Specificity	0.6292
+Weighted	4	RandomForestClassifier	CDDD	Specificity	0.55495
+Unweighted	4	RandomForestClassifier	CDDD	Specificity	0.51555
+Weighted	0	RandomForestClassifier	CDDD	Specificity	0.57168
+Unweighted	0	RandomForestClassifier	CDDD	Specificity	0.56487
+Weighted	2	RandomForestClassifier	CDDD	Specificity	0.55872
+Unweighted	2	RandomForestClassifier	CDDD	Specificity	0.53236
+Weighted	3	RandomForestClassifier	CDDD	Specificity	0.59147
+Unweighted	3	RandomForestClassifier	CDDD	Specificity	0.57951
+Weighted	1	RandomForestClassifier	CDDD	Specificity	0.62756
+Unweighted	1	RandomForestClassifier	CDDD	Specificity	0.60161
+Weighted	1	XGBClassifier	ChemBERTa	HarmRS	0.54683
+Unweighted	1	XGBClassifier	ChemBERTa	HarmRS	0.51557
+Weighted	3	XGBClassifier	ChemBERTa	HarmRS	0.56015
+Unweighted	3	XGBClassifier	ChemBERTa	HarmRS	0.52201
+Weighted	4	XGBClassifier	ChemBERTa	HarmRS	0.54919
+Unweighted	4	XGBClassifier	ChemBERTa	HarmRS	0.54826
+Weighted	0	XGBClassifier	ChemBERTa	HarmRS	0.52229
+Unweighted	0	XGBClassifier	ChemBERTa	HarmRS	0.51518
+Weighted	2	XGBClassifier	ChemBERTa	HarmRS	0.57256
+Unweighted	2	XGBClassifier	ChemBERTa	HarmRS	0.54414
+Weighted	1	XGBClassifier	RDKit	HarmRS	0.55741
+Unweighted	1	XGBClassifier	RDKit	HarmRS	0.52703
+Weighted	3	XGBClassifier	RDKit	HarmRS	0.58549
+Unweighted	3	XGBClassifier	RDKit	HarmRS	0.55366
+Weighted	4	XGBClassifier	RDKit	HarmRS	0.58591
+Unweighted	4	XGBClassifier	RDKit	HarmRS	0.57187
+Weighted	0	XGBClassifier	RDKit	HarmRS	0.55173
+Unweighted	0	XGBClassifier	RDKit	HarmRS	0.5323
+Weighted	2	XGBClassifier	RDKit	HarmRS	0.64251
+Unweighted	2	XGBClassifier	RDKit	HarmRS	0.59826
+Weighted	1	XGBClassifier	MACCS	HarmRS	0.57762
+Unweighted	1	XGBClassifier	MACCS	HarmRS	0.54653
+Weighted	3	XGBClassifier	MACCS	HarmRS	0.57237
+Unweighted	3	XGBClassifier	MACCS	HarmRS	0.54967
+Weighted	4	XGBClassifier	MACCS	HarmRS	0.58749
+Unweighted	4	XGBClassifier	MACCS	HarmRS	0.55693
+Weighted	0	XGBClassifier	MACCS	HarmRS	0.53141
+Unweighted	0	XGBClassifier	MACCS	HarmRS	0.52797
+Weighted	2	XGBClassifier	MACCS	HarmRS	0.65472
+Unweighted	2	XGBClassifier	MACCS	HarmRS	0.61225
+Weighted	1	XGBClassifier	Klek	HarmRS	0.50051
+Unweighted	1	XGBClassifier	Klek	HarmRS	0.45574
+Weighted	3	XGBClassifier	Klek	HarmRS	0.59304
+Unweighted	3	XGBClassifier	Klek	HarmRS	0.55676
+Weighted	4	XGBClassifier	Klek	HarmRS	0.55695
+Unweighted	4	XGBClassifier	Klek	HarmRS	0.54866
+Weighted	0	XGBClassifier	Klek	HarmRS	0.5414
+Unweighted	0	XGBClassifier	Klek	HarmRS	0.54041
+Weighted	2	XGBClassifier	Klek	HarmRS	0.60062
+Unweighted	2	XGBClassifier	Klek	HarmRS	0.56597
+Weighted	1	XGBClassifier	ECFP	HarmRS	0.55607
+Unweighted	1	XGBClassifier	ECFP	HarmRS	0.52524
+Weighted	3	XGBClassifier	ECFP	HarmRS	0.57033
+Unweighted	3	XGBClassifier	ECFP	HarmRS	0.53146
+Weighted	4	XGBClassifier	ECFP	HarmRS	0.59013
+Unweighted	4	XGBClassifier	ECFP	HarmRS	0.58241
+Weighted	0	XGBClassifier	ECFP	HarmRS	0.5724
+Unweighted	0	XGBClassifier	ECFP	HarmRS	0.54963
+Weighted	2	XGBClassifier	ECFP	HarmRS	0.62022
+Unweighted	2	XGBClassifier	ECFP	HarmRS	0.58596
+Weighted	1	XGBClassifier	CDDD	HarmRS	0.53577
+Unweighted	1	XGBClassifier	CDDD	HarmRS	0.50399
+Weighted	3	XGBClassifier	CDDD	HarmRS	0.58306
+Unweighted	3	XGBClassifier	CDDD	HarmRS	0.55524
+Weighted	4	XGBClassifier	CDDD	HarmRS	0.60437
+Unweighted	4	XGBClassifier	CDDD	HarmRS	0.57755
+Weighted	0	XGBClassifier	CDDD	HarmRS	0.60517
+Unweighted	0	XGBClassifier	CDDD	HarmRS	0.5797
+Weighted	2	XGBClassifier	CDDD	HarmRS	0.62601
+Unweighted	2	XGBClassifier	CDDD	HarmRS	0.59867
+Weighted	1	LogisticRegression	ChemBERTa	HarmRS	0.46207
+Unweighted	1	LogisticRegression	ChemBERTa	HarmRS	0.45279
+Weighted	0	LogisticRegression	ChemBERTa	HarmRS	0.46508
+Unweighted	0	LogisticRegression	ChemBERTa	HarmRS	0.46782
+Weighted	3	LogisticRegression	ChemBERTa	HarmRS	0.50681
+Unweighted	3	LogisticRegression	ChemBERTa	HarmRS	0.49869
+Weighted	2	LogisticRegression	ChemBERTa	HarmRS	0.48364
+Unweighted	2	LogisticRegression	ChemBERTa	HarmRS	0.48518
+Weighted	4	LogisticRegression	ChemBERTa	HarmRS	0.48453
+Unweighted	4	LogisticRegression	ChemBERTa	HarmRS	0.48992
+Weighted	3	LogisticRegression	RDKit	HarmRS	0.547
+Unweighted	3	LogisticRegression	RDKit	HarmRS	0.53316
+Weighted	1	LogisticRegression	RDKit	HarmRS	0.51147
+Unweighted	1	LogisticRegression	RDKit	HarmRS	0.48471
+Weighted	4	LogisticRegression	RDKit	HarmRS	0.55459
+Unweighted	4	LogisticRegression	RDKit	HarmRS	0.54983
+Weighted	0	LogisticRegression	RDKit	HarmRS	0.53414
+Unweighted	0	LogisticRegression	RDKit	HarmRS	0.52996
+Weighted	2	LogisticRegression	RDKit	HarmRS	0.60443
+Unweighted	2	LogisticRegression	RDKit	HarmRS	0.57083
+Weighted	1	LogisticRegression	MACCS	HarmRS	0.53382
+Unweighted	1	LogisticRegression	MACCS	HarmRS	0.51685
+Weighted	3	LogisticRegression	MACCS	HarmRS	0.50327
+Unweighted	3	LogisticRegression	MACCS	HarmRS	0.48809
+Weighted	4	LogisticRegression	MACCS	HarmRS	0.53247
+Unweighted	4	LogisticRegression	MACCS	HarmRS	0.52667
+Weighted	0	LogisticRegression	MACCS	HarmRS	0.55237
+Unweighted	0	LogisticRegression	MACCS	HarmRS	0.54122
+Weighted	2	LogisticRegression	MACCS	HarmRS	0.50311
+Unweighted	2	LogisticRegression	MACCS	HarmRS	0.4935
+Weighted	1	LogisticRegression	Klek	HarmRS	0.46165
+Unweighted	1	LogisticRegression	Klek	HarmRS	0.42799
+Weighted	4	LogisticRegression	Klek	HarmRS	0.57122
+Unweighted	4	LogisticRegression	Klek	HarmRS	0.56967
+Weighted	0	LogisticRegression	Klek	HarmRS	0.55383
+Unweighted	0	LogisticRegression	Klek	HarmRS	0.54972
+Weighted	3	LogisticRegression	Klek	HarmRS	0.52601
+Unweighted	3	LogisticRegression	Klek	HarmRS	0.50114
+Weighted	2	LogisticRegression	Klek	HarmRS	0.62513
+Unweighted	2	LogisticRegression	Klek	HarmRS	0.59403
+Weighted	3	LogisticRegression	ECFP	HarmRS	0.48866
+Unweighted	3	LogisticRegression	ECFP	HarmRS	0.47356
+Weighted	1	LogisticRegression	ECFP	HarmRS	0.54486
+Unweighted	1	LogisticRegression	ECFP	HarmRS	0.5076
+Weighted	4	LogisticRegression	ECFP	HarmRS	0.59009
+Unweighted	4	LogisticRegression	ECFP	HarmRS	0.58294
+Weighted	0	LogisticRegression	ECFP	HarmRS	0.5816
+Unweighted	0	LogisticRegression	ECFP	HarmRS	0.56901
+Weighted	2	LogisticRegression	ECFP	HarmRS	0.59381
+Unweighted	2	LogisticRegression	ECFP	HarmRS	0.56124
+Weighted	1	LogisticRegression	CDDD	HarmRS	0.4761
+Unweighted	1	LogisticRegression	CDDD	HarmRS	0.47467
+Weighted	3	LogisticRegression	CDDD	HarmRS	0.47361
+Unweighted	3	LogisticRegression	CDDD	HarmRS	0.48292
+Weighted	4	LogisticRegression	CDDD	HarmRS	0.54821
+Unweighted	4	LogisticRegression	CDDD	HarmRS	0.52421
+Weighted	0	LogisticRegression	CDDD	HarmRS	0.54478
+Unweighted	0	LogisticRegression	CDDD	HarmRS	0.54753
+Weighted	2	LogisticRegression	CDDD	HarmRS	0.53279
+Unweighted	2	LogisticRegression	CDDD	HarmRS	0.52103
+Weighted	4	RandomForestClassifier	ChemBERTa	HarmRS	0.55997
+Unweighted	4	RandomForestClassifier	ChemBERTa	HarmRS	0.56475
+Weighted	1	RandomForestClassifier	ChemBERTa	HarmRS	0.55201
+Unweighted	1	RandomForestClassifier	ChemBERTa	HarmRS	0.53148
+Weighted	0	RandomForestClassifier	ChemBERTa	HarmRS	0.45535
+Unweighted	0	RandomForestClassifier	ChemBERTa	HarmRS	0.46108
+Weighted	3	RandomForestClassifier	ChemBERTa	HarmRS	0.46478
+Unweighted	3	RandomForestClassifier	ChemBERTa	HarmRS	0.46922
+Weighted	2	RandomForestClassifier	ChemBERTa	HarmRS	0.57644
+Unweighted	2	RandomForestClassifier	ChemBERTa	HarmRS	0.53342
+Weighted	1	RandomForestClassifier	RDKit	HarmRS	0.54755
+Unweighted	1	RandomForestClassifier	RDKit	HarmRS	0.52017
+Weighted	3	RandomForestClassifier	RDKit	HarmRS	0.53588
+Unweighted	3	RandomForestClassifier	RDKit	HarmRS	0.53758
+Weighted	4	RandomForestClassifier	RDKit	HarmRS	0.57839
+Unweighted	4	RandomForestClassifier	RDKit	HarmRS	0.57471
+Weighted	0	RandomForestClassifier	RDKit	HarmRS	0.54198
+Unweighted	0	RandomForestClassifier	RDKit	HarmRS	0.53401
+Weighted	2	RandomForestClassifier	RDKit	HarmRS	0.60526
+Unweighted	2	RandomForestClassifier	RDKit	HarmRS	0.59452
+Weighted	1	RandomForestClassifier	MACCS	HarmRS	0.4849
+Unweighted	1	RandomForestClassifier	MACCS	HarmRS	0.47348
+Weighted	3	RandomForestClassifier	MACCS	HarmRS	0.51602
+Unweighted	3	RandomForestClassifier	MACCS	HarmRS	0.50573
+Weighted	4	RandomForestClassifier	MACCS	HarmRS	0.54037
+Unweighted	4	RandomForestClassifier	MACCS	HarmRS	0.53398
+Weighted	0	RandomForestClassifier	MACCS	HarmRS	0.52852
+Unweighted	0	RandomForestClassifier	MACCS	HarmRS	0.50988
+Weighted	2	RandomForestClassifier	MACCS	HarmRS	0.59957
+Unweighted	2	RandomForestClassifier	MACCS	HarmRS	0.56347
+Weighted	1	RandomForestClassifier	Klek	HarmRS	0.47862
+Unweighted	1	RandomForestClassifier	Klek	HarmRS	0.46343
+Weighted	3	RandomForestClassifier	Klek	HarmRS	0.57863
+Unweighted	3	RandomForestClassifier	Klek	HarmRS	0.56595
+Weighted	4	RandomForestClassifier	Klek	HarmRS	0.55058
+Unweighted	4	RandomForestClassifier	Klek	HarmRS	0.55853
+Weighted	0	RandomForestClassifier	Klek	HarmRS	0.53371
+Unweighted	0	RandomForestClassifier	Klek	HarmRS	0.52938
+Weighted	2	RandomForestClassifier	Klek	HarmRS	0.54709
+Unweighted	2	RandomForestClassifier	Klek	HarmRS	0.54253
+Weighted	3	RandomForestClassifier	ECFP	HarmRS	0.47983
+Unweighted	3	RandomForestClassifier	ECFP	HarmRS	0.46908
+Weighted	1	RandomForestClassifier	ECFP	HarmRS	0.44827
+Unweighted	1	RandomForestClassifier	ECFP	HarmRS	0.43928
+Weighted	4	RandomForestClassifier	ECFP	HarmRS	0.56067
+Unweighted	4	RandomForestClassifier	ECFP	HarmRS	0.56592
+Weighted	0	RandomForestClassifier	ECFP	HarmRS	0.5539
+Unweighted	0	RandomForestClassifier	ECFP	HarmRS	0.54707
+Weighted	2	RandomForestClassifier	ECFP	HarmRS	0.56798
+Unweighted	2	RandomForestClassifier	ECFP	HarmRS	0.53641
+Weighted	4	RandomForestClassifier	CDDD	HarmRS	0.58028
+Unweighted	4	RandomForestClassifier	CDDD	HarmRS	0.56297
+Weighted	0	RandomForestClassifier	CDDD	HarmRS	0.55013
+Unweighted	0	RandomForestClassifier	CDDD	HarmRS	0.55105
+Weighted	2	RandomForestClassifier	CDDD	HarmRS	0.59195
+Unweighted	2	RandomForestClassifier	CDDD	HarmRS	0.57185
+Weighted	3	RandomForestClassifier	CDDD	HarmRS	0.5711
+Unweighted	3	RandomForestClassifier	CDDD	HarmRS	0.56584
+Weighted	1	RandomForestClassifier	CDDD	HarmRS	0.54321
+Unweighted	1	RandomForestClassifier	CDDD	HarmRS	0.51304
+Weighted	1	XGBClassifier	ChemBERTa	ROC AUC	0.57545
+Unweighted	1	XGBClassifier	ChemBERTa	ROC AUC	0.53925
+Weighted	3	XGBClassifier	ChemBERTa	ROC AUC	0.56781
+Unweighted	3	XGBClassifier	ChemBERTa	ROC AUC	0.5296
+Weighted	4	XGBClassifier	ChemBERTa	ROC AUC	0.57746
+Unweighted	4	XGBClassifier	ChemBERTa	ROC AUC	0.57063
+Weighted	0	XGBClassifier	ChemBERTa	ROC AUC	0.53811
+Unweighted	0	XGBClassifier	ChemBERTa	ROC AUC	0.5195
+Weighted	2	XGBClassifier	ChemBERTa	ROC AUC	0.59863
+Unweighted	2	XGBClassifier	ChemBERTa	ROC AUC	0.56228
+Weighted	1	XGBClassifier	RDKit	ROC AUC	0.59113
+Unweighted	1	XGBClassifier	RDKit	ROC AUC	0.55475
+Weighted	3	XGBClassifier	RDKit	ROC AUC	0.59982
+Unweighted	3	XGBClassifier	RDKit	ROC AUC	0.56595
+Weighted	4	XGBClassifier	RDKit	ROC AUC	0.61543
+Unweighted	4	XGBClassifier	RDKit	ROC AUC	0.59914
+Weighted	0	XGBClassifier	RDKit	ROC AUC	0.59908
+Unweighted	0	XGBClassifier	RDKit	ROC AUC	0.57786
+Weighted	2	XGBClassifier	RDKit	ROC AUC	0.69592
+Unweighted	2	XGBClassifier	RDKit	ROC AUC	0.6473
+Weighted	1	XGBClassifier	MACCS	ROC AUC	0.5997
+Unweighted	1	XGBClassifier	MACCS	ROC AUC	0.56
+Weighted	3	XGBClassifier	MACCS	ROC AUC	0.6052
+Unweighted	3	XGBClassifier	MACCS	ROC AUC	0.57821
+Weighted	4	XGBClassifier	MACCS	ROC AUC	0.61511
+Unweighted	4	XGBClassifier	MACCS	ROC AUC	0.58289
+Weighted	0	XGBClassifier	MACCS	ROC AUC	0.56683
+Unweighted	0	XGBClassifier	MACCS	ROC AUC	0.55486
+Weighted	2	XGBClassifier	MACCS	ROC AUC	0.68979
+Unweighted	2	XGBClassifier	MACCS	ROC AUC	0.6361
+Weighted	1	XGBClassifier	Klek	ROC AUC	0.59769
+Unweighted	1	XGBClassifier	Klek	ROC AUC	0.54084
+Weighted	3	XGBClassifier	Klek	ROC AUC	0.62488
+Unweighted	3	XGBClassifier	Klek	ROC AUC	0.57719
+Weighted	4	XGBClassifier	Klek	ROC AUC	0.60712
+Unweighted	4	XGBClassifier	Klek	ROC AUC	0.58681
+Weighted	0	XGBClassifier	Klek	ROC AUC	0.58243
+Unweighted	0	XGBClassifier	Klek	ROC AUC	0.56541
+Weighted	2	XGBClassifier	Klek	ROC AUC	0.64116
+Unweighted	2	XGBClassifier	Klek	ROC AUC	0.59107
+Weighted	1	XGBClassifier	ECFP	ROC AUC	0.58097
+Unweighted	1	XGBClassifier	ECFP	ROC AUC	0.54927
+Weighted	3	XGBClassifier	ECFP	ROC AUC	0.5896
+Unweighted	3	XGBClassifier	ECFP	ROC AUC	0.55528
+Weighted	4	XGBClassifier	ECFP	ROC AUC	0.6088
+Unweighted	4	XGBClassifier	ECFP	ROC AUC	0.60621
+Weighted	0	XGBClassifier	ECFP	ROC AUC	0.62304
+Unweighted	0	XGBClassifier	ECFP	ROC AUC	0.60353
+Weighted	2	XGBClassifier	ECFP	ROC AUC	0.69134
+Unweighted	2	XGBClassifier	ECFP	ROC AUC	0.63303
+Weighted	1	XGBClassifier	CDDD	ROC AUC	0.57311
+Unweighted	1	XGBClassifier	CDDD	ROC AUC	0.53449
+Weighted	3	XGBClassifier	CDDD	ROC AUC	0.61698
+Unweighted	3	XGBClassifier	CDDD	ROC AUC	0.57619
+Weighted	4	XGBClassifier	CDDD	ROC AUC	0.63163
+Unweighted	4	XGBClassifier	CDDD	ROC AUC	0.60175
+Weighted	0	XGBClassifier	CDDD	ROC AUC	0.62802
+Unweighted	0	XGBClassifier	CDDD	ROC AUC	0.59799
+Weighted	2	XGBClassifier	CDDD	ROC AUC	0.67643
+Unweighted	2	XGBClassifier	CDDD	ROC AUC	0.63172
+Weighted	1	LogisticRegression	ChemBERTa	ROC AUC	0.47759
+Unweighted	1	LogisticRegression	ChemBERTa	ROC AUC	0.4522
+Weighted	0	LogisticRegression	ChemBERTa	ROC AUC	0.44816
+Unweighted	0	LogisticRegression	ChemBERTa	ROC AUC	0.4495
+Weighted	3	LogisticRegression	ChemBERTa	ROC AUC	0.53316
+Unweighted	3	LogisticRegression	ChemBERTa	ROC AUC	0.50952
+Weighted	2	LogisticRegression	ChemBERTa	ROC AUC	0.50028
+Unweighted	2	LogisticRegression	ChemBERTa	ROC AUC	0.4998
+Weighted	4	LogisticRegression	ChemBERTa	ROC AUC	0.46566
+Unweighted	4	LogisticRegression	ChemBERTa	ROC AUC	0.48039
+Weighted	3	LogisticRegression	RDKit	ROC AUC	0.56463
+Unweighted	3	LogisticRegression	RDKit	ROC AUC	0.55106
+Weighted	1	LogisticRegression	RDKit	ROC AUC	0.56117
+Unweighted	1	LogisticRegression	RDKit	ROC AUC	0.52939
+Weighted	4	LogisticRegression	RDKit	ROC AUC	0.58152
+Unweighted	4	LogisticRegression	RDKit	ROC AUC	0.58336
+Weighted	0	LogisticRegression	RDKit	ROC AUC	0.55465
+Unweighted	0	LogisticRegression	RDKit	ROC AUC	0.54816
+Weighted	2	LogisticRegression	RDKit	ROC AUC	0.65117
+Unweighted	2	LogisticRegression	RDKit	ROC AUC	0.60751
+Weighted	1	LogisticRegression	MACCS	ROC AUC	0.56562
+Unweighted	1	LogisticRegression	MACCS	ROC AUC	0.54124
+Weighted	3	LogisticRegression	MACCS	ROC AUC	0.54999
+Unweighted	3	LogisticRegression	MACCS	ROC AUC	0.54156
+Weighted	4	LogisticRegression	MACCS	ROC AUC	0.55823
+Unweighted	4	LogisticRegression	MACCS	ROC AUC	0.54675
+Weighted	0	LogisticRegression	MACCS	ROC AUC	0.55332
+Unweighted	0	LogisticRegression	MACCS	ROC AUC	0.54185
+Weighted	2	LogisticRegression	MACCS	ROC AUC	0.52798
+Unweighted	2	LogisticRegression	MACCS	ROC AUC	0.50332
+Weighted	1	LogisticRegression	Klek	ROC AUC	0.56596
+Unweighted	1	LogisticRegression	Klek	ROC AUC	0.53107
+Weighted	4	LogisticRegression	Klek	ROC AUC	0.59446
+Unweighted	4	LogisticRegression	Klek	ROC AUC	0.58263
+Weighted	0	LogisticRegression	Klek	ROC AUC	0.58906
+Unweighted	0	LogisticRegression	Klek	ROC AUC	0.57653
+Weighted	3	LogisticRegression	Klek	ROC AUC	0.52726
+Unweighted	3	LogisticRegression	Klek	ROC AUC	0.49867
+Weighted	2	LogisticRegression	Klek	ROC AUC	0.67782
+Unweighted	2	LogisticRegression	Klek	ROC AUC	0.63165
+Weighted	3	LogisticRegression	ECFP	ROC AUC	0.49347
+Unweighted	3	LogisticRegression	ECFP	ROC AUC	0.48896
+Weighted	1	LogisticRegression	ECFP	ROC AUC	0.57178
+Unweighted	1	LogisticRegression	ECFP	ROC AUC	0.5416
+Weighted	4	LogisticRegression	ECFP	ROC AUC	0.60823
+Unweighted	4	LogisticRegression	ECFP	ROC AUC	0.60221
+Weighted	0	LogisticRegression	ECFP	ROC AUC	0.6071
+Unweighted	0	LogisticRegression	ECFP	ROC AUC	0.58625
+Weighted	2	LogisticRegression	ECFP	ROC AUC	0.63084
+Unweighted	2	LogisticRegression	ECFP	ROC AUC	0.58966
+Weighted	1	LogisticRegression	CDDD	ROC AUC	0.54779
+Unweighted	1	LogisticRegression	CDDD	ROC AUC	0.52165
+Weighted	3	LogisticRegression	CDDD	ROC AUC	0.4955
+Unweighted	3	LogisticRegression	CDDD	ROC AUC	0.50731
+Weighted	4	LogisticRegression	CDDD	ROC AUC	0.59055
+Unweighted	4	LogisticRegression	CDDD	ROC AUC	0.56175
+Weighted	0	LogisticRegression	CDDD	ROC AUC	0.57922
+Unweighted	0	LogisticRegression	CDDD	ROC AUC	0.56908
+Weighted	2	LogisticRegression	CDDD	ROC AUC	0.58419
+Unweighted	2	LogisticRegression	CDDD	ROC AUC	0.56261
+Weighted	4	RandomForestClassifier	ChemBERTa	ROC AUC	0.53328
+Unweighted	4	RandomForestClassifier	ChemBERTa	ROC AUC	0.54731
+Weighted	1	RandomForestClassifier	ChemBERTa	ROC AUC	0.55075
+Unweighted	1	RandomForestClassifier	ChemBERTa	ROC AUC	0.52449
+Weighted	0	RandomForestClassifier	ChemBERTa	ROC AUC	0.57508
+Unweighted	0	RandomForestClassifier	ChemBERTa	ROC AUC	0.54695
+Weighted	3	RandomForestClassifier	ChemBERTa	ROC AUC	0.47228
+Unweighted	3	RandomForestClassifier	ChemBERTa	ROC AUC	0.47782
+Weighted	2	RandomForestClassifier	ChemBERTa	ROC AUC	0.62009
+Unweighted	2	RandomForestClassifier	ChemBERTa	ROC AUC	0.56498
+Weighted	1	RandomForestClassifier	RDKit	ROC AUC	0.57578
+Unweighted	1	RandomForestClassifier	RDKit	ROC AUC	0.55268
+Weighted	3	RandomForestClassifier	RDKit	ROC AUC	0.52168
+Unweighted	3	RandomForestClassifier	RDKit	ROC AUC	0.52571
+Weighted	4	RandomForestClassifier	RDKit	ROC AUC	0.60581
+Unweighted	4	RandomForestClassifier	RDKit	ROC AUC	0.59697
+Weighted	0	RandomForestClassifier	RDKit	ROC AUC	0.57942
+Unweighted	0	RandomForestClassifier	RDKit	ROC AUC	0.55908
+Weighted	2	RandomForestClassifier	RDKit	ROC AUC	0.66439
+Unweighted	2	RandomForestClassifier	RDKit	ROC AUC	0.63486
+Weighted	1	RandomForestClassifier	MACCS	ROC AUC	0.56015
+Unweighted	1	RandomForestClassifier	MACCS	ROC AUC	0.53579
+Weighted	3	RandomForestClassifier	MACCS	ROC AUC	0.54627
+Unweighted	3	RandomForestClassifier	MACCS	ROC AUC	0.54775
+Weighted	4	RandomForestClassifier	MACCS	ROC AUC	0.58579
+Unweighted	4	RandomForestClassifier	MACCS	ROC AUC	0.5709
+Weighted	0	RandomForestClassifier	MACCS	ROC AUC	0.61519
+Unweighted	0	RandomForestClassifier	MACCS	ROC AUC	0.59282
+Weighted	2	RandomForestClassifier	MACCS	ROC AUC	0.68294
+Unweighted	2	RandomForestClassifier	MACCS	ROC AUC	0.6304
+Weighted	1	RandomForestClassifier	Klek	ROC AUC	0.5885
+Unweighted	1	RandomForestClassifier	Klek	ROC AUC	0.54917
+Weighted	3	RandomForestClassifier	Klek	ROC AUC	0.61053
+Unweighted	3	RandomForestClassifier	Klek	ROC AUC	0.58614
+Weighted	4	RandomForestClassifier	Klek	ROC AUC	0.57741
+Unweighted	4	RandomForestClassifier	Klek	ROC AUC	0.58083
+Weighted	0	RandomForestClassifier	Klek	ROC AUC	0.59008
+Unweighted	0	RandomForestClassifier	Klek	ROC AUC	0.57128
+Weighted	2	RandomForestClassifier	Klek	ROC AUC	0.64086
+Unweighted	2	RandomForestClassifier	Klek	ROC AUC	0.61324
+Weighted	3	RandomForestClassifier	ECFP	ROC AUC	0.56177
+Unweighted	3	RandomForestClassifier	ECFP	ROC AUC	0.55416
+Weighted	1	RandomForestClassifier	ECFP	ROC AUC	0.55416
+Unweighted	1	RandomForestClassifier	ECFP	ROC AUC	0.53567
+Weighted	4	RandomForestClassifier	ECFP	ROC AUC	0.60923
+Unweighted	4	RandomForestClassifier	ECFP	ROC AUC	0.60514
+Weighted	0	RandomForestClassifier	ECFP	ROC AUC	0.62035
+Unweighted	0	RandomForestClassifier	ECFP	ROC AUC	0.60145
+Weighted	2	RandomForestClassifier	ECFP	ROC AUC	0.61464
+Unweighted	2	RandomForestClassifier	ECFP	ROC AUC	0.57259
+Weighted	4	RandomForestClassifier	CDDD	ROC AUC	0.59875
+Unweighted	4	RandomForestClassifier	CDDD	ROC AUC	0.58779
+Weighted	0	RandomForestClassifier	CDDD	ROC AUC	0.58954
+Unweighted	0	RandomForestClassifier	CDDD	ROC AUC	0.58318
+Weighted	2	RandomForestClassifier	CDDD	ROC AUC	0.65407
+Unweighted	2	RandomForestClassifier	CDDD	ROC AUC	0.62512
+Weighted	3	RandomForestClassifier	CDDD	ROC AUC	0.5657
+Unweighted	3	RandomForestClassifier	CDDD	ROC AUC	0.56312
+Weighted	1	RandomForestClassifier	CDDD	ROC AUC	0.58268
+Unweighted	1	RandomForestClassifier	CDDD	ROC AUC	0.54587
+Weighted	1	XGBClassifier	ChemBERTa	PRC AUC	0.59009
+Unweighted	1	XGBClassifier	ChemBERTa	PRC AUC	0.64301
+Weighted	3	XGBClassifier	ChemBERTa	PRC AUC	0.52456
+Unweighted	3	XGBClassifier	ChemBERTa	PRC AUC	0.60817
+Weighted	4	XGBClassifier	ChemBERTa	PRC AUC	0.54211
+Unweighted	4	XGBClassifier	ChemBERTa	PRC AUC	0.62274
+Weighted	0	XGBClassifier	ChemBERTa	PRC AUC	0.54327
+Unweighted	0	XGBClassifier	ChemBERTa	PRC AUC	0.62221
+Weighted	2	XGBClassifier	ChemBERTa	PRC AUC	0.5523
+Unweighted	2	XGBClassifier	ChemBERTa	PRC AUC	0.64797
+Weighted	1	XGBClassifier	RDKit	PRC AUC	0.59618
+Unweighted	1	XGBClassifier	RDKit	PRC AUC	0.65021
+Weighted	3	XGBClassifier	RDKit	PRC AUC	0.57815
+Unweighted	3	XGBClassifier	RDKit	PRC AUC	0.64773
+Weighted	4	XGBClassifier	RDKit	PRC AUC	0.5503
+Unweighted	4	XGBClassifier	RDKit	PRC AUC	0.62777
+Weighted	0	XGBClassifier	RDKit	PRC AUC	0.56789
+Unweighted	0	XGBClassifier	RDKit	PRC AUC	0.66123
+Weighted	2	XGBClassifier	RDKit	PRC AUC	0.65555
+Unweighted	2	XGBClassifier	RDKit	PRC AUC	0.71918
+Weighted	1	XGBClassifier	MACCS	PRC AUC	0.62181
+Unweighted	1	XGBClassifier	MACCS	PRC AUC	0.66745
+Weighted	3	XGBClassifier	MACCS	PRC AUC	0.58192
+Unweighted	3	XGBClassifier	MACCS	PRC AUC	0.66278
+Weighted	4	XGBClassifier	MACCS	PRC AUC	0.57039
+Unweighted	4	XGBClassifier	MACCS	PRC AUC	0.63009
+Weighted	0	XGBClassifier	MACCS	PRC AUC	0.5336
+Unweighted	0	XGBClassifier	MACCS	PRC AUC	0.63099
+Weighted	2	XGBClassifier	MACCS	PRC AUC	0.62446
+Unweighted	2	XGBClassifier	MACCS	PRC AUC	0.69595
+Weighted	1	XGBClassifier	Klek	PRC AUC	0.61579
+Unweighted	1	XGBClassifier	Klek	PRC AUC	0.64277
+Weighted	3	XGBClassifier	Klek	PRC AUC	0.58237
+Unweighted	3	XGBClassifier	Klek	PRC AUC	0.6449
+Weighted	4	XGBClassifier	Klek	PRC AUC	0.53067
+Unweighted	4	XGBClassifier	Klek	PRC AUC	0.61487
+Weighted	0	XGBClassifier	Klek	PRC AUC	0.5577
+Unweighted	0	XGBClassifier	Klek	PRC AUC	0.64306
+Weighted	2	XGBClassifier	Klek	PRC AUC	0.6058
+Unweighted	2	XGBClassifier	Klek	PRC AUC	0.67917
+Weighted	1	XGBClassifier	ECFP	PRC AUC	0.59764
+Unweighted	1	XGBClassifier	ECFP	PRC AUC	0.64408
+Weighted	3	XGBClassifier	ECFP	PRC AUC	0.57847
+Unweighted	3	XGBClassifier	ECFP	PRC AUC	0.64738
+Weighted	4	XGBClassifier	ECFP	PRC AUC	0.55571
+Unweighted	4	XGBClassifier	ECFP	PRC AUC	0.65072
+Weighted	0	XGBClassifier	ECFP	PRC AUC	0.56823
+Unweighted	0	XGBClassifier	ECFP	PRC AUC	0.65858
+Weighted	2	XGBClassifier	ECFP	PRC AUC	0.67247
+Unweighted	2	XGBClassifier	ECFP	PRC AUC	0.71995
+Weighted	1	XGBClassifier	CDDD	PRC AUC	0.58026
+Unweighted	1	XGBClassifier	CDDD	PRC AUC	0.63011
+Weighted	3	XGBClassifier	CDDD	PRC AUC	0.58797
+Unweighted	3	XGBClassifier	CDDD	PRC AUC	0.65357
+Weighted	4	XGBClassifier	CDDD	PRC AUC	0.53456
+Unweighted	4	XGBClassifier	CDDD	PRC AUC	0.62004
+Weighted	0	XGBClassifier	CDDD	PRC AUC	0.57584
+Unweighted	0	XGBClassifier	CDDD	PRC AUC	0.65523
+Weighted	2	XGBClassifier	CDDD	PRC AUC	0.64073
+Unweighted	2	XGBClassifier	CDDD	PRC AUC	0.70584
+Weighted	1	LogisticRegression	ChemBERTa	PRC AUC	0.4718
+Unweighted	1	LogisticRegression	ChemBERTa	PRC AUC	0.54915
+Weighted	0	LogisticRegression	ChemBERTa	PRC AUC	0.45285
+Unweighted	0	LogisticRegression	ChemBERTa	PRC AUC	0.56037
+Weighted	3	LogisticRegression	ChemBERTa	PRC AUC	0.49222
+Unweighted	3	LogisticRegression	ChemBERTa	PRC AUC	0.58516
+Weighted	2	LogisticRegression	ChemBERTa	PRC AUC	0.4963
+Unweighted	2	LogisticRegression	ChemBERTa	PRC AUC	0.6139
+Weighted	4	LogisticRegression	ChemBERTa	PRC AUC	0.41464
+Unweighted	4	LogisticRegression	ChemBERTa	PRC AUC	0.52509
+Weighted	3	LogisticRegression	RDKit	PRC AUC	0.5678
+Unweighted	3	LogisticRegression	RDKit	PRC AUC	0.64759
+Weighted	1	LogisticRegression	RDKit	PRC AUC	0.55592
+Unweighted	1	LogisticRegression	RDKit	PRC AUC	0.6201
+Weighted	4	LogisticRegression	RDKit	PRC AUC	0.55175
+Unweighted	4	LogisticRegression	RDKit	PRC AUC	0.64344
+Weighted	0	LogisticRegression	RDKit	PRC AUC	0.52317
+Unweighted	0	LogisticRegression	RDKit	PRC AUC	0.63092
+Weighted	2	LogisticRegression	RDKit	PRC AUC	0.62816
+Unweighted	2	LogisticRegression	RDKit	PRC AUC	0.69254
+Weighted	1	LogisticRegression	MACCS	PRC AUC	0.6177
+Unweighted	1	LogisticRegression	MACCS	PRC AUC	0.66186
+Weighted	3	LogisticRegression	MACCS	PRC AUC	0.53499
+Unweighted	3	LogisticRegression	MACCS	PRC AUC	0.62588
+Weighted	4	LogisticRegression	MACCS	PRC AUC	0.52284
+Unweighted	4	LogisticRegression	MACCS	PRC AUC	0.60409
+Weighted	0	LogisticRegression	MACCS	PRC AUC	0.50037
+Unweighted	0	LogisticRegression	MACCS	PRC AUC	0.601
+Weighted	2	LogisticRegression	MACCS	PRC AUC	0.48803
+Unweighted	2	LogisticRegression	MACCS	PRC AUC	0.59021
+Weighted	1	LogisticRegression	Klek	PRC AUC	0.5719
+Unweighted	1	LogisticRegression	Klek	PRC AUC	0.61972
+Weighted	4	LogisticRegression	Klek	PRC AUC	0.52868
+Unweighted	4	LogisticRegression	Klek	PRC AUC	0.61117
+Weighted	0	LogisticRegression	Klek	PRC AUC	0.55542
+Unweighted	0	LogisticRegression	Klek	PRC AUC	0.64537
+Weighted	3	LogisticRegression	Klek	PRC AUC	0.49608
+Unweighted	3	LogisticRegression	Klek	PRC AUC	0.58547
+Weighted	2	LogisticRegression	Klek	PRC AUC	0.64075
+Unweighted	2	LogisticRegression	Klek	PRC AUC	0.70593
+Weighted	3	LogisticRegression	ECFP	PRC AUC	0.51862
+Unweighted	3	LogisticRegression	ECFP	PRC AUC	0.60731
+Weighted	1	LogisticRegression	ECFP	PRC AUC	0.56835
+Unweighted	1	LogisticRegression	ECFP	PRC AUC	0.62166
+Weighted	4	LogisticRegression	ECFP	PRC AUC	0.52033
+Unweighted	4	LogisticRegression	ECFP	PRC AUC	0.61777
+Weighted	0	LogisticRegression	ECFP	PRC AUC	0.54728
+Unweighted	0	LogisticRegression	ECFP	PRC AUC	0.63199
+Weighted	2	LogisticRegression	ECFP	PRC AUC	0.59579
+Unweighted	2	LogisticRegression	ECFP	PRC AUC	0.67051
+Weighted	1	LogisticRegression	CDDD	PRC AUC	0.54928
+Unweighted	1	LogisticRegression	CDDD	PRC AUC	0.60508
+Weighted	3	LogisticRegression	CDDD	PRC AUC	0.47656
+Unweighted	3	LogisticRegression	CDDD	PRC AUC	0.59131
+Weighted	4	LogisticRegression	CDDD	PRC AUC	0.54048
+Unweighted	4	LogisticRegression	CDDD	PRC AUC	0.60661
+Weighted	0	LogisticRegression	CDDD	PRC AUC	0.56405
+Unweighted	0	LogisticRegression	CDDD	PRC AUC	0.65361
+Weighted	2	LogisticRegression	CDDD	PRC AUC	0.56322
+Unweighted	2	LogisticRegression	CDDD	PRC AUC	0.65592
+Weighted	4	RandomForestClassifier	ChemBERTa	PRC AUC	0.45809
+Unweighted	4	RandomForestClassifier	ChemBERTa	PRC AUC	0.56488
+Weighted	1	RandomForestClassifier	ChemBERTa	PRC AUC	0.56783
+Unweighted	1	RandomForestClassifier	ChemBERTa	PRC AUC	0.62983
+Weighted	0	RandomForestClassifier	ChemBERTa	PRC AUC	0.585
+Unweighted	0	RandomForestClassifier	ChemBERTa	PRC AUC	0.64848
+Weighted	3	RandomForestClassifier	ChemBERTa	PRC AUC	0.46949
+Unweighted	3	RandomForestClassifier	ChemBERTa	PRC AUC	0.58687
+Weighted	2	RandomForestClassifier	ChemBERTa	PRC AUC	0.56893
+Unweighted	2	RandomForestClassifier	ChemBERTa	PRC AUC	0.64603
+Weighted	1	RandomForestClassifier	RDKit	PRC AUC	0.57105
+Unweighted	1	RandomForestClassifier	RDKit	PRC AUC	0.63701
+Weighted	3	RandomForestClassifier	RDKit	PRC AUC	0.52463
+Unweighted	3	RandomForestClassifier	RDKit	PRC AUC	0.62979
+Weighted	4	RandomForestClassifier	RDKit	PRC AUC	0.5679
+Unweighted	4	RandomForestClassifier	RDKit	PRC AUC	0.64262
+Weighted	0	RandomForestClassifier	RDKit	PRC AUC	0.54959
+Unweighted	0	RandomForestClassifier	RDKit	PRC AUC	0.64153
+Weighted	2	RandomForestClassifier	RDKit	PRC AUC	0.62439
+Unweighted	2	RandomForestClassifier	RDKit	PRC AUC	0.71152
+Weighted	1	RandomForestClassifier	MACCS	PRC AUC	0.62061
+Unweighted	1	RandomForestClassifier	MACCS	PRC AUC	0.66556
+Weighted	3	RandomForestClassifier	MACCS	PRC AUC	0.53828
+Unweighted	3	RandomForestClassifier	MACCS	PRC AUC	0.64406
+Weighted	4	RandomForestClassifier	MACCS	PRC AUC	0.56562
+Unweighted	4	RandomForestClassifier	MACCS	PRC AUC	0.63183
+Weighted	0	RandomForestClassifier	MACCS	PRC AUC	0.60319
+Unweighted	0	RandomForestClassifier	MACCS	PRC AUC	0.68369
+Weighted	2	RandomForestClassifier	MACCS	PRC AUC	0.63988
+Unweighted	2	RandomForestClassifier	MACCS	PRC AUC	0.71526
+Weighted	1	RandomForestClassifier	Klek	PRC AUC	0.61398
+Unweighted	1	RandomForestClassifier	Klek	PRC AUC	0.65246
+Weighted	3	RandomForestClassifier	Klek	PRC AUC	0.60062
+Unweighted	3	RandomForestClassifier	Klek	PRC AUC	0.66697
+Weighted	4	RandomForestClassifier	Klek	PRC AUC	0.53473
+Unweighted	4	RandomForestClassifier	Klek	PRC AUC	0.62426
+Weighted	0	RandomForestClassifier	Klek	PRC AUC	0.59072
+Unweighted	0	RandomForestClassifier	Klek	PRC AUC	0.67268
+Weighted	2	RandomForestClassifier	Klek	PRC AUC	0.63352
+Unweighted	2	RandomForestClassifier	Klek	PRC AUC	0.70843
+Weighted	3	RandomForestClassifier	ECFP	PRC AUC	0.59841
+Unweighted	3	RandomForestClassifier	ECFP	PRC AUC	0.67666
+Weighted	1	RandomForestClassifier	ECFP	PRC AUC	0.59505
+Unweighted	1	RandomForestClassifier	ECFP	PRC AUC	0.647
+Weighted	4	RandomForestClassifier	ECFP	PRC AUC	0.58096
+Unweighted	4	RandomForestClassifier	ECFP	PRC AUC	0.66424
+Weighted	0	RandomForestClassifier	ECFP	PRC AUC	0.6065
+Unweighted	0	RandomForestClassifier	ECFP	PRC AUC	0.69073
+Weighted	2	RandomForestClassifier	ECFP	PRC AUC	0.57611
+Unweighted	2	RandomForestClassifier	ECFP	PRC AUC	0.65517
+Weighted	4	RandomForestClassifier	CDDD	PRC AUC	0.53507
+Unweighted	4	RandomForestClassifier	CDDD	PRC AUC	0.62796
+Weighted	0	RandomForestClassifier	CDDD	PRC AUC	0.56169
+Unweighted	0	RandomForestClassifier	CDDD	PRC AUC	0.66682
+Weighted	2	RandomForestClassifier	CDDD	PRC AUC	0.64703
+Unweighted	2	RandomForestClassifier	CDDD	PRC AUC	0.72327
+Weighted	3	RandomForestClassifier	CDDD	PRC AUC	0.55604
+Unweighted	3	RandomForestClassifier	CDDD	PRC AUC	0.65569
+Weighted	1	RandomForestClassifier	CDDD	PRC AUC	0.58524
+Unweighted	1	RandomForestClassifier	CDDD	PRC AUC	0.64406
+Weighted	1	XGBClassifier	ChemBERTa	Brier	0.27311
+Unweighted	1	XGBClassifier	ChemBERTa	Brier	0.27311
+Weighted	3	XGBClassifier	ChemBERTa	Brier	0.27114
+Unweighted	3	XGBClassifier	ChemBERTa	Brier	0.27114
+Weighted	4	XGBClassifier	ChemBERTa	Brier	0.2678
+Unweighted	4	XGBClassifier	ChemBERTa	Brier	0.2678
+Weighted	0	XGBClassifier	ChemBERTa	Brier	0.26804
+Unweighted	0	XGBClassifier	ChemBERTa	Brier	0.26804
+Weighted	2	XGBClassifier	ChemBERTa	Brier	0.25097
+Unweighted	2	XGBClassifier	ChemBERTa	Brier	0.25097
+Weighted	1	XGBClassifier	RDKit	Brier	0.27844
+Unweighted	1	XGBClassifier	RDKit	Brier	0.27844
+Weighted	3	XGBClassifier	RDKit	Brier	0.25701
+Unweighted	3	XGBClassifier	RDKit	Brier	0.25701
+Weighted	4	XGBClassifier	RDKit	Brier	0.24885
+Unweighted	4	XGBClassifier	RDKit	Brier	0.24885
+Weighted	0	XGBClassifier	RDKit	Brier	0.2536
+Unweighted	0	XGBClassifier	RDKit	Brier	0.2536
+Weighted	2	XGBClassifier	RDKit	Brier	0.23237
+Unweighted	2	XGBClassifier	RDKit	Brier	0.23237
+Weighted	1	XGBClassifier	MACCS	Brier	0.2718
+Unweighted	1	XGBClassifier	MACCS	Brier	0.2718
+Weighted	3	XGBClassifier	MACCS	Brier	0.26686
+Unweighted	3	XGBClassifier	MACCS	Brier	0.26686
+Weighted	4	XGBClassifier	MACCS	Brier	0.25443
+Unweighted	4	XGBClassifier	MACCS	Brier	0.25443
+Weighted	0	XGBClassifier	MACCS	Brier	0.26903
+Unweighted	0	XGBClassifier	MACCS	Brier	0.26903
+Weighted	2	XGBClassifier	MACCS	Brier	0.23668
+Unweighted	2	XGBClassifier	MACCS	Brier	0.23668
+Weighted	1	XGBClassifier	Klek	Brier	0.27446
+Unweighted	1	XGBClassifier	Klek	Brier	0.27446
+Weighted	3	XGBClassifier	Klek	Brier	0.26382
+Unweighted	3	XGBClassifier	Klek	Brier	0.26382
+Weighted	4	XGBClassifier	Klek	Brier	0.24755
+Unweighted	4	XGBClassifier	Klek	Brier	0.24755
+Weighted	0	XGBClassifier	Klek	Brier	0.26069
+Unweighted	0	XGBClassifier	Klek	Brier	0.26069
+Weighted	2	XGBClassifier	Klek	Brier	0.25975
+Unweighted	2	XGBClassifier	Klek	Brier	0.25975
+Weighted	1	XGBClassifier	ECFP	Brier	0.27931
+Unweighted	1	XGBClassifier	ECFP	Brier	0.27931
+Weighted	3	XGBClassifier	ECFP	Brier	0.28154
+Unweighted	3	XGBClassifier	ECFP	Brier	0.28154
+Weighted	4	XGBClassifier	ECFP	Brier	0.25097
+Unweighted	4	XGBClassifier	ECFP	Brier	0.25097
+Weighted	0	XGBClassifier	ECFP	Brier	0.25197
+Unweighted	0	XGBClassifier	ECFP	Brier	0.25197
+Weighted	2	XGBClassifier	ECFP	Brier	0.2376
+Unweighted	2	XGBClassifier	ECFP	Brier	0.2376
+Weighted	1	XGBClassifier	CDDD	Brier	0.27109
+Unweighted	1	XGBClassifier	CDDD	Brier	0.27109
+Weighted	3	XGBClassifier	CDDD	Brier	0.2522
+Unweighted	3	XGBClassifier	CDDD	Brier	0.2522
+Weighted	4	XGBClassifier	CDDD	Brier	0.24776
+Unweighted	4	XGBClassifier	CDDD	Brier	0.24776
+Weighted	0	XGBClassifier	CDDD	Brier	0.24713
+Unweighted	0	XGBClassifier	CDDD	Brier	0.24713
+Weighted	2	XGBClassifier	CDDD	Brier	0.23515
+Unweighted	2	XGBClassifier	CDDD	Brier	0.23515
+Weighted	1	LogisticRegression	ChemBERTa	Brier	0.36353
+Unweighted	1	LogisticRegression	ChemBERTa	Brier	0.36353
+Weighted	0	LogisticRegression	ChemBERTa	Brier	0.30509
+Unweighted	0	LogisticRegression	ChemBERTa	Brier	0.30509
+Weighted	3	LogisticRegression	ChemBERTa	Brier	0.3338
+Unweighted	3	LogisticRegression	ChemBERTa	Brier	0.3338
+Weighted	2	LogisticRegression	ChemBERTa	Brier	0.25924
+Unweighted	2	LogisticRegression	ChemBERTa	Brier	0.25924
+Weighted	4	LogisticRegression	ChemBERTa	Brier	0.34532
+Unweighted	4	LogisticRegression	ChemBERTa	Brier	0.34532
+Weighted	3	LogisticRegression	RDKit	Brier	0.25439
+Unweighted	3	LogisticRegression	RDKit	Brier	0.25439
+Weighted	1	LogisticRegression	RDKit	Brier	0.27455
+Unweighted	1	LogisticRegression	RDKit	Brier	0.27455
+Weighted	4	LogisticRegression	RDKit	Brier	0.25136
+Unweighted	4	LogisticRegression	RDKit	Brier	0.25136
+Weighted	0	LogisticRegression	RDKit	Brier	0.26461
+Unweighted	0	LogisticRegression	RDKit	Brier	0.26461
+Weighted	2	LogisticRegression	RDKit	Brier	0.25132
+Unweighted	2	LogisticRegression	RDKit	Brier	0.25132
+Weighted	1	LogisticRegression	MACCS	Brier	0.27744
+Unweighted	1	LogisticRegression	MACCS	Brier	0.27744
+Weighted	3	LogisticRegression	MACCS	Brier	0.26155
+Unweighted	3	LogisticRegression	MACCS	Brier	0.26155
+Weighted	4	LogisticRegression	MACCS	Brier	0.25796
+Unweighted	4	LogisticRegression	MACCS	Brier	0.25796
+Weighted	0	LogisticRegression	MACCS	Brier	0.2846
+Unweighted	0	LogisticRegression	MACCS	Brier	0.2846
+Weighted	2	LogisticRegression	MACCS	Brier	0.29412
+Unweighted	2	LogisticRegression	MACCS	Brier	0.29412
+Weighted	1	LogisticRegression	Klek	Brier	0.26273
+Unweighted	1	LogisticRegression	Klek	Brier	0.26273
+Weighted	4	LogisticRegression	Klek	Brier	0.24911
+Unweighted	4	LogisticRegression	Klek	Brier	0.24911
+Weighted	0	LogisticRegression	Klek	Brier	0.26226
+Unweighted	0	LogisticRegression	Klek	Brier	0.26226
+Weighted	3	LogisticRegression	Klek	Brier	0.32679
+Unweighted	3	LogisticRegression	Klek	Brier	0.32679
+Weighted	2	LogisticRegression	Klek	Brier	0.23858
+Unweighted	2	LogisticRegression	Klek	Brier	0.23858
+Weighted	3	LogisticRegression	ECFP	Brier	0.3218
+Unweighted	3	LogisticRegression	ECFP	Brier	0.3218
+Weighted	1	LogisticRegression	ECFP	Brier	0.30428
+Unweighted	1	LogisticRegression	ECFP	Brier	0.30428
+Weighted	4	LogisticRegression	ECFP	Brier	0.28496
+Unweighted	4	LogisticRegression	ECFP	Brier	0.28496
+Weighted	0	LogisticRegression	ECFP	Brier	0.28882
+Unweighted	0	LogisticRegression	ECFP	Brier	0.28882
+Weighted	2	LogisticRegression	ECFP	Brier	0.27101
+Unweighted	2	LogisticRegression	ECFP	Brier	0.27101
+Weighted	1	LogisticRegression	CDDD	Brier	0.28452
+Unweighted	1	LogisticRegression	CDDD	Brier	0.28452
+Weighted	3	LogisticRegression	CDDD	Brier	0.34062
+Unweighted	3	LogisticRegression	CDDD	Brier	0.34062
+Weighted	4	LogisticRegression	CDDD	Brier	0.2931
+Unweighted	4	LogisticRegression	CDDD	Brier	0.2931
+Weighted	0	LogisticRegression	CDDD	Brier	0.29877
+Unweighted	0	LogisticRegression	CDDD	Brier	0.29877
+Weighted	2	LogisticRegression	CDDD	Brier	0.24915
+Unweighted	2	LogisticRegression	CDDD	Brier	0.24915
+Weighted	4	RandomForestClassifier	ChemBERTa	Brier	0.25056
+Unweighted	4	RandomForestClassifier	ChemBERTa	Brier	0.25056
+Weighted	1	RandomForestClassifier	ChemBERTa	Brier	0.25507
+Unweighted	1	RandomForestClassifier	ChemBERTa	Brier	0.25507
+Weighted	0	RandomForestClassifier	ChemBERTa	Brier	0.2471
+Unweighted	0	RandomForestClassifier	ChemBERTa	Brier	0.2471
+Weighted	3	RandomForestClassifier	ChemBERTa	Brier	0.26259
+Unweighted	3	RandomForestClassifier	ChemBERTa	Brier	0.26259
+Weighted	2	RandomForestClassifier	ChemBERTa	Brier	0.24517
+Unweighted	2	RandomForestClassifier	ChemBERTa	Brier	0.24517
+Weighted	1	RandomForestClassifier	RDKit	Brier	0.24967
+Unweighted	1	RandomForestClassifier	RDKit	Brier	0.24967
+Weighted	3	RandomForestClassifier	RDKit	Brier	0.24982
+Unweighted	3	RandomForestClassifier	RDKit	Brier	0.24982
+Weighted	4	RandomForestClassifier	RDKit	Brier	0.24359
+Unweighted	4	RandomForestClassifier	RDKit	Brier	0.24359
+Weighted	0	RandomForestClassifier	RDKit	Brier	0.25085
+Unweighted	0	RandomForestClassifier	RDKit	Brier	0.25085
+Weighted	2	RandomForestClassifier	RDKit	Brier	0.23956
+Unweighted	2	RandomForestClassifier	RDKit	Brier	0.23956
+Weighted	1	RandomForestClassifier	MACCS	Brier	0.2543
+Unweighted	1	RandomForestClassifier	MACCS	Brier	0.2543
+Weighted	3	RandomForestClassifier	MACCS	Brier	0.24975
+Unweighted	3	RandomForestClassifier	MACCS	Brier	0.24975
+Weighted	4	RandomForestClassifier	MACCS	Brier	0.24847
+Unweighted	4	RandomForestClassifier	MACCS	Brier	0.24847
+Weighted	0	RandomForestClassifier	MACCS	Brier	0.23895
+Unweighted	0	RandomForestClassifier	MACCS	Brier	0.23895
+Weighted	2	RandomForestClassifier	MACCS	Brier	0.23287
+Unweighted	2	RandomForestClassifier	MACCS	Brier	0.23287
+Weighted	1	RandomForestClassifier	Klek	Brier	0.25989
+Unweighted	1	RandomForestClassifier	Klek	Brier	0.25989
+Weighted	3	RandomForestClassifier	Klek	Brier	0.24674
+Unweighted	3	RandomForestClassifier	Klek	Brier	0.24674
+Weighted	4	RandomForestClassifier	Klek	Brier	0.2454
+Unweighted	4	RandomForestClassifier	Klek	Brier	0.2454
+Weighted	0	RandomForestClassifier	Klek	Brier	0.24728
+Unweighted	0	RandomForestClassifier	Klek	Brier	0.24728
+Weighted	2	RandomForestClassifier	Klek	Brier	0.24179
+Unweighted	2	RandomForestClassifier	Klek	Brier	0.24179
+Weighted	3	RandomForestClassifier	ECFP	Brier	0.25293
+Unweighted	3	RandomForestClassifier	ECFP	Brier	0.25293
+Weighted	1	RandomForestClassifier	ECFP	Brier	0.25784
+Unweighted	1	RandomForestClassifier	ECFP	Brier	0.25784
+Weighted	4	RandomForestClassifier	ECFP	Brier	0.24205
+Unweighted	4	RandomForestClassifier	ECFP	Brier	0.24205
+Weighted	0	RandomForestClassifier	ECFP	Brier	0.24593
+Unweighted	0	RandomForestClassifier	ECFP	Brier	0.24593
+Weighted	2	RandomForestClassifier	ECFP	Brier	0.25467
+Unweighted	2	RandomForestClassifier	ECFP	Brier	0.25467
+Weighted	4	RandomForestClassifier	CDDD	Brier	0.24393
+Unweighted	4	RandomForestClassifier	CDDD	Brier	0.24393
+Weighted	0	RandomForestClassifier	CDDD	Brier	0.24616
+Unweighted	0	RandomForestClassifier	CDDD	Brier	0.24616
+Weighted	2	RandomForestClassifier	CDDD	Brier	0.24216
+Unweighted	2	RandomForestClassifier	CDDD	Brier	0.24216
+Weighted	3	RandomForestClassifier	CDDD	Brier	0.24637
+Unweighted	3	RandomForestClassifier	CDDD	Brier	0.24637
+Weighted	1	RandomForestClassifier	CDDD	Brier	0.25433
+Unweighted	1	RandomForestClassifier	CDDD	Brier	0.25433

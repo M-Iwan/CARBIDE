@@ -1,0 +1,196 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Mono	ROR	Cred	1	RandomForestClassifier	RDKit	Balanced Accuracy	0.56044
+Mono	ROR	Cred	4	RandomForestClassifier	RDKit	Balanced Accuracy	0.57876
+Mono	ROR	Cred	3	RandomForestClassifier	RDKit	Balanced Accuracy	0.48857
+Mono	ROR	Cred	2	RandomForestClassifier	RDKit	Balanced Accuracy	0.63443
+Mono	ROR	Cred	0	RandomForestClassifier	RDKit	Balanced Accuracy	0.59036
+Mono	ROR	Card	1	RandomForestClassifier	RDKit	Balanced Accuracy	0.56326
+Mono	ROR	Card	4	RandomForestClassifier	RDKit	Balanced Accuracy	0.56925
+Mono	ROR	Card	3	RandomForestClassifier	RDKit	Balanced Accuracy	0.49703
+Mono	ROR	Card	2	RandomForestClassifier	RDKit	Balanced Accuracy	0.63073
+Mono	ROR	Card	0	RandomForestClassifier	RDKit	Balanced Accuracy	0.58345
+Mono	ROR	Cvas	1	RandomForestClassifier	RDKit	Balanced Accuracy	0.60193
+Mono	ROR	Cvas	4	RandomForestClassifier	RDKit	Balanced Accuracy	0.58378
+Mono	ROR	Cvas	3	RandomForestClassifier	RDKit	Balanced Accuracy	0.5275
+Mono	ROR	Cvas	2	RandomForestClassifier	RDKit	Balanced Accuracy	0.61401
+Mono	ROR	Cvas	0	RandomForestClassifier	RDKit	Balanced Accuracy	0.50143
+Mono	ROR	Cred	1	RandomForestClassifier	RDKit	GeomRS	0.55558
+Mono	ROR	Cred	4	RandomForestClassifier	RDKit	GeomRS	0.57697
+Mono	ROR	Cred	3	RandomForestClassifier	RDKit	GeomRS	0.4797
+Mono	ROR	Cred	2	RandomForestClassifier	RDKit	GeomRS	0.62967
+Mono	ROR	Cred	0	RandomForestClassifier	RDKit	GeomRS	0.58923
+Mono	ROR	Card	1	RandomForestClassifier	RDKit	GeomRS	0.55433
+Mono	ROR	Card	4	RandomForestClassifier	RDKit	GeomRS	0.56449
+Mono	ROR	Card	3	RandomForestClassifier	RDKit	GeomRS	0.48939
+Mono	ROR	Card	2	RandomForestClassifier	RDKit	GeomRS	0.62138
+Mono	ROR	Card	0	RandomForestClassifier	RDKit	GeomRS	0.58054
+Mono	ROR	Cvas	1	RandomForestClassifier	RDKit	GeomRS	0.59403
+Mono	ROR	Cvas	4	RandomForestClassifier	RDKit	GeomRS	0.58233
+Mono	ROR	Cvas	3	RandomForestClassifier	RDKit	GeomRS	0.5243
+Mono	ROR	Cvas	2	RandomForestClassifier	RDKit	GeomRS	0.5993
+Mono	ROR	Cvas	0	RandomForestClassifier	RDKit	GeomRS	0.50043
+Mono	ROR	Cred	1	RandomForestClassifier	RDKit	HarmRS	0.55075
+Mono	ROR	Cred	4	RandomForestClassifier	RDKit	HarmRS	0.57519
+Mono	ROR	Cred	3	RandomForestClassifier	RDKit	HarmRS	0.47099
+Mono	ROR	Cred	2	RandomForestClassifier	RDKit	HarmRS	0.62495
+Mono	ROR	Cred	0	RandomForestClassifier	RDKit	HarmRS	0.5881
+Mono	ROR	Card	1	RandomForestClassifier	RDKit	HarmRS	0.54553
+Mono	ROR	Card	4	RandomForestClassifier	RDKit	HarmRS	0.55977
+Mono	ROR	Card	3	RandomForestClassifier	RDKit	HarmRS	0.48187
+Mono	ROR	Card	2	RandomForestClassifier	RDKit	HarmRS	0.61217
+Mono	ROR	Card	0	RandomForestClassifier	RDKit	HarmRS	0.57765
+Mono	ROR	Cvas	1	RandomForestClassifier	RDKit	HarmRS	0.58622
+Mono	ROR	Cvas	4	RandomForestClassifier	RDKit	HarmRS	0.58088
+Mono	ROR	Cvas	3	RandomForestClassifier	RDKit	HarmRS	0.52111
+Mono	ROR	Cvas	2	RandomForestClassifier	RDKit	HarmRS	0.58494
+Mono	ROR	Cvas	0	RandomForestClassifier	RDKit	HarmRS	0.49944
+Mono	ROR	Cred	1	RandomForestClassifier	RDKit	F1 Score	0.56191
+Mono	ROR	Cred	4	RandomForestClassifier	RDKit	F1 Score	0.63943
+Mono	ROR	Cred	3	RandomForestClassifier	RDKit	F1 Score	0.46588
+Mono	ROR	Cred	2	RandomForestClassifier	RDKit	F1 Score	0.69779
+Mono	ROR	Cred	0	RandomForestClassifier	RDKit	F1 Score	0.64502
+Mono	ROR	Card	1	RandomForestClassifier	RDKit	F1 Score	0.54848
+Mono	ROR	Card	4	RandomForestClassifier	RDKit	F1 Score	0.64356
+Mono	ROR	Card	3	RandomForestClassifier	RDKit	F1 Score	0.47924
+Mono	ROR	Card	2	RandomForestClassifier	RDKit	F1 Score	0.70605
+Mono	ROR	Card	0	RandomForestClassifier	RDKit	F1 Score	0.59023
+Mono	ROR	Cvas	1	RandomForestClassifier	RDKit	F1 Score	0.59141
+Mono	ROR	Cvas	4	RandomForestClassifier	RDKit	F1 Score	0.64206
+Mono	ROR	Cvas	3	RandomForestClassifier	RDKit	F1 Score	0.53047
+Mono	ROR	Cvas	2	RandomForestClassifier	RDKit	F1 Score	0.70099
+Mono	ROR	Cvas	0	RandomForestClassifier	RDKit	F1 Score	0.55821
+Mono	ROR	Cred	1	RandomForestClassifier	RDKit	ROC AUC	0.59437
+Mono	ROR	Cred	4	RandomForestClassifier	RDKit	ROC AUC	0.6307
+Mono	ROR	Cred	3	RandomForestClassifier	RDKit	ROC AUC	0.52697
+Mono	ROR	Cred	2	RandomForestClassifier	RDKit	ROC AUC	0.68097
+Mono	ROR	Cred	0	RandomForestClassifier	RDKit	ROC AUC	0.61717
+Mono	ROR	Card	1	RandomForestClassifier	RDKit	ROC AUC	0.61413
+Mono	ROR	Card	4	RandomForestClassifier	RDKit	ROC AUC	0.62046
+Mono	ROR	Card	3	RandomForestClassifier	RDKit	ROC AUC	0.52247
+Mono	ROR	Card	2	RandomForestClassifier	RDKit	ROC AUC	0.69634
+Mono	ROR	Card	0	RandomForestClassifier	RDKit	ROC AUC	0.60668
+Mono	ROR	Cvas	1	RandomForestClassifier	RDKit	ROC AUC	0.63212
+Mono	ROR	Cvas	4	RandomForestClassifier	RDKit	ROC AUC	0.63222
+Mono	ROR	Cvas	3	RandomForestClassifier	RDKit	ROC AUC	0.55582
+Mono	ROR	Cvas	2	RandomForestClassifier	RDKit	ROC AUC	0.67127
+Mono	ROR	Cvas	0	RandomForestClassifier	RDKit	ROC AUC	0.5327
+Mono	ROR	Cred	1	RandomForestClassifier	RDKit	MCC	0.11945
+Mono	ROR	Cred	4	RandomForestClassifier	RDKit	MCC	0.15622
+Mono	ROR	Cred	3	RandomForestClassifier	RDKit	MCC	-0.02298
+Mono	ROR	Cred	2	RandomForestClassifier	RDKit	MCC	0.2711
+Mono	ROR	Cred	0	RandomForestClassifier	RDKit	MCC	0.17909
+Mono	ROR	Card	1	RandomForestClassifier	RDKit	MCC	0.126
+Mono	ROR	Card	4	RandomForestClassifier	RDKit	MCC	0.13842
+Mono	ROR	Card	3	RandomForestClassifier	RDKit	MCC	-0.00596
+Mono	ROR	Card	2	RandomForestClassifier	RDKit	MCC	0.26742
+Mono	ROR	Card	0	RandomForestClassifier	RDKit	MCC	0.16514
+Mono	ROR	Cvas	1	RandomForestClassifier	RDKit	MCC	0.20232
+Mono	ROR	Cvas	4	RandomForestClassifier	RDKit	MCC	0.16603
+Mono	ROR	Cvas	3	RandomForestClassifier	RDKit	MCC	0.05462
+Mono	ROR	Cvas	2	RandomForestClassifier	RDKit	MCC	0.23648
+Mono	ROR	Cvas	0	RandomForestClassifier	RDKit	MCC	0.00282
+Mono	ROR	Cred	1	RandomForestClassifier	RDKit	Accuracy	0.54596
+Mono	ROR	Cred	4	RandomForestClassifier	RDKit	Accuracy	0.58669
+Mono	ROR	Cred	3	RandomForestClassifier	RDKit	Accuracy	0.4738
+Mono	ROR	Cred	2	RandomForestClassifier	RDKit	Accuracy	0.64593
+Mono	ROR	Cred	0	RandomForestClassifier	RDKit	Accuracy	0.59656
+Mono	ROR	Card	1	RandomForestClassifier	RDKit	Accuracy	0.54363
+Mono	ROR	Card	4	RandomForestClassifier	RDKit	Accuracy	0.58204
+Mono	ROR	Card	3	RandomForestClassifier	RDKit	Accuracy	0.48319
+Mono	ROR	Card	2	RandomForestClassifier	RDKit	Accuracy	0.64676
+Mono	ROR	Card	0	RandomForestClassifier	RDKit	Accuracy	0.5736
+Mono	ROR	Cvas	1	RandomForestClassifier	RDKit	Accuracy	0.58283
+Mono	ROR	Cvas	4	RandomForestClassifier	RDKit	Accuracy	0.59094
+Mono	ROR	Cvas	3	RandomForestClassifier	RDKit	Accuracy	0.51825
+Mono	ROR	Cvas	2	RandomForestClassifier	RDKit	Accuracy	0.63382
+Mono	ROR	Cvas	0	RandomForestClassifier	RDKit	Accuracy	0.50677
+Mono	ROR	Cred	1	RandomForestClassifier	RDKit	Recall	0.48674
+Mono	ROR	Cred	4	RandomForestClassifier	RDKit	Recall	0.62426
+Mono	ROR	Cred	3	RandomForestClassifier	RDKit	Recall	0.39589
+Mono	ROR	Cred	2	RandomForestClassifier	RDKit	Recall	0.712
+Mono	ROR	Cred	0	RandomForestClassifier	RDKit	Recall	0.62693
+Mono	ROR	Card	1	RandomForestClassifier	RDKit	Recall	0.46334
+Mono	ROR	Card	4	RandomForestClassifier	RDKit	Recall	0.64272
+Mono	ROR	Card	3	RandomForestClassifier	RDKit	Recall	0.41022
+Mono	ROR	Card	2	RandomForestClassifier	RDKit	Recall	0.73891
+Mono	ROR	Card	0	RandomForestClassifier	RDKit	Recall	0.52525
+Mono	ROR	Cvas	1	RandomForestClassifier	RDKit	Recall	0.50468
+Mono	ROR	Cvas	4	RandomForestClassifier	RDKit	Recall	0.62492
+Mono	ROR	Cvas	3	RandomForestClassifier	RDKit	Recall	0.46945
+Mono	ROR	Cvas	2	RandomForestClassifier	RDKit	Recall	0.74764
+Mono	ROR	Cvas	0	RandomForestClassifier	RDKit	Recall	0.53296
+Mono	ROR	Cred	1	RandomForestClassifier	RDKit	Specificity	0.63415
+Mono	ROR	Cred	4	RandomForestClassifier	RDKit	Specificity	0.53327
+Mono	ROR	Cred	3	RandomForestClassifier	RDKit	Specificity	0.58126
+Mono	ROR	Cred	2	RandomForestClassifier	RDKit	Specificity	0.55686
+Mono	ROR	Cred	0	RandomForestClassifier	RDKit	Specificity	0.5538
+Mono	ROR	Card	1	RandomForestClassifier	RDKit	Specificity	0.66318
+Mono	ROR	Card	4	RandomForestClassifier	RDKit	Specificity	0.49578
+Mono	ROR	Card	3	RandomForestClassifier	RDKit	Specificity	0.58383
+Mono	ROR	Card	2	RandomForestClassifier	RDKit	Specificity	0.52255
+Mono	ROR	Card	0	RandomForestClassifier	RDKit	Specificity	0.64166
+Mono	ROR	Cvas	1	RandomForestClassifier	RDKit	Specificity	0.69919
+Mono	ROR	Cvas	4	RandomForestClassifier	RDKit	Specificity	0.54264
+Mono	ROR	Cvas	3	RandomForestClassifier	RDKit	Specificity	0.58555
+Mono	ROR	Cvas	2	RandomForestClassifier	RDKit	Specificity	0.48039
+Mono	ROR	Cvas	0	RandomForestClassifier	RDKit	Specificity	0.46989
+Mono	ROR	Cred	1	RandomForestClassifier	RDKit	Precision	0.66454
+Mono	ROR	Cred	4	RandomForestClassifier	RDKit	Precision	0.65536
+Mono	ROR	Cred	3	RandomForestClassifier	RDKit	Precision	0.56595
+Mono	ROR	Cred	2	RandomForestClassifier	RDKit	Precision	0.68414
+Mono	ROR	Cred	0	RandomForestClassifier	RDKit	Precision	0.66419
+Mono	ROR	Card	1	RandomForestClassifier	RDKit	Precision	0.67195
+Mono	ROR	Card	4	RandomForestClassifier	RDKit	Precision	0.64442
+Mono	ROR	Card	3	RandomForestClassifier	RDKit	Precision	0.57618
+Mono	ROR	Card	2	RandomForestClassifier	RDKit	Precision	0.67598
+Mono	ROR	Card	0	RandomForestClassifier	RDKit	Precision	0.67356
+Mono	ROR	Cvas	1	RandomForestClassifier	RDKit	Precision	0.71413
+Mono	ROR	Cvas	4	RandomForestClassifier	RDKit	Precision	0.66017
+Mono	ROR	Cvas	3	RandomForestClassifier	RDKit	Precision	0.60972
+Mono	ROR	Cvas	2	RandomForestClassifier	RDKit	Precision	0.65982
+Mono	ROR	Cvas	0	RandomForestClassifier	RDKit	Precision	0.58597
+Mono	ROR	Cred	1	RandomForestClassifier	RDKit	PRC AUC	0.67891
+Mono	ROR	Cred	4	RandomForestClassifier	RDKit	PRC AUC	0.71008
+Mono	ROR	Cred	3	RandomForestClassifier	RDKit	PRC AUC	0.63475
+Mono	ROR	Cred	2	RandomForestClassifier	RDKit	PRC AUC	0.73313
+Mono	ROR	Cred	0	RandomForestClassifier	RDKit	PRC AUC	0.68341
+Mono	ROR	Card	1	RandomForestClassifier	RDKit	PRC AUC	0.68223
+Mono	ROR	Card	4	RandomForestClassifier	RDKit	PRC AUC	0.70678
+Mono	ROR	Card	3	RandomForestClassifier	RDKit	PRC AUC	0.62308
+Mono	ROR	Card	2	RandomForestClassifier	RDKit	PRC AUC	0.76166
+Mono	ROR	Card	0	RandomForestClassifier	RDKit	PRC AUC	0.67337
+Mono	ROR	Cvas	1	RandomForestClassifier	RDKit	PRC AUC	0.72373
+Mono	ROR	Cvas	4	RandomForestClassifier	RDKit	PRC AUC	0.73195
+Mono	ROR	Cvas	3	RandomForestClassifier	RDKit	PRC AUC	0.64752
+Mono	ROR	Cvas	2	RandomForestClassifier	RDKit	PRC AUC	0.71025
+Mono	ROR	Cvas	0	RandomForestClassifier	RDKit	PRC AUC	0.63231
+Mono	ROR	Cred	1	RandomForestClassifier	RDKit	ECE	0.11674
+Mono	ROR	Cred	4	RandomForestClassifier	RDKit	ECE	0.06776
+Mono	ROR	Cred	3	RandomForestClassifier	RDKit	ECE	0.12025
+Mono	ROR	Cred	2	RandomForestClassifier	RDKit	ECE	0.06121
+Mono	ROR	Cred	0	RandomForestClassifier	RDKit	ECE	0.06614
+Mono	ROR	Card	1	RandomForestClassifier	RDKit	ECE	0.121
+Mono	ROR	Card	4	RandomForestClassifier	RDKit	ECE	0.06025
+Mono	ROR	Card	3	RandomForestClassifier	RDKit	ECE	0.10167
+Mono	ROR	Card	2	RandomForestClassifier	RDKit	ECE	0.05189
+Mono	ROR	Card	0	RandomForestClassifier	RDKit	ECE	0.08898
+Mono	ROR	Cvas	1	RandomForestClassifier	RDKit	ECE	0.10976
+Mono	ROR	Cvas	4	RandomForestClassifier	RDKit	ECE	0.07588
+Mono	ROR	Cvas	3	RandomForestClassifier	RDKit	ECE	0.08742
+Mono	ROR	Cvas	2	RandomForestClassifier	RDKit	ECE	0.06533
+Mono	ROR	Cvas	0	RandomForestClassifier	RDKit	ECE	0.08403
+Mono	ROR	Cred	1	RandomForestClassifier	RDKit	Brier	0.24804
+Mono	ROR	Cred	4	RandomForestClassifier	RDKit	Brier	0.23338
+Mono	ROR	Cred	3	RandomForestClassifier	RDKit	Brier	0.25413
+Mono	ROR	Cred	2	RandomForestClassifier	RDKit	Brier	0.22318
+Mono	ROR	Cred	0	RandomForestClassifier	RDKit	Brier	0.23789
+Mono	ROR	Card	1	RandomForestClassifier	RDKit	Brier	0.24607
+Mono	ROR	Card	4	RandomForestClassifier	RDKit	Brier	0.23479
+Mono	ROR	Card	3	RandomForestClassifier	RDKit	Brier	0.25523
+Mono	ROR	Card	2	RandomForestClassifier	RDKit	Brier	0.22089
+Mono	ROR	Card	0	RandomForestClassifier	RDKit	Brier	0.24338
+Mono	ROR	Cvas	1	RandomForestClassifier	RDKit	Brier	0.24063
+Mono	ROR	Cvas	4	RandomForestClassifier	RDKit	Brier	0.23624
+Mono	ROR	Cvas	3	RandomForestClassifier	RDKit	Brier	0.24896
+Mono	ROR	Cvas	2	RandomForestClassifier	RDKit	Brier	0.23045
+Mono	ROR	Cvas	0	RandomForestClassifier	RDKit	Brier	0.24974

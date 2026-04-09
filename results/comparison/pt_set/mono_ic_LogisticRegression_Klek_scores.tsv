@@ -1,0 +1,196 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Mono	IC	Cred	1	LogisticRegression	Klek	Balanced Accuracy	0.56372
+Mono	IC	Cred	4	LogisticRegression	Klek	Balanced Accuracy	0.56823
+Mono	IC	Cred	3	LogisticRegression	Klek	Balanced Accuracy	0.45818
+Mono	IC	Cred	2	LogisticRegression	Klek	Balanced Accuracy	0.56867
+Mono	IC	Cred	0	LogisticRegression	Klek	Balanced Accuracy	0.54174
+Mono	IC	Card	1	LogisticRegression	Klek	Balanced Accuracy	0.54024
+Mono	IC	Card	4	LogisticRegression	Klek	Balanced Accuracy	0.57741
+Mono	IC	Card	3	LogisticRegression	Klek	Balanced Accuracy	0.52001
+Mono	IC	Card	2	LogisticRegression	Klek	Balanced Accuracy	0.55275
+Mono	IC	Card	0	LogisticRegression	Klek	Balanced Accuracy	0.53893
+Mono	IC	Cvas	1	LogisticRegression	Klek	Balanced Accuracy	0.50774
+Mono	IC	Cvas	4	LogisticRegression	Klek	Balanced Accuracy	0.56857
+Mono	IC	Cvas	3	LogisticRegression	Klek	Balanced Accuracy	0.51583
+Mono	IC	Cvas	2	LogisticRegression	Klek	Balanced Accuracy	0.54507
+Mono	IC	Cvas	0	LogisticRegression	Klek	Balanced Accuracy	0.51483
+Mono	IC	Cred	1	LogisticRegression	Klek	GeomRS	0.56338
+Mono	IC	Cred	4	LogisticRegression	Klek	GeomRS	0.56513
+Mono	IC	Cred	3	LogisticRegression	Klek	GeomRS	0.45345
+Mono	IC	Cred	2	LogisticRegression	Klek	GeomRS	0.53024
+Mono	IC	Cred	0	LogisticRegression	Klek	GeomRS	0.53382
+Mono	IC	Card	1	LogisticRegression	Klek	GeomRS	0.53949
+Mono	IC	Card	4	LogisticRegression	Klek	GeomRS	0.56875
+Mono	IC	Card	3	LogisticRegression	Klek	GeomRS	0.52
+Mono	IC	Card	2	LogisticRegression	Klek	GeomRS	0.5363
+Mono	IC	Card	0	LogisticRegression	Klek	GeomRS	0.52362
+Mono	IC	Cvas	1	LogisticRegression	Klek	GeomRS	0.50767
+Mono	IC	Cvas	4	LogisticRegression	Klek	GeomRS	0.56459
+Mono	IC	Cvas	3	LogisticRegression	Klek	GeomRS	0.51553
+Mono	IC	Cvas	2	LogisticRegression	Klek	GeomRS	0.50791
+Mono	IC	Cvas	0	LogisticRegression	Klek	GeomRS	0.49558
+Mono	IC	Cred	1	LogisticRegression	Klek	HarmRS	0.56303
+Mono	IC	Cred	4	LogisticRegression	Klek	HarmRS	0.56205
+Mono	IC	Cred	3	LogisticRegression	Klek	HarmRS	0.44876
+Mono	IC	Cred	2	LogisticRegression	Klek	HarmRS	0.49442
+Mono	IC	Cred	0	LogisticRegression	Klek	HarmRS	0.52602
+Mono	IC	Card	1	LogisticRegression	Klek	HarmRS	0.53875
+Mono	IC	Card	4	LogisticRegression	Klek	HarmRS	0.56021
+Mono	IC	Card	3	LogisticRegression	Klek	HarmRS	0.51998
+Mono	IC	Card	2	LogisticRegression	Klek	HarmRS	0.52034
+Mono	IC	Card	0	LogisticRegression	Klek	HarmRS	0.50876
+Mono	IC	Cvas	1	LogisticRegression	Klek	HarmRS	0.50759
+Mono	IC	Cvas	4	LogisticRegression	Klek	HarmRS	0.56064
+Mono	IC	Cvas	3	LogisticRegression	Klek	HarmRS	0.51523
+Mono	IC	Cvas	2	LogisticRegression	Klek	HarmRS	0.47329
+Mono	IC	Cvas	0	LogisticRegression	Klek	HarmRS	0.47706
+Mono	IC	Cred	1	LogisticRegression	Klek	F1 Score	0.62485
+Mono	IC	Cred	4	LogisticRegression	Klek	F1 Score	0.64112
+Mono	IC	Cred	3	LogisticRegression	Klek	F1 Score	0.45641
+Mono	IC	Cred	2	LogisticRegression	Klek	F1 Score	0.69778
+Mono	IC	Cred	0	LogisticRegression	Klek	F1 Score	0.63232
+Mono	IC	Card	1	LogisticRegression	Klek	F1 Score	0.60728
+Mono	IC	Card	4	LogisticRegression	Klek	F1 Score	0.66771
+Mono	IC	Card	3	LogisticRegression	Klek	F1 Score	0.55995
+Mono	IC	Card	2	LogisticRegression	Klek	F1 Score	0.65626
+Mono	IC	Card	0	LogisticRegression	Klek	F1 Score	0.64594
+Mono	IC	Cvas	1	LogisticRegression	Klek	F1 Score	0.56506
+Mono	IC	Cvas	4	LogisticRegression	Klek	F1 Score	0.64516
+Mono	IC	Cvas	3	LogisticRegression	Klek	F1 Score	0.54778
+Mono	IC	Cvas	2	LogisticRegression	Klek	F1 Score	0.67573
+Mono	IC	Cvas	0	LogisticRegression	Klek	F1 Score	0.63045
+Mono	IC	Cred	1	LogisticRegression	Klek	ROC AUC	0.58515
+Mono	IC	Cred	4	LogisticRegression	Klek	ROC AUC	0.5774
+Mono	IC	Cred	3	LogisticRegression	Klek	ROC AUC	0.45733
+Mono	IC	Cred	2	LogisticRegression	Klek	ROC AUC	0.61273
+Mono	IC	Cred	0	LogisticRegression	Klek	ROC AUC	0.57359
+Mono	IC	Card	1	LogisticRegression	Klek	ROC AUC	0.56588
+Mono	IC	Card	4	LogisticRegression	Klek	ROC AUC	0.60496
+Mono	IC	Card	3	LogisticRegression	Klek	ROC AUC	0.53846
+Mono	IC	Card	2	LogisticRegression	Klek	ROC AUC	0.61091
+Mono	IC	Card	0	LogisticRegression	Klek	ROC AUC	0.5654
+Mono	IC	Cvas	1	LogisticRegression	Klek	ROC AUC	0.53859
+Mono	IC	Cvas	4	LogisticRegression	Klek	ROC AUC	0.58529
+Mono	IC	Cvas	3	LogisticRegression	Klek	ROC AUC	0.52575
+Mono	IC	Cvas	2	LogisticRegression	Klek	ROC AUC	0.5976
+Mono	IC	Cvas	0	LogisticRegression	Klek	ROC AUC	0.54998
+Mono	IC	Cred	1	LogisticRegression	Klek	MCC	0.12425
+Mono	IC	Cred	4	LogisticRegression	Klek	MCC	0.13523
+Mono	IC	Cred	3	LogisticRegression	Klek	MCC	-0.08309
+Mono	IC	Cred	2	LogisticRegression	Klek	MCC	0.15012
+Mono	IC	Cred	0	LogisticRegression	Klek	MCC	0.08359
+Mono	IC	Card	1	LogisticRegression	Klek	MCC	0.07849
+Mono	IC	Card	4	LogisticRegression	Klek	MCC	0.15598
+Mono	IC	Card	3	LogisticRegression	Klek	MCC	0.03933
+Mono	IC	Card	2	LogisticRegression	Klek	MCC	0.10836
+Mono	IC	Card	0	LogisticRegression	Klek	MCC	0.07932
+Mono	IC	Cvas	1	LogisticRegression	Klek	MCC	0.01507
+Mono	IC	Cvas	4	LogisticRegression	Klek	MCC	0.13626
+Mono	IC	Cvas	3	LogisticRegression	Klek	MCC	0.03112
+Mono	IC	Cvas	2	LogisticRegression	Klek	MCC	0.09734
+Mono	IC	Cvas	0	LogisticRegression	Klek	MCC	0.03035
+Mono	IC	Cred	1	LogisticRegression	Klek	Accuracy	0.5683
+Mono	IC	Cred	4	LogisticRegression	Klek	Accuracy	0.57985
+Mono	IC	Cred	3	LogisticRegression	Klek	Accuracy	0.44602
+Mono	IC	Cred	2	LogisticRegression	Klek	Accuracy	0.60516
+Mono	IC	Cred	0	LogisticRegression	Klek	Accuracy	0.55968
+Mono	IC	Card	1	LogisticRegression	Klek	Accuracy	0.54683
+Mono	IC	Card	4	LogisticRegression	Klek	Accuracy	0.59696
+Mono	IC	Card	3	LogisticRegression	Klek	Accuracy	0.51929
+Mono	IC	Card	2	LogisticRegression	Klek	Accuracy	0.57651
+Mono	IC	Card	0	LogisticRegression	Klek	Accuracy	0.56371
+Mono	IC	Cvas	1	LogisticRegression	Klek	Accuracy	0.50982
+Mono	IC	Cvas	4	LogisticRegression	Klek	Accuracy	0.58175
+Mono	IC	Cvas	3	LogisticRegression	Klek	Accuracy	0.51257
+Mono	IC	Cvas	2	LogisticRegression	Klek	Accuracy	0.5802
+Mono	IC	Cvas	0	LogisticRegression	Klek	Accuracy	0.54194
+Mono	IC	Cred	1	LogisticRegression	Klek	Recall	0.5834
+Mono	IC	Cred	4	LogisticRegression	Klek	Recall	0.62746
+Mono	IC	Cred	3	LogisticRegression	Klek	Recall	0.39247
+Mono	IC	Cred	2	LogisticRegression	Klek	Recall	0.77415
+Mono	IC	Cred	0	LogisticRegression	Klek	Recall	0.63403
+Mono	IC	Card	1	LogisticRegression	Klek	Recall	0.56857
+Mono	IC	Card	4	LogisticRegression	Klek	Recall	0.67705
+Mono	IC	Card	3	LogisticRegression	Klek	Recall	0.51613
+Mono	IC	Card	2	LogisticRegression	Klek	Recall	0.68659
+Mono	IC	Card	0	LogisticRegression	Klek	Recall	0.66644
+Mono	IC	Cvas	1	LogisticRegression	Klek	Recall	0.51668
+Mono	IC	Cvas	4	LogisticRegression	Klek	Recall	0.63573
+Mono	IC	Cvas	3	LogisticRegression	Klek	Recall	0.49821
+Mono	IC	Cvas	2	LogisticRegression	Klek	Recall	0.74288
+Mono	IC	Cvas	0	LogisticRegression	Klek	Recall	0.65429
+Mono	IC	Cred	1	LogisticRegression	Klek	Specificity	0.54405
+Mono	IC	Cred	4	LogisticRegression	Klek	Specificity	0.50899
+Mono	IC	Cred	3	LogisticRegression	Klek	Specificity	0.52389
+Mono	IC	Cred	2	LogisticRegression	Klek	Specificity	0.36318
+Mono	IC	Cred	0	LogisticRegression	Klek	Specificity	0.44945
+Mono	IC	Card	1	LogisticRegression	Klek	Specificity	0.5119
+Mono	IC	Card	4	LogisticRegression	Klek	Specificity	0.47777
+Mono	IC	Card	3	LogisticRegression	Klek	Specificity	0.52389
+Mono	IC	Card	2	LogisticRegression	Klek	Specificity	0.41891
+Mono	IC	Card	0	LogisticRegression	Klek	Specificity	0.41141
+Mono	IC	Cvas	1	LogisticRegression	Klek	Specificity	0.49881
+Mono	IC	Cvas	4	LogisticRegression	Klek	Specificity	0.50142
+Mono	IC	Cvas	3	LogisticRegression	Klek	Specificity	0.53345
+Mono	IC	Cvas	2	LogisticRegression	Klek	Specificity	0.34726
+Mono	IC	Cvas	0	LogisticRegression	Klek	Specificity	0.37538
+Mono	IC	Cred	1	LogisticRegression	Klek	Precision	0.67265
+Mono	IC	Cred	4	LogisticRegression	Klek	Precision	0.65538
+Mono	IC	Cred	3	LogisticRegression	Klek	Precision	0.54523
+Mono	IC	Cred	2	LogisticRegression	Klek	Precision	0.63512
+Mono	IC	Cred	0	LogisticRegression	Klek	Precision	0.63062
+Mono	IC	Card	1	LogisticRegression	Klek	Precision	0.65166
+Mono	IC	Card	4	LogisticRegression	Klek	Precision	0.65863
+Mono	IC	Card	3	LogisticRegression	Klek	Precision	0.6119
+Mono	IC	Card	2	LogisticRegression	Klek	Precision	0.6285
+Mono	IC	Card	0	LogisticRegression	Klek	Precision	0.62667
+Mono	IC	Cvas	1	LogisticRegression	Klek	Precision	0.62343
+Mono	IC	Cvas	4	LogisticRegression	Klek	Precision	0.65488
+Mono	IC	Cvas	3	LogisticRegression	Klek	Precision	0.60832
+Mono	IC	Cvas	2	LogisticRegression	Klek	Precision	0.61971
+Mono	IC	Cvas	0	LogisticRegression	Klek	Precision	0.60829
+Mono	IC	Cred	1	LogisticRegression	Klek	PRC AUC	0.68771
+Mono	IC	Cred	4	LogisticRegression	Klek	PRC AUC	0.64423
+Mono	IC	Cred	3	LogisticRegression	Klek	PRC AUC	0.5733
+Mono	IC	Cred	2	LogisticRegression	Klek	PRC AUC	0.70006
+Mono	IC	Cred	0	LogisticRegression	Klek	PRC AUC	0.65754
+Mono	IC	Card	1	LogisticRegression	Klek	PRC AUC	0.68901
+Mono	IC	Card	4	LogisticRegression	Klek	PRC AUC	0.66018
+Mono	IC	Card	3	LogisticRegression	Klek	PRC AUC	0.64247
+Mono	IC	Card	2	LogisticRegression	Klek	PRC AUC	0.71764
+Mono	IC	Card	0	LogisticRegression	Klek	PRC AUC	0.65038
+Mono	IC	Cvas	1	LogisticRegression	Klek	PRC AUC	0.66771
+Mono	IC	Cvas	4	LogisticRegression	Klek	PRC AUC	0.6643
+Mono	IC	Cvas	3	LogisticRegression	Klek	PRC AUC	0.62199
+Mono	IC	Cvas	2	LogisticRegression	Klek	PRC AUC	0.66905
+Mono	IC	Cvas	0	LogisticRegression	Klek	PRC AUC	0.64567
+Mono	IC	Cred	1	LogisticRegression	Klek	ECE	0.14454
+Mono	IC	Cred	4	LogisticRegression	Klek	ECE	0.2289
+Mono	IC	Cred	3	LogisticRegression	Klek	ECE	0.34759
+Mono	IC	Cred	2	LogisticRegression	Klek	ECE	0.11717
+Mono	IC	Cred	0	LogisticRegression	Klek	ECE	0.12069
+Mono	IC	Card	1	LogisticRegression	Klek	ECE	0.15813
+Mono	IC	Card	4	LogisticRegression	Klek	ECE	0.16902
+Mono	IC	Card	3	LogisticRegression	Klek	ECE	0.18962
+Mono	IC	Card	2	LogisticRegression	Klek	ECE	0.18649
+Mono	IC	Card	0	LogisticRegression	Klek	ECE	0.14208
+Mono	IC	Cvas	1	LogisticRegression	Klek	ECE	0.21297
+Mono	IC	Cvas	4	LogisticRegression	Klek	ECE	0.17573
+Mono	IC	Cvas	3	LogisticRegression	Klek	ECE	0.22236
+Mono	IC	Cvas	2	LogisticRegression	Klek	ECE	0.18876
+Mono	IC	Cvas	0	LogisticRegression	Klek	ECE	0.15737
+Mono	IC	Cred	1	LogisticRegression	Klek	Brier	0.26561
+Mono	IC	Cred	4	LogisticRegression	Klek	Brier	0.31057
+Mono	IC	Cred	3	LogisticRegression	Klek	Brier	0.39394
+Mono	IC	Cred	2	LogisticRegression	Klek	Brier	0.25022
+Mono	IC	Cred	0	LogisticRegression	Klek	Brier	0.2563
+Mono	IC	Card	1	LogisticRegression	Klek	Brier	0.27641
+Mono	IC	Card	4	LogisticRegression	Klek	Brier	0.27489
+Mono	IC	Card	3	LogisticRegression	Klek	Brier	0.29104
+Mono	IC	Card	2	LogisticRegression	Klek	Brier	0.27498
+Mono	IC	Card	0	LogisticRegression	Klek	Brier	0.25796
+Mono	IC	Cvas	1	LogisticRegression	Klek	Brier	0.29229
+Mono	IC	Cvas	4	LogisticRegression	Klek	Brier	0.28132
+Mono	IC	Cvas	3	LogisticRegression	Klek	Brier	0.31426
+Mono	IC	Cvas	2	LogisticRegression	Klek	Brier	0.27698
+Mono	IC	Cvas	0	LogisticRegression	Klek	Brier	0.2688

@@ -6,40 +6,106 @@ import seaborn as sns
 import umap
 
 
-def one_point_palette():
+def one_point_palette(encoding: str = 'hex'):
     """
-    Red
+    Terracotta.
+
+    Parameters
+    ----------
+    encoding: str
+        One of 'hex', 'rgb'
     """
-    return ['#CB6040']
+    if encoding == 'hex':
+        return ['#CB6040']
+    elif encoding == 'rgb':
+        return [[203, 96, 64]]
+    else:
+        raise ValueError(f"Invalid encoding: {encoding}")
 
 
-def two_point_palette():
+def two_point_palette(encoding: str = 'hex'):
     """
-    Teal, Red
+    Teal, Terracotta.
+
+    Parameters
+    ----------
+    encoding: str
+        One of 'hex', 'rgb'
     """
-    return ['#257180', '#CB6040']
+    if encoding == 'hex':
+        return ['#257180', '#CB6040']
+    elif encoding == 'rgb':
+        return [[37, 113, 128], [203, 96, 64]]
+    else:
+        raise ValueError(f"Invalid encoding: {encoding}")
 
 
-def three_point_palette():
+def three_point_palette(encoding: str = 'hex'):
     """
-    Teal, Beige, Red
+    Teal, Cream, Terracotta.
+
+    Parameters
+    ----------
+    encoding: str
+        One of 'hex', 'rgb'
     """
-    return ['#257180', '#F2E5BF', '#CB6040']
+    if encoding == 'hex':
+        return ['#257180', '#F2E5BF', '#CB6040']
+    elif encoding == 'rgb':
+        return [[37, 113, 128], [242, 229, 191], [203, 96, 64]]
+    else:
+        raise ValueError(f"Invalid encoding: {encoding}")
 
 
-def four_point_palette():
+def four_point_palette(encoding: str = 'hex'):
     """
-    Teal, Beige, Orange, Red
-    """
+    Teal, Cream, Faded Orange, Terracotta.
 
-    return ['#257180', '#F2E5BF', '#FD8B51', '#CB6040']
+    Parameters
+    ----------
+    encoding: str
+        One of 'hex', 'rgb'
+    """
+    if encoding == 'hex':
+        return ['#257180', '#F2E5BF', '#FD8B51', '#CB6040']
+    elif encoding == 'rgb':
+        return [[37, 113, 128], [242, 229, 191], [253, 139, 81], [203, 96, 64]]
+    else:
+        raise ValueError(f"Invalid encoding: {encoding}")
 
 
-def five_point_palette():
+def five_point_palette(encoding: str = 'hex'):
     """
-    The original palette with a colour blended between Teal and Beige
+    Teal, Cascade, Cream, Faded Orange, Terracotta.
+
+    Parameters
+    ----------
+    encoding: str
+        One of 'hex', 'rgb'
     """
-    return ['#257180', '#8CABA0', '#F2E5BF', '#FD8B51', '#CB6040']
+    if encoding == 'hex':
+        return ['#257180', '#8CABA0', '#F2E5BF', '#FD8B51', '#CB6040']
+    elif encoding == 'rgb':
+        return [[37, 113, 128], [140, 171, 160], [242, 229, 191], [253, 139, 81], [203, 96, 64]]
+    else:
+        raise ValueError(f"Invalid encoding: {encoding}")
+
+
+def six_point_palette(encoding: str = 'hex'):
+    """
+    Teal, Cascade, Cream, Fresh Peaches, Faded Orange, Terracotta
+
+    Parameters
+    ----------
+    encoding
+
+    """
+    if encoding == 'hex':
+        return ['#257180', '#8CABA0', '#F2E5BF', '#F8B888', '#FD8B51', '#CB6040']
+    elif encoding == 'rgb':
+        return [[37, 113, 128], [140, 171, 160], [242, 229, 191], [248,184,136], [253, 139, 81], [203, 96, 64]]
+    else:
+        raise ValueError(f"Invalid encoding: {encoding}")
 
 
 def plot_gradient_radar(ax, angles, mean_vals, lower_vals, upper_vals,

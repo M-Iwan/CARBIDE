@@ -1,0 +1,196 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Primary	PRR	Cvas	1	RandomForestClassifier	ECFP	Balanced Accuracy	0.54828
+Primary	PRR	Cvas	0	RandomForestClassifier	ECFP	Balanced Accuracy	0.55947
+Primary	PRR	Cvas	2	RandomForestClassifier	ECFP	Balanced Accuracy	0.60173
+Primary	PRR	Cvas	4	RandomForestClassifier	ECFP	Balanced Accuracy	0.56742
+Primary	PRR	Cvas	3	RandomForestClassifier	ECFP	Balanced Accuracy	0.55427
+Primary	ROR	Cvas	1	RandomForestClassifier	ECFP	Balanced Accuracy	0.53043
+Primary	ROR	Cvas	0	RandomForestClassifier	ECFP	Balanced Accuracy	0.54928
+Primary	ROR	Cvas	2	RandomForestClassifier	ECFP	Balanced Accuracy	0.57194
+Primary	ROR	Cvas	4	RandomForestClassifier	ECFP	Balanced Accuracy	0.54727
+Primary	ROR	Cvas	3	RandomForestClassifier	ECFP	Balanced Accuracy	0.54253
+Primary	IC	Cvas	1	RandomForestClassifier	ECFP	Balanced Accuracy	0.52427
+Primary	IC	Cvas	0	RandomForestClassifier	ECFP	Balanced Accuracy	0.52729
+Primary	IC	Cvas	2	RandomForestClassifier	ECFP	Balanced Accuracy	0.56925
+Primary	IC	Cvas	4	RandomForestClassifier	ECFP	Balanced Accuracy	0.54884
+Primary	IC	Cvas	3	RandomForestClassifier	ECFP	Balanced Accuracy	0.55626
+Primary	PRR	Cvas	1	RandomForestClassifier	ECFP	GeomRS	0.54517
+Primary	PRR	Cvas	0	RandomForestClassifier	ECFP	GeomRS	0.55944
+Primary	PRR	Cvas	2	RandomForestClassifier	ECFP	GeomRS	0.60153
+Primary	PRR	Cvas	4	RandomForestClassifier	ECFP	GeomRS	0.56439
+Primary	PRR	Cvas	3	RandomForestClassifier	ECFP	GeomRS	0.55178
+Primary	ROR	Cvas	1	RandomForestClassifier	ECFP	GeomRS	0.4582
+Primary	ROR	Cvas	0	RandomForestClassifier	ECFP	GeomRS	0.49098
+Primary	ROR	Cvas	2	RandomForestClassifier	ECFP	GeomRS	0.51854
+Primary	ROR	Cvas	4	RandomForestClassifier	ECFP	GeomRS	0.50062
+Primary	ROR	Cvas	3	RandomForestClassifier	ECFP	GeomRS	0.47838
+Primary	IC	Cvas	1	RandomForestClassifier	ECFP	GeomRS	0.50313
+Primary	IC	Cvas	0	RandomForestClassifier	ECFP	GeomRS	0.5207
+Primary	IC	Cvas	2	RandomForestClassifier	ECFP	GeomRS	0.5341
+Primary	IC	Cvas	4	RandomForestClassifier	ECFP	GeomRS	0.5176
+Primary	IC	Cvas	3	RandomForestClassifier	ECFP	GeomRS	0.542
+Primary	PRR	Cvas	1	RandomForestClassifier	ECFP	HarmRS	0.54207
+Primary	PRR	Cvas	0	RandomForestClassifier	ECFP	HarmRS	0.55941
+Primary	PRR	Cvas	2	RandomForestClassifier	ECFP	HarmRS	0.60132
+Primary	PRR	Cvas	4	RandomForestClassifier	ECFP	HarmRS	0.56138
+Primary	PRR	Cvas	3	RandomForestClassifier	ECFP	HarmRS	0.54931
+Primary	ROR	Cvas	1	RandomForestClassifier	ECFP	HarmRS	0.3958
+Primary	ROR	Cvas	0	RandomForestClassifier	ECFP	HarmRS	0.43887
+Primary	ROR	Cvas	2	RandomForestClassifier	ECFP	HarmRS	0.47013
+Primary	ROR	Cvas	4	RandomForestClassifier	ECFP	HarmRS	0.45795
+Primary	ROR	Cvas	3	RandomForestClassifier	ECFP	HarmRS	0.42182
+Primary	IC	Cvas	1	RandomForestClassifier	ECFP	HarmRS	0.48285
+Primary	IC	Cvas	0	RandomForestClassifier	ECFP	HarmRS	0.51419
+Primary	IC	Cvas	2	RandomForestClassifier	ECFP	HarmRS	0.50112
+Primary	IC	Cvas	4	RandomForestClassifier	ECFP	HarmRS	0.48813
+Primary	IC	Cvas	3	RandomForestClassifier	ECFP	HarmRS	0.52811
+Primary	PRR	Cvas	1	RandomForestClassifier	ECFP	F1 Score	0.55995
+Primary	PRR	Cvas	0	RandomForestClassifier	ECFP	F1 Score	0.59608
+Primary	PRR	Cvas	2	RandomForestClassifier	ECFP	F1 Score	0.62359
+Primary	PRR	Cvas	4	RandomForestClassifier	ECFP	F1 Score	0.55272
+Primary	PRR	Cvas	3	RandomForestClassifier	ECFP	F1 Score	0.55457
+Primary	ROR	Cvas	1	RandomForestClassifier	ECFP	F1 Score	0.37682
+Primary	ROR	Cvas	0	RandomForestClassifier	ECFP	F1 Score	0.41662
+Primary	ROR	Cvas	2	RandomForestClassifier	ECFP	F1 Score	0.44867
+Primary	ROR	Cvas	4	RandomForestClassifier	ECFP	F1 Score	0.42579
+Primary	ROR	Cvas	3	RandomForestClassifier	ECFP	F1 Score	0.39685
+Primary	IC	Cvas	1	RandomForestClassifier	ECFP	F1 Score	0.64472
+Primary	IC	Cvas	0	RandomForestClassifier	ECFP	F1 Score	0.60356
+Primary	IC	Cvas	2	RandomForestClassifier	ECFP	F1 Score	0.68181
+Primary	IC	Cvas	4	RandomForestClassifier	ECFP	F1 Score	0.63746
+Primary	IC	Cvas	3	RandomForestClassifier	ECFP	F1 Score	0.64073
+Primary	PRR	Cvas	1	RandomForestClassifier	ECFP	ROC AUC	0.53683
+Primary	PRR	Cvas	0	RandomForestClassifier	ECFP	ROC AUC	0.56251
+Primary	PRR	Cvas	2	RandomForestClassifier	ECFP	ROC AUC	0.61202
+Primary	PRR	Cvas	4	RandomForestClassifier	ECFP	ROC AUC	0.58508
+Primary	PRR	Cvas	3	RandomForestClassifier	ECFP	ROC AUC	0.57888
+Primary	ROR	Cvas	1	RandomForestClassifier	ECFP	ROC AUC	0.52587
+Primary	ROR	Cvas	0	RandomForestClassifier	ECFP	ROC AUC	0.55458
+Primary	ROR	Cvas	2	RandomForestClassifier	ECFP	ROC AUC	0.58005
+Primary	ROR	Cvas	4	RandomForestClassifier	ECFP	ROC AUC	0.5582
+Primary	ROR	Cvas	3	RandomForestClassifier	ECFP	ROC AUC	0.58016
+Primary	IC	Cvas	1	RandomForestClassifier	ECFP	ROC AUC	0.54923
+Primary	IC	Cvas	0	RandomForestClassifier	ECFP	ROC AUC	0.53849
+Primary	IC	Cvas	2	RandomForestClassifier	ECFP	ROC AUC	0.60231
+Primary	IC	Cvas	4	RandomForestClassifier	ECFP	ROC AUC	0.59474
+Primary	IC	Cvas	3	RandomForestClassifier	ECFP	ROC AUC	0.57214
+Primary	PRR	Cvas	1	RandomForestClassifier	ECFP	MCC	0.09497
+Primary	PRR	Cvas	0	RandomForestClassifier	ECFP	MCC	0.11767
+Primary	PRR	Cvas	2	RandomForestClassifier	ECFP	MCC	0.20169
+Primary	PRR	Cvas	4	RandomForestClassifier	ECFP	MCC	0.13542
+Primary	PRR	Cvas	3	RandomForestClassifier	ECFP	MCC	0.10819
+Primary	ROR	Cvas	1	RandomForestClassifier	ECFP	MCC	0.06985
+Primary	ROR	Cvas	0	RandomForestClassifier	ECFP	MCC	0.11096
+Primary	ROR	Cvas	2	RandomForestClassifier	ECFP	MCC	0.16096
+Primary	ROR	Cvas	4	RandomForestClassifier	ECFP	MCC	0.1049
+Primary	ROR	Cvas	3	RandomForestClassifier	ECFP	MCC	0.0976
+Primary	IC	Cvas	1	RandomForestClassifier	ECFP	MCC	0.04989
+Primary	IC	Cvas	0	RandomForestClassifier	ECFP	MCC	0.05482
+Primary	IC	Cvas	2	RandomForestClassifier	ECFP	MCC	0.15068
+Primary	IC	Cvas	4	RandomForestClassifier	ECFP	MCC	0.10501
+Primary	IC	Cvas	3	RandomForestClassifier	ECFP	MCC	0.11578
+Primary	PRR	Cvas	1	RandomForestClassifier	ECFP	Accuracy	0.53637
+Primary	PRR	Cvas	0	RandomForestClassifier	ECFP	Accuracy	0.5603
+Primary	PRR	Cvas	2	RandomForestClassifier	ECFP	Accuracy	0.59965
+Primary	PRR	Cvas	4	RandomForestClassifier	ECFP	Accuracy	0.56398
+Primary	PRR	Cvas	3	RandomForestClassifier	ECFP	Accuracy	0.54789
+Primary	ROR	Cvas	1	RandomForestClassifier	ECFP	Accuracy	0.47589
+Primary	ROR	Cvas	0	RandomForestClassifier	ECFP	Accuracy	0.51276
+Primary	ROR	Cvas	2	RandomForestClassifier	ECFP	Accuracy	0.54009
+Primary	ROR	Cvas	4	RandomForestClassifier	ECFP	Accuracy	0.53426
+Primary	ROR	Cvas	3	RandomForestClassifier	ECFP	Accuracy	0.51142
+Primary	IC	Cvas	1	RandomForestClassifier	ECFP	Accuracy	0.55435
+Primary	IC	Cvas	0	RandomForestClassifier	ECFP	Accuracy	0.53962
+Primary	IC	Cvas	2	RandomForestClassifier	ECFP	Accuracy	0.59524
+Primary	IC	Cvas	4	RandomForestClassifier	ECFP	Accuracy	0.55958
+Primary	IC	Cvas	3	RandomForestClassifier	ECFP	Accuracy	0.57147
+Primary	PRR	Cvas	1	RandomForestClassifier	ECFP	Recall	0.48995
+Primary	PRR	Cvas	0	RandomForestClassifier	ECFP	Recall	0.56508
+Primary	PRR	Cvas	2	RandomForestClassifier	ECFP	Recall	0.58593
+Primary	PRR	Cvas	4	RandomForestClassifier	ECFP	Recall	0.50888
+Primary	PRR	Cvas	3	RandomForestClassifier	ECFP	Recall	0.50185
+Primary	ROR	Cvas	1	RandomForestClassifier	ECFP	Recall	0.2632
+Primary	ROR	Cvas	0	RandomForestClassifier	ECFP	Recall	0.30302
+Primary	ROR	Cvas	2	RandomForestClassifier	ECFP	Recall	0.33064
+Primary	ROR	Cvas	4	RandomForestClassifier	ECFP	Recall	0.32617
+Primary	ROR	Cvas	3	RandomForestClassifier	ECFP	Recall	0.28662
+Primary	IC	Cvas	1	RandomForestClassifier	ECFP	Recall	0.67164
+Primary	IC	Cvas	0	RandomForestClassifier	ECFP	Recall	0.6104
+Primary	IC	Cvas	2	RandomForestClassifier	ECFP	Recall	0.76619
+Primary	IC	Cvas	4	RandomForestClassifier	ECFP	Recall	0.73139
+Primary	IC	Cvas	3	RandomForestClassifier	ECFP	Recall	0.68139
+Primary	PRR	Cvas	1	RandomForestClassifier	ECFP	Specificity	0.6066
+Primary	PRR	Cvas	0	RandomForestClassifier	ECFP	Specificity	0.55386
+Primary	PRR	Cvas	2	RandomForestClassifier	ECFP	Specificity	0.61754
+Primary	PRR	Cvas	4	RandomForestClassifier	ECFP	Specificity	0.62597
+Primary	PRR	Cvas	3	RandomForestClassifier	ECFP	Specificity	0.60668
+Primary	ROR	Cvas	1	RandomForestClassifier	ECFP	Specificity	0.79766
+Primary	ROR	Cvas	0	RandomForestClassifier	ECFP	Specificity	0.79553
+Primary	ROR	Cvas	2	RandomForestClassifier	ECFP	Specificity	0.81324
+Primary	ROR	Cvas	4	RandomForestClassifier	ECFP	Specificity	0.76836
+Primary	ROR	Cvas	3	RandomForestClassifier	ECFP	Specificity	0.79845
+Primary	IC	Cvas	1	RandomForestClassifier	ECFP	Specificity	0.3769
+Primary	IC	Cvas	0	RandomForestClassifier	ECFP	Specificity	0.44418
+Primary	IC	Cvas	2	RandomForestClassifier	ECFP	Specificity	0.37231
+Primary	IC	Cvas	4	RandomForestClassifier	ECFP	Specificity	0.3663
+Primary	IC	Cvas	3	RandomForestClassifier	ECFP	Specificity	0.43113
+Primary	PRR	Cvas	1	RandomForestClassifier	ECFP	Precision	0.65327
+Primary	PRR	Cvas	0	RandomForestClassifier	ECFP	Precision	0.63067
+Primary	PRR	Cvas	2	RandomForestClassifier	ECFP	Precision	0.66643
+Primary	PRR	Cvas	4	RandomForestClassifier	ECFP	Precision	0.60483
+Primary	PRR	Cvas	3	RandomForestClassifier	ECFP	Precision	0.61965
+Primary	ROR	Cvas	1	RandomForestClassifier	ECFP	Precision	0.66305
+Primary	ROR	Cvas	0	RandomForestClassifier	ECFP	Precision	0.66645
+Primary	ROR	Cvas	2	RandomForestClassifier	ECFP	Precision	0.69777
+Primary	ROR	Cvas	4	RandomForestClassifier	ECFP	Precision	0.61302
+Primary	ROR	Cvas	3	RandomForestClassifier	ECFP	Precision	0.64485
+Primary	IC	Cvas	1	RandomForestClassifier	ECFP	Precision	0.61987
+Primary	IC	Cvas	0	RandomForestClassifier	ECFP	Precision	0.59688
+Primary	IC	Cvas	2	RandomForestClassifier	ECFP	Precision	0.61418
+Primary	IC	Cvas	4	RandomForestClassifier	ECFP	Precision	0.56492
+Primary	IC	Cvas	3	RandomForestClassifier	ECFP	Precision	0.60465
+Primary	PRR	Cvas	1	RandomForestClassifier	ECFP	PRC AUC	0.65661
+Primary	PRR	Cvas	0	RandomForestClassifier	ECFP	PRC AUC	0.62304
+Primary	PRR	Cvas	2	RandomForestClassifier	ECFP	PRC AUC	0.66882
+Primary	PRR	Cvas	4	RandomForestClassifier	ECFP	PRC AUC	0.61393
+Primary	PRR	Cvas	3	RandomForestClassifier	ECFP	PRC AUC	0.62511
+Primary	ROR	Cvas	1	RandomForestClassifier	ECFP	PRC AUC	0.63543
+Primary	ROR	Cvas	0	RandomForestClassifier	ECFP	PRC AUC	0.6152
+Primary	ROR	Cvas	2	RandomForestClassifier	ECFP	PRC AUC	0.6368
+Primary	ROR	Cvas	4	RandomForestClassifier	ECFP	PRC AUC	0.61131
+Primary	ROR	Cvas	3	RandomForestClassifier	ECFP	PRC AUC	0.61495
+Primary	IC	Cvas	1	RandomForestClassifier	ECFP	PRC AUC	0.65668
+Primary	IC	Cvas	0	RandomForestClassifier	ECFP	PRC AUC	0.60634
+Primary	IC	Cvas	2	RandomForestClassifier	ECFP	PRC AUC	0.65058
+Primary	IC	Cvas	4	RandomForestClassifier	ECFP	PRC AUC	0.61145
+Primary	IC	Cvas	3	RandomForestClassifier	ECFP	PRC AUC	0.61949
+Primary	PRR	Cvas	1	RandomForestClassifier	ECFP	Brier	0.25229
+Primary	PRR	Cvas	0	RandomForestClassifier	ECFP	Brier	0.24776
+Primary	PRR	Cvas	2	RandomForestClassifier	ECFP	Brier	0.24425
+Primary	PRR	Cvas	4	RandomForestClassifier	ECFP	Brier	0.24818
+Primary	PRR	Cvas	3	RandomForestClassifier	ECFP	Brier	0.25462
+Primary	ROR	Cvas	1	RandomForestClassifier	ECFP	Brier	0.28107
+Primary	ROR	Cvas	0	RandomForestClassifier	ECFP	Brier	0.26858
+Primary	ROR	Cvas	2	RandomForestClassifier	ECFP	Brier	0.26244
+Primary	ROR	Cvas	4	RandomForestClassifier	ECFP	Brier	0.25443
+Primary	ROR	Cvas	3	RandomForestClassifier	ECFP	Brier	0.26368
+Primary	IC	Cvas	1	RandomForestClassifier	ECFP	Brier	0.25008
+Primary	IC	Cvas	0	RandomForestClassifier	ECFP	Brier	0.25697
+Primary	IC	Cvas	2	RandomForestClassifier	ECFP	Brier	0.24173
+Primary	IC	Cvas	4	RandomForestClassifier	ECFP	Brier	0.24972
+Primary	IC	Cvas	3	RandomForestClassifier	ECFP	Brier	0.25063
+Primary	PRR	Cvas	1	RandomForestClassifier	ECFP	ECE	0.1122
+Primary	PRR	Cvas	0	RandomForestClassifier	ECFP	ECE	0.07751
+Primary	PRR	Cvas	2	RandomForestClassifier	ECFP	ECE	0.07606
+Primary	PRR	Cvas	4	RandomForestClassifier	ECFP	ECE	0.05369
+Primary	PRR	Cvas	3	RandomForestClassifier	ECFP	ECE	0.10284
+Primary	ROR	Cvas	1	RandomForestClassifier	ECFP	ECE	0.1829
+Primary	ROR	Cvas	0	RandomForestClassifier	ECFP	ECE	0.15296
+Primary	ROR	Cvas	2	RandomForestClassifier	ECFP	ECE	0.14857
+Primary	ROR	Cvas	4	RandomForestClassifier	ECFP	ECE	0.10901
+Primary	ROR	Cvas	3	RandomForestClassifier	ECFP	ECE	0.14226
+Primary	IC	Cvas	1	RandomForestClassifier	ECFP	ECE	0.09689
+Primary	IC	Cvas	0	RandomForestClassifier	ECFP	ECE	0.09536
+Primary	IC	Cvas	2	RandomForestClassifier	ECFP	ECE	0.04472
+Primary	IC	Cvas	4	RandomForestClassifier	ECFP	ECE	0.07526
+Primary	IC	Cvas	3	RandomForestClassifier	ECFP	ECE	0.06847

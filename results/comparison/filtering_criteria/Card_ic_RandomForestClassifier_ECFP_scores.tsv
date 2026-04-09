@@ -1,0 +1,196 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Mono	IC	Card	1	RandomForestClassifier	ECFP	Balanced Accuracy	0.52349
+Mono	IC	Card	4	RandomForestClassifier	ECFP	Balanced Accuracy	0.57751
+Mono	IC	Card	3	RandomForestClassifier	ECFP	Balanced Accuracy	0.47824
+Mono	IC	Card	2	RandomForestClassifier	ECFP	Balanced Accuracy	0.60931
+Mono	IC	Card	0	RandomForestClassifier	ECFP	Balanced Accuracy	0.5464
+Primary	IC	Card	1	RandomForestClassifier	ECFP	Balanced Accuracy	0.55026
+Primary	IC	Card	4	RandomForestClassifier	ECFP	Balanced Accuracy	0.55059
+Primary	IC	Card	3	RandomForestClassifier	ECFP	Balanced Accuracy	0.54668
+Primary	IC	Card	2	RandomForestClassifier	ECFP	Balanced Accuracy	0.6007
+Primary	IC	Card	0	RandomForestClassifier	ECFP	Balanced Accuracy	0.53952
+Secondary	IC	Card	1	RandomForestClassifier	ECFP	Balanced Accuracy	0.58367
+Secondary	IC	Card	4	RandomForestClassifier	ECFP	Balanced Accuracy	0.5347
+Secondary	IC	Card	3	RandomForestClassifier	ECFP	Balanced Accuracy	0.47682
+Secondary	IC	Card	2	RandomForestClassifier	ECFP	Balanced Accuracy	0.5763
+Secondary	IC	Card	0	RandomForestClassifier	ECFP	Balanced Accuracy	0.53358
+Mono	IC	Card	1	RandomForestClassifier	ECFP	GeomRS	0.51655
+Mono	IC	Card	4	RandomForestClassifier	ECFP	GeomRS	0.54485
+Mono	IC	Card	3	RandomForestClassifier	ECFP	GeomRS	0.45908
+Mono	IC	Card	2	RandomForestClassifier	ECFP	GeomRS	0.57042
+Mono	IC	Card	0	RandomForestClassifier	ECFP	GeomRS	0.52434
+Primary	IC	Card	1	RandomForestClassifier	ECFP	GeomRS	0.52688
+Primary	IC	Card	4	RandomForestClassifier	ECFP	GeomRS	0.45401
+Primary	IC	Card	3	RandomForestClassifier	ECFP	GeomRS	0.49464
+Primary	IC	Card	2	RandomForestClassifier	ECFP	GeomRS	0.54548
+Primary	IC	Card	0	RandomForestClassifier	ECFP	GeomRS	0.47426
+Secondary	IC	Card	1	RandomForestClassifier	ECFP	GeomRS	0.50909
+Secondary	IC	Card	4	RandomForestClassifier	ECFP	GeomRS	0.35739
+Secondary	IC	Card	3	RandomForestClassifier	ECFP	GeomRS	0.3316
+Secondary	IC	Card	2	RandomForestClassifier	ECFP	GeomRS	0.44692
+Secondary	IC	Card	0	RandomForestClassifier	ECFP	GeomRS	0.36222
+Mono	IC	Card	1	RandomForestClassifier	ECFP	HarmRS	0.5097
+Mono	IC	Card	4	RandomForestClassifier	ECFP	HarmRS	0.51404
+Mono	IC	Card	3	RandomForestClassifier	ECFP	HarmRS	0.44069
+Mono	IC	Card	2	RandomForestClassifier	ECFP	HarmRS	0.53402
+Mono	IC	Card	0	RandomForestClassifier	ECFP	HarmRS	0.50318
+Primary	IC	Card	1	RandomForestClassifier	ECFP	HarmRS	0.50449
+Primary	IC	Card	4	RandomForestClassifier	ECFP	HarmRS	0.37437
+Primary	IC	Card	3	RandomForestClassifier	ECFP	HarmRS	0.44755
+Primary	IC	Card	2	RandomForestClassifier	ECFP	HarmRS	0.49533
+Primary	IC	Card	0	RandomForestClassifier	ECFP	HarmRS	0.4169
+Secondary	IC	Card	1	RandomForestClassifier	ECFP	HarmRS	0.44404
+Secondary	IC	Card	4	RandomForestClassifier	ECFP	HarmRS	0.23888
+Secondary	IC	Card	3	RandomForestClassifier	ECFP	HarmRS	0.23061
+Secondary	IC	Card	2	RandomForestClassifier	ECFP	HarmRS	0.34658
+Secondary	IC	Card	0	RandomForestClassifier	ECFP	HarmRS	0.24589
+Mono	IC	Card	1	RandomForestClassifier	ECFP	F1 Score	0.53327
+Mono	IC	Card	4	RandomForestClassifier	ECFP	F1 Score	0.72923
+Mono	IC	Card	3	RandomForestClassifier	ECFP	F1 Score	0.61636
+Mono	IC	Card	2	RandomForestClassifier	ECFP	F1 Score	0.76174
+Mono	IC	Card	0	RandomForestClassifier	ECFP	F1 Score	0.68498
+Primary	IC	Card	1	RandomForestClassifier	ECFP	F1 Score	0.69871
+Primary	IC	Card	4	RandomForestClassifier	ECFP	F1 Score	0.75506
+Primary	IC	Card	3	RandomForestClassifier	ECFP	F1 Score	0.71801
+Primary	IC	Card	2	RandomForestClassifier	ECFP	F1 Score	0.76897
+Primary	IC	Card	0	RandomForestClassifier	ECFP	F1 Score	0.72323
+Secondary	IC	Card	1	RandomForestClassifier	ECFP	F1 Score	0.77648
+Secondary	IC	Card	4	RandomForestClassifier	ECFP	F1 Score	0.77368
+Secondary	IC	Card	3	RandomForestClassifier	ECFP	F1 Score	0.70832
+Secondary	IC	Card	2	RandomForestClassifier	ECFP	F1 Score	0.78969
+Secondary	IC	Card	0	RandomForestClassifier	ECFP	F1 Score	0.76746
+Mono	IC	Card	1	RandomForestClassifier	ECFP	ROC AUC	0.57037
+Mono	IC	Card	4	RandomForestClassifier	ECFP	ROC AUC	0.64567
+Mono	IC	Card	3	RandomForestClassifier	ECFP	ROC AUC	0.50325
+Mono	IC	Card	2	RandomForestClassifier	ECFP	ROC AUC	0.71366
+Mono	IC	Card	0	RandomForestClassifier	ECFP	ROC AUC	0.54442
+Primary	IC	Card	1	RandomForestClassifier	ECFP	ROC AUC	0.6275
+Primary	IC	Card	4	RandomForestClassifier	ECFP	ROC AUC	0.67021
+Primary	IC	Card	3	RandomForestClassifier	ECFP	ROC AUC	0.62788
+Primary	IC	Card	2	RandomForestClassifier	ECFP	ROC AUC	0.70134
+Primary	IC	Card	0	RandomForestClassifier	ECFP	ROC AUC	0.61544
+Secondary	IC	Card	1	RandomForestClassifier	ECFP	ROC AUC	0.65355
+Secondary	IC	Card	4	RandomForestClassifier	ECFP	ROC AUC	0.63562
+Secondary	IC	Card	3	RandomForestClassifier	ECFP	ROC AUC	0.53666
+Secondary	IC	Card	2	RandomForestClassifier	ECFP	ROC AUC	0.72536
+Secondary	IC	Card	0	RandomForestClassifier	ECFP	ROC AUC	0.61254
+Mono	IC	Card	1	RandomForestClassifier	ECFP	MCC	0.04521
+Mono	IC	Card	4	RandomForestClassifier	ECFP	MCC	0.16425
+Mono	IC	Card	3	RandomForestClassifier	ECFP	MCC	-0.04331
+Mono	IC	Card	2	RandomForestClassifier	ECFP	MCC	0.2406
+Mono	IC	Card	0	RandomForestClassifier	ECFP	MCC	0.09457
+Primary	IC	Card	1	RandomForestClassifier	ECFP	MCC	0.10197
+Primary	IC	Card	4	RandomForestClassifier	ECFP	MCC	0.12782
+Primary	IC	Card	3	RandomForestClassifier	ECFP	MCC	0.10311
+Primary	IC	Card	2	RandomForestClassifier	ECFP	MCC	0.2332
+Primary	IC	Card	0	RandomForestClassifier	ECFP	MCC	0.08999
+Secondary	IC	Card	1	RandomForestClassifier	ECFP	MCC	0.20336
+Secondary	IC	Card	4	RandomForestClassifier	ECFP	MCC	0.11482
+Secondary	IC	Card	3	RandomForestClassifier	ECFP	MCC	-0.06026
+Secondary	IC	Card	2	RandomForestClassifier	ECFP	MCC	0.22978
+Secondary	IC	Card	0	RandomForestClassifier	ECFP	MCC	0.10808
+Mono	IC	Card	1	RandomForestClassifier	ECFP	Accuracy	0.49714
+Mono	IC	Card	4	RandomForestClassifier	ECFP	Accuracy	0.63249
+Mono	IC	Card	3	RandomForestClassifier	ECFP	Accuracy	0.51484
+Mono	IC	Card	2	RandomForestClassifier	ECFP	Accuracy	0.66974
+Mono	IC	Card	0	RandomForestClassifier	ECFP	Accuracy	0.58893
+Primary	IC	Card	1	RandomForestClassifier	ECFP	Accuracy	0.59948
+Primary	IC	Card	4	RandomForestClassifier	ECFP	Accuracy	0.64004
+Primary	IC	Card	3	RandomForestClassifier	ECFP	Accuracy	0.61026
+Primary	IC	Card	2	RandomForestClassifier	ECFP	Accuracy	0.67169
+Primary	IC	Card	0	RandomForestClassifier	ECFP	Accuracy	0.61071
+Secondary	IC	Card	1	RandomForestClassifier	ECFP	Accuracy	0.67221
+Secondary	IC	Card	4	RandomForestClassifier	ECFP	Accuracy	0.64891
+Secondary	IC	Card	3	RandomForestClassifier	ECFP	Accuracy	0.5704
+Secondary	IC	Card	2	RandomForestClassifier	ECFP	Accuracy	0.67897
+Secondary	IC	Card	0	RandomForestClassifier	ECFP	Accuracy	0.64201
+Mono	IC	Card	1	RandomForestClassifier	ECFP	Recall	0.43854
+Mono	IC	Card	4	RandomForestClassifier	ECFP	Recall	0.76897
+Mono	IC	Card	3	RandomForestClassifier	ECFP	Recall	0.61226
+Mono	IC	Card	2	RandomForestClassifier	ECFP	Recall	0.82348
+Mono	IC	Card	0	RandomForestClassifier	ECFP	Recall	0.70007
+Primary	IC	Card	1	RandomForestClassifier	ECFP	Recall	0.70896
+Primary	IC	Card	4	RandomForestClassifier	ECFP	Recall	0.86207
+Primary	IC	Card	3	RandomForestClassifier	ECFP	Recall	0.77948
+Primary	IC	Card	2	RandomForestClassifier	ECFP	Recall	0.85227
+Primary	IC	Card	0	RandomForestClassifier	ECFP	Recall	0.79673
+Secondary	IC	Card	1	RandomForestClassifier	ECFP	Recall	0.86915
+Secondary	IC	Card	4	RandomForestClassifier	ECFP	Recall	0.93241
+Secondary	IC	Card	3	RandomForestClassifier	ECFP	Recall	0.81945
+Secondary	IC	Card	2	RandomForestClassifier	ECFP	Recall	0.94015
+Secondary	IC	Card	0	RandomForestClassifier	ECFP	Recall	0.92537
+Mono	IC	Card	1	RandomForestClassifier	ECFP	Specificity	0.60843
+Mono	IC	Card	4	RandomForestClassifier	ECFP	Specificity	0.38605
+Mono	IC	Card	3	RandomForestClassifier	ECFP	Specificity	0.34422
+Mono	IC	Card	2	RandomForestClassifier	ECFP	Specificity	0.39513
+Mono	IC	Card	0	RandomForestClassifier	ECFP	Specificity	0.39272
+Primary	IC	Card	1	RandomForestClassifier	ECFP	Specificity	0.39157
+Primary	IC	Card	4	RandomForestClassifier	ECFP	Specificity	0.2391
+Primary	IC	Card	3	RandomForestClassifier	ECFP	Specificity	0.31389
+Primary	IC	Card	2	RandomForestClassifier	ECFP	Specificity	0.34912
+Primary	IC	Card	0	RandomForestClassifier	ECFP	Specificity	0.28231
+Secondary	IC	Card	1	RandomForestClassifier	ECFP	Specificity	0.29819
+Secondary	IC	Card	4	RandomForestClassifier	ECFP	Specificity	0.13699
+Secondary	IC	Card	3	RandomForestClassifier	ECFP	Specificity	0.13419
+Secondary	IC	Card	2	RandomForestClassifier	ECFP	Specificity	0.21245
+Secondary	IC	Card	0	RandomForestClassifier	ECFP	Specificity	0.14178
+Mono	IC	Card	1	RandomForestClassifier	ECFP	Precision	0.6802
+Mono	IC	Card	4	RandomForestClassifier	ECFP	Precision	0.69341
+Mono	IC	Card	3	RandomForestClassifier	ECFP	Precision	0.62053
+Mono	IC	Card	2	RandomForestClassifier	ECFP	Precision	0.7086
+Mono	IC	Card	0	RandomForestClassifier	ECFP	Precision	0.67052
+Primary	IC	Card	1	RandomForestClassifier	ECFP	Precision	0.68875
+Primary	IC	Card	4	RandomForestClassifier	ECFP	Precision	0.67168
+Primary	IC	Card	3	RandomForestClassifier	ECFP	Precision	0.66553
+Primary	IC	Card	2	RandomForestClassifier	ECFP	Precision	0.7005
+Primary	IC	Card	0	RandomForestClassifier	ECFP	Precision	0.66214
+Secondary	IC	Card	1	RandomForestClassifier	ECFP	Precision	0.70166
+Secondary	IC	Card	4	RandomForestClassifier	ECFP	Precision	0.66112
+Secondary	IC	Card	3	RandomForestClassifier	ECFP	Precision	0.62373
+Secondary	IC	Card	2	RandomForestClassifier	ECFP	Precision	0.68075
+Secondary	IC	Card	0	RandomForestClassifier	ECFP	Precision	0.65559
+Mono	IC	Card	1	RandomForestClassifier	ECFP	PRC AUC	0.74983
+Mono	IC	Card	4	RandomForestClassifier	ECFP	PRC AUC	0.76713
+Mono	IC	Card	3	RandomForestClassifier	ECFP	PRC AUC	0.68993
+Mono	IC	Card	2	RandomForestClassifier	ECFP	PRC AUC	0.82969
+Mono	IC	Card	0	RandomForestClassifier	ECFP	PRC AUC	0.66603
+Primary	IC	Card	1	RandomForestClassifier	ECFP	PRC AUC	0.78692
+Primary	IC	Card	4	RandomForestClassifier	ECFP	PRC AUC	0.78186
+Primary	IC	Card	3	RandomForestClassifier	ECFP	PRC AUC	0.76459
+Primary	IC	Card	2	RandomForestClassifier	ECFP	PRC AUC	0.80394
+Primary	IC	Card	0	RandomForestClassifier	ECFP	PRC AUC	0.72867
+Secondary	IC	Card	1	RandomForestClassifier	ECFP	PRC AUC	0.77839
+Secondary	IC	Card	4	RandomForestClassifier	ECFP	PRC AUC	0.76503
+Secondary	IC	Card	3	RandomForestClassifier	ECFP	PRC AUC	0.69507
+Secondary	IC	Card	2	RandomForestClassifier	ECFP	PRC AUC	0.80442
+Secondary	IC	Card	0	RandomForestClassifier	ECFP	PRC AUC	0.73238
+Mono	IC	Card	1	RandomForestClassifier	ECFP	Brier	0.24281
+Mono	IC	Card	4	RandomForestClassifier	ECFP	Brier	0.22428
+Mono	IC	Card	3	RandomForestClassifier	ECFP	Brier	0.24542
+Mono	IC	Card	2	RandomForestClassifier	ECFP	Brier	0.20381
+Mono	IC	Card	0	RandomForestClassifier	ECFP	Brier	0.24544
+Primary	IC	Card	1	RandomForestClassifier	ECFP	Brier	0.22269
+Primary	IC	Card	4	RandomForestClassifier	ECFP	Brier	0.21221
+Primary	IC	Card	3	RandomForestClassifier	ECFP	Brier	0.22358
+Primary	IC	Card	2	RandomForestClassifier	ECFP	Brier	0.2051
+Primary	IC	Card	0	RandomForestClassifier	ECFP	Brier	0.22957
+Secondary	IC	Card	1	RandomForestClassifier	ECFP	Brier	0.21149
+Secondary	IC	Card	4	RandomForestClassifier	ECFP	Brier	0.21968
+Secondary	IC	Card	3	RandomForestClassifier	ECFP	Brier	0.24322
+Secondary	IC	Card	2	RandomForestClassifier	ECFP	Brier	0.20116
+Secondary	IC	Card	0	RandomForestClassifier	ECFP	Brier	0.22515
+Mono	IC	Card	1	RandomForestClassifier	ECFP	ECE	0.14073
+Mono	IC	Card	4	RandomForestClassifier	ECFP	ECE	0.07695
+Mono	IC	Card	3	RandomForestClassifier	ECFP	ECE	0.12344
+Mono	IC	Card	2	RandomForestClassifier	ECFP	ECE	0.04978
+Mono	IC	Card	0	RandomForestClassifier	ECFP	ECE	0.10883
+Primary	IC	Card	1	RandomForestClassifier	ECFP	ECE	0.0945
+Primary	IC	Card	4	RandomForestClassifier	ECFP	ECE	0.04593
+Primary	IC	Card	3	RandomForestClassifier	ECFP	ECE	0.04492
+Primary	IC	Card	2	RandomForestClassifier	ECFP	ECE	0.03184
+Primary	IC	Card	0	RandomForestClassifier	ECFP	ECE	0.05126
+Secondary	IC	Card	1	RandomForestClassifier	ECFP	ECE	0.04371
+Secondary	IC	Card	4	RandomForestClassifier	ECFP	ECE	0.07682
+Secondary	IC	Card	3	RandomForestClassifier	ECFP	ECE	0.09941
+Secondary	IC	Card	2	RandomForestClassifier	ECFP	ECE	0.05104
+Secondary	IC	Card	0	RandomForestClassifier	ECFP	ECE	0.04793

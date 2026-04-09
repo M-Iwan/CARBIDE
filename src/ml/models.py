@@ -49,7 +49,7 @@ class FoldUnit:
         return f"<FoldUnit(fold={self.fold}, model={self.model.__class__.__name__})>"
 
     def __str__(self):
-        eval_score = self.scores.get(('Eval', 'Weighted'), {})
+        eval_score = self.scores.get(('Eval', 'Unweighted'), {})
         total_metrics = eval_score.get('Total', {})
         metrics_str = ', '.join(f"{k}: {v:.4f}" for k, v in total_metrics.items())
         return f"Fold {self.fold} | Model: {self.model.__class__.__name__} | Eval Scores: {metrics_str}"
@@ -102,6 +102,27 @@ class FoldUnit:
         return y_score
 
 
+class UnitAdapter:
+    """
+    Adapter for IterEnsemble to use only x_demo arrays for making predictions.
+    """
+    def __init__(self, model, scores, fold):
+        self.model = model
+        self.scores = scores
+        self.fold = fold
+
+    def predict(self, x_array: np.ndarray, x_demo: np.ndarray):
+        return self.model.predict(x_demo)
+
+    def predict_proba(self, x_array: np.ndarray, x_demo: np.ndarray):
+        if hasattr(self.model, 'predict_proba'):
+            y_score = self.model.predict_proba(x_demo)[:, 1]
+        elif hasattr(self.model, 'decision_function'):
+            y_score = expit(self.model.decision_function(x_demo))
+        else:
+            raise ValueError(f"{type(self.model).__name__} must implement either decision_function or predict_proba")
+        return y_score
+
 
 class IterEnsemble:
     """
@@ -139,7 +160,7 @@ class IterEnsemble:
         self.units = units
         self.iter = iter_idx
         self.folds = [unit.fold for unit in self.units]
-        self.eval_scores = [unit.scores[('Eval', 'Weighted')] for unit in self.units]
+        self.eval_scores = [unit.scores[('Eval', 'Unweighted')] for unit in self.units]
         self.summary = self.make_summary()
         self.optuna_score = None
         self.hyperparameters = None

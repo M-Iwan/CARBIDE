@@ -1,0 +1,196 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Mono	ROR	Card	1	XGBClassifier	ECFP	Balanced Accuracy	0.57046
+Mono	ROR	Card	4	XGBClassifier	ECFP	Balanced Accuracy	0.60633
+Mono	ROR	Card	3	XGBClassifier	ECFP	Balanced Accuracy	0.51485
+Mono	ROR	Card	0	XGBClassifier	ECFP	Balanced Accuracy	0.58194
+Mono	ROR	Card	2	XGBClassifier	ECFP	Balanced Accuracy	0.65142
+Primary	ROR	Card	1	XGBClassifier	ECFP	Balanced Accuracy	0.55783
+Primary	ROR	Card	4	XGBClassifier	ECFP	Balanced Accuracy	0.61
+Primary	ROR	Card	3	XGBClassifier	ECFP	Balanced Accuracy	0.53468
+Primary	ROR	Card	0	XGBClassifier	ECFP	Balanced Accuracy	0.62833
+Primary	ROR	Card	2	XGBClassifier	ECFP	Balanced Accuracy	0.6515
+Secondary	ROR	Card	1	XGBClassifier	ECFP	Balanced Accuracy	0.5773
+Secondary	ROR	Card	4	XGBClassifier	ECFP	Balanced Accuracy	0.64702
+Secondary	ROR	Card	3	XGBClassifier	ECFP	Balanced Accuracy	0.48893
+Secondary	ROR	Card	0	XGBClassifier	ECFP	Balanced Accuracy	0.53991
+Secondary	ROR	Card	2	XGBClassifier	ECFP	Balanced Accuracy	0.58277
+Mono	ROR	Card	1	XGBClassifier	ECFP	GeomRS	0.54376
+Mono	ROR	Card	4	XGBClassifier	ECFP	GeomRS	0.60249
+Mono	ROR	Card	3	XGBClassifier	ECFP	GeomRS	0.5125
+Mono	ROR	Card	0	XGBClassifier	ECFP	GeomRS	0.58188
+Mono	ROR	Card	2	XGBClassifier	ECFP	GeomRS	0.6496
+Primary	ROR	Card	1	XGBClassifier	ECFP	GeomRS	0.50932
+Primary	ROR	Card	4	XGBClassifier	ECFP	GeomRS	0.60885
+Primary	ROR	Card	3	XGBClassifier	ECFP	GeomRS	0.51319
+Primary	ROR	Card	0	XGBClassifier	ECFP	GeomRS	0.62783
+Primary	ROR	Card	2	XGBClassifier	ECFP	GeomRS	0.65149
+Secondary	ROR	Card	1	XGBClassifier	ECFP	GeomRS	0.57125
+Secondary	ROR	Card	4	XGBClassifier	ECFP	GeomRS	0.64643
+Secondary	ROR	Card	3	XGBClassifier	ECFP	GeomRS	0.47009
+Secondary	ROR	Card	0	XGBClassifier	ECFP	GeomRS	0.53698
+Secondary	ROR	Card	2	XGBClassifier	ECFP	GeomRS	0.58247
+Mono	ROR	Card	1	XGBClassifier	ECFP	HarmRS	0.51831
+Mono	ROR	Card	4	XGBClassifier	ECFP	HarmRS	0.59868
+Mono	ROR	Card	3	XGBClassifier	ECFP	HarmRS	0.51016
+Mono	ROR	Card	0	XGBClassifier	ECFP	HarmRS	0.58182
+Mono	ROR	Card	2	XGBClassifier	ECFP	HarmRS	0.6478
+Primary	ROR	Card	1	XGBClassifier	ECFP	HarmRS	0.46502
+Primary	ROR	Card	4	XGBClassifier	ECFP	HarmRS	0.60771
+Primary	ROR	Card	3	XGBClassifier	ECFP	HarmRS	0.49256
+Primary	ROR	Card	0	XGBClassifier	ECFP	HarmRS	0.62733
+Primary	ROR	Card	2	XGBClassifier	ECFP	HarmRS	0.65148
+Secondary	ROR	Card	1	XGBClassifier	ECFP	HarmRS	0.56527
+Secondary	ROR	Card	4	XGBClassifier	ECFP	HarmRS	0.64584
+Secondary	ROR	Card	3	XGBClassifier	ECFP	HarmRS	0.45197
+Secondary	ROR	Card	0	XGBClassifier	ECFP	HarmRS	0.53407
+Secondary	ROR	Card	2	XGBClassifier	ECFP	HarmRS	0.58216
+Mono	ROR	Card	1	XGBClassifier	ECFP	F1 Score	0.49747
+Mono	ROR	Card	4	XGBClassifier	ECFP	F1 Score	0.66529
+Mono	ROR	Card	3	XGBClassifier	ECFP	F1 Score	0.51124
+Mono	ROR	Card	0	XGBClassifier	ECFP	F1 Score	0.60677
+Mono	ROR	Card	2	XGBClassifier	ECFP	F1 Score	0.69613
+Primary	ROR	Card	1	XGBClassifier	ECFP	F1 Score	0.4407
+Primary	ROR	Card	4	XGBClassifier	ECFP	F1 Score	0.62166
+Primary	ROR	Card	3	XGBClassifier	ECFP	F1 Score	0.46843
+Primary	ROR	Card	0	XGBClassifier	ECFP	F1 Score	0.64478
+Primary	ROR	Card	2	XGBClassifier	ECFP	F1 Score	0.67568
+Secondary	ROR	Card	1	XGBClassifier	ECFP	F1 Score	0.5611
+Secondary	ROR	Card	4	XGBClassifier	ECFP	F1 Score	0.66309
+Secondary	ROR	Card	3	XGBClassifier	ECFP	F1 Score	0.42656
+Secondary	ROR	Card	0	XGBClassifier	ECFP	F1 Score	0.53872
+Secondary	ROR	Card	2	XGBClassifier	ECFP	F1 Score	0.60118
+Mono	ROR	Card	1	XGBClassifier	ECFP	ROC AUC	0.59037
+Mono	ROR	Card	4	XGBClassifier	ECFP	ROC AUC	0.66768
+Mono	ROR	Card	3	XGBClassifier	ECFP	ROC AUC	0.51136
+Mono	ROR	Card	0	XGBClassifier	ECFP	ROC AUC	0.61297
+Mono	ROR	Card	2	XGBClassifier	ECFP	ROC AUC	0.70115
+Primary	ROR	Card	1	XGBClassifier	ECFP	ROC AUC	0.57503
+Primary	ROR	Card	4	XGBClassifier	ECFP	ROC AUC	0.65877
+Primary	ROR	Card	3	XGBClassifier	ECFP	ROC AUC	0.52346
+Primary	ROR	Card	0	XGBClassifier	ECFP	ROC AUC	0.67095
+Primary	ROR	Card	2	XGBClassifier	ECFP	ROC AUC	0.71602
+Secondary	ROR	Card	1	XGBClassifier	ECFP	ROC AUC	0.62681
+Secondary	ROR	Card	4	XGBClassifier	ECFP	ROC AUC	0.69588
+Secondary	ROR	Card	3	XGBClassifier	ECFP	ROC AUC	0.45272
+Secondary	ROR	Card	0	XGBClassifier	ECFP	ROC AUC	0.5723
+Secondary	ROR	Card	2	XGBClassifier	ECFP	ROC AUC	0.63219
+Mono	ROR	Card	1	XGBClassifier	ECFP	MCC	0.14809
+Mono	ROR	Card	4	XGBClassifier	ECFP	MCC	0.21368
+Mono	ROR	Card	3	XGBClassifier	ECFP	MCC	0.02967
+Mono	ROR	Card	0	XGBClassifier	ECFP	MCC	0.16254
+Mono	ROR	Card	2	XGBClassifier	ECFP	MCC	0.30333
+Primary	ROR	Card	1	XGBClassifier	ECFP	MCC	0.12794
+Primary	ROR	Card	4	XGBClassifier	ECFP	MCC	0.21826
+Primary	ROR	Card	3	XGBClassifier	ECFP	MCC	0.07218
+Primary	ROR	Card	0	XGBClassifier	ECFP	MCC	0.25459
+Primary	ROR	Card	2	XGBClassifier	ECFP	MCC	0.30089
+Secondary	ROR	Card	1	XGBClassifier	ECFP	MCC	0.15521
+Secondary	ROR	Card	4	XGBClassifier	ECFP	MCC	0.29145
+Secondary	ROR	Card	3	XGBClassifier	ECFP	MCC	-0.02289
+Secondary	ROR	Card	0	XGBClassifier	ECFP	MCC	0.07957
+Secondary	ROR	Card	2	XGBClassifier	ECFP	MCC	0.16434
+Mono	ROR	Card	1	XGBClassifier	ECFP	Accuracy	0.54977
+Mono	ROR	Card	4	XGBClassifier	ECFP	Accuracy	0.61542
+Mono	ROR	Card	3	XGBClassifier	ECFP	Accuracy	0.50989
+Mono	ROR	Card	0	XGBClassifier	ECFP	Accuracy	0.58085
+Mono	ROR	Card	2	XGBClassifier	ECFP	Accuracy	0.65732
+Primary	ROR	Card	1	XGBClassifier	ECFP	Accuracy	0.53054
+Primary	ROR	Card	4	XGBClassifier	ECFP	Accuracy	0.60501
+Primary	ROR	Card	3	XGBClassifier	ECFP	Accuracy	0.51956
+Primary	ROR	Card	0	XGBClassifier	ECFP	Accuracy	0.62512
+Primary	ROR	Card	2	XGBClassifier	ECFP	Accuracy	0.65109
+Secondary	ROR	Card	1	XGBClassifier	ECFP	Accuracy	0.56731
+Secondary	ROR	Card	4	XGBClassifier	ECFP	Accuracy	0.64333
+Secondary	ROR	Card	3	XGBClassifier	ECFP	Accuracy	0.47538
+Secondary	ROR	Card	0	XGBClassifier	ECFP	Accuracy	0.53272
+Secondary	ROR	Card	2	XGBClassifier	ECFP	Accuracy	0.58048
+Mono	ROR	Card	1	XGBClassifier	ECFP	Recall	0.39798
+Mono	ROR	Card	4	XGBClassifier	ECFP	Recall	0.67446
+Mono	ROR	Card	3	XGBClassifier	ECFP	Recall	0.46572
+Mono	ROR	Card	0	XGBClassifier	ECFP	Recall	0.57338
+Mono	ROR	Card	2	XGBClassifier	ECFP	Recall	0.7
+Primary	ROR	Card	1	XGBClassifier	ECFP	Recall	0.3303
+Primary	ROR	Card	4	XGBClassifier	ECFP	Recall	0.57262
+Primary	ROR	Card	3	XGBClassifier	ECFP	Recall	0.38462
+Primary	ROR	Card	0	XGBClassifier	ECFP	Recall	0.60324
+Primary	ROR	Card	2	XGBClassifier	ECFP	Recall	0.64815
+Secondary	ROR	Card	1	XGBClassifier	ECFP	Recall	0.49394
+Secondary	ROR	Card	4	XGBClassifier	ECFP	Recall	0.61937
+Secondary	ROR	Card	3	XGBClassifier	ECFP	Recall	0.35452
+Secondary	ROR	Card	0	XGBClassifier	ECFP	Recall	0.48379
+Secondary	ROR	Card	2	XGBClassifier	ECFP	Recall	0.56389
+Mono	ROR	Card	1	XGBClassifier	ECFP	Specificity	0.74293
+Mono	ROR	Card	4	XGBClassifier	ECFP	Specificity	0.53821
+Mono	ROR	Card	3	XGBClassifier	ECFP	Specificity	0.56397
+Mono	ROR	Card	0	XGBClassifier	ECFP	Specificity	0.59051
+Mono	ROR	Card	2	XGBClassifier	ECFP	Specificity	0.60284
+Primary	ROR	Card	1	XGBClassifier	ECFP	Specificity	0.78535
+Primary	ROR	Card	4	XGBClassifier	ECFP	Specificity	0.64738
+Primary	ROR	Card	3	XGBClassifier	ECFP	Specificity	0.68475
+Primary	ROR	Card	0	XGBClassifier	ECFP	Specificity	0.65342
+Primary	ROR	Card	2	XGBClassifier	ECFP	Specificity	0.65485
+Secondary	ROR	Card	1	XGBClassifier	ECFP	Specificity	0.66067
+Secondary	ROR	Card	4	XGBClassifier	ECFP	Specificity	0.67467
+Secondary	ROR	Card	3	XGBClassifier	ECFP	Specificity	0.62334
+Secondary	ROR	Card	0	XGBClassifier	ECFP	Specificity	0.59603
+Secondary	ROR	Card	2	XGBClassifier	ECFP	Specificity	0.60165
+Mono	ROR	Card	1	XGBClassifier	ECFP	Precision	0.6633
+Mono	ROR	Card	4	XGBClassifier	ECFP	Precision	0.65638
+Mono	ROR	Card	3	XGBClassifier	ECFP	Precision	0.56663
+Mono	ROR	Card	0	XGBClassifier	ECFP	Precision	0.6443
+Mono	ROR	Card	2	XGBClassifier	ECFP	Precision	0.69231
+Primary	ROR	Card	1	XGBClassifier	ECFP	Precision	0.66194
+Primary	ROR	Card	4	XGBClassifier	ECFP	Precision	0.67988
+Primary	ROR	Card	3	XGBClassifier	ECFP	Precision	0.59896
+Primary	ROR	Card	0	XGBClassifier	ECFP	Precision	0.69246
+Primary	ROR	Card	2	XGBClassifier	ECFP	Precision	0.70565
+Secondary	ROR	Card	1	XGBClassifier	ECFP	Precision	0.6494
+Secondary	ROR	Card	4	XGBClassifier	ECFP	Precision	0.71346
+Secondary	ROR	Card	3	XGBClassifier	ECFP	Precision	0.53535
+Secondary	ROR	Card	0	XGBClassifier	ECFP	Precision	0.60772
+Secondary	ROR	Card	2	XGBClassifier	ECFP	Precision	0.64376
+Mono	ROR	Card	1	XGBClassifier	ECFP	PRC AUC	0.68207
+Mono	ROR	Card	4	XGBClassifier	ECFP	PRC AUC	0.72885
+Mono	ROR	Card	3	XGBClassifier	ECFP	PRC AUC	0.57375
+Mono	ROR	Card	0	XGBClassifier	ECFP	PRC AUC	0.67422
+Mono	ROR	Card	2	XGBClassifier	ECFP	PRC AUC	0.7238
+Primary	ROR	Card	1	XGBClassifier	ECFP	PRC AUC	0.67042
+Primary	ROR	Card	4	XGBClassifier	ECFP	PRC AUC	0.74379
+Primary	ROR	Card	3	XGBClassifier	ECFP	PRC AUC	0.58188
+Primary	ROR	Card	0	XGBClassifier	ECFP	PRC AUC	0.7275
+Primary	ROR	Card	2	XGBClassifier	ECFP	PRC AUC	0.77803
+Secondary	ROR	Card	1	XGBClassifier	ECFP	PRC AUC	0.66866
+Secondary	ROR	Card	4	XGBClassifier	ECFP	PRC AUC	0.76219
+Secondary	ROR	Card	3	XGBClassifier	ECFP	PRC AUC	0.52445
+Secondary	ROR	Card	0	XGBClassifier	ECFP	PRC AUC	0.63583
+Secondary	ROR	Card	2	XGBClassifier	ECFP	PRC AUC	0.69594
+Mono	ROR	Card	1	XGBClassifier	ECFP	Brier	0.27069
+Mono	ROR	Card	4	XGBClassifier	ECFP	Brier	0.23655
+Mono	ROR	Card	3	XGBClassifier	ECFP	Brier	0.28814
+Mono	ROR	Card	0	XGBClassifier	ECFP	Brier	0.25126
+Mono	ROR	Card	2	XGBClassifier	ECFP	Brier	0.22001
+Primary	ROR	Card	1	XGBClassifier	ECFP	Brier	0.26381
+Primary	ROR	Card	4	XGBClassifier	ECFP	Brier	0.23258
+Primary	ROR	Card	3	XGBClassifier	ECFP	Brier	0.28106
+Primary	ROR	Card	0	XGBClassifier	ECFP	Brier	0.22992
+Primary	ROR	Card	2	XGBClassifier	ECFP	Brier	0.21452
+Secondary	ROR	Card	1	XGBClassifier	ECFP	Brier	0.24083
+Secondary	ROR	Card	4	XGBClassifier	ECFP	Brier	0.22477
+Secondary	ROR	Card	3	XGBClassifier	ECFP	Brier	0.29363
+Secondary	ROR	Card	0	XGBClassifier	ECFP	Brier	0.25439
+Secondary	ROR	Card	2	XGBClassifier	ECFP	Brier	0.2366
+Mono	ROR	Card	1	XGBClassifier	ECFP	ECE	0.14491
+Mono	ROR	Card	4	XGBClassifier	ECFP	ECE	0.08835
+Mono	ROR	Card	3	XGBClassifier	ECFP	ECE	0.16074
+Mono	ROR	Card	0	XGBClassifier	ECFP	ECE	0.09994
+Mono	ROR	Card	2	XGBClassifier	ECFP	ECE	0.04672
+Primary	ROR	Card	1	XGBClassifier	ECFP	ECE	0.13955
+Primary	ROR	Card	4	XGBClassifier	ECFP	ECE	0.07741
+Primary	ROR	Card	3	XGBClassifier	ECFP	ECE	0.13399
+Primary	ROR	Card	0	XGBClassifier	ECFP	ECE	0.06393
+Primary	ROR	Card	2	XGBClassifier	ECFP	ECE	0.0588
+Secondary	ROR	Card	1	XGBClassifier	ECFP	ECE	0.09946
+Secondary	ROR	Card	4	XGBClassifier	ECFP	ECE	0.07744
+Secondary	ROR	Card	3	XGBClassifier	ECFP	ECE	0.15844
+Secondary	ROR	Card	0	XGBClassifier	ECFP	ECE	0.09788
+Secondary	ROR	Card	2	XGBClassifier	ECFP	ECE	0.06474

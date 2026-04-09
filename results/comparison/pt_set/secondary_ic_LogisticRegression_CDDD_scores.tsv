@@ -1,0 +1,196 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Secondary	IC	Cred	1	LogisticRegression	CDDD	Balanced Accuracy	0.48676
+Secondary	IC	Cred	4	LogisticRegression	CDDD	Balanced Accuracy	0.55571
+Secondary	IC	Cred	3	LogisticRegression	CDDD	Balanced Accuracy	0.52063
+Secondary	IC	Cred	0	LogisticRegression	CDDD	Balanced Accuracy	0.53577
+Secondary	IC	Cred	2	LogisticRegression	CDDD	Balanced Accuracy	0.51656
+Secondary	IC	Card	1	LogisticRegression	CDDD	Balanced Accuracy	0.50659
+Secondary	IC	Card	4	LogisticRegression	CDDD	Balanced Accuracy	0.56312
+Secondary	IC	Card	3	LogisticRegression	CDDD	Balanced Accuracy	0.5431
+Secondary	IC	Card	0	LogisticRegression	CDDD	Balanced Accuracy	0.544
+Secondary	IC	Card	2	LogisticRegression	CDDD	Balanced Accuracy	0.53949
+Secondary	IC	Cvas	1	LogisticRegression	CDDD	Balanced Accuracy	0.51763
+Secondary	IC	Cvas	4	LogisticRegression	CDDD	Balanced Accuracy	0.56613
+Secondary	IC	Cvas	3	LogisticRegression	CDDD	Balanced Accuracy	0.52734
+Secondary	IC	Cvas	0	LogisticRegression	CDDD	Balanced Accuracy	0.56906
+Secondary	IC	Cvas	2	LogisticRegression	CDDD	Balanced Accuracy	0.56681
+Secondary	IC	Cred	1	LogisticRegression	CDDD	GeomRS	0.45294
+Secondary	IC	Cred	4	LogisticRegression	CDDD	GeomRS	0.5261
+Secondary	IC	Cred	3	LogisticRegression	CDDD	GeomRS	0.50788
+Secondary	IC	Cred	0	LogisticRegression	CDDD	GeomRS	0.50426
+Secondary	IC	Cred	2	LogisticRegression	CDDD	GeomRS	0.49125
+Secondary	IC	Card	1	LogisticRegression	CDDD	GeomRS	0.48181
+Secondary	IC	Card	4	LogisticRegression	CDDD	GeomRS	0.53887
+Secondary	IC	Card	3	LogisticRegression	CDDD	GeomRS	0.52544
+Secondary	IC	Card	0	LogisticRegression	CDDD	GeomRS	0.51735
+Secondary	IC	Card	2	LogisticRegression	CDDD	GeomRS	0.51231
+Secondary	IC	Cvas	1	LogisticRegression	CDDD	GeomRS	0.49726
+Secondary	IC	Cvas	4	LogisticRegression	CDDD	GeomRS	0.5411
+Secondary	IC	Cvas	3	LogisticRegression	CDDD	GeomRS	0.50893
+Secondary	IC	Cvas	0	LogisticRegression	CDDD	GeomRS	0.55111
+Secondary	IC	Cvas	2	LogisticRegression	CDDD	GeomRS	0.54168
+Secondary	IC	Cred	1	LogisticRegression	CDDD	HarmRS	0.42147
+Secondary	IC	Cred	4	LogisticRegression	CDDD	HarmRS	0.49807
+Secondary	IC	Cred	3	LogisticRegression	CDDD	HarmRS	0.49545
+Secondary	IC	Cred	0	LogisticRegression	CDDD	HarmRS	0.47461
+Secondary	IC	Cred	2	LogisticRegression	CDDD	HarmRS	0.46719
+Secondary	IC	Card	1	LogisticRegression	CDDD	HarmRS	0.45824
+Secondary	IC	Card	4	LogisticRegression	CDDD	HarmRS	0.51568
+Secondary	IC	Card	3	LogisticRegression	CDDD	HarmRS	0.50836
+Secondary	IC	Card	0	LogisticRegression	CDDD	HarmRS	0.49201
+Secondary	IC	Card	2	LogisticRegression	CDDD	HarmRS	0.4865
+Secondary	IC	Cvas	1	LogisticRegression	CDDD	HarmRS	0.47769
+Secondary	IC	Cvas	4	LogisticRegression	CDDD	HarmRS	0.51719
+Secondary	IC	Cvas	3	LogisticRegression	CDDD	HarmRS	0.49117
+Secondary	IC	Cvas	0	LogisticRegression	CDDD	HarmRS	0.53372
+Secondary	IC	Cvas	2	LogisticRegression	CDDD	HarmRS	0.51766
+Secondary	IC	Cred	1	LogisticRegression	CDDD	F1 Score	0.67314
+Secondary	IC	Cred	4	LogisticRegression	CDDD	F1 Score	0.68877
+Secondary	IC	Cred	3	LogisticRegression	CDDD	F1 Score	0.63272
+Secondary	IC	Cred	0	LogisticRegression	CDDD	F1 Score	0.70296
+Secondary	IC	Cred	2	LogisticRegression	CDDD	F1 Score	0.67803
+Secondary	IC	Card	1	LogisticRegression	CDDD	F1 Score	0.67826
+Secondary	IC	Card	4	LogisticRegression	CDDD	F1 Score	0.68851
+Secondary	IC	Card	3	LogisticRegression	CDDD	F1 Score	0.66283
+Secondary	IC	Card	0	LogisticRegression	CDDD	F1 Score	0.70366
+Secondary	IC	Card	2	LogisticRegression	CDDD	F1 Score	0.70143
+Secondary	IC	Cvas	1	LogisticRegression	CDDD	F1 Score	0.68084
+Secondary	IC	Cvas	4	LogisticRegression	CDDD	F1 Score	0.69224
+Secondary	IC	Cvas	3	LogisticRegression	CDDD	F1 Score	0.64967
+Secondary	IC	Cvas	0	LogisticRegression	CDDD	F1 Score	0.71188
+Secondary	IC	Cvas	2	LogisticRegression	CDDD	F1 Score	0.72256
+Secondary	IC	Cred	1	LogisticRegression	CDDD	ROC AUC	0.49828
+Secondary	IC	Cred	4	LogisticRegression	CDDD	ROC AUC	0.60613
+Secondary	IC	Cred	3	LogisticRegression	CDDD	ROC AUC	0.53303
+Secondary	IC	Cred	0	LogisticRegression	CDDD	ROC AUC	0.54657
+Secondary	IC	Cred	2	LogisticRegression	CDDD	ROC AUC	0.55206
+Secondary	IC	Card	1	LogisticRegression	CDDD	ROC AUC	0.51957
+Secondary	IC	Card	4	LogisticRegression	CDDD	ROC AUC	0.6172
+Secondary	IC	Card	3	LogisticRegression	CDDD	ROC AUC	0.54774
+Secondary	IC	Card	0	LogisticRegression	CDDD	ROC AUC	0.57111
+Secondary	IC	Card	2	LogisticRegression	CDDD	ROC AUC	0.57109
+Secondary	IC	Cvas	1	LogisticRegression	CDDD	ROC AUC	0.53206
+Secondary	IC	Cvas	4	LogisticRegression	CDDD	ROC AUC	0.61205
+Secondary	IC	Cvas	3	LogisticRegression	CDDD	ROC AUC	0.54359
+Secondary	IC	Cvas	0	LogisticRegression	CDDD	ROC AUC	0.59674
+Secondary	IC	Cvas	2	LogisticRegression	CDDD	ROC AUC	0.60269
+Secondary	IC	Cred	1	LogisticRegression	CDDD	MCC	-0.02611
+Secondary	IC	Cred	4	LogisticRegression	CDDD	MCC	0.11764
+Secondary	IC	Cred	3	LogisticRegression	CDDD	MCC	0.04135
+Secondary	IC	Cred	0	LogisticRegression	CDDD	MCC	0.07311
+Secondary	IC	Cred	2	LogisticRegression	CDDD	MCC	0.03302
+Secondary	IC	Card	1	LogisticRegression	CDDD	MCC	0.01287
+Secondary	IC	Card	4	LogisticRegression	CDDD	MCC	0.1317
+Secondary	IC	Card	3	LogisticRegression	CDDD	MCC	0.0878
+Secondary	IC	Card	0	LogisticRegression	CDDD	MCC	0.08913
+Secondary	IC	Card	2	LogisticRegression	CDDD	MCC	0.07985
+Secondary	IC	Cvas	1	LogisticRegression	CDDD	MCC	0.0342
+Secondary	IC	Cvas	4	LogisticRegression	CDDD	MCC	0.13841
+Secondary	IC	Cvas	3	LogisticRegression	CDDD	MCC	0.05559
+Secondary	IC	Cvas	0	LogisticRegression	CDDD	MCC	0.13793
+Secondary	IC	Cvas	2	LogisticRegression	CDDD	MCC	0.13591
+Secondary	IC	Cred	1	LogisticRegression	CDDD	Accuracy	0.55446
+Secondary	IC	Cred	4	LogisticRegression	CDDD	Accuracy	0.59505
+Secondary	IC	Cred	3	LogisticRegression	CDDD	Accuracy	0.54686
+Secondary	IC	Cred	0	LogisticRegression	CDDD	Accuracy	0.59613
+Secondary	IC	Cred	2	LogisticRegression	CDDD	Accuracy	0.57047
+Secondary	IC	Card	1	LogisticRegression	CDDD	Accuracy	0.56602
+Secondary	IC	Card	4	LogisticRegression	CDDD	Accuracy	0.59904
+Secondary	IC	Card	3	LogisticRegression	CDDD	Accuracy	0.57456
+Secondary	IC	Card	0	LogisticRegression	CDDD	Accuracy	0.60007
+Secondary	IC	Card	2	LogisticRegression	CDDD	Accuracy	0.59657
+Secondary	IC	Cvas	1	LogisticRegression	CDDD	Accuracy	0.57222
+Secondary	IC	Cvas	4	LogisticRegression	CDDD	Accuracy	0.60272
+Secondary	IC	Cvas	3	LogisticRegression	CDDD	Accuracy	0.55897
+Secondary	IC	Cvas	0	LogisticRegression	CDDD	Accuracy	0.61635
+Secondary	IC	Cvas	2	LogisticRegression	CDDD	Accuracy	0.62316
+Secondary	IC	Cred	1	LogisticRegression	CDDD	Recall	0.66505
+Secondary	IC	Cred	4	LogisticRegression	CDDD	Recall	0.73468
+Secondary	IC	Cred	3	LogisticRegression	CDDD	Recall	0.63513
+Secondary	IC	Cred	0	LogisticRegression	CDDD	Recall	0.71678
+Secondary	IC	Cred	2	LogisticRegression	CDDD	Recall	0.67625
+Secondary	IC	Card	1	LogisticRegression	CDDD	Recall	0.6631
+Secondary	IC	Card	4	LogisticRegression	CDDD	Recall	0.72656
+Secondary	IC	Card	3	LogisticRegression	CDDD	Recall	0.68046
+Secondary	IC	Card	0	LogisticRegression	CDDD	Recall	0.71216
+Secondary	IC	Card	2	LogisticRegression	CDDD	Recall	0.70857
+Secondary	IC	Cvas	1	LogisticRegression	CDDD	Recall	0.6614
+Secondary	IC	Cvas	4	LogisticRegression	CDDD	Recall	0.73258
+Secondary	IC	Cvas	3	LogisticRegression	CDDD	Recall	0.66543
+Secondary	IC	Cvas	0	LogisticRegression	CDDD	Recall	0.71087
+Secondary	IC	Cvas	2	LogisticRegression	CDDD	Recall	0.73372
+Secondary	IC	Cred	1	LogisticRegression	CDDD	Specificity	0.30848
+Secondary	IC	Cred	4	LogisticRegression	CDDD	Specificity	0.37674
+Secondary	IC	Cred	3	LogisticRegression	CDDD	Specificity	0.40613
+Secondary	IC	Cred	0	LogisticRegression	CDDD	Specificity	0.35476
+Secondary	IC	Cred	2	LogisticRegression	CDDD	Specificity	0.35687
+Secondary	IC	Card	1	LogisticRegression	CDDD	Specificity	0.35008
+Secondary	IC	Card	4	LogisticRegression	CDDD	Specificity	0.39967
+Secondary	IC	Card	3	LogisticRegression	CDDD	Specificity	0.40573
+Secondary	IC	Card	0	LogisticRegression	CDDD	Specificity	0.37584
+Secondary	IC	Card	2	LogisticRegression	CDDD	Specificity	0.37041
+Secondary	IC	Cvas	1	LogisticRegression	CDDD	Specificity	0.37385
+Secondary	IC	Cvas	4	LogisticRegression	CDDD	Specificity	0.39967
+Secondary	IC	Cvas	3	LogisticRegression	CDDD	Specificity	0.38924
+Secondary	IC	Cvas	0	LogisticRegression	CDDD	Specificity	0.42725
+Secondary	IC	Cvas	2	LogisticRegression	CDDD	Specificity	0.3999
+Secondary	IC	Cred	1	LogisticRegression	CDDD	Precision	0.68143
+Secondary	IC	Cred	4	LogisticRegression	CDDD	Precision	0.64826
+Secondary	IC	Cred	3	LogisticRegression	CDDD	Precision	0.63032
+Secondary	IC	Cred	0	LogisticRegression	CDDD	Precision	0.68966
+Secondary	IC	Cred	2	LogisticRegression	CDDD	Precision	0.67983
+Secondary	IC	Card	1	LogisticRegression	CDDD	Precision	0.69413
+Secondary	IC	Card	4	LogisticRegression	CDDD	Precision	0.65425
+Secondary	IC	Card	3	LogisticRegression	CDDD	Precision	0.64608
+Secondary	IC	Card	0	LogisticRegression	CDDD	Precision	0.69536
+Secondary	IC	Card	2	LogisticRegression	CDDD	Precision	0.69444
+Secondary	IC	Cvas	1	LogisticRegression	CDDD	Precision	0.70144
+Secondary	IC	Cvas	4	LogisticRegression	CDDD	Precision	0.65611
+Secondary	IC	Cvas	3	LogisticRegression	CDDD	Precision	0.63463
+Secondary	IC	Cvas	0	LogisticRegression	CDDD	Precision	0.71289
+Secondary	IC	Cvas	2	LogisticRegression	CDDD	Precision	0.71173
+Secondary	IC	Cred	1	LogisticRegression	CDDD	PRC AUC	0.71306
+Secondary	IC	Cred	4	LogisticRegression	CDDD	PRC AUC	0.69728
+Secondary	IC	Cred	3	LogisticRegression	CDDD	PRC AUC	0.6487
+Secondary	IC	Cred	0	LogisticRegression	CDDD	PRC AUC	0.69939
+Secondary	IC	Cred	2	LogisticRegression	CDDD	PRC AUC	0.7182
+Secondary	IC	Card	1	LogisticRegression	CDDD	PRC AUC	0.71718
+Secondary	IC	Card	4	LogisticRegression	CDDD	PRC AUC	0.70616
+Secondary	IC	Card	3	LogisticRegression	CDDD	PRC AUC	0.65849
+Secondary	IC	Card	0	LogisticRegression	CDDD	PRC AUC	0.71023
+Secondary	IC	Card	2	LogisticRegression	CDDD	PRC AUC	0.73148
+Secondary	IC	Cvas	1	LogisticRegression	CDDD	PRC AUC	0.72909
+Secondary	IC	Cvas	4	LogisticRegression	CDDD	PRC AUC	0.69384
+Secondary	IC	Cvas	3	LogisticRegression	CDDD	PRC AUC	0.65654
+Secondary	IC	Cvas	0	LogisticRegression	CDDD	PRC AUC	0.73537
+Secondary	IC	Cvas	2	LogisticRegression	CDDD	PRC AUC	0.74465
+Secondary	IC	Cred	1	LogisticRegression	CDDD	ECE	0.21635
+Secondary	IC	Cred	4	LogisticRegression	CDDD	ECE	0.15943
+Secondary	IC	Cred	3	LogisticRegression	CDDD	ECE	0.21492
+Secondary	IC	Cred	0	LogisticRegression	CDDD	ECE	0.1883
+Secondary	IC	Cred	2	LogisticRegression	CDDD	ECE	0.19359
+Secondary	IC	Card	1	LogisticRegression	CDDD	ECE	0.21066
+Secondary	IC	Card	4	LogisticRegression	CDDD	ECE	0.15901
+Secondary	IC	Card	3	LogisticRegression	CDDD	ECE	0.20959
+Secondary	IC	Card	0	LogisticRegression	CDDD	ECE	0.16561
+Secondary	IC	Card	2	LogisticRegression	CDDD	ECE	0.17088
+Secondary	IC	Cvas	1	LogisticRegression	CDDD	ECE	0.20586
+Secondary	IC	Cvas	4	LogisticRegression	CDDD	ECE	0.15019
+Secondary	IC	Cvas	3	LogisticRegression	CDDD	ECE	0.21709
+Secondary	IC	Cvas	0	LogisticRegression	CDDD	ECE	0.17614
+Secondary	IC	Cvas	2	LogisticRegression	CDDD	ECE	0.15168
+Secondary	IC	Cred	1	LogisticRegression	CDDD	Brier	0.2989
+Secondary	IC	Cred	4	LogisticRegression	CDDD	Brier	0.26265
+Secondary	IC	Cred	3	LogisticRegression	CDDD	Brier	0.30959
+Secondary	IC	Cred	0	LogisticRegression	CDDD	Brier	0.26758
+Secondary	IC	Cred	2	LogisticRegression	CDDD	Brier	0.2738
+Secondary	IC	Card	1	LogisticRegression	CDDD	Brier	0.29232
+Secondary	IC	Card	4	LogisticRegression	CDDD	Brier	0.2583
+Secondary	IC	Card	3	LogisticRegression	CDDD	Brier	0.30519
+Secondary	IC	Card	0	LogisticRegression	CDDD	Brier	0.2578
+Secondary	IC	Card	2	LogisticRegression	CDDD	Brier	0.26238
+Secondary	IC	Cvas	1	LogisticRegression	CDDD	Brier	0.28354
+Secondary	IC	Cvas	4	LogisticRegression	CDDD	Brier	0.26311
+Secondary	IC	Cvas	3	LogisticRegression	CDDD	Brier	0.30537
+Secondary	IC	Cvas	0	LogisticRegression	CDDD	Brier	0.25743
+Secondary	IC	Cvas	2	LogisticRegression	CDDD	Brier	0.2521

@@ -1,0 +1,196 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Mono	PRR	Card	1	LogisticRegression	MACCS	Balanced Accuracy	0.56346
+Mono	PRR	Card	4	LogisticRegression	MACCS	Balanced Accuracy	0.54828
+Mono	PRR	Card	3	LogisticRegression	MACCS	Balanced Accuracy	0.51555
+Mono	PRR	Card	0	LogisticRegression	MACCS	Balanced Accuracy	0.47937
+Mono	PRR	Card	2	LogisticRegression	MACCS	Balanced Accuracy	0.54949
+Primary	PRR	Card	1	LogisticRegression	MACCS	Balanced Accuracy	0.53814
+Primary	PRR	Card	4	LogisticRegression	MACCS	Balanced Accuracy	0.56963
+Primary	PRR	Card	3	LogisticRegression	MACCS	Balanced Accuracy	0.56207
+Primary	PRR	Card	0	LogisticRegression	MACCS	Balanced Accuracy	0.57436
+Primary	PRR	Card	2	LogisticRegression	MACCS	Balanced Accuracy	0.53599
+Secondary	PRR	Card	1	LogisticRegression	MACCS	Balanced Accuracy	0.56152
+Secondary	PRR	Card	4	LogisticRegression	MACCS	Balanced Accuracy	0.5601
+Secondary	PRR	Card	3	LogisticRegression	MACCS	Balanced Accuracy	0.58128
+Secondary	PRR	Card	0	LogisticRegression	MACCS	Balanced Accuracy	0.53225
+Secondary	PRR	Card	2	LogisticRegression	MACCS	Balanced Accuracy	0.56657
+Mono	PRR	Card	1	LogisticRegression	MACCS	GeomRS	0.53325
+Mono	PRR	Card	4	LogisticRegression	MACCS	GeomRS	0.53803
+Mono	PRR	Card	3	LogisticRegression	MACCS	GeomRS	0.51401
+Mono	PRR	Card	0	LogisticRegression	MACCS	GeomRS	0.47835
+Mono	PRR	Card	2	LogisticRegression	MACCS	GeomRS	0.54344
+Primary	PRR	Card	1	LogisticRegression	MACCS	GeomRS	0.52207
+Primary	PRR	Card	4	LogisticRegression	MACCS	GeomRS	0.56935
+Primary	PRR	Card	3	LogisticRegression	MACCS	GeomRS	0.5542
+Primary	PRR	Card	0	LogisticRegression	MACCS	GeomRS	0.57425
+Primary	PRR	Card	2	LogisticRegression	MACCS	GeomRS	0.53582
+Secondary	PRR	Card	1	LogisticRegression	MACCS	GeomRS	0.56151
+Secondary	PRR	Card	4	LogisticRegression	MACCS	GeomRS	0.54982
+Secondary	PRR	Card	3	LogisticRegression	MACCS	GeomRS	0.58118
+Secondary	PRR	Card	0	LogisticRegression	MACCS	GeomRS	0.51952
+Secondary	PRR	Card	2	LogisticRegression	MACCS	GeomRS	0.55998
+Mono	PRR	Card	1	LogisticRegression	MACCS	HarmRS	0.50466
+Mono	PRR	Card	4	LogisticRegression	MACCS	HarmRS	0.52797
+Mono	PRR	Card	3	LogisticRegression	MACCS	HarmRS	0.51247
+Mono	PRR	Card	0	LogisticRegression	MACCS	HarmRS	0.47733
+Mono	PRR	Card	2	LogisticRegression	MACCS	HarmRS	0.53746
+Primary	PRR	Card	1	LogisticRegression	MACCS	HarmRS	0.50648
+Primary	PRR	Card	4	LogisticRegression	MACCS	HarmRS	0.56907
+Primary	PRR	Card	3	LogisticRegression	MACCS	HarmRS	0.54644
+Primary	PRR	Card	0	LogisticRegression	MACCS	HarmRS	0.57415
+Primary	PRR	Card	2	LogisticRegression	MACCS	HarmRS	0.53564
+Secondary	PRR	Card	1	LogisticRegression	MACCS	HarmRS	0.5615
+Secondary	PRR	Card	4	LogisticRegression	MACCS	HarmRS	0.53973
+Secondary	PRR	Card	3	LogisticRegression	MACCS	HarmRS	0.58109
+Secondary	PRR	Card	0	LogisticRegression	MACCS	HarmRS	0.5071
+Secondary	PRR	Card	2	LogisticRegression	MACCS	HarmRS	0.55346
+Mono	PRR	Card	1	LogisticRegression	MACCS	F1 Score	0.5034
+Mono	PRR	Card	4	LogisticRegression	MACCS	F1 Score	0.54177
+Mono	PRR	Card	3	LogisticRegression	MACCS	F1 Score	0.55008
+Mono	PRR	Card	0	LogisticRegression	MACCS	F1 Score	0.51937
+Mono	PRR	Card	2	LogisticRegression	MACCS	F1 Score	0.65409
+Primary	PRR	Card	1	LogisticRegression	MACCS	F1 Score	0.51529
+Primary	PRR	Card	4	LogisticRegression	MACCS	F1 Score	0.64012
+Primary	PRR	Card	3	LogisticRegression	MACCS	F1 Score	0.56263
+Primary	PRR	Card	0	LogisticRegression	MACCS	F1 Score	0.63873
+Primary	PRR	Card	2	LogisticRegression	MACCS	F1 Score	0.60492
+Secondary	PRR	Card	1	LogisticRegression	MACCS	F1 Score	0.62467
+Secondary	PRR	Card	4	LogisticRegression	MACCS	F1 Score	0.67717
+Secondary	PRR	Card	3	LogisticRegression	MACCS	F1 Score	0.63294
+Secondary	PRR	Card	0	LogisticRegression	MACCS	F1 Score	0.65492
+Secondary	PRR	Card	2	LogisticRegression	MACCS	F1 Score	0.67161
+Mono	PRR	Card	1	LogisticRegression	MACCS	ROC AUC	0.54063
+Mono	PRR	Card	4	LogisticRegression	MACCS	ROC AUC	0.58308
+Mono	PRR	Card	3	LogisticRegression	MACCS	ROC AUC	0.53117
+Mono	PRR	Card	0	LogisticRegression	MACCS	ROC AUC	0.49897
+Mono	PRR	Card	2	LogisticRegression	MACCS	ROC AUC	0.53627
+Primary	PRR	Card	1	LogisticRegression	MACCS	ROC AUC	0.54803
+Primary	PRR	Card	4	LogisticRegression	MACCS	ROC AUC	0.5889
+Primary	PRR	Card	3	LogisticRegression	MACCS	ROC AUC	0.59188
+Primary	PRR	Card	0	LogisticRegression	MACCS	ROC AUC	0.57983
+Primary	PRR	Card	2	LogisticRegression	MACCS	ROC AUC	0.55874
+Secondary	PRR	Card	1	LogisticRegression	MACCS	ROC AUC	0.58676
+Secondary	PRR	Card	4	LogisticRegression	MACCS	ROC AUC	0.59451
+Secondary	PRR	Card	3	LogisticRegression	MACCS	ROC AUC	0.60487
+Secondary	PRR	Card	0	LogisticRegression	MACCS	ROC AUC	0.54062
+Secondary	PRR	Card	2	LogisticRegression	MACCS	ROC AUC	0.59587
+Mono	PRR	Card	1	LogisticRegression	MACCS	MCC	0.12758
+Mono	PRR	Card	4	LogisticRegression	MACCS	MCC	0.09408
+Mono	PRR	Card	3	LogisticRegression	MACCS	MCC	0.03
+Mono	PRR	Card	0	LogisticRegression	MACCS	MCC	-0.03976
+Mono	PRR	Card	2	LogisticRegression	MACCS	MCC	0.09674
+Primary	PRR	Card	1	LogisticRegression	MACCS	MCC	0.07466
+Primary	PRR	Card	4	LogisticRegression	MACCS	MCC	0.13379
+Primary	PRR	Card	3	LogisticRegression	MACCS	MCC	0.12084
+Primary	PRR	Card	0	LogisticRegression	MACCS	MCC	0.1432
+Primary	PRR	Card	2	LogisticRegression	MACCS	MCC	0.06915
+Secondary	PRR	Card	1	LogisticRegression	MACCS	MCC	0.11704
+Secondary	PRR	Card	4	LogisticRegression	MACCS	MCC	0.11885
+Secondary	PRR	Card	3	LogisticRegression	MACCS	MCC	0.15642
+Secondary	PRR	Card	0	LogisticRegression	MACCS	MCC	0.06401
+Secondary	PRR	Card	2	LogisticRegression	MACCS	MCC	0.13066
+Mono	PRR	Card	1	LogisticRegression	MACCS	Accuracy	0.50701
+Mono	PRR	Card	4	LogisticRegression	MACCS	Accuracy	0.51798
+Mono	PRR	Card	3	LogisticRegression	MACCS	Accuracy	0.50466
+Mono	PRR	Card	0	LogisticRegression	MACCS	Accuracy	0.47072
+Mono	PRR	Card	2	LogisticRegression	MACCS	Accuracy	0.5724
+Primary	PRR	Card	1	LogisticRegression	MACCS	Accuracy	0.49766
+Primary	PRR	Card	4	LogisticRegression	MACCS	Accuracy	0.57479
+Primary	PRR	Card	3	LogisticRegression	MACCS	Accuracy	0.53647
+Primary	PRR	Card	0	LogisticRegression	MACCS	Accuracy	0.57739
+Primary	PRR	Card	2	LogisticRegression	MACCS	Accuracy	0.53984
+Secondary	PRR	Card	1	LogisticRegression	MACCS	Accuracy	0.56052
+Secondary	PRR	Card	4	LogisticRegression	MACCS	Accuracy	0.59077
+Secondary	PRR	Card	3	LogisticRegression	MACCS	Accuracy	0.57846
+Secondary	PRR	Card	0	LogisticRegression	MACCS	Accuracy	0.56423
+Secondary	PRR	Card	2	LogisticRegression	MACCS	Accuracy	0.59086
+Mono	PRR	Card	1	LogisticRegression	MACCS	Recall	0.38144
+Mono	PRR	Card	4	LogisticRegression	MACCS	Recall	0.44276
+Mono	PRR	Card	3	LogisticRegression	MACCS	Recall	0.47568
+Mono	PRR	Card	0	LogisticRegression	MACCS	Recall	0.44808
+Mono	PRR	Card	2	LogisticRegression	MACCS	Recall	0.63078
+Primary	PRR	Card	1	LogisticRegression	MACCS	Recall	0.40761
+Primary	PRR	Card	4	LogisticRegression	MACCS	Recall	0.58759
+Primary	PRR	Card	3	LogisticRegression	MACCS	Recall	0.46835
+Primary	PRR	Card	0	LogisticRegression	MACCS	Recall	0.58535
+Primary	PRR	Card	2	LogisticRegression	MACCS	Recall	0.54966
+Secondary	PRR	Card	1	LogisticRegression	MACCS	Recall	0.55829
+Secondary	PRR	Card	4	LogisticRegression	MACCS	Recall	0.6669
+Secondary	PRR	Card	3	LogisticRegression	MACCS	Recall	0.57095
+Secondary	PRR	Card	0	LogisticRegression	MACCS	Recall	0.64794
+Secondary	PRR	Card	2	LogisticRegression	MACCS	Recall	0.65277
+Mono	PRR	Card	1	LogisticRegression	MACCS	Specificity	0.74548
+Mono	PRR	Card	4	LogisticRegression	MACCS	Specificity	0.6538
+Mono	PRR	Card	3	LogisticRegression	MACCS	Specificity	0.55543
+Mono	PRR	Card	0	LogisticRegression	MACCS	Specificity	0.51066
+Mono	PRR	Card	2	LogisticRegression	MACCS	Specificity	0.4682
+Primary	PRR	Card	1	LogisticRegression	MACCS	Specificity	0.66867
+Primary	PRR	Card	4	LogisticRegression	MACCS	Specificity	0.55168
+Primary	PRR	Card	3	LogisticRegression	MACCS	Specificity	0.65578
+Primary	PRR	Card	0	LogisticRegression	MACCS	Specificity	0.56336
+Primary	PRR	Card	2	LogisticRegression	MACCS	Specificity	0.52233
+Secondary	PRR	Card	1	LogisticRegression	MACCS	Specificity	0.56476
+Secondary	PRR	Card	4	LogisticRegression	MACCS	Specificity	0.4533
+Secondary	PRR	Card	3	LogisticRegression	MACCS	Specificity	0.5916
+Secondary	PRR	Card	0	LogisticRegression	MACCS	Specificity	0.41656
+Secondary	PRR	Card	2	LogisticRegression	MACCS	Specificity	0.48038
+Mono	PRR	Card	1	LogisticRegression	MACCS	Precision	0.74
+Mono	PRR	Card	4	LogisticRegression	MACCS	Precision	0.69783
+Mono	PRR	Card	3	LogisticRegression	MACCS	Precision	0.65205
+Mono	PRR	Card	0	LogisticRegression	MACCS	Precision	0.61765
+Mono	PRR	Card	2	LogisticRegression	MACCS	Precision	0.67918
+Primary	PRR	Card	1	LogisticRegression	MACCS	Precision	0.70027
+Primary	PRR	Card	4	LogisticRegression	MACCS	Precision	0.70297
+Primary	PRR	Card	3	LogisticRegression	MACCS	Precision	0.70441
+Primary	PRR	Card	0	LogisticRegression	MACCS	Precision	0.70282
+Primary	PRR	Card	2	LogisticRegression	MACCS	Precision	0.67254
+Secondary	PRR	Card	1	LogisticRegression	MACCS	Precision	0.70896
+Secondary	PRR	Card	4	LogisticRegression	MACCS	Precision	0.68777
+Secondary	PRR	Card	3	LogisticRegression	MACCS	Precision	0.71002
+Secondary	PRR	Card	0	LogisticRegression	MACCS	Precision	0.66206
+Secondary	PRR	Card	2	LogisticRegression	MACCS	Precision	0.69157
+Mono	PRR	Card	1	LogisticRegression	MACCS	PRC AUC	0.73787
+Mono	PRR	Card	4	LogisticRegression	MACCS	PRC AUC	0.74043
+Mono	PRR	Card	3	LogisticRegression	MACCS	PRC AUC	0.67998
+Mono	PRR	Card	0	LogisticRegression	MACCS	PRC AUC	0.64186
+Mono	PRR	Card	2	LogisticRegression	MACCS	PRC AUC	0.65129
+Primary	PRR	Card	1	LogisticRegression	MACCS	PRC AUC	0.73058
+Primary	PRR	Card	4	LogisticRegression	MACCS	PRC AUC	0.7485
+Primary	PRR	Card	3	LogisticRegression	MACCS	PRC AUC	0.72598
+Primary	PRR	Card	0	LogisticRegression	MACCS	PRC AUC	0.70594
+Primary	PRR	Card	2	LogisticRegression	MACCS	PRC AUC	0.67077
+Secondary	PRR	Card	1	LogisticRegression	MACCS	PRC AUC	0.74928
+Secondary	PRR	Card	4	LogisticRegression	MACCS	PRC AUC	0.74094
+Secondary	PRR	Card	3	LogisticRegression	MACCS	PRC AUC	0.72401
+Secondary	PRR	Card	0	LogisticRegression	MACCS	PRC AUC	0.66883
+Secondary	PRR	Card	2	LogisticRegression	MACCS	PRC AUC	0.70842
+Mono	PRR	Card	1	LogisticRegression	MACCS	Brier	0.29341
+Mono	PRR	Card	4	LogisticRegression	MACCS	Brier	0.26642
+Mono	PRR	Card	3	LogisticRegression	MACCS	Brier	0.27822
+Mono	PRR	Card	0	LogisticRegression	MACCS	Brier	0.30362
+Mono	PRR	Card	2	LogisticRegression	MACCS	Brier	0.27328
+Primary	PRR	Card	1	LogisticRegression	MACCS	Brier	0.2611
+Primary	PRR	Card	4	LogisticRegression	MACCS	Brier	0.24271
+Primary	PRR	Card	3	LogisticRegression	MACCS	Brier	0.25018
+Primary	PRR	Card	0	LogisticRegression	MACCS	Brier	0.25382
+Primary	PRR	Card	2	LogisticRegression	MACCS	Brier	0.26269
+Secondary	PRR	Card	1	LogisticRegression	MACCS	Brier	0.24245
+Secondary	PRR	Card	4	LogisticRegression	MACCS	Brier	0.23737
+Secondary	PRR	Card	3	LogisticRegression	MACCS	Brier	0.24435
+Secondary	PRR	Card	0	LogisticRegression	MACCS	Brier	0.26259
+Secondary	PRR	Card	2	LogisticRegression	MACCS	Brier	0.24404
+Mono	PRR	Card	1	LogisticRegression	MACCS	ECE	0.22172
+Mono	PRR	Card	4	LogisticRegression	MACCS	ECE	0.18616
+Mono	PRR	Card	3	LogisticRegression	MACCS	ECE	0.18013
+Mono	PRR	Card	0	LogisticRegression	MACCS	ECE	0.2303
+Mono	PRR	Card	2	LogisticRegression	MACCS	ECE	0.16432
+Primary	PRR	Card	1	LogisticRegression	MACCS	ECE	0.18313
+Primary	PRR	Card	4	LogisticRegression	MACCS	ECE	0.13538
+Primary	PRR	Card	3	LogisticRegression	MACCS	ECE	0.1496
+Primary	PRR	Card	0	LogisticRegression	MACCS	ECE	0.13565
+Primary	PRR	Card	2	LogisticRegression	MACCS	ECE	0.18564
+Secondary	PRR	Card	1	LogisticRegression	MACCS	ECE	0.14423
+Secondary	PRR	Card	4	LogisticRegression	MACCS	ECE	0.09059
+Secondary	PRR	Card	3	LogisticRegression	MACCS	ECE	0.13129
+Secondary	PRR	Card	0	LogisticRegression	MACCS	ECE	0.14243
+Secondary	PRR	Card	2	LogisticRegression	MACCS	ECE	0.12321

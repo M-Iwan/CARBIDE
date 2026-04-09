@@ -1,0 +1,196 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Mono	IC	Cred	1	XGBClassifier	ECFP	Balanced Accuracy	0.56181
+Mono	IC	Cred	4	XGBClassifier	ECFP	Balanced Accuracy	0.58458
+Mono	IC	Cred	3	XGBClassifier	ECFP	Balanced Accuracy	0.47834
+Mono	IC	Cred	2	XGBClassifier	ECFP	Balanced Accuracy	0.59984
+Mono	IC	Cred	0	XGBClassifier	ECFP	Balanced Accuracy	0.52419
+Primary	IC	Cred	1	XGBClassifier	ECFP	Balanced Accuracy	0.56629
+Primary	IC	Cred	4	XGBClassifier	ECFP	Balanced Accuracy	0.57941
+Primary	IC	Cred	3	XGBClassifier	ECFP	Balanced Accuracy	0.49561
+Primary	IC	Cred	2	XGBClassifier	ECFP	Balanced Accuracy	0.59655
+Primary	IC	Cred	0	XGBClassifier	ECFP	Balanced Accuracy	0.53695
+Secondary	IC	Cred	1	XGBClassifier	ECFP	Balanced Accuracy	0.56633
+Secondary	IC	Cred	4	XGBClassifier	ECFP	Balanced Accuracy	0.56006
+Secondary	IC	Cred	3	XGBClassifier	ECFP	Balanced Accuracy	0.44879
+Secondary	IC	Cred	2	XGBClassifier	ECFP	Balanced Accuracy	0.59781
+Secondary	IC	Cred	0	XGBClassifier	ECFP	Balanced Accuracy	0.54703
+Mono	IC	Cred	1	XGBClassifier	ECFP	GeomRS	0.56087
+Mono	IC	Cred	4	XGBClassifier	ECFP	GeomRS	0.5644
+Mono	IC	Cred	3	XGBClassifier	ECFP	GeomRS	0.47035
+Mono	IC	Cred	2	XGBClassifier	ECFP	GeomRS	0.55337
+Mono	IC	Cred	0	XGBClassifier	ECFP	GeomRS	0.48252
+Primary	IC	Cred	1	XGBClassifier	ECFP	GeomRS	0.55553
+Primary	IC	Cred	4	XGBClassifier	ECFP	GeomRS	0.55463
+Primary	IC	Cred	3	XGBClassifier	ECFP	GeomRS	0.4798
+Primary	IC	Cred	2	XGBClassifier	ECFP	GeomRS	0.52358
+Primary	IC	Cred	0	XGBClassifier	ECFP	GeomRS	0.49595
+Secondary	IC	Cred	1	XGBClassifier	ECFP	GeomRS	0.52216
+Secondary	IC	Cred	4	XGBClassifier	ECFP	GeomRS	0.47796
+Secondary	IC	Cred	3	XGBClassifier	ECFP	GeomRS	0.40282
+Secondary	IC	Cred	2	XGBClassifier	ECFP	GeomRS	0.51155
+Secondary	IC	Cred	0	XGBClassifier	ECFP	GeomRS	0.48179
+Mono	IC	Cred	1	XGBClassifier	ECFP	HarmRS	0.55993
+Mono	IC	Cred	4	XGBClassifier	ECFP	HarmRS	0.54491
+Mono	IC	Cred	3	XGBClassifier	ECFP	HarmRS	0.4625
+Mono	IC	Cred	2	XGBClassifier	ECFP	HarmRS	0.5105
+Mono	IC	Cred	0	XGBClassifier	ECFP	HarmRS	0.44416
+Primary	IC	Cred	1	XGBClassifier	ECFP	HarmRS	0.54497
+Primary	IC	Cred	4	XGBClassifier	ECFP	HarmRS	0.53091
+Primary	IC	Cred	3	XGBClassifier	ECFP	HarmRS	0.46449
+Primary	IC	Cred	2	XGBClassifier	ECFP	HarmRS	0.45953
+Primary	IC	Cred	0	XGBClassifier	ECFP	HarmRS	0.45807
+Secondary	IC	Cred	1	XGBClassifier	ECFP	HarmRS	0.48144
+Secondary	IC	Cred	4	XGBClassifier	ECFP	HarmRS	0.40789
+Secondary	IC	Cred	3	XGBClassifier	ECFP	HarmRS	0.36156
+Secondary	IC	Cred	2	XGBClassifier	ECFP	HarmRS	0.43773
+Secondary	IC	Cred	0	XGBClassifier	ECFP	HarmRS	0.42433
+Mono	IC	Cred	1	XGBClassifier	ECFP	F1 Score	0.63954
+Mono	IC	Cred	4	XGBClassifier	ECFP	F1 Score	0.71477
+Mono	IC	Cred	3	XGBClassifier	ECFP	F1 Score	0.5915
+Mono	IC	Cred	2	XGBClassifier	ECFP	F1 Score	0.75747
+Mono	IC	Cred	0	XGBClassifier	ECFP	F1 Score	0.68582
+Primary	IC	Cred	1	XGBClassifier	ECFP	F1 Score	0.68253
+Primary	IC	Cred	4	XGBClassifier	ECFP	F1 Score	0.71702
+Primary	IC	Cred	3	XGBClassifier	ECFP	F1 Score	0.62688
+Primary	IC	Cred	2	XGBClassifier	ECFP	F1 Score	0.77429
+Primary	IC	Cred	0	XGBClassifier	ECFP	F1 Score	0.69649
+Secondary	IC	Cred	1	XGBClassifier	ECFP	F1 Score	0.73005
+Secondary	IC	Cred	4	XGBClassifier	ECFP	F1 Score	0.75034
+Secondary	IC	Cred	3	XGBClassifier	ECFP	F1 Score	0.62393
+Secondary	IC	Cred	2	XGBClassifier	ECFP	F1 Score	0.78309
+Secondary	IC	Cred	0	XGBClassifier	ECFP	F1 Score	0.72577
+Mono	IC	Cred	1	XGBClassifier	ECFP	ROC AUC	0.59031
+Mono	IC	Cred	4	XGBClassifier	ECFP	ROC AUC	0.64412
+Mono	IC	Cred	3	XGBClassifier	ECFP	ROC AUC	0.48923
+Mono	IC	Cred	2	XGBClassifier	ECFP	ROC AUC	0.67091
+Mono	IC	Cred	0	XGBClassifier	ECFP	ROC AUC	0.54716
+Primary	IC	Cred	1	XGBClassifier	ECFP	ROC AUC	0.59472
+Primary	IC	Cred	4	XGBClassifier	ECFP	ROC AUC	0.65368
+Primary	IC	Cred	3	XGBClassifier	ECFP	ROC AUC	0.53357
+Primary	IC	Cred	2	XGBClassifier	ECFP	ROC AUC	0.69943
+Primary	IC	Cred	0	XGBClassifier	ECFP	ROC AUC	0.59955
+Secondary	IC	Cred	1	XGBClassifier	ECFP	ROC AUC	0.60472
+Secondary	IC	Cred	4	XGBClassifier	ECFP	ROC AUC	0.64127
+Secondary	IC	Cred	3	XGBClassifier	ECFP	ROC AUC	0.464
+Secondary	IC	Cred	2	XGBClassifier	ECFP	ROC AUC	0.71557
+Secondary	IC	Cred	0	XGBClassifier	ECFP	ROC AUC	0.59256
+Mono	IC	Cred	1	XGBClassifier	ECFP	MCC	0.11924
+Mono	IC	Cred	4	XGBClassifier	ECFP	MCC	0.17383
+Mono	IC	Cred	3	XGBClassifier	ECFP	MCC	-0.04222
+Mono	IC	Cred	2	XGBClassifier	ECFP	MCC	0.22464
+Mono	IC	Cred	0	XGBClassifier	ECFP	MCC	0.05149
+Primary	IC	Cred	1	XGBClassifier	ECFP	MCC	0.13166
+Primary	IC	Cred	4	XGBClassifier	ECFP	MCC	0.16513
+Primary	IC	Cred	3	XGBClassifier	ECFP	MCC	-0.00871
+Primary	IC	Cred	2	XGBClassifier	ECFP	MCC	0.23794
+Primary	IC	Cred	0	XGBClassifier	ECFP	MCC	0.07901
+Secondary	IC	Cred	1	XGBClassifier	ECFP	MCC	0.14475
+Secondary	IC	Cred	4	XGBClassifier	ECFP	MCC	0.14682
+Secondary	IC	Cred	3	XGBClassifier	ECFP	MCC	-0.1059
+Secondary	IC	Cred	2	XGBClassifier	ECFP	MCC	0.2542
+Secondary	IC	Cred	0	XGBClassifier	ECFP	MCC	0.10806
+Mono	IC	Cred	1	XGBClassifier	ECFP	Accuracy	0.57094
+Mono	IC	Cred	4	XGBClassifier	ECFP	Accuracy	0.626
+Mono	IC	Cred	3	XGBClassifier	ECFP	Accuracy	0.50225
+Mono	IC	Cred	2	XGBClassifier	ECFP	Accuracy	0.66216
+Mono	IC	Cred	0	XGBClassifier	ECFP	Accuracy	0.57811
+Primary	IC	Cred	1	XGBClassifier	ECFP	Accuracy	0.59715
+Primary	IC	Cred	4	XGBClassifier	ECFP	Accuracy	0.625
+Primary	IC	Cred	3	XGBClassifier	ECFP	Accuracy	0.52973
+Primary	IC	Cred	2	XGBClassifier	ECFP	Accuracy	0.67351
+Primary	IC	Cred	0	XGBClassifier	ECFP	Accuracy	0.59113
+Secondary	IC	Cred	1	XGBClassifier	ECFP	Accuracy	0.62792
+Secondary	IC	Cred	4	XGBClassifier	ECFP	Accuracy	0.63944
+Secondary	IC	Cred	3	XGBClassifier	ECFP	Accuracy	0.50315
+Secondary	IC	Cred	2	XGBClassifier	ECFP	Accuracy	0.68108
+Secondary	IC	Cred	0	XGBClassifier	ECFP	Accuracy	0.61524
+Mono	IC	Cred	1	XGBClassifier	ECFP	Recall	0.59431
+Mono	IC	Cred	4	XGBClassifier	ECFP	Recall	0.73688
+Mono	IC	Cred	3	XGBClassifier	ECFP	Recall	0.56537
+Mono	IC	Cred	2	XGBClassifier	ECFP	Recall	0.83135
+Mono	IC	Cred	0	XGBClassifier	ECFP	Recall	0.72901
+Primary	IC	Cred	1	XGBClassifier	ECFP	Recall	0.67616
+Primary	IC	Cred	4	XGBClassifier	ECFP	Recall	0.74706
+Primary	IC	Cred	3	XGBClassifier	ECFP	Recall	0.61979
+Primary	IC	Cred	2	XGBClassifier	ECFP	Recall	0.88245
+Primary	IC	Cred	0	XGBClassifier	ECFP	Recall	0.74275
+Secondary	IC	Cred	1	XGBClassifier	ECFP	Recall	0.78559
+Secondary	IC	Cred	4	XGBClassifier	ECFP	Recall	0.852
+Secondary	IC	Cred	3	XGBClassifier	ECFP	Recall	0.64664
+Secondary	IC	Cred	2	XGBClassifier	ECFP	Recall	0.90716
+Secondary	IC	Cred	0	XGBClassifier	ECFP	Recall	0.80611
+Mono	IC	Cred	1	XGBClassifier	ECFP	Specificity	0.52932
+Mono	IC	Cred	4	XGBClassifier	ECFP	Specificity	0.43228
+Mono	IC	Cred	3	XGBClassifier	ECFP	Specificity	0.3913
+Mono	IC	Cred	2	XGBClassifier	ECFP	Specificity	0.36834
+Mono	IC	Cred	0	XGBClassifier	ECFP	Specificity	0.31937
+Primary	IC	Cred	1	XGBClassifier	ECFP	Specificity	0.45642
+Primary	IC	Cred	4	XGBClassifier	ECFP	Specificity	0.41176
+Primary	IC	Cred	3	XGBClassifier	ECFP	Specificity	0.37143
+Primary	IC	Cred	2	XGBClassifier	ECFP	Specificity	0.31065
+Primary	IC	Cred	0	XGBClassifier	ECFP	Specificity	0.33115
+Secondary	IC	Cred	1	XGBClassifier	ECFP	Specificity	0.34707
+Secondary	IC	Cred	4	XGBClassifier	ECFP	Specificity	0.26813
+Secondary	IC	Cred	3	XGBClassifier	ECFP	Specificity	0.25093
+Secondary	IC	Cred	2	XGBClassifier	ECFP	Specificity	0.28846
+Secondary	IC	Cred	0	XGBClassifier	ECFP	Specificity	0.28796
+Mono	IC	Cred	1	XGBClassifier	ECFP	Precision	0.69223
+Mono	IC	Cred	4	XGBClassifier	ECFP	Precision	0.69395
+Mono	IC	Cred	3	XGBClassifier	ECFP	Precision	0.62016
+Mono	IC	Cred	2	XGBClassifier	ECFP	Precision	0.69565
+Mono	IC	Cred	0	XGBClassifier	ECFP	Precision	0.64746
+Primary	IC	Cred	1	XGBClassifier	ECFP	Precision	0.68903
+Primary	IC	Cred	4	XGBClassifier	ECFP	Precision	0.68931
+Primary	IC	Cred	3	XGBClassifier	ECFP	Precision	0.63413
+Primary	IC	Cred	2	XGBClassifier	ECFP	Precision	0.68975
+Primary	IC	Cred	0	XGBClassifier	ECFP	Precision	0.65566
+Secondary	IC	Cred	1	XGBClassifier	ECFP	Precision	0.68185
+Secondary	IC	Cred	4	XGBClassifier	ECFP	Precision	0.67036
+Secondary	IC	Cred	3	XGBClassifier	ECFP	Precision	0.60277
+Secondary	IC	Cred	2	XGBClassifier	ECFP	Precision	0.68887
+Secondary	IC	Cred	0	XGBClassifier	ECFP	Precision	0.66
+Mono	IC	Cred	1	XGBClassifier	ECFP	PRC AUC	0.74429
+Mono	IC	Cred	4	XGBClassifier	ECFP	PRC AUC	0.74712
+Mono	IC	Cred	3	XGBClassifier	ECFP	PRC AUC	0.66204
+Mono	IC	Cred	2	XGBClassifier	ECFP	PRC AUC	0.734
+Mono	IC	Cred	0	XGBClassifier	ECFP	PRC AUC	0.67842
+Primary	IC	Cred	1	XGBClassifier	ECFP	PRC AUC	0.73127
+Primary	IC	Cred	4	XGBClassifier	ECFP	PRC AUC	0.76614
+Primary	IC	Cred	3	XGBClassifier	ECFP	PRC AUC	0.70465
+Primary	IC	Cred	2	XGBClassifier	ECFP	PRC AUC	0.79878
+Primary	IC	Cred	0	XGBClassifier	ECFP	PRC AUC	0.7164
+Secondary	IC	Cred	1	XGBClassifier	ECFP	PRC AUC	0.72925
+Secondary	IC	Cred	4	XGBClassifier	ECFP	PRC AUC	0.7497
+Secondary	IC	Cred	3	XGBClassifier	ECFP	PRC AUC	0.64183
+Secondary	IC	Cred	2	XGBClassifier	ECFP	PRC AUC	0.7984
+Secondary	IC	Cred	0	XGBClassifier	ECFP	PRC AUC	0.71039
+Mono	IC	Cred	1	XGBClassifier	ECFP	Brier	0.25787
+Mono	IC	Cred	4	XGBClassifier	ECFP	Brier	0.22986
+Mono	IC	Cred	3	XGBClassifier	ECFP	Brier	0.28843
+Mono	IC	Cred	2	XGBClassifier	ECFP	Brier	0.21669
+Mono	IC	Cred	0	XGBClassifier	ECFP	Brier	0.25629
+Primary	IC	Cred	1	XGBClassifier	ECFP	Brier	0.25408
+Primary	IC	Cred	4	XGBClassifier	ECFP	Brier	0.23432
+Primary	IC	Cred	3	XGBClassifier	ECFP	Brier	0.26636
+Primary	IC	Cred	2	XGBClassifier	ECFP	Brier	0.20796
+Primary	IC	Cred	0	XGBClassifier	ECFP	Brier	0.24246
+Secondary	IC	Cred	1	XGBClassifier	ECFP	Brier	0.23801
+Secondary	IC	Cred	4	XGBClassifier	ECFP	Brier	0.23515
+Secondary	IC	Cred	3	XGBClassifier	ECFP	Brier	0.30874
+Secondary	IC	Cred	2	XGBClassifier	ECFP	Brier	0.20609
+Secondary	IC	Cred	0	XGBClassifier	ECFP	Brier	0.24698
+Mono	IC	Cred	1	XGBClassifier	ECFP	ECE	0.13309
+Mono	IC	Cred	4	XGBClassifier	ECFP	ECE	0.08121
+Mono	IC	Cred	3	XGBClassifier	ECFP	ECE	0.2067
+Mono	IC	Cred	2	XGBClassifier	ECFP	ECE	0.05455
+Mono	IC	Cred	0	XGBClassifier	ECFP	ECE	0.13482
+Primary	IC	Cred	1	XGBClassifier	ECFP	ECE	0.13728
+Primary	IC	Cred	4	XGBClassifier	ECFP	ECE	0.10436
+Primary	IC	Cred	3	XGBClassifier	ECFP	ECE	0.16243
+Primary	IC	Cred	2	XGBClassifier	ECFP	ECE	0.03931
+Primary	IC	Cred	0	XGBClassifier	ECFP	ECE	0.11316
+Secondary	IC	Cred	1	XGBClassifier	ECFP	ECE	0.11628
+Secondary	IC	Cred	4	XGBClassifier	ECFP	ECE	0.11477
+Secondary	IC	Cred	3	XGBClassifier	ECFP	ECE	0.24199
+Secondary	IC	Cred	2	XGBClassifier	ECFP	ECE	0.06656
+Secondary	IC	Cred	0	XGBClassifier	ECFP	ECE	0.12727

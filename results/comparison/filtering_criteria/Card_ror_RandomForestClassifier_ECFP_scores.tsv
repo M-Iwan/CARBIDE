@@ -1,0 +1,196 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Mono	ROR	Card	1	RandomForestClassifier	ECFP	Balanced Accuracy	0.55122
+Mono	ROR	Card	4	RandomForestClassifier	ECFP	Balanced Accuracy	0.60843
+Mono	ROR	Card	3	RandomForestClassifier	ECFP	Balanced Accuracy	0.58887
+Mono	ROR	Card	2	RandomForestClassifier	ECFP	Balanced Accuracy	0.62577
+Mono	ROR	Card	0	RandomForestClassifier	ECFP	Balanced Accuracy	0.52737
+Primary	ROR	Card	1	RandomForestClassifier	ECFP	Balanced Accuracy	0.55296
+Primary	ROR	Card	4	RandomForestClassifier	ECFP	Balanced Accuracy	0.59549
+Primary	ROR	Card	3	RandomForestClassifier	ECFP	Balanced Accuracy	0.59836
+Primary	ROR	Card	2	RandomForestClassifier	ECFP	Balanced Accuracy	0.65741
+Primary	ROR	Card	0	RandomForestClassifier	ECFP	Balanced Accuracy	0.5919
+Secondary	ROR	Card	1	RandomForestClassifier	ECFP	Balanced Accuracy	0.58349
+Secondary	ROR	Card	4	RandomForestClassifier	ECFP	Balanced Accuracy	0.6126
+Secondary	ROR	Card	3	RandomForestClassifier	ECFP	Balanced Accuracy	0.55553
+Secondary	ROR	Card	2	RandomForestClassifier	ECFP	Balanced Accuracy	0.62219
+Secondary	ROR	Card	0	RandomForestClassifier	ECFP	Balanced Accuracy	0.54195
+Mono	ROR	Card	1	RandomForestClassifier	ECFP	GeomRS	0.50762
+Mono	ROR	Card	4	RandomForestClassifier	ECFP	GeomRS	0.5976
+Mono	ROR	Card	3	RandomForestClassifier	ECFP	GeomRS	0.53345
+Mono	ROR	Card	2	RandomForestClassifier	ECFP	GeomRS	0.61714
+Mono	ROR	Card	0	RandomForestClassifier	ECFP	GeomRS	0.45063
+Primary	ROR	Card	1	RandomForestClassifier	ECFP	GeomRS	0.52206
+Primary	ROR	Card	4	RandomForestClassifier	ECFP	GeomRS	0.59283
+Primary	ROR	Card	3	RandomForestClassifier	ECFP	GeomRS	0.56643
+Primary	ROR	Card	2	RandomForestClassifier	ECFP	GeomRS	0.6542
+Primary	ROR	Card	0	RandomForestClassifier	ECFP	GeomRS	0.56835
+Secondary	ROR	Card	1	RandomForestClassifier	ECFP	GeomRS	0.5281
+Secondary	ROR	Card	4	RandomForestClassifier	ECFP	GeomRS	0.61087
+Secondary	ROR	Card	3	RandomForestClassifier	ECFP	GeomRS	0.54352
+Secondary	ROR	Card	2	RandomForestClassifier	ECFP	GeomRS	0.60023
+Secondary	ROR	Card	0	RandomForestClassifier	ECFP	GeomRS	0.5315
+Mono	ROR	Card	1	RandomForestClassifier	ECFP	HarmRS	0.46747
+Mono	ROR	Card	4	RandomForestClassifier	ECFP	HarmRS	0.58697
+Mono	ROR	Card	3	RandomForestClassifier	ECFP	HarmRS	0.48324
+Mono	ROR	Card	2	RandomForestClassifier	ECFP	HarmRS	0.60863
+Mono	ROR	Card	0	RandomForestClassifier	ECFP	HarmRS	0.38506
+Primary	ROR	Card	1	RandomForestClassifier	ECFP	HarmRS	0.49289
+Primary	ROR	Card	4	RandomForestClassifier	ECFP	HarmRS	0.59017
+Primary	ROR	Card	3	RandomForestClassifier	ECFP	HarmRS	0.53621
+Primary	ROR	Card	2	RandomForestClassifier	ECFP	HarmRS	0.65102
+Primary	ROR	Card	0	RandomForestClassifier	ECFP	HarmRS	0.54575
+Secondary	ROR	Card	1	RandomForestClassifier	ECFP	HarmRS	0.47797
+Secondary	ROR	Card	4	RandomForestClassifier	ECFP	HarmRS	0.60914
+Secondary	ROR	Card	3	RandomForestClassifier	ECFP	HarmRS	0.53177
+Secondary	ROR	Card	2	RandomForestClassifier	ECFP	HarmRS	0.57904
+Secondary	ROR	Card	0	RandomForestClassifier	ECFP	HarmRS	0.52124
+Mono	ROR	Card	1	RandomForestClassifier	ECFP	F1 Score	0.44252
+Mono	ROR	Card	4	RandomForestClassifier	ECFP	F1 Score	0.57926
+Mono	ROR	Card	3	RandomForestClassifier	ECFP	F1 Score	0.46136
+Mono	ROR	Card	2	RandomForestClassifier	ECFP	F1 Score	0.60224
+Mono	ROR	Card	0	RandomForestClassifier	ECFP	F1 Score	0.36022
+Primary	ROR	Card	1	RandomForestClassifier	ECFP	F1 Score	0.46961
+Primary	ROR	Card	4	RandomForestClassifier	ECFP	F1 Score	0.59732
+Primary	ROR	Card	3	RandomForestClassifier	ECFP	F1 Score	0.51459
+Primary	ROR	Card	2	RandomForestClassifier	ECFP	F1 Score	0.65473
+Primary	ROR	Card	0	RandomForestClassifier	ECFP	F1 Score	0.52854
+Secondary	ROR	Card	1	RandomForestClassifier	ECFP	F1 Score	0.45699
+Secondary	ROR	Card	4	RandomForestClassifier	ECFP	F1 Score	0.66191
+Secondary	ROR	Card	3	RandomForestClassifier	ECFP	F1 Score	0.5154
+Secondary	ROR	Card	2	RandomForestClassifier	ECFP	F1 Score	0.56378
+Secondary	ROR	Card	0	RandomForestClassifier	ECFP	F1 Score	0.51049
+Mono	ROR	Card	1	RandomForestClassifier	ECFP	ROC AUC	0.55286
+Mono	ROR	Card	4	RandomForestClassifier	ECFP	ROC AUC	0.64818
+Mono	ROR	Card	3	RandomForestClassifier	ECFP	ROC AUC	0.60716
+Mono	ROR	Card	2	RandomForestClassifier	ECFP	ROC AUC	0.67674
+Mono	ROR	Card	0	RandomForestClassifier	ECFP	ROC AUC	0.54414
+Primary	ROR	Card	1	RandomForestClassifier	ECFP	ROC AUC	0.53575
+Primary	ROR	Card	4	RandomForestClassifier	ECFP	ROC AUC	0.63831
+Primary	ROR	Card	3	RandomForestClassifier	ECFP	ROC AUC	0.59526
+Primary	ROR	Card	2	RandomForestClassifier	ECFP	ROC AUC	0.6899
+Primary	ROR	Card	0	RandomForestClassifier	ECFP	ROC AUC	0.58068
+Secondary	ROR	Card	1	RandomForestClassifier	ECFP	ROC AUC	0.62293
+Secondary	ROR	Card	4	RandomForestClassifier	ECFP	ROC AUC	0.6757
+Secondary	ROR	Card	3	RandomForestClassifier	ECFP	ROC AUC	0.54467
+Secondary	ROR	Card	2	RandomForestClassifier	ECFP	ROC AUC	0.6859
+Secondary	ROR	Card	0	RandomForestClassifier	ECFP	ROC AUC	0.57423
+Mono	ROR	Card	1	RandomForestClassifier	ECFP	MCC	0.11191
+Mono	ROR	Card	4	RandomForestClassifier	ECFP	MCC	0.21934
+Mono	ROR	Card	3	RandomForestClassifier	ECFP	MCC	0.20169
+Mono	ROR	Card	2	RandomForestClassifier	ECFP	MCC	0.25366
+Mono	ROR	Card	0	RandomForestClassifier	ECFP	MCC	0.06454
+Primary	ROR	Card	1	RandomForestClassifier	ECFP	MCC	0.11234
+Primary	ROR	Card	4	RandomForestClassifier	ECFP	MCC	0.18999
+Primary	ROR	Card	3	RandomForestClassifier	ECFP	MCC	0.21029
+Primary	ROR	Card	2	RandomForestClassifier	ECFP	MCC	0.3138
+Primary	ROR	Card	0	RandomForestClassifier	ECFP	MCC	0.19153
+Secondary	ROR	Card	1	RandomForestClassifier	ECFP	MCC	0.18852
+Secondary	ROR	Card	4	RandomForestClassifier	ECFP	MCC	0.22486
+Secondary	ROR	Card	3	RandomForestClassifier	ECFP	MCC	0.11323
+Secondary	ROR	Card	2	RandomForestClassifier	ECFP	MCC	0.25412
+Secondary	ROR	Card	0	RandomForestClassifier	ECFP	MCC	0.08496
+Mono	ROR	Card	1	RandomForestClassifier	ECFP	Accuracy	0.52545
+Mono	ROR	Card	4	RandomForestClassifier	ECFP	Accuracy	0.59319
+Mono	ROR	Card	3	RandomForestClassifier	ECFP	Accuracy	0.56374
+Mono	ROR	Card	2	RandomForestClassifier	ECFP	Accuracy	0.61319
+Mono	ROR	Card	0	RandomForestClassifier	ECFP	Accuracy	0.4923
+Primary	ROR	Card	1	RandomForestClassifier	ECFP	Accuracy	0.53111
+Primary	ROR	Card	4	RandomForestClassifier	ECFP	Accuracy	0.58798
+Primary	ROR	Card	3	RandomForestClassifier	ECFP	Accuracy	0.57892
+Primary	ROR	Card	2	RandomForestClassifier	ECFP	Accuracy	0.64953
+Primary	ROR	Card	0	RandomForestClassifier	ECFP	Accuracy	0.57074
+Secondary	ROR	Card	1	RandomForestClassifier	ECFP	Accuracy	0.55373
+Secondary	ROR	Card	4	RandomForestClassifier	ECFP	Accuracy	0.61873
+Secondary	ROR	Card	3	RandomForestClassifier	ECFP	Accuracy	0.54395
+Secondary	ROR	Card	2	RandomForestClassifier	ECFP	Accuracy	0.60228
+Secondary	ROR	Card	0	RandomForestClassifier	ECFP	Accuracy	0.52839
+Mono	ROR	Card	1	RandomForestClassifier	ECFP	Recall	0.33636
+Mono	ROR	Card	4	RandomForestClassifier	ECFP	Recall	0.49416
+Mono	ROR	Card	3	RandomForestClassifier	ECFP	Recall	0.33946
+Mono	ROR	Card	2	RandomForestClassifier	ECFP	Recall	0.52222
+Mono	ROR	Card	0	RandomForestClassifier	ECFP	Recall	0.25341
+Primary	ROR	Card	1	RandomForestClassifier	ECFP	Recall	0.37071
+Primary	ROR	Card	4	RandomForestClassifier	ECFP	Recall	0.53923
+Primary	ROR	Card	3	RandomForestClassifier	ECFP	Recall	0.40552
+Primary	ROR	Card	2	RandomForestClassifier	ECFP	Recall	0.59259
+Primary	ROR	Card	0	RandomForestClassifier	ECFP	Recall	0.42662
+Secondary	ROR	Card	1	RandomForestClassifier	ECFP	Recall	0.33535
+Secondary	ROR	Card	4	RandomForestClassifier	ECFP	Recall	0.6586
+Secondary	ROR	Card	3	RandomForestClassifier	ECFP	Recall	0.44064
+Secondary	ROR	Card	2	RandomForestClassifier	ECFP	Recall	0.45833
+Secondary	ROR	Card	0	RandomForestClassifier	ECFP	Recall	0.43601
+Mono	ROR	Card	1	RandomForestClassifier	ECFP	Specificity	0.76607
+Mono	ROR	Card	4	RandomForestClassifier	ECFP	Specificity	0.72271
+Mono	ROR	Card	3	RandomForestClassifier	ECFP	Specificity	0.83828
+Mono	ROR	Card	2	RandomForestClassifier	ECFP	Specificity	0.72931
+Mono	ROR	Card	0	RandomForestClassifier	ECFP	Specificity	0.80132
+Primary	ROR	Card	1	RandomForestClassifier	ECFP	Specificity	0.73522
+Primary	ROR	Card	4	RandomForestClassifier	ECFP	Specificity	0.65175
+Primary	ROR	Card	3	RandomForestClassifier	ECFP	Specificity	0.7912
+Primary	ROR	Card	2	RandomForestClassifier	ECFP	Specificity	0.72222
+Primary	ROR	Card	0	RandomForestClassifier	ECFP	Specificity	0.75717
+Secondary	ROR	Card	1	RandomForestClassifier	ECFP	Specificity	0.83162
+Secondary	ROR	Card	4	RandomForestClassifier	ECFP	Specificity	0.56659
+Secondary	ROR	Card	3	RandomForestClassifier	ECFP	Specificity	0.67042
+Secondary	ROR	Card	2	RandomForestClassifier	ECFP	Specificity	0.78605
+Secondary	ROR	Card	0	RandomForestClassifier	ECFP	Specificity	0.6479
+Mono	ROR	Card	1	RandomForestClassifier	ECFP	Precision	0.6466
+Mono	ROR	Card	4	RandomForestClassifier	ECFP	Precision	0.69976
+Mono	ROR	Card	3	RandomForestClassifier	ECFP	Precision	0.71986
+Mono	ROR	Card	2	RandomForestClassifier	ECFP	Precision	0.71122
+Mono	ROR	Card	0	RandomForestClassifier	ECFP	Precision	0.62264
+Primary	ROR	Card	1	RandomForestClassifier	ECFP	Precision	0.64049
+Primary	ROR	Card	4	RandomForestClassifier	ECFP	Precision	0.66943
+Primary	ROR	Card	3	RandomForestClassifier	ECFP	Precision	0.70392
+Primary	ROR	Card	2	RandomForestClassifier	ECFP	Precision	0.73143
+Primary	ROR	Card	0	RandomForestClassifier	ECFP	Precision	0.69444
+Secondary	ROR	Card	1	RandomForestClassifier	ECFP	Precision	0.71706
+Secondary	ROR	Card	4	RandomForestClassifier	ECFP	Precision	0.66526
+Secondary	ROR	Card	3	RandomForestClassifier	ECFP	Precision	0.62073
+Secondary	ROR	Card	2	RandomForestClassifier	ECFP	Precision	0.73225
+Secondary	ROR	Card	0	RandomForestClassifier	ECFP	Precision	0.61566
+Mono	ROR	Card	1	RandomForestClassifier	ECFP	PRC AUC	0.66348
+Mono	ROR	Card	4	RandomForestClassifier	ECFP	PRC AUC	0.70205
+Mono	ROR	Card	3	RandomForestClassifier	ECFP	PRC AUC	0.67317
+Mono	ROR	Card	2	RandomForestClassifier	ECFP	PRC AUC	0.75211
+Mono	ROR	Card	0	RandomForestClassifier	ECFP	PRC AUC	0.60449
+Primary	ROR	Card	1	RandomForestClassifier	ECFP	PRC AUC	0.65672
+Primary	ROR	Card	4	RandomForestClassifier	ECFP	PRC AUC	0.73782
+Primary	ROR	Card	3	RandomForestClassifier	ECFP	PRC AUC	0.67603
+Primary	ROR	Card	2	RandomForestClassifier	ECFP	PRC AUC	0.73493
+Primary	ROR	Card	0	RandomForestClassifier	ECFP	PRC AUC	0.68749
+Secondary	ROR	Card	1	RandomForestClassifier	ECFP	PRC AUC	0.67291
+Secondary	ROR	Card	4	RandomForestClassifier	ECFP	PRC AUC	0.75788
+Secondary	ROR	Card	3	RandomForestClassifier	ECFP	PRC AUC	0.62078
+Secondary	ROR	Card	2	RandomForestClassifier	ECFP	PRC AUC	0.70281
+Secondary	ROR	Card	0	RandomForestClassifier	ECFP	PRC AUC	0.65603
+Mono	ROR	Card	1	RandomForestClassifier	ECFP	Brier	0.26939
+Mono	ROR	Card	4	RandomForestClassifier	ECFP	Brier	0.2392
+Mono	ROR	Card	3	RandomForestClassifier	ECFP	Brier	0.24993
+Mono	ROR	Card	2	RandomForestClassifier	ECFP	Brier	0.22753
+Mono	ROR	Card	0	RandomForestClassifier	ECFP	Brier	0.275
+Primary	ROR	Card	1	RandomForestClassifier	ECFP	Brier	0.26214
+Primary	ROR	Card	4	RandomForestClassifier	ECFP	Brier	0.23422
+Primary	ROR	Card	3	RandomForestClassifier	ECFP	Brier	0.24916
+Primary	ROR	Card	2	RandomForestClassifier	ECFP	Brier	0.22924
+Primary	ROR	Card	0	RandomForestClassifier	ECFP	Brier	0.25259
+Secondary	ROR	Card	1	RandomForestClassifier	ECFP	Brier	0.24691
+Secondary	ROR	Card	4	RandomForestClassifier	ECFP	Brier	0.22546
+Secondary	ROR	Card	3	RandomForestClassifier	ECFP	Brier	0.25239
+Secondary	ROR	Card	2	RandomForestClassifier	ECFP	Brier	0.23591
+Secondary	ROR	Card	0	RandomForestClassifier	ECFP	Brier	0.24887
+Mono	ROR	Card	1	RandomForestClassifier	ECFP	ECE	0.15176
+Mono	ROR	Card	4	RandomForestClassifier	ECFP	ECE	0.10034
+Mono	ROR	Card	3	RandomForestClassifier	ECFP	ECE	0.11384
+Mono	ROR	Card	2	RandomForestClassifier	ECFP	ECE	0.08032
+Mono	ROR	Card	0	RandomForestClassifier	ECFP	ECE	0.17049
+Primary	ROR	Card	1	RandomForestClassifier	ECFP	ECE	0.12419
+Primary	ROR	Card	4	RandomForestClassifier	ECFP	ECE	0.07179
+Primary	ROR	Card	3	RandomForestClassifier	ECFP	ECE	0.09636
+Primary	ROR	Card	2	RandomForestClassifier	ECFP	ECE	0.08318
+Primary	ROR	Card	0	RandomForestClassifier	ECFP	ECE	0.1179
+Secondary	ROR	Card	1	RandomForestClassifier	ECFP	ECE	0.11607
+Secondary	ROR	Card	4	RandomForestClassifier	ECFP	ECE	0.05136
+Secondary	ROR	Card	3	RandomForestClassifier	ECFP	ECE	0.06842
+Secondary	ROR	Card	2	RandomForestClassifier	ECFP	ECE	0.12601
+Secondary	ROR	Card	0	RandomForestClassifier	ECFP	ECE	0.08324

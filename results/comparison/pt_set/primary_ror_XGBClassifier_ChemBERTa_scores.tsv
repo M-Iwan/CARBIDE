@@ -1,0 +1,196 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Primary	ROR	Cred	1	XGBClassifier	ChemBERTa	Balanced Accuracy	0.55072
+Primary	ROR	Cred	4	XGBClassifier	ChemBERTa	Balanced Accuracy	0.58849
+Primary	ROR	Cred	3	XGBClassifier	ChemBERTa	Balanced Accuracy	0.52313
+Primary	ROR	Cred	0	XGBClassifier	ChemBERTa	Balanced Accuracy	0.54456
+Primary	ROR	Cred	2	XGBClassifier	ChemBERTa	Balanced Accuracy	0.55627
+Primary	ROR	Card	1	XGBClassifier	ChemBERTa	Balanced Accuracy	0.54212
+Primary	ROR	Card	4	XGBClassifier	ChemBERTa	Balanced Accuracy	0.56346
+Primary	ROR	Card	3	XGBClassifier	ChemBERTa	Balanced Accuracy	0.52333
+Primary	ROR	Card	0	XGBClassifier	ChemBERTa	Balanced Accuracy	0.54628
+Primary	ROR	Card	2	XGBClassifier	ChemBERTa	Balanced Accuracy	0.54951
+Primary	ROR	Cvas	1	XGBClassifier	ChemBERTa	Balanced Accuracy	0.54259
+Primary	ROR	Cvas	4	XGBClassifier	ChemBERTa	Balanced Accuracy	0.59541
+Primary	ROR	Cvas	3	XGBClassifier	ChemBERTa	Balanced Accuracy	0.57252
+Primary	ROR	Cvas	0	XGBClassifier	ChemBERTa	Balanced Accuracy	0.54435
+Primary	ROR	Cvas	2	XGBClassifier	ChemBERTa	Balanced Accuracy	0.53486
+Primary	ROR	Cred	1	XGBClassifier	ChemBERTa	GeomRS	0.54157
+Primary	ROR	Cred	4	XGBClassifier	ChemBERTa	GeomRS	0.58828
+Primary	ROR	Cred	3	XGBClassifier	ChemBERTa	GeomRS	0.51854
+Primary	ROR	Cred	0	XGBClassifier	ChemBERTa	GeomRS	0.5422
+Primary	ROR	Cred	2	XGBClassifier	ChemBERTa	GeomRS	0.55583
+Primary	ROR	Card	1	XGBClassifier	ChemBERTa	GeomRS	0.53289
+Primary	ROR	Card	4	XGBClassifier	ChemBERTa	GeomRS	0.56345
+Primary	ROR	Card	3	XGBClassifier	ChemBERTa	GeomRS	0.51342
+Primary	ROR	Card	0	XGBClassifier	ChemBERTa	GeomRS	0.5446
+Primary	ROR	Card	2	XGBClassifier	ChemBERTa	GeomRS	0.54948
+Primary	ROR	Cvas	1	XGBClassifier	ChemBERTa	GeomRS	0.5254
+Primary	ROR	Cvas	4	XGBClassifier	ChemBERTa	GeomRS	0.5947
+Primary	ROR	Cvas	3	XGBClassifier	ChemBERTa	GeomRS	0.57192
+Primary	ROR	Cvas	0	XGBClassifier	ChemBERTa	GeomRS	0.54428
+Primary	ROR	Cvas	2	XGBClassifier	ChemBERTa	GeomRS	0.53366
+Primary	ROR	Cred	1	XGBClassifier	ChemBERTa	HarmRS	0.53258
+Primary	ROR	Cred	4	XGBClassifier	ChemBERTa	HarmRS	0.58807
+Primary	ROR	Cred	3	XGBClassifier	ChemBERTa	HarmRS	0.514
+Primary	ROR	Cred	0	XGBClassifier	ChemBERTa	HarmRS	0.53985
+Primary	ROR	Cred	2	XGBClassifier	ChemBERTa	HarmRS	0.55538
+Primary	ROR	Card	1	XGBClassifier	ChemBERTa	HarmRS	0.52381
+Primary	ROR	Card	4	XGBClassifier	ChemBERTa	HarmRS	0.56344
+Primary	ROR	Card	3	XGBClassifier	ChemBERTa	HarmRS	0.5037
+Primary	ROR	Card	0	XGBClassifier	ChemBERTa	HarmRS	0.54293
+Primary	ROR	Card	2	XGBClassifier	ChemBERTa	HarmRS	0.54945
+Primary	ROR	Cvas	1	XGBClassifier	ChemBERTa	HarmRS	0.50875
+Primary	ROR	Cvas	4	XGBClassifier	ChemBERTa	HarmRS	0.59399
+Primary	ROR	Cvas	3	XGBClassifier	ChemBERTa	HarmRS	0.57132
+Primary	ROR	Cvas	0	XGBClassifier	ChemBERTa	HarmRS	0.5442
+Primary	ROR	Cvas	2	XGBClassifier	ChemBERTa	HarmRS	0.53247
+Primary	ROR	Cred	1	XGBClassifier	ChemBERTa	F1 Score	0.53508
+Primary	ROR	Cred	4	XGBClassifier	ChemBERTa	F1 Score	0.60586
+Primary	ROR	Cred	3	XGBClassifier	ChemBERTa	F1 Score	0.51213
+Primary	ROR	Cred	0	XGBClassifier	ChemBERTa	F1 Score	0.5493
+Primary	ROR	Cred	2	XGBClassifier	ChemBERTa	F1 Score	0.57621
+Primary	ROR	Card	1	XGBClassifier	ChemBERTa	F1 Score	0.52597
+Primary	ROR	Card	4	XGBClassifier	ChemBERTa	F1 Score	0.57586
+Primary	ROR	Card	3	XGBClassifier	ChemBERTa	F1 Score	0.49191
+Primary	ROR	Card	0	XGBClassifier	ChemBERTa	F1 Score	0.60036
+Primary	ROR	Card	2	XGBClassifier	ChemBERTa	F1 Score	0.58417
+Primary	ROR	Cvas	1	XGBClassifier	ChemBERTa	F1 Score	0.5017
+Primary	ROR	Cvas	4	XGBClassifier	ChemBERTa	F1 Score	0.61805
+Primary	ROR	Cvas	3	XGBClassifier	ChemBERTa	F1 Score	0.58734
+Primary	ROR	Cvas	0	XGBClassifier	ChemBERTa	F1 Score	0.58159
+Primary	ROR	Cvas	2	XGBClassifier	ChemBERTa	F1 Score	0.58513
+Primary	ROR	Cred	1	XGBClassifier	ChemBERTa	ROC AUC	0.56395
+Primary	ROR	Cred	4	XGBClassifier	ChemBERTa	ROC AUC	0.61508
+Primary	ROR	Cred	3	XGBClassifier	ChemBERTa	ROC AUC	0.53894
+Primary	ROR	Cred	0	XGBClassifier	ChemBERTa	ROC AUC	0.54764
+Primary	ROR	Cred	2	XGBClassifier	ChemBERTa	ROC AUC	0.59064
+Primary	ROR	Card	1	XGBClassifier	ChemBERTa	ROC AUC	0.55009
+Primary	ROR	Card	4	XGBClassifier	ChemBERTa	ROC AUC	0.5914
+Primary	ROR	Card	3	XGBClassifier	ChemBERTa	ROC AUC	0.53163
+Primary	ROR	Card	0	XGBClassifier	ChemBERTa	ROC AUC	0.56331
+Primary	ROR	Card	2	XGBClassifier	ChemBERTa	ROC AUC	0.59211
+Primary	ROR	Cvas	1	XGBClassifier	ChemBERTa	ROC AUC	0.54736
+Primary	ROR	Cvas	4	XGBClassifier	ChemBERTa	ROC AUC	0.62821
+Primary	ROR	Cvas	3	XGBClassifier	ChemBERTa	ROC AUC	0.60592
+Primary	ROR	Cvas	0	XGBClassifier	ChemBERTa	ROC AUC	0.57215
+Primary	ROR	Cvas	2	XGBClassifier	ChemBERTa	ROC AUC	0.57387
+Primary	ROR	Cred	1	XGBClassifier	ChemBERTa	MCC	0.10108
+Primary	ROR	Cred	4	XGBClassifier	ChemBERTa	MCC	0.17694
+Primary	ROR	Cred	3	XGBClassifier	ChemBERTa	MCC	0.04631
+Primary	ROR	Cred	0	XGBClassifier	ChemBERTa	MCC	0.08858
+Primary	ROR	Cred	2	XGBClassifier	ChemBERTa	MCC	0.11152
+Primary	ROR	Card	1	XGBClassifier	ChemBERTa	MCC	0.08399
+Primary	ROR	Card	4	XGBClassifier	ChemBERTa	MCC	0.1268
+Primary	ROR	Card	3	XGBClassifier	ChemBERTa	MCC	0.04724
+Primary	ROR	Card	0	XGBClassifier	ChemBERTa	MCC	0.09208
+Primary	ROR	Card	2	XGBClassifier	ChemBERTa	MCC	0.09812
+Primary	ROR	Cvas	1	XGBClassifier	ChemBERTa	MCC	0.08635
+Primary	ROR	Cvas	4	XGBClassifier	ChemBERTa	MCC	0.19104
+Primary	ROR	Cvas	3	XGBClassifier	ChemBERTa	MCC	0.14405
+Primary	ROR	Cvas	0	XGBClassifier	ChemBERTa	MCC	0.08785
+Primary	ROR	Cvas	2	XGBClassifier	ChemBERTa	MCC	0.06928
+Primary	ROR	Cred	1	XGBClassifier	ChemBERTa	Accuracy	0.53098
+Primary	ROR	Cred	4	XGBClassifier	ChemBERTa	Accuracy	0.5892
+Primary	ROR	Cred	3	XGBClassifier	ChemBERTa	Accuracy	0.5147
+Primary	ROR	Cred	0	XGBClassifier	ChemBERTa	Accuracy	0.53739
+Primary	ROR	Cred	2	XGBClassifier	ChemBERTa	Accuracy	0.55321
+Primary	ROR	Card	1	XGBClassifier	ChemBERTa	Accuracy	0.52245
+Primary	ROR	Card	4	XGBClassifier	ChemBERTa	Accuracy	0.56362
+Primary	ROR	Card	3	XGBClassifier	ChemBERTa	Accuracy	0.51097
+Primary	ROR	Card	0	XGBClassifier	ChemBERTa	Accuracy	0.55234
+Primary	ROR	Card	2	XGBClassifier	ChemBERTa	Accuracy	0.55032
+Primary	ROR	Cvas	1	XGBClassifier	ChemBERTa	Accuracy	0.51584
+Primary	ROR	Cvas	4	XGBClassifier	ChemBERTa	Accuracy	0.59671
+Primary	ROR	Cvas	3	XGBClassifier	ChemBERTa	Accuracy	0.56933
+Primary	ROR	Cvas	0	XGBClassifier	ChemBERTa	Accuracy	0.54561
+Primary	ROR	Cvas	2	XGBClassifier	ChemBERTa	Accuracy	0.53978
+Primary	ROR	Cred	1	XGBClassifier	ChemBERTa	Recall	0.45078
+Primary	ROR	Cred	4	XGBClassifier	ChemBERTa	Recall	0.60422
+Primary	ROR	Cred	3	XGBClassifier	ChemBERTa	Recall	0.45405
+Primary	ROR	Cred	0	XGBClassifier	ChemBERTa	Recall	0.49389
+Primary	ROR	Cred	2	XGBClassifier	ChemBERTa	Recall	0.53404
+Primary	ROR	Card	1	XGBClassifier	ChemBERTa	Recall	0.4425
+Primary	ROR	Card	4	XGBClassifier	ChemBERTa	Recall	0.56694
+Primary	ROR	Card	3	XGBClassifier	ChemBERTa	Recall	0.42198
+Primary	ROR	Card	0	XGBClassifier	ChemBERTa	Recall	0.58908
+Primary	ROR	Card	2	XGBClassifier	ChemBERTa	Recall	0.55535
+Primary	ROR	Cvas	1	XGBClassifier	ChemBERTa	Recall	0.40708
+Primary	ROR	Cvas	4	XGBClassifier	ChemBERTa	Recall	0.62444
+Primary	ROR	Cvas	3	XGBClassifier	ChemBERTa	Recall	0.54634
+Primary	ROR	Cvas	0	XGBClassifier	ChemBERTa	Recall	0.55328
+Primary	ROR	Cvas	2	XGBClassifier	ChemBERTa	Recall	0.57063
+Primary	ROR	Cred	1	XGBClassifier	ChemBERTa	Specificity	0.65065
+Primary	ROR	Cred	4	XGBClassifier	ChemBERTa	Specificity	0.57276
+Primary	ROR	Cred	3	XGBClassifier	ChemBERTa	Specificity	0.5922
+Primary	ROR	Cred	0	XGBClassifier	ChemBERTa	Specificity	0.59524
+Primary	ROR	Cred	2	XGBClassifier	ChemBERTa	Specificity	0.5785
+Primary	ROR	Card	1	XGBClassifier	ChemBERTa	Specificity	0.64173
+Primary	ROR	Card	4	XGBClassifier	ChemBERTa	Specificity	0.55998
+Primary	ROR	Card	3	XGBClassifier	ChemBERTa	Specificity	0.62469
+Primary	ROR	Card	0	XGBClassifier	ChemBERTa	Specificity	0.50348
+Primary	ROR	Card	2	XGBClassifier	ChemBERTa	Specificity	0.54368
+Primary	ROR	Cvas	1	XGBClassifier	ChemBERTa	Specificity	0.67811
+Primary	ROR	Cvas	4	XGBClassifier	ChemBERTa	Specificity	0.56637
+Primary	ROR	Cvas	3	XGBClassifier	ChemBERTa	Specificity	0.5987
+Primary	ROR	Cvas	0	XGBClassifier	ChemBERTa	Specificity	0.53542
+Primary	ROR	Cvas	2	XGBClassifier	ChemBERTa	Specificity	0.49908
+Primary	ROR	Cred	1	XGBClassifier	ChemBERTa	Precision	0.65816
+Primary	ROR	Cred	4	XGBClassifier	ChemBERTa	Precision	0.6075
+Primary	ROR	Cred	3	XGBClassifier	ChemBERTa	Precision	0.58725
+Primary	ROR	Cred	0	XGBClassifier	ChemBERTa	Precision	0.61871
+Primary	ROR	Cred	2	XGBClassifier	ChemBERTa	Precision	0.62561
+Primary	ROR	Card	1	XGBClassifier	ChemBERTa	Precision	0.64825
+Primary	ROR	Card	4	XGBClassifier	ChemBERTa	Precision	0.58507
+Primary	ROR	Card	3	XGBClassifier	ChemBERTa	Precision	0.58962
+Primary	ROR	Card	0	XGBClassifier	ChemBERTa	Precision	0.61207
+Primary	ROR	Card	2	XGBClassifier	ChemBERTa	Precision	0.61614
+Primary	ROR	Cvas	1	XGBClassifier	ChemBERTa	Precision	0.65362
+Primary	ROR	Cvas	4	XGBClassifier	ChemBERTa	Precision	0.6118
+Primary	ROR	Cvas	3	XGBClassifier	ChemBERTa	Precision	0.635
+Primary	ROR	Cvas	0	XGBClassifier	ChemBERTa	Precision	0.61297
+Primary	ROR	Cvas	2	XGBClassifier	ChemBERTa	Precision	0.60039
+Primary	ROR	Cred	1	XGBClassifier	ChemBERTa	PRC AUC	0.68391
+Primary	ROR	Cred	4	XGBClassifier	ChemBERTa	PRC AUC	0.64613
+Primary	ROR	Cred	3	XGBClassifier	ChemBERTa	PRC AUC	0.61648
+Primary	ROR	Cred	0	XGBClassifier	ChemBERTa	PRC AUC	0.62121
+Primary	ROR	Cred	2	XGBClassifier	ChemBERTa	PRC AUC	0.66385
+Primary	ROR	Card	1	XGBClassifier	ChemBERTa	PRC AUC	0.66889
+Primary	ROR	Card	4	XGBClassifier	ChemBERTa	PRC AUC	0.62534
+Primary	ROR	Card	3	XGBClassifier	ChemBERTa	PRC AUC	0.59578
+Primary	ROR	Card	0	XGBClassifier	ChemBERTa	PRC AUC	0.62968
+Primary	ROR	Card	2	XGBClassifier	ChemBERTa	PRC AUC	0.67609
+Primary	ROR	Cvas	1	XGBClassifier	ChemBERTa	PRC AUC	0.67231
+Primary	ROR	Cvas	4	XGBClassifier	ChemBERTa	PRC AUC	0.61657
+Primary	ROR	Cvas	3	XGBClassifier	ChemBERTa	PRC AUC	0.68389
+Primary	ROR	Cvas	0	XGBClassifier	ChemBERTa	PRC AUC	0.65709
+Primary	ROR	Cvas	2	XGBClassifier	ChemBERTa	PRC AUC	0.65904
+Primary	ROR	Cred	1	XGBClassifier	ChemBERTa	ECE	0.13455
+Primary	ROR	Cred	4	XGBClassifier	ChemBERTa	ECE	0.05559
+Primary	ROR	Cred	3	XGBClassifier	ChemBERTa	ECE	0.1107
+Primary	ROR	Cred	0	XGBClassifier	ChemBERTa	ECE	0.12298
+Primary	ROR	Cred	2	XGBClassifier	ChemBERTa	ECE	0.08621
+Primary	ROR	Card	1	XGBClassifier	ChemBERTa	ECE	0.13615
+Primary	ROR	Card	4	XGBClassifier	ChemBERTa	ECE	0.06776
+Primary	ROR	Card	3	XGBClassifier	ChemBERTa	ECE	0.11277
+Primary	ROR	Card	0	XGBClassifier	ChemBERTa	ECE	0.10016
+Primary	ROR	Card	2	XGBClassifier	ChemBERTa	ECE	0.08404
+Primary	ROR	Cvas	1	XGBClassifier	ChemBERTa	ECE	0.15068
+Primary	ROR	Cvas	4	XGBClassifier	ChemBERTa	ECE	0.04377
+Primary	ROR	Cvas	3	XGBClassifier	ChemBERTa	ECE	0.05953
+Primary	ROR	Cvas	0	XGBClassifier	ChemBERTa	ECE	0.08202
+Primary	ROR	Cvas	2	XGBClassifier	ChemBERTa	ECE	0.08753
+Primary	ROR	Cred	1	XGBClassifier	ChemBERTa	Brier	0.26888
+Primary	ROR	Cred	4	XGBClassifier	ChemBERTa	Brier	0.24322
+Primary	ROR	Cred	3	XGBClassifier	ChemBERTa	Brier	0.26229
+Primary	ROR	Cred	0	XGBClassifier	ChemBERTa	Brier	0.26491
+Primary	ROR	Cred	2	XGBClassifier	ChemBERTa	Brier	0.24934
+Primary	ROR	Card	1	XGBClassifier	ChemBERTa	Brier	0.27112
+Primary	ROR	Card	4	XGBClassifier	ChemBERTa	Brier	0.24936
+Primary	ROR	Card	3	XGBClassifier	ChemBERTa	Brier	0.26362
+Primary	ROR	Card	0	XGBClassifier	ChemBERTa	Brier	0.25975
+Primary	ROR	Card	2	XGBClassifier	ChemBERTa	Brier	0.24726
+Primary	ROR	Cvas	1	XGBClassifier	ChemBERTa	Brier	0.27428
+Primary	ROR	Cvas	4	XGBClassifier	ChemBERTa	Brier	0.23853
+Primary	ROR	Cvas	3	XGBClassifier	ChemBERTa	Brier	0.24283
+Primary	ROR	Cvas	0	XGBClassifier	ChemBERTa	Brier	0.25325
+Primary	ROR	Cvas	2	XGBClassifier	ChemBERTa	Brier	0.24951

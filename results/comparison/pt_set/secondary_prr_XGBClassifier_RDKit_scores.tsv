@@ -1,0 +1,196 @@
+Dataset	DPA	PT	Test_Fold	Model	Descriptors	Metric	Value
+Secondary	PRR	Cred	3	XGBClassifier	RDKit	Balanced Accuracy	0.56528
+Secondary	PRR	Cred	1	XGBClassifier	RDKit	Balanced Accuracy	0.58858
+Secondary	PRR	Cred	4	XGBClassifier	RDKit	Balanced Accuracy	0.61801
+Secondary	PRR	Cred	0	XGBClassifier	RDKit	Balanced Accuracy	0.59105
+Secondary	PRR	Cred	2	XGBClassifier	RDKit	Balanced Accuracy	0.61016
+Secondary	PRR	Card	3	XGBClassifier	RDKit	Balanced Accuracy	0.57232
+Secondary	PRR	Card	1	XGBClassifier	RDKit	Balanced Accuracy	0.5983
+Secondary	PRR	Card	4	XGBClassifier	RDKit	Balanced Accuracy	0.61077
+Secondary	PRR	Card	0	XGBClassifier	RDKit	Balanced Accuracy	0.56882
+Secondary	PRR	Card	2	XGBClassifier	RDKit	Balanced Accuracy	0.61319
+Secondary	PRR	Cvas	3	XGBClassifier	RDKit	Balanced Accuracy	0.57821
+Secondary	PRR	Cvas	1	XGBClassifier	RDKit	Balanced Accuracy	0.57998
+Secondary	PRR	Cvas	4	XGBClassifier	RDKit	Balanced Accuracy	0.61222
+Secondary	PRR	Cvas	0	XGBClassifier	RDKit	Balanced Accuracy	0.58102
+Secondary	PRR	Cvas	2	XGBClassifier	RDKit	Balanced Accuracy	0.59889
+Secondary	PRR	Cred	3	XGBClassifier	RDKit	GeomRS	0.56519
+Secondary	PRR	Cred	1	XGBClassifier	RDKit	GeomRS	0.58813
+Secondary	PRR	Cred	4	XGBClassifier	RDKit	GeomRS	0.61452
+Secondary	PRR	Cred	0	XGBClassifier	RDKit	GeomRS	0.59088
+Secondary	PRR	Cred	2	XGBClassifier	RDKit	GeomRS	0.60736
+Secondary	PRR	Card	3	XGBClassifier	RDKit	GeomRS	0.57045
+Secondary	PRR	Card	1	XGBClassifier	RDKit	GeomRS	0.59765
+Secondary	PRR	Card	4	XGBClassifier	RDKit	GeomRS	0.60638
+Secondary	PRR	Card	0	XGBClassifier	RDKit	GeomRS	0.56661
+Secondary	PRR	Card	2	XGBClassifier	RDKit	GeomRS	0.60414
+Secondary	PRR	Cvas	3	XGBClassifier	RDKit	GeomRS	0.57596
+Secondary	PRR	Cvas	1	XGBClassifier	RDKit	GeomRS	0.5769
+Secondary	PRR	Cvas	4	XGBClassifier	RDKit	GeomRS	0.60643
+Secondary	PRR	Cvas	0	XGBClassifier	RDKit	GeomRS	0.57392
+Secondary	PRR	Cvas	2	XGBClassifier	RDKit	GeomRS	0.59396
+Secondary	PRR	Cred	3	XGBClassifier	RDKit	HarmRS	0.5651
+Secondary	PRR	Cred	1	XGBClassifier	RDKit	HarmRS	0.58768
+Secondary	PRR	Cred	4	XGBClassifier	RDKit	HarmRS	0.61105
+Secondary	PRR	Cred	0	XGBClassifier	RDKit	HarmRS	0.59071
+Secondary	PRR	Cred	2	XGBClassifier	RDKit	HarmRS	0.60457
+Secondary	PRR	Card	3	XGBClassifier	RDKit	HarmRS	0.56859
+Secondary	PRR	Card	1	XGBClassifier	RDKit	HarmRS	0.59701
+Secondary	PRR	Card	4	XGBClassifier	RDKit	HarmRS	0.60202
+Secondary	PRR	Card	0	XGBClassifier	RDKit	HarmRS	0.56441
+Secondary	PRR	Card	2	XGBClassifier	RDKit	HarmRS	0.59522
+Secondary	PRR	Cvas	3	XGBClassifier	RDKit	HarmRS	0.57372
+Secondary	PRR	Cvas	1	XGBClassifier	RDKit	HarmRS	0.57383
+Secondary	PRR	Cvas	4	XGBClassifier	RDKit	HarmRS	0.6007
+Secondary	PRR	Cvas	0	XGBClassifier	RDKit	HarmRS	0.56691
+Secondary	PRR	Cvas	2	XGBClassifier	RDKit	HarmRS	0.58908
+Secondary	PRR	Cred	3	XGBClassifier	RDKit	F1 Score	0.62052
+Secondary	PRR	Cred	1	XGBClassifier	RDKit	F1 Score	0.65001
+Secondary	PRR	Cred	4	XGBClassifier	RDKit	F1 Score	0.69406
+Secondary	PRR	Cred	0	XGBClassifier	RDKit	F1 Score	0.66629
+Secondary	PRR	Cred	2	XGBClassifier	RDKit	F1 Score	0.70728
+Secondary	PRR	Card	3	XGBClassifier	RDKit	F1 Score	0.64566
+Secondary	PRR	Card	1	XGBClassifier	RDKit	F1 Score	0.6883
+Secondary	PRR	Card	4	XGBClassifier	RDKit	F1 Score	0.69092
+Secondary	PRR	Card	0	XGBClassifier	RDKit	F1 Score	0.66565
+Secondary	PRR	Card	2	XGBClassifier	RDKit	F1 Score	0.73218
+Secondary	PRR	Cvas	3	XGBClassifier	RDKit	F1 Score	0.65336
+Secondary	PRR	Cvas	1	XGBClassifier	RDKit	F1 Score	0.68954
+Secondary	PRR	Cvas	4	XGBClassifier	RDKit	F1 Score	0.69691
+Secondary	PRR	Cvas	0	XGBClassifier	RDKit	F1 Score	0.69726
+Secondary	PRR	Cvas	2	XGBClassifier	RDKit	F1 Score	0.70657
+Secondary	PRR	Cred	3	XGBClassifier	RDKit	ROC AUC	0.58884
+Secondary	PRR	Cred	1	XGBClassifier	RDKit	ROC AUC	0.63121
+Secondary	PRR	Cred	4	XGBClassifier	RDKit	ROC AUC	0.64926
+Secondary	PRR	Cred	0	XGBClassifier	RDKit	ROC AUC	0.62558
+Secondary	PRR	Cred	2	XGBClassifier	RDKit	ROC AUC	0.65282
+Secondary	PRR	Card	3	XGBClassifier	RDKit	ROC AUC	0.58929
+Secondary	PRR	Card	1	XGBClassifier	RDKit	ROC AUC	0.63007
+Secondary	PRR	Card	4	XGBClassifier	RDKit	ROC AUC	0.64291
+Secondary	PRR	Card	0	XGBClassifier	RDKit	ROC AUC	0.60204
+Secondary	PRR	Card	2	XGBClassifier	RDKit	ROC AUC	0.66467
+Secondary	PRR	Cvas	3	XGBClassifier	RDKit	ROC AUC	0.61297
+Secondary	PRR	Cvas	1	XGBClassifier	RDKit	ROC AUC	0.61641
+Secondary	PRR	Cvas	4	XGBClassifier	RDKit	ROC AUC	0.65346
+Secondary	PRR	Cvas	0	XGBClassifier	RDKit	ROC AUC	0.61272
+Secondary	PRR	Cvas	2	XGBClassifier	RDKit	ROC AUC	0.65202
+Secondary	PRR	Cred	3	XGBClassifier	RDKit	MCC	0.12727
+Secondary	PRR	Cred	1	XGBClassifier	RDKit	MCC	0.16394
+Secondary	PRR	Cred	4	XGBClassifier	RDKit	MCC	0.23421
+Secondary	PRR	Cred	0	XGBClassifier	RDKit	MCC	0.17237
+Secondary	PRR	Cred	2	XGBClassifier	RDKit	MCC	0.21129
+Secondary	PRR	Card	3	XGBClassifier	RDKit	MCC	0.14193
+Secondary	PRR	Card	1	XGBClassifier	RDKit	MCC	0.18344
+Secondary	PRR	Card	4	XGBClassifier	RDKit	MCC	0.22035
+Secondary	PRR	Card	0	XGBClassifier	RDKit	MCC	0.13116
+Secondary	PRR	Card	2	XGBClassifier	RDKit	MCC	0.22239
+Secondary	PRR	Cvas	3	XGBClassifier	RDKit	MCC	0.15373
+Secondary	PRR	Cvas	1	XGBClassifier	RDKit	MCC	0.15045
+Secondary	PRR	Cvas	4	XGBClassifier	RDKit	MCC	0.2243
+Secondary	PRR	Cvas	0	XGBClassifier	RDKit	MCC	0.15717
+Secondary	PRR	Cvas	2	XGBClassifier	RDKit	MCC	0.19084
+Secondary	PRR	Cred	3	XGBClassifier	RDKit	Accuracy	0.5676
+Secondary	PRR	Cred	1	XGBClassifier	RDKit	Accuracy	0.57986
+Secondary	PRR	Cred	4	XGBClassifier	RDKit	Accuracy	0.63243
+Secondary	PRR	Cred	0	XGBClassifier	RDKit	Accuracy	0.59578
+Secondary	PRR	Cred	2	XGBClassifier	RDKit	Accuracy	0.62988
+Secondary	PRR	Card	3	XGBClassifier	RDKit	Accuracy	0.58289
+Secondary	PRR	Card	1	XGBClassifier	RDKit	Accuracy	0.60885
+Secondary	PRR	Card	4	XGBClassifier	RDKit	Accuracy	0.62684
+Secondary	PRR	Card	0	XGBClassifier	RDKit	Accuracy	0.5855
+Secondary	PRR	Card	2	XGBClassifier	RDKit	Accuracy	0.64862
+Secondary	PRR	Cvas	3	XGBClassifier	RDKit	Accuracy	0.58986
+Secondary	PRR	Cvas	1	XGBClassifier	RDKit	Accuracy	0.60265
+Secondary	PRR	Cvas	4	XGBClassifier	RDKit	Accuracy	0.63067
+Secondary	PRR	Cvas	0	XGBClassifier	RDKit	Accuracy	0.61121
+Secondary	PRR	Cvas	2	XGBClassifier	RDKit	Accuracy	0.62476
+Secondary	PRR	Cred	3	XGBClassifier	RDKit	Recall	0.57541
+Secondary	PRR	Cred	1	XGBClassifier	RDKit	Recall	0.5656
+Secondary	PRR	Cred	4	XGBClassifier	RDKit	Recall	0.6836
+Secondary	PRR	Cred	0	XGBClassifier	RDKit	Recall	0.60524
+Secondary	PRR	Cred	2	XGBClassifier	RDKit	Recall	0.66858
+Secondary	PRR	Card	3	XGBClassifier	RDKit	Recall	0.61853
+Secondary	PRR	Card	1	XGBClassifier	RDKit	Recall	0.62609
+Secondary	PRR	Card	4	XGBClassifier	RDKit	Recall	0.68387
+Secondary	PRR	Card	0	XGBClassifier	RDKit	Recall	0.61886
+Secondary	PRR	Card	2	XGBClassifier	RDKit	Recall	0.71815
+Secondary	PRR	Cvas	3	XGBClassifier	RDKit	Recall	0.62913
+Secondary	PRR	Cvas	1	XGBClassifier	RDKit	Recall	0.6397
+Secondary	PRR	Cvas	4	XGBClassifier	RDKit	Recall	0.69618
+Secondary	PRR	Cvas	0	XGBClassifier	RDKit	Recall	0.67155
+Secondary	PRR	Cvas	2	XGBClassifier	RDKit	Recall	0.67553
+Secondary	PRR	Cred	3	XGBClassifier	RDKit	Specificity	0.55516
+Secondary	PRR	Cred	1	XGBClassifier	RDKit	Specificity	0.61156
+Secondary	PRR	Cred	4	XGBClassifier	RDKit	Specificity	0.55242
+Secondary	PRR	Cred	0	XGBClassifier	RDKit	Specificity	0.57686
+Secondary	PRR	Cred	2	XGBClassifier	RDKit	Specificity	0.55174
+Secondary	PRR	Card	3	XGBClassifier	RDKit	Specificity	0.52611
+Secondary	PRR	Card	1	XGBClassifier	RDKit	Specificity	0.5705
+Secondary	PRR	Card	4	XGBClassifier	RDKit	Specificity	0.53767
+Secondary	PRR	Card	0	XGBClassifier	RDKit	Specificity	0.51877
+Secondary	PRR	Card	2	XGBClassifier	RDKit	Specificity	0.50822
+Secondary	PRR	Cvas	3	XGBClassifier	RDKit	Specificity	0.52729
+Secondary	PRR	Cvas	1	XGBClassifier	RDKit	Specificity	0.52026
+Secondary	PRR	Cvas	4	XGBClassifier	RDKit	Specificity	0.52826
+Secondary	PRR	Cvas	0	XGBClassifier	RDKit	Specificity	0.49049
+Secondary	PRR	Cvas	2	XGBClassifier	RDKit	Specificity	0.52224
+Secondary	PRR	Cred	3	XGBClassifier	RDKit	Precision	0.6733
+Secondary	PRR	Cred	1	XGBClassifier	RDKit	Precision	0.76403
+Secondary	PRR	Cred	4	XGBClassifier	RDKit	Precision	0.70483
+Secondary	PRR	Cred	0	XGBClassifier	RDKit	Precision	0.74103
+Secondary	PRR	Cred	2	XGBClassifier	RDKit	Precision	0.75074
+Secondary	PRR	Card	3	XGBClassifier	RDKit	Precision	0.67528
+Secondary	PRR	Card	1	XGBClassifier	RDKit	Precision	0.76423
+Secondary	PRR	Card	4	XGBClassifier	RDKit	Precision	0.69813
+Secondary	PRR	Card	0	XGBClassifier	RDKit	Precision	0.7201
+Secondary	PRR	Card	2	XGBClassifier	RDKit	Precision	0.74676
+Secondary	PRR	Cvas	3	XGBClassifier	RDKit	Precision	0.67953
+Secondary	PRR	Cvas	1	XGBClassifier	RDKit	Precision	0.7478
+Secondary	PRR	Cvas	4	XGBClassifier	RDKit	Precision	0.69764
+Secondary	PRR	Cvas	0	XGBClassifier	RDKit	Precision	0.72503
+Secondary	PRR	Cvas	2	XGBClassifier	RDKit	Precision	0.74061
+Secondary	PRR	Cred	3	XGBClassifier	RDKit	PRC AUC	0.68827
+Secondary	PRR	Cred	1	XGBClassifier	RDKit	PRC AUC	0.79503
+Secondary	PRR	Cred	4	XGBClassifier	RDKit	PRC AUC	0.7229
+Secondary	PRR	Cred	0	XGBClassifier	RDKit	PRC AUC	0.76258
+Secondary	PRR	Cred	2	XGBClassifier	RDKit	PRC AUC	0.78597
+Secondary	PRR	Card	3	XGBClassifier	RDKit	PRC AUC	0.69384
+Secondary	PRR	Card	1	XGBClassifier	RDKit	PRC AUC	0.78583
+Secondary	PRR	Card	4	XGBClassifier	RDKit	PRC AUC	0.71716
+Secondary	PRR	Card	0	XGBClassifier	RDKit	PRC AUC	0.74961
+Secondary	PRR	Card	2	XGBClassifier	RDKit	PRC AUC	0.79566
+Secondary	PRR	Cvas	3	XGBClassifier	RDKit	PRC AUC	0.71234
+Secondary	PRR	Cvas	1	XGBClassifier	RDKit	PRC AUC	0.78026
+Secondary	PRR	Cvas	4	XGBClassifier	RDKit	PRC AUC	0.73989
+Secondary	PRR	Cvas	0	XGBClassifier	RDKit	PRC AUC	0.75652
+Secondary	PRR	Cvas	2	XGBClassifier	RDKit	PRC AUC	0.78578
+Secondary	PRR	Cred	3	XGBClassifier	RDKit	ECE	0.10463
+Secondary	PRR	Cred	1	XGBClassifier	RDKit	ECE	0.18152
+Secondary	PRR	Cred	4	XGBClassifier	RDKit	ECE	0.07242
+Secondary	PRR	Cred	0	XGBClassifier	RDKit	ECE	0.1513
+Secondary	PRR	Cred	2	XGBClassifier	RDKit	ECE	0.12888
+Secondary	PRR	Card	3	XGBClassifier	RDKit	ECE	0.08934
+Secondary	PRR	Card	1	XGBClassifier	RDKit	ECE	0.16486
+Secondary	PRR	Card	4	XGBClassifier	RDKit	ECE	0.07471
+Secondary	PRR	Card	0	XGBClassifier	RDKit	ECE	0.13927
+Secondary	PRR	Card	2	XGBClassifier	RDKit	ECE	0.11084
+Secondary	PRR	Cvas	3	XGBClassifier	RDKit	ECE	0.09564
+Secondary	PRR	Cvas	1	XGBClassifier	RDKit	ECE	0.15635
+Secondary	PRR	Cvas	4	XGBClassifier	RDKit	ECE	0.05873
+Secondary	PRR	Cvas	0	XGBClassifier	RDKit	ECE	0.1147
+Secondary	PRR	Cvas	2	XGBClassifier	RDKit	ECE	0.10439
+Secondary	PRR	Cred	3	XGBClassifier	RDKit	Brier	0.24687
+Secondary	PRR	Cred	1	XGBClassifier	RDKit	Brier	0.23925
+Secondary	PRR	Cred	4	XGBClassifier	RDKit	Brier	0.22896
+Secondary	PRR	Cred	0	XGBClassifier	RDKit	Brier	0.23636
+Secondary	PRR	Cred	2	XGBClassifier	RDKit	Brier	0.22627
+Secondary	PRR	Card	3	XGBClassifier	RDKit	Brier	0.24456
+Secondary	PRR	Card	1	XGBClassifier	RDKit	Brier	0.2335
+Secondary	PRR	Card	4	XGBClassifier	RDKit	Brier	0.23172
+Secondary	PRR	Card	0	XGBClassifier	RDKit	Brier	0.23744
+Secondary	PRR	Card	2	XGBClassifier	RDKit	Brier	0.21831
+Secondary	PRR	Cvas	3	XGBClassifier	RDKit	Brier	0.24327
+Secondary	PRR	Cvas	1	XGBClassifier	RDKit	Brier	0.23361
+Secondary	PRR	Cvas	4	XGBClassifier	RDKit	Brier	0.22772
+Secondary	PRR	Cvas	0	XGBClassifier	RDKit	Brier	0.23237
+Secondary	PRR	Cvas	2	XGBClassifier	RDKit	Brier	0.22102
