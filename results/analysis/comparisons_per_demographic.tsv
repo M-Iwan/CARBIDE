@@ -1,0 +1,61 @@
+null_hypothesis	null_rejected	outcome	effect_size	w_stat	p_value	r_stat	Metric	p_value_adj	null_rejected_adj
+None == Sex	False	None == Sex	Large	0.0	0.0625	1.0	Recall	1.0	False
+None == Combined	False	None == Combined	Large	0.0	0.0625	1.0	Recall	1.0	False
+None == Weight	False	None == Weight	Large	0.0	0.0625	1.0	Recall	1.0	False
+None == Age	False	None == Age	Large	0.0	0.0625	1.0	Recall	1.0	False
+Sex == Combined	False	Sex == Combined	Large	0.0	0.0625	1.0	Recall	1.0	False
+Sex == Weight	False	Sex == Weight	Large	0.0	0.0625	1.0	Recall	1.0	False
+Sex == Age	False	Sex == Age	Large	0.0	0.0625	1.0	Recall	1.0	False
+Combined == Weight	False	Combined == Weight	Large	0.0	0.0625	1.0	Recall	1.0	False
+Weight == Age	False	Weight == Age	Large	0.0	0.0625	-1.0	Recall	1.0	False
+None == Sex	False	None == Sex	Large	0.0	0.0625	-1.0	Specificity	1.0	False
+None == Combined	False	None == Combined	Large	0.0	0.0625	-1.0	Specificity	1.0	False
+None == Weight	False	None == Weight	Large	0.0	0.0625	-1.0	Specificity	1.0	False
+None == Age	False	None == Age	Large	0.0	0.0625	-1.0	Specificity	1.0	False
+Sex == Combined	False	Sex == Combined	Large	0.0	0.0625	-1.0	Specificity	1.0	False
+Sex == Weight	False	Sex == Weight	Large	0.0	0.0625	-1.0	Specificity	1.0	False
+Sex == Age	False	Sex == Age	Large	0.0	0.0625	-1.0	Specificity	1.0	False
+Weight == Age	False	Weight == Age	Large	0.0	0.0625	1.0	Specificity	1.0	False
+None == Combined	False	None == Combined	Large	0.0	0.0625	-1.0	ROC AUC	1.0	False
+None == Weight	False	None == Weight	Large	0.0	0.0625	-1.0	ROC AUC	1.0	False
+None == Age	False	None == Age	Large	0.0	0.0625	-1.0	ROC AUC	1.0	False
+Combined == Weight	False	Combined == Weight	Large	0.0	0.0625	1.0	ROC AUC	1.0	False
+None == Sex	False	None == Sex	Large	0.0	0.0625	1.0	PRC AUC	1.0	False
+None == Combined	False	None == Combined	Large	0.0	0.0625	1.0	PRC AUC	1.0	False
+None == Weight	False	None == Weight	Large	0.0	0.0625	1.0	PRC AUC	1.0	False
+None == Age	False	None == Age	Large	0.0	0.0625	1.0	PRC AUC	1.0	False
+Sex == Combined	False	Sex == Combined	Large	0.0	0.0625	1.0	PRC AUC	1.0	False
+Sex == Weight	False	Sex == Weight	Large	0.0	0.0625	1.0	PRC AUC	1.0	False
+Combined == Weight	False	Combined == Weight	Large	0.0	0.0625	1.0	PRC AUC	1.0	False
+Combined == Age	False	Combined == Age	Large	0.0	0.0625	-1.0	PRC AUC	1.0	False
+Weight == Age	False	Weight == Age	Large	0.0	0.0625	-1.0	PRC AUC	1.0	False
+None == Sex	False	None == Sex	Large	0.0	0.0625	-1.0	Brier	1.0	False
+None == Combined	False	None == Combined	Large	0.0	0.0625	-1.0	Brier	1.0	False
+None == Weight	False	None == Weight	Large	0.0	0.0625	-1.0	Brier	1.0	False
+None == Age	False	None == Age	Large	0.0	0.0625	-1.0	Brier	1.0	False
+Combined == Weight	False	Combined == Weight	Large	0.0	0.0625	-1.0	Brier	1.0	False
+Combined == Age	False	Combined == Age	Large	0.0	0.0625	1.0	Brier	1.0	False
+Weight == Age	False	Weight == Age	Large	0.0	0.0625	1.0	Brier	1.0	False
+None == Sex	False	None == Sex	Large	0.0	0.0625	-1.0	HarmRS	1.0	False
+None == Combined	False	None == Combined	Large	0.0	0.0625	-1.0	HarmRS	1.0	False
+None == Weight	False	None == Weight	Large	0.0	0.0625	-1.0	HarmRS	1.0	False
+None == Age	False	None == Age	Large	0.0	0.0625	-1.0	HarmRS	1.0	False
+Sex == Combined	False	Sex == Combined	Large	0.0	0.0625	-1.0	HarmRS	1.0	False
+Sex == Age	False	Sex == Age	Large	0.0	0.0625	-1.0	HarmRS	1.0	False
+Combined == Weight	False	Combined == Weight	Large	0.0	0.0625	1.0	HarmRS	1.0	False
+Combined == Age	False	Combined == Age	Large	1.0	0.125	-0.8666666666666667	Recall	1.0	False
+Combined == Weight	False	Combined == Weight	Large	1.0	0.125	-0.8666666666666667	Specificity	1.0	False
+Sex == Combined	False	Sex == Combined	Large	1.0	0.125	-0.8666666666666667	ROC AUC	1.0	False
+Sex == Age	False	Sex == Age	Large	1.0	0.125	-0.8666666666666667	ROC AUC	1.0	False
+Sex == Weight	False	Sex == Weight	Large	1.0	0.125	-0.8666666666666667	Brier	1.0	False
+Weight == Age	False	Weight == Age	Large	1.0	0.125	-0.8666666666666667	HarmRS	1.0	False
+Combined == Age	False	Combined == Age	Large	2.0	0.1875	0.7333333333333333	Specificity	1.0	False
+Sex == Age	False	Sex == Age	Large	2.0	0.1875	0.7333333333333333	Brier	1.0	False
+Sex == Weight	False	Sex == Weight	Large	3.0	0.3125	-0.6	ROC AUC	1.0	False
+Sex == Combined	False	Sex == Combined	Large	3.0	0.3125	-0.6	Brier	1.0	False
+None == Sex	False	None == Sex	Medium	4.0	0.4375	-0.4666666666666667	ROC AUC	1.0	False
+Weight == Age	False	Weight == Age	Medium	4.0	0.4375	-0.4666666666666667	ROC AUC	1.0	False
+Sex == Age	False	Sex == Age	Medium	4.0	0.4375	0.4666666666666667	PRC AUC	1.0	False
+Combined == Age	False	Combined == Age	Medium	4.0	0.4375	0.4666666666666667	HarmRS	1.0	False
+Combined == Age	False	Combined == Age	Negligible	7.0	1.0	0.06666666666666667	ROC AUC	1.0	False
+Sex == Weight	False	Sex == Weight	Negligible	7.0	1.0	0.06666666666666667	HarmRS	1.0	False

@@ -1,0 +1,51 @@
+null_hypothesis	null_rejected	outcome	effect_size	w_stat	p_value	r_stat	Comparison	Metric	p_value_adj	null_rejected_adj
+Female == Male	False	Female == Male	Large	0.0	0.0625	1.0	Sex	Recall	1.0	False
+Female == Male	False	Female == Male	Large	0.0	0.0625	-1.0	Sex	Specificity	1.0	False
+Female == Male	False	Female == Male	Large	0.0	0.0625	1.0	Sex	PRC AUC	1.0	False
+Female == Male	False	Female == Male	Large	0.0	0.0625	-1.0	Sex	Brier	1.0	False
+Adolescent == Elderly	False	Adolescent == Elderly	Large	0.0	0.0625	1.0	Age	Recall	1.0	False
+Adolescent == Adult	False	Adolescent == Adult	Large	0.0	0.0625	1.0	Age	Recall	1.0	False
+Adolescent == Children	False	Adolescent == Children	Large	0.0	0.0625	1.0	Age	Recall	1.0	False
+Elderly == Adult	False	Elderly == Adult	Large	0.0	0.0625	-1.0	Age	Recall	1.0	False
+Elderly == Children	False	Elderly == Children	Large	0.0	0.0625	-1.0	Age	Recall	1.0	False
+Adult == Children	False	Adult == Children	Large	0.0	0.0625	-1.0	Age	Recall	1.0	False
+Adolescent == Elderly	False	Adolescent == Elderly	Large	0.0	0.0625	-1.0	Age	Specificity	1.0	False
+Adolescent == Adult	False	Adolescent == Adult	Large	0.0	0.0625	-1.0	Age	Specificity	1.0	False
+Adolescent == Children	False	Adolescent == Children	Large	0.0	0.0625	-1.0	Age	Specificity	1.0	False
+Elderly == Adult	False	Elderly == Adult	Large	0.0	0.0625	1.0	Age	Specificity	1.0	False
+Elderly == Children	False	Elderly == Children	Large	0.0	0.0625	1.0	Age	Specificity	1.0	False
+Adolescent == Elderly	False	Adolescent == Elderly	Large	0.0	0.0625	1.0	Age	PRC AUC	1.0	False
+Adolescent == Adult	False	Adolescent == Adult	Large	0.0	0.0625	1.0	Age	PRC AUC	1.0	False
+Elderly == Adult	False	Elderly == Adult	Large	0.0	0.0625	-1.0	Age	PRC AUC	1.0	False
+Elderly == Children	False	Elderly == Children	Large	0.0	0.0625	-1.0	Age	PRC AUC	1.0	False
+Adolescent == Elderly	False	Adolescent == Elderly	Large	0.0	0.0625	-1.0	Age	Brier	1.0	False
+Adolescent == Adult	False	Adolescent == Adult	Large	0.0	0.0625	-1.0	Age	Brier	1.0	False
+Adolescent == Children	False	Adolescent == Children	Large	0.0	0.0625	-1.0	Age	Brier	1.0	False
+Average == High	False	Average == High	Large	0.0	0.0625	1.0	Weight	Recall	1.0	False
+Average == Low	False	Average == Low	Large	0.0	0.0625	-1.0	Weight	Specificity	1.0	False
+Average == High	False	Average == High	Large	0.0	0.0625	-1.0	Weight	Specificity	1.0	False
+Low == High	False	Low == High	Large	0.0	0.0625	-1.0	Weight	Specificity	1.0	False
+Adult == Children	False	Adult == Children	Large	1.0	0.125	0.8666666666666667	Age	Specificity	1.0	False
+Elderly == Children	False	Elderly == Children	Large	1.0	0.125	0.8666666666666667	Age	Brier	1.0	False
+Adult == Children	False	Adult == Children	Large	2.0	0.1875	-0.7333333333333333	Age	PRC AUC	1.0	False
+Elderly == Adult	False	Elderly == Adult	Large	2.0	0.1875	0.7333333333333333	Age	Brier	1.0	False
+Female == Male	False	Female == Male	Large	3.0	0.3125	0.6	Sex	ROC AUC	1.0	False
+Elderly == Children	False	Elderly == Children	Large	3.0	0.3125	0.6	Age	ROC AUC	1.0	False
+Adult == Children	False	Adult == Children	Large	3.0	0.3125	0.6	Age	ROC AUC	1.0	False
+Adolescent == Children	False	Adolescent == Children	Large	3.0	0.3125	0.6	Age	PRC AUC	1.0	False
+Average == High	False	Average == High	Large	3.0	0.3125	0.6	Weight	PRC AUC	1.0	False
+Average == Low	False	Average == Low	Medium	4.0	0.4375	0.4666666666666667	Weight	Recall	1.0	False
+Average == High	False	Average == High	Medium	4.0	0.4375	-0.4666666666666667	Weight	ROC AUC	1.0	False
+Average == Low	False	Average == Low	Medium	4.0	0.4375	0.4666666666666667	Weight	PRC AUC	1.0	False
+Adolescent == Adult	False	Adolescent == Adult	Medium	5.0	0.625	-0.3333333333333333	Age	ROC AUC	1.0	False
+Adolescent == Children	False	Adolescent == Children	Medium	5.0	0.625	0.3333333333333333	Age	ROC AUC	1.0	False
+Adult == Children	False	Adult == Children	Medium	5.0	0.625	0.3333333333333333	Age	Brier	1.0	False
+Low == High	False	Low == High	Medium	5.0	0.625	0.3333333333333333	Weight	Recall	1.0	False
+Low == High	False	Low == High	Medium	5.0	0.625	-0.3333333333333333	Weight	Brier	1.0	False
+Elderly == Adult	False	Elderly == Adult	Small	6.0	0.8125	-0.2	Age	ROC AUC	1.0	False
+Average == Low	False	Average == Low	Small	6.0	0.8125	-0.2	Weight	ROC AUC	1.0	False
+Low == High	False	Low == High	Small	6.0	0.8125	-0.2	Weight	ROC AUC	1.0	False
+Low == High	False	Low == High	Small	6.0	0.8125	0.2	Weight	PRC AUC	1.0	False
+Average == Low	False	Average == Low	Small	6.0	0.8125	-0.2	Weight	Brier	1.0	False
+Average == High	False	Average == High	Small	6.0	0.8125	-0.2	Weight	Brier	1.0	False
+Adolescent == Elderly	False	Adolescent == Elderly	Negligible	7.0	1.0	0.06666666666666667	Age	ROC AUC	1.0	False
